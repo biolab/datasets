@@ -1,14 +1,17 @@
 from glob import glob
 import json
+import os.path
+from sys import argv
 
+
+start_dir = os.getcwd()
 info = []
-for infof in glob('*.info'):
-    print(infof)
-    with open(infof, 'r') as f:
-        d = json.load(f)
-        #d = eval(f.read())
-        print(d)
-    info.append([['.', infof[:-5]], d])
+for root in argv[1:]:
+    os.chdir(os.path.join(start_dir, root))
+    for infof in glob('**/*.info', recursive=True):
+        with open(infof, 'r') as f:
+            d = json.load(f)
+        info.append([[root, infof[:-5]], d])
 
-with open('__INFO__', 'w') as out:
-    json.dump(info, out)
+info.sort()
+print(json.dumps(info))
