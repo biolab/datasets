@@ -16,5 +16,5 @@
     "datetime": "2016-12-20 11:00:00.000000",
     "source": "https://archive.ics.uci.edu/ml/datasets/Iris",
     "size": 4625,
-    "file": "http://butler.fri.uni-lj.si/datasets/core/iris.tab",
+    "file": "http://butler.fri.uni-lj.si/datasets/core/iris.tab"
 }
