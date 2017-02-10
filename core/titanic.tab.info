@@ -1,0 +1,1 @@
+{"description": "Titanic passenger survival", "title": "Titanic", "tags": ["titanic"], "target": "categorical", "version": "1.0", "collection": "", "instances": 2201, "missing": 0, "variables": 4, "datetime": "2016-12-20 12:00:00.000000", "url": "", "size": 45112}
