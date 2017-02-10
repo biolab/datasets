@@ -1,1 +1,2 @@
-# orange-datasets
+# Orange data set repository
+
