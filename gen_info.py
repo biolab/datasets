@@ -2,7 +2,7 @@ from collections import OrderedDict
 from glob import glob
 import json
 from os import chdir, getcwd
-from os.path import isfile, join, normpath
+from os.path import getsize, isfile, join, normpath
 from sys import argv, stderr
 from urllib.request import urlretrieve
 
@@ -21,6 +21,7 @@ for root in argv[1:]:
                 try:
                     urlretrieve(location, filename)
                     d['file'] = 'http://butler.fri.uni-lj.si/datasets/{}/{}'.format(normpath(root), filename)
+                    d['size'] = getsize(filename)
                     changed = True
                 except:
                     print('failed to get file', filename, location, file=stderr)
@@ -30,4 +31,4 @@ for root in argv[1:]:
         info.append([[root, filename], d])
 
 info.sort()
-print(json.dumps(info))
+print(json.dumps(info, indent=4))
