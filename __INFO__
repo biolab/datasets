@@ -28,6 +28,32 @@
     [
         [
             "core",
+            "sailing.tab"
+        ],
+        {
+            "name": "sailing.tab",
+            "title": "sailing",
+            "description": "Conditions in which a skipper goes sailing.",
+            "tags": [
+                "classification",
+                "small",
+                "tree"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "2003",
+            "collection": "blaz",
+            "instances": null,
+            "missing": null,
+            "variables": null,
+            "source": null,
+            "size": 340768,
+            "file": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
+        }
+    ],
+    [
+        [
+            "core",
             "titanic.tab"
         ],
         {
