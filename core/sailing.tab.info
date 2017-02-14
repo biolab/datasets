@@ -1,4 +1,4 @@
-info = {
+{
     "name": "sailing.tab",
     "title": "sailing",
     "description": "Conditions in which a skipper goes sailing.",
@@ -12,5 +12,5 @@ info = {
     "variables": null,
     "source": null,
     "size": null,
-    "file": "https://docs.google.com/spreadsheets/d/1SsbsWYDZDTZk0zsSK-Z7G5fk6HYJRmYYgj1vdWVfto4/edit#gid=0",
+    "file": "https://docs.google.com/spreadsheets/d/1SsbsWYDZDTZk0zsSK-Z7G5fk6HYJRmYYgj1vdWVfto4/edit#gid=0"
 }
