@@ -7,6 +7,9 @@ from sys import argv, stderr
 from urllib.request import urlretrieve
 
 
+URL = 'http://butler.fri.uni-lj.si/datasets'
+
+
 start_dir = getcwd()
 info = []
 for root in argv[1:]:
@@ -17,10 +20,10 @@ for root in argv[1:]:
             d = json.load(f, object_pairs_hook=OrderedDict)
             filename = infof[:-5]
             location = d.get('file', '')
-            if not isfile(filename) and location:
+            if location and not location.startswith(URL):
                 try:
                     urlretrieve(location, filename)
-                    d['file'] = 'http://butler.fri.uni-lj.si/datasets/{}/{}'.format(normpath(root), filename)
+                    d['file'] = '{}/{}/{}'.format(URL, normpath(root), filename)
                     d['size'] = getsize(filename)
                     changed = True
                 except:
