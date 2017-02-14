@@ -1,0 +1,16 @@
+info = {
+    "name": "sailing.tab",
+    "title": "sailing",
+    "description": "Conditions in which a skipper goes sailing.",
+    "tags": ["classification", "small", "tree"],
+    "target": "categorical",
+    "version": "1.0",
+    "year": "2003",
+    "collection": "blaz",
+    "instances": null,
+    "missing": null,
+    "variables": null,
+    "source": null,
+    "size": null,
+    "file": "https://docs.google.com/spreadsheets/d/1SsbsWYDZDTZk0zsSK-Z7G5fk6HYJRmYYgj1vdWVfto4/edit#gid=0",
+}
