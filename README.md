@@ -4,7 +4,7 @@ A collection of descriptions of data sets that are served in Data Set widget in 
 
 Each data set is described with a record that contains the following attributes:
 
-    info = {
+    {
         "name": "wine.tab", # data set file name
         "title": "wine tasting",  # a short title (less then 40 characters)
         "description": "Wine profiling data with attributes from chemical analysis",  # description of the data set
@@ -18,5 +18,5 @@ Each data set is described with a record that contains the following attributes:
         "variables": 13,  # number of independent variables
         "source": "https://archive.ics.uci.edu/ml/datasets/Wine",  # web page of original
         "size": 10991,  # data size in bytes
-        "file": "http://my.web.server/wine.xls",  # the file will be downloaded from
+        "file": "http://my.web.server/wine.xls"  # the file will be downloaded from
     }
