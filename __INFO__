@@ -2,6 +2,28 @@
     [
         [
             "core",
+            "hrm-employee-attrition.xlsx"
+        ],
+        {
+            "description": "Uncover the factors that lead to employee attrition and explore important questions such as 'show me a breakdown of distance from home by job role and attrition' or 'compare average monthly income by education and attrition'. This is a fictional data set created by IBM data scientists.",
+            "title": "Employee attrition",
+            "tags": [
+                "synthetic"
+            ],
+            "year": 2015,
+            "target": "categorical",
+            "version": "1.0",
+            "collection": "",
+            "instances": 1470,
+            "missing": 0,
+            "variables": 32,
+            "file": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
+            "size": 262432
+        }
+    ],
+    [
+        [
+            "core",
             "iris.tab"
         ],
         {
@@ -28,12 +50,34 @@
     [
         [
             "core",
+            "kickstarter-sample-2016-1-4.tab"
+        ],
+        {
+            "description": "Basic characterization of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
+            "title": "Kickstarter project sample from 2016",
+            "tags": [
+                "kickstarter"
+            ],
+            "year": 2016,
+            "target": "categorical",
+            "version": "1.0",
+            "collection": "",
+            "instances": 1163,
+            "missing": 0,
+            "variables": 15,
+            "file": "http://butler.fri.uni-lj.si/datasets/core/kickstarter-sample-2016-1-4.tab",
+            "size": 219235
+        }
+    ],
+    [
+        [
+            "core",
             "sailing.tab"
         ],
         {
             "name": "sailing.tab",
-            "title": "sailing",
-            "description": "Conditions in which a skipper goes sailing.",
+            "title": "Sailing",
+            "description": "Sara likes weekend sail. Though, not under any condition. Past twenty Wednesdays I have asked her if she will have any company, what kind of boat she can rent, and I have checked the weather forecast. Than, on Saturday, I wrote down if she actually went to sea. Using machine learning and visualization of classification models, I can now learn about her sailing habits. (The data set was designed to explain the workings of classification trees).",
             "tags": [
                 "classification",
                 "small",
@@ -43,9 +87,9 @@
             "version": "1.0",
             "year": "2003",
             "collection": "blaz",
-            "instances": null,
+            "instances": 20,
             "missing": null,
-            "variables": null,
+            "variables": 3,
             "source": null,
             "size": 455,
             "file": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
