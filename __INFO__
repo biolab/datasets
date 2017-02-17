@@ -2,6 +2,31 @@
     [
         [
             "core",
+            "grades.tab"
+        ],
+        {
+            "name": "grades.tab",
+            "title": "grades",
+            "description": "Grades of two exams for a group of students. Works well with clustering.",
+            "tags": [
+                "clustering",
+                "small"
+            ],
+            "target": "None",
+            "version": "1.0",
+            "year": 2009,
+            "collection": "",
+            "instances": 12,
+            "missing": false,
+            "variables": 2,
+            "source": "",
+            "size": 265,
+            "file": "http://butler.fri.uni-lj.si/datasets/core/grades.tab"
+        }
+    ],
+    [
+        [
+            "core",
             "hrm-employee-attrition.xlsx"
         ],
         {
@@ -140,6 +165,31 @@
             "source": "https://archive.ics.uci.edu/ml/datasets/Wine",
             "size": 10991,
             "file": "http://butler.fri.uni-lj.si/datasets/core/wine.tab"
+        }
+    ],
+    [
+        [
+            "core",
+            "zoo.xlsx"
+        ],
+        {
+            "name": "zoo",
+            "title": "Zoo",
+            "description": "A number of animals were described with simple features.",
+            "tags": [
+                "classification",
+                "small"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": 1990,
+            "collection": "UCI",
+            "instances": 101,
+            "missing": false,
+            "variables": 17,
+            "source": "https://archive.ics.uci.edu/ml/datasets/Zoo",
+            "file": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
+            "size": 50929
         }
     ]
 ]

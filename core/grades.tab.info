@@ -2,15 +2,18 @@
     "name": "grades.tab",
     "title": "grades",
     "description": "Grades of two exams for a group of students. Works well with clustering.",
-    "tags": ["clustering", "small"], 
-    "target": "None", 
-    "version": "1.0", 
+    "tags": [
+        "clustering",
+        "small"
+    ],
+    "target": "None",
+    "version": "1.0",
     "year": 2009,
-    "collection": "",  
-    "instances": 12, 
-    "missing": False, 
+    "collection": "",
+    "instances": 12,
+    "missing": false,
     "variables": 2,
     "source": "",
-    "size": 10991,
-    "file": "https://dl.dropboxusercontent.com/u/3818654/grades.tab"
+    "size": 265,
+    "file": "http://butler.fri.uni-lj.si/datasets/core/grades.tab"
 }

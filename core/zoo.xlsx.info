@@ -2,14 +2,18 @@
     "name": "zoo",
     "title": "Zoo",
     "description": "A number of animals were described with simple features.",
-    "tags": ["classification", "small"],
+    "tags": [
+        "classification",
+        "small"
+    ],
     "target": "categorical",
-    "version": "1.0",  
-    "year": 1990, 
-    "collection": "UCI", 
+    "version": "1.0",
+    "year": 1990,
+    "collection": "UCI",
     "instances": 101,
-    "missing": False,
+    "missing": false,
     "variables": 17,
     "source": "https://archive.ics.uci.edu/ml/datasets/Zoo",
-    "file": "https://dl.dropboxusercontent.com/u/3818654/animals.xlsx"
+    "file": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
+    "size": 50929
 }
