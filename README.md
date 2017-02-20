@@ -14,7 +14,7 @@ Each data set is described with a record that contains the following attributes:
         "year": 1991,  # year the original data set was published
         "collection": "UCI",  # name of original repository (like UCI)
         "instances": 178,  # number of data instances
-        "missing": False,  # contains missing values?
+        "missing": false,  # contains missing values?
         "variables": 13,  # number of independent variables
         "source": "https://archive.ics.uci.edu/ml/datasets/Wine",  # web page of original
         "size": 10991,  # data size in bytes
