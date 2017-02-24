@@ -5,7 +5,7 @@
             "grades.tab"
         ],
         {
-            "name": "grades.tab",
+            "name": "grades",
             "title": "grades",
             "description": "Grades of two exams for a group of students. Works well with clustering.",
             "tags": [
@@ -30,6 +30,7 @@
             "hrm-employee-attrition.xlsx"
         ],
         {
+            "name": "hrm-employee-attrition",
             "description": "Uncover the factors that lead to employee attrition and explore important questions such as 'show me a breakdown of distance from home by job role and attrition' or 'compare average monthly income by education and attrition'. This is a fictional data set created by IBM data scientists.",
             "title": "Employee attrition",
             "tags": [
@@ -52,6 +53,7 @@
             "iris.tab"
         ],
         {
+            "name": "iris",
             "description": "The best known database in pattern recognition literature. Fisher's paper is a classic in the field and is referenced frequently to this day. (See Duda & Hart, for example.) The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.",
             "title": "Iris",
             "tags": [
@@ -75,9 +77,10 @@
     [
         [
             "core",
-            "kickstarter-sample-2016-1-4.tab"
+            "kickstarter.tab"
         ],
         {
+            "name": "kickstarter",
             "description": "Basic characterization of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
             "title": "Kickstarter project sample from 2016",
             "tags": [
@@ -100,7 +103,7 @@
             "sailing.tab"
         ],
         {
-            "name": "sailing.tab",
+            "name": "sailing",
             "title": "Sailing",
             "description": "Sara likes weekend sail. Though, not under any condition. Past twenty Wednesdays I have asked her if she will have any company, what kind of boat she can rent, and I have checked the weather forecast. Than, on Saturday, I wrote down if she actually went to sea. Using machine learning and visualization of classification models, I can now learn about her sailing habits. (The data set was designed to explain the workings of classification trees).",
             "tags": [
@@ -126,6 +129,7 @@
             "titanic.tab"
         ],
         {
+            "name": "titanic",
             "description": "Titanic passenger survival",
             "title": "Titanic",
             "tags": [
@@ -149,6 +153,7 @@
             "wine.tab"
         ],
         {
+            "name": "wine",
             "description": "These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.",
             "title": "Wine",
             "tags": [
