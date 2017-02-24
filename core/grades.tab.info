@@ -1,5 +1,5 @@
 {
-    "name": "grades.tab",
+    "name": "grades",
     "title": "grades",
     "description": "Grades of two exams for a group of students. Works well with clustering.",
     "tags": [

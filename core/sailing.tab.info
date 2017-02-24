@@ -1,5 +1,5 @@
 {
-    "name": "sailing.tab",
+    "name": "sailing",
     "title": "Sailing",
     "description": "Sara likes weekend sail. Though, not under any condition. Past twenty Wednesdays I have asked her if she will have any company, what kind of boat she can rent, and I have checked the weather forecast. Than, on Saturday, I wrote down if she actually went to sea. Using machine learning and visualization of classification models, I can now learn about her sailing habits. (The data set was designed to explain the workings of classification trees).",
     "tags": [

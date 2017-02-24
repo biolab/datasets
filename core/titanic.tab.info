@@ -1,4 +1,5 @@
 {
+    "name": "titanic",
     "description": "Titanic passenger survival",
     "title": "Titanic",
     "tags": [
