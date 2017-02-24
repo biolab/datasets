@@ -17,7 +17,6 @@ Each data set is described with a record that contains the following attributes:
 * missing: does data contain any missing values?
 * variables: number of independent variables (class and meta variables excluded)
 * source: the web page from where the data set was obtained
-* size: the size of the data set in bytes
 * file: the web address of the Orange-readable file with the data set
 
 Following is an example of description record for the wine data set. Note that the description would most often be longer and would contain at least a paragraph of text:
@@ -26,17 +25,16 @@ Following is an example of description record for the wine data set. Note that t
         "name": "wine", 
         "title": "Wine tasting",  
         "description": "Wine profiling data with
-	     attributes from chemical analysis.",  
+	     attributes from chemical analysis.",
+	"collection": "UCI",
+        "reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142."
         "tags": ["classification", "small"],  
         "target": "categorical",  
         "version": "1.0",  
         "year": 1991,  
-        "collection": "UCI",
-        "reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142."
         "instances": 178,  
         "missing": false,  
         "variables": 13,  
-        "source": "https://archive.ics.uci.edu/ml/datasets/Wine", 
-        "size": 10991,  
+        "source": "https://archive.ics.uci.edu/ml/datasets/Wine",  
         "file": "http://my.web.server/wine.xls"
     }
