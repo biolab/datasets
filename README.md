@@ -18,7 +18,7 @@ Each data set is described with a record that contains the following attributes:
 * variables: number of independent variables (class and meta variables excluded)
 * source: the web page from where the data set was obtained
 * size: the size of the data set in bytes
-* file: the web address of the Ornage-readable file with the data set
+* file: the web address of the Orange-readable file with the data set
 
 Following is an example of description record for the wine data set. Note that the description would most often be longer and would contain at least a paragraph of text:
 
