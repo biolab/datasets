@@ -12,6 +12,6 @@
     "instances": 1163,
     "missing": 0,
     "variables": 15,
-    "file": "http://butler.fri.uni-lj.si/datasets/core/kickstarter-sample-2016-1-4.tab",
+    "file": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
     "size": 219235
 }
