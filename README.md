@@ -22,19 +22,18 @@ Each data set is described with a record that contains the following attributes:
 Following is an example of description record for the wine data set. Note that the description would most often be longer and would contain at least a paragraph of text:
 
     {
-        "name": "wine", 
-        "title": "Wine tasting",  
-        "description": "Wine profiling data with
-	     attributes from chemical analysis.",
+        "name": "wine",
+        "title": "Wine tasting",
+        "description": "Wine profiling data with attributes from chemical analysis.",
         "collection": "UCI",
-        "reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142."
-        "tags": ["classification", "small"],  
-        "target": "categorical",  
-        "version": "1.0",  
-        "year": 1991,  
-        "instances": 178,  
-        "missing": false,  
-        "variables": 13,  
-        "source": "https://archive.ics.uci.edu/ml/datasets/Wine",  
+        "reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142.",
+        "tags": ["classification", "small"],
+        "target": "categorical",
+        "version": "1.0",
+        "year": 1991,
+        "instances": 178,
+        "missing": false,
+        "variables": 13,
+        "source": "https://archive.ics.uci.edu/ml/datasets/Wine",
         "file": "http://my.web.server/wine.xls"
     }
