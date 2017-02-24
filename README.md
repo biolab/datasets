@@ -31,8 +31,8 @@ Following is an example of description record for the wine data set. Note that t
         "target": "categorical",  
         "version": "1.0",  
         "year": 1991,  
-        "collection": "UCI",  
-	"reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142."
+        "collection": "UCI",
+        "reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142."
         "instances": 178,  
         "missing": false,  
         "variables": 13,  
