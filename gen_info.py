@@ -2,7 +2,7 @@ from collections import OrderedDict
 from glob import glob
 import json
 from os import chdir, getcwd
-from os.path import getsize, isfile, join, normpath
+from os.path import basename, getsize, isfile, join, normpath
 from sys import argv, stderr
 from urllib.request import urlretrieve
 
@@ -20,7 +20,8 @@ for root in argv[1:]:
             d = json.load(f, object_pairs_hook=OrderedDict)
             filename = infof[:-5]
             location = d.get('file', '')
-            if location and not location.startswith(URL):
+            if location and (not location.startswith(URL) or
+                             basename(location) != basename(filename)):
                 try:
                     urlretrieve(location, filename)
                     d['file'] = '{}/{}/{}'.format(URL, normpath(root), filename)
