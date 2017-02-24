@@ -7,11 +7,12 @@ Each data set is described with a record that contains the following attributes:
 * name: data set file name
 * title:  a short title (less then 40 characters)
 * description:  description of the data set
+* collection: name of original repository
+* reference: any references to essential publications of the data set
 * tags: a list of tags
 * target: the type of target class, if any (categorical, numeric, or None)
 * version:  data set version
 * year: year when the data set was first published
-* collection: name of original repository
 * instances: number of data instances
 * missing: does data contain any missing values?
 * variables: number of independent variables (class and meta variables excluded)
@@ -31,6 +32,7 @@ Following is an example of description record for the wine data set. Note that t
         "version": "1.0",  
         "year": 1991,  
         "collection": "UCI",  
+	"reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142."
         "instances": 178,  
         "missing": false,  
         "variables": 13,  
