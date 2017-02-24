@@ -4,7 +4,7 @@ A collection of descriptions of data sets that are served in Data Set widget in 
 
 Each data set is described with a record that contains the following attributes:
 
-* name: data set file name
+* name: data set file name (without extension)
 * title:  a short title (less then 40 characters)
 * description:  description of the data set
 * collection: name of original repository
@@ -23,8 +23,8 @@ Each data set is described with a record that contains the following attributes:
 Following is an example of description record for the wine data set. Note that the description would most often be longer and would contain at least a paragraph of text:
 
     {
-        "name": "wine.tab", 
-        "title": "wine tasting",  
+        "name": "wine", 
+        "title": "Wine tasting",  
         "description": "Wine profiling data with
 	     attributes from chemical analysis.",  
         "tags": ["classification", "small"],  
