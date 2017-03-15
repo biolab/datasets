@@ -1,0 +1,16 @@
+{
+    "name": "collagen",
+    "title": "Collagen spectroscopy",
+    "description": "Cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of chemical compounds in that part of the cell. The data set was compiled by Christophe Sandt, PhD.",
+    "collection": "spectral",
+    "reference": "",
+    "tags": ["classification", "infrared"],
+    "target": "categorical",
+    "version": "1.0",
+    "year": 2017,
+    "instances": 731,
+    "missing": false,
+    "variables": 234,
+    "source": "",
+    "file": "http://193.2.72.57/collagen.tab"
+}
