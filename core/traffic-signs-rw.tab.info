@@ -2,9 +2,14 @@
     "name": "traffic-signs-rw",
     "title": "Traffic signs",
     "description": "Images of selected regulatory and warning traffic signs. Use image analytics add-on for analysis. Use Silhouette widget to find traffic signs that stick our and are most different to signs in their group.",
-    "tags": ["classification", "images", "small"],
+    "tags": [
+        "classification",
+        "images",
+        "small"
+    ],
     "target": "categorical",
     "version": "1.0",
     "year": 2017,
-    "file": "ftp://file.biolab.si/files/datasets/traffic-signs-rw.tab"
+    "file": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
+    "size": 4097
 }
