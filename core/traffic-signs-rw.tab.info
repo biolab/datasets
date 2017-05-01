@@ -4,7 +4,10 @@
     "description": "Images of selected regulatory and warning traffic signs. Use image analytics add-on for analysis. Use Silhouette widget to find traffic signs that stick our and are most different to signs in their group.",
     "tags": ["classification", "images", "small"],
     "target": "categorical",
-    "version": "1.0",
+    "version": "1.1",
+    "variables": 0,
+    "missing": 0,
+    "instances": 40,
     "year": 2017,
-    "file": "ftp://file.biolab.si/files/datasets/traffic-signs-rw.tab"
+    "file": "http://file.biolab.si/datasets/traffic-signs-rw.tab"
 }
