@@ -188,10 +188,14 @@
                 "small"
             ],
             "target": "categorical",
-            "version": "1.0",
+            "version": "1.1",
+            "variables": 0,
+            "missing": 0,
+            "instances": 40,
             "year": 2017,
+            "datetime": "2016-12-20 19:04",
             "file": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
-            "size": 4097
+            "size": 3900
         }
     ],
     [
