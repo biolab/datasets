@@ -1,0 +1,20 @@
+{
+    "name": "foodmart",
+    "description": "Foodmart 2000 dataset for market basket analysis from Microsoft AS 2005 samples.",
+    "title": "Foodmart 2000",
+    "tags": [
+        "market basket analysis",
+        "groceries",
+        "food",
+        "transactions",
+        "basket"
+    ],
+    "target": null,
+    "version": "1.0",
+    "year": 2005,
+    "instances": 62560,
+    "missing": true,
+    "variables": 126,
+    "source": "https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data",
+    "file": "https://www.dropbox.com/s/cgejh2tkec6ps21/foodmart.basket?dl=1"
+}
