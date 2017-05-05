@@ -2,7 +2,7 @@
     "name": "ewba-slovenia-illegal-dumpsites",
     "title": "Illegal waste dumpsites in Slovenia",
     "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association",
-    "reference": "Društvo Ekologi brez meja. Register divjih odlagališč. URL: http://register.ocistimo.si",
+    "reference": "Dru\u0161tvo Ekologi brez meja. Register divjih odlagali\u0161\u010d. URL: http://register.ocistimo.si",
     "tags": [
         "location",
         "date",
@@ -15,5 +15,6 @@
     "missing": true,
     "variables": 25,
     "source": "http://register.ocistimo.si/",
-    "file": "https://www.dropbox.com/s/napuydruashxjdw/ewba-slovenia-illegal-dumpsites.tab?dl=1"
+    "file": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
+    "size": 2907714
 }
