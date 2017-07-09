@@ -8,6 +8,7 @@
         "small"
     ],
     "target": "categorical",
+    "instances": 40,
     "version": "1.2",
     "year": 2017,
     "file": "http://file.biolab.si/datasets/traffic-signs-rw.tab"
