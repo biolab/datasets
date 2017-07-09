@@ -37,7 +37,9 @@
             "reference": "Dru\u0161tvo Ekologi brez meja. Register divjih odlagali\u0161\u010d. URL: http://register.ocistimo.si",
             "tags": [
                 "location",
+                "geo",
                 "date",
+                "slovenia",
                 "ecology"
             ],
             "target": null,
@@ -81,26 +83,20 @@
     [
         [
             "core",
-            "grades.tab"
+            "grades-two.tab"
         ],
         {
-            "name": "grades",
-            "title": "grades",
-            "description": "Grades of two exams for a group of students. Works well with clustering.",
+            "name": "grades-two",
+            "title": "Grades of two courses",
+            "description": "Final grades for an English and Mathematics course for a small group of students. This is a hand-crafted data set to demonstrate the results of hierarchical clustering. Show data in a scatter plot and display data subsets as outputs of hierarchical clustering. Or directly link Hierarchical Clustering widget to the Scatter Plot to show display clustering.",
             "tags": [
                 "clustering",
                 "small"
             ],
-            "target": "None",
             "version": "1.0",
-            "year": 2009,
-            "collection": "",
             "instances": 12,
-            "missing": false,
-            "variables": 2,
-            "source": "",
-            "size": 265,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/grades.tab"
+            "file": "http://butler.fri.uni-lj.si/datasets/core/grades-two.tab",
+            "size": 265
         }
     ],
     [
@@ -205,6 +201,62 @@
     [
         [
             "core",
+            "slovenia-traffic-accidents-2016-events"
+        ],
+        {
+            "name": "slovenia-traffic-accidents-2016-events",
+            "title": "Traffic accidents in Slovenia (2016) - Events",
+            "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of internal affairs.",
+            "reference": "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u0309\u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost",
+            "tags": [
+                "location",
+                "geo",
+                "date",
+                "slovenia",
+                "traffic"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2016,
+            "instances": 17931,
+            "missing": true,
+            "variables": 18,
+            "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
+            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events",
+            "size": 4501650
+        }
+    ],
+    [
+        [
+            "core",
+            "slovenia-traffic-accidents-2016-persons"
+        ],
+        {
+            "name": "slovenia-traffic-accidents-2016-persons",
+            "title": "Traffic accidents in Slovenia (2016) - Persons",
+            "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of internal affairs.",
+            "reference": "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost",
+            "tags": [
+                "location",
+                "geo",
+                "date",
+                "slovenia",
+                "traffic"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2016,
+            "instances": 32857,
+            "missing": true,
+            "variables": 13,
+            "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
+            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons",
+            "size": 2915308
+        }
+    ],
+    [
+        [
+            "core",
             "titanic.tab"
         ],
         {
@@ -234,19 +286,16 @@
         {
             "name": "traffic-signs-rw",
             "title": "Traffic signs",
-            "description": "Images of selected regulatory and warning traffic signs. Use image analytics add-on for analysis. Use Silhouette widget to find traffic signs that stick our and are most different to signs in their group.",
+            "description": "Images of regulatory and warning traffic signs. Use image analytics add-on and image embedder for analysis. Use Silhouette widget to find which signs stick out from their groups.",
             "tags": [
                 "classification",
                 "images",
                 "small"
             ],
             "target": "categorical",
-            "version": "1.1",
-            "variables": 0,
-            "missing": 0,
             "instances": 40,
+            "version": "1.2",
             "year": 2017,
-            "datetime": "2016-12-20 19:04",
             "file": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
             "size": 3900
         }
