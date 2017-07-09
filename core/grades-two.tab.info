@@ -1,7 +1,7 @@
 {
     "name": "grades-two",
-    "title": "Grades for two subjects",
-    "description": "Grades of an English and Math exam for a small group of students. This is a hand-crafted data set to demonstrate the results of hierarchical clustering. Show data in a scatter plot and display data subsets as outputs of hierarchical clustering. Or directly link Hierarchical Clustering widget to the Scatter Plot to show display clustering.",
+    "title": "Grades of two courses",
+    "description": "Final grades for an English and Mathematics course for a small group of students. This is a hand-crafted data set to demonstrate the results of hierarchical clustering. Show data in a scatter plot and display data subsets as outputs of hierarchical clustering. Or directly link Hierarchical Clustering widget to the Scatter Plot to show display clustering.",
     "tags": [
         "clustering",
         "small"
