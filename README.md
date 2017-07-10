@@ -35,5 +35,5 @@ Following is an example of description record for the wine data set. Note that t
         "missing": false,
         "variables": 13,
         "source": "https://archive.ics.uci.edu/ml/datasets/Wine",
-        "file": "http://my.web.server/wine.xls"
+        "url": "http://my.web.server/wine.xls"
     }
