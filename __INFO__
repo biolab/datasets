@@ -34,7 +34,9 @@
             "name": "ewba-slovenia-illegal-dumpsites",
             "title": "Illegal waste dumpsites in Slovenia",
             "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association",
-            "reference": "Dru\u0161tvo Ekologi brez meja. Register divjih odlagali\u0161\u010d. URL: http://register.ocistimo.si",
+            "references": [
+                "Dru\u0161tvo Ekologi brez meja. Register divjih odlagali\u0161\u010d. URL: http://register.ocistimo.si"
+            ],
             "tags": [
                 "location",
                 "geo",
@@ -144,7 +146,9 @@
             "instances": 150,
             "missing": 0,
             "variables": 5,
-            "reference": "R. A. Fisher (1936). \"The use of multiple measurements in taxonomic problems\". Annals of Eugenics. 7 (2): 179\u2013188. doi:10.1111/j.1469-1809.1936.tb02137.x",
+            "references": [
+                "R. A. Fisher (1936). \"The use of multiple measurements in taxonomic problems\". Annals of Eugenics. 7 (2): 179\u2013188. doi:10.1111/j.1469-1809.1936.tb02137.x"
+            ],
             "datetime": "2016-12-20 11:00:00.000000",
             "source": "https://archive.ics.uci.edu/ml/datasets/Iris",
             "size": 4625,
@@ -209,7 +213,9 @@
             "name": "slovenia-traffic-accidents-2016-events",
             "title": "Traffic accidents in Slovenia (2016) - Events",
             "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of internal affairs.",
-            "reference": "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u0309\u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost",
+            "references": [
+                "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u0309\u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost"
+            ],
             "tags": [
                 "location",
                 "geo",
@@ -237,7 +243,9 @@
             "name": "slovenia-traffic-accidents-2016-persons",
             "title": "Traffic accidents in Slovenia (2016) - Persons",
             "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of internal affairs.",
-            "reference": "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost",
+            "references": [
+                "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost"
+            ],
             "tags": [
                 "location",
                 "geo",

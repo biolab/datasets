@@ -29,6 +29,10 @@ for root in argv[1:]:
                     changed = True
                 except:
                     print('failed to get file', filename, location, file=stderr)
+            ref = d.get('references', None)
+            if isinstance(ref, str):
+                d['references'] = [ref]
+                changed = True
         if changed:
             with open(infof, 'w') as f:
                 json.dump(d, f, indent=4)
