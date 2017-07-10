@@ -17,6 +17,6 @@
     "missing": true,
     "variables": 13,
     "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
-    "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons",
+    "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
     "size": 2915308
 }

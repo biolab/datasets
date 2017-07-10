@@ -203,7 +203,7 @@
     [
         [
             "core",
-            "slovenia-traffic-accidents-2016-events"
+            "slovenia-traffic-accidents-2016-events.tab"
         ],
         {
             "name": "slovenia-traffic-accidents-2016-events",
@@ -224,14 +224,14 @@
             "missing": true,
             "variables": 18,
             "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events",
+            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events.tab",
             "size": 4501650
         }
     ],
     [
         [
             "core",
-            "slovenia-traffic-accidents-2016-persons"
+            "slovenia-traffic-accidents-2016-persons.tab"
         ],
         {
             "name": "slovenia-traffic-accidents-2016-persons",
@@ -252,7 +252,7 @@
             "missing": true,
             "variables": 13,
             "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons",
+            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
             "size": 2915308
         }
     ],
