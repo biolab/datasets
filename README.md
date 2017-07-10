@@ -8,7 +8,7 @@ Each data set is described with a record that contains the following attributes:
 * title:  a short title (less then 40 characters)
 * description:  description of the data set
 * collection: name of original repository
-* reference: any references to essential publications of the data set
+* references: any references to essential publications of the data set
 * tags: a list of tags
 * target: the type of target class, if any (categorical, numeric, or None)
 * version:  data set version
@@ -26,7 +26,9 @@ Following is an example of description record for the wine data set. Note that t
         "title": "Wine tasting",
         "description": "Wine profiling data with attributes from chemical analysis.",
         "collection": "UCI",
-        "reference": "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142.",
+        "reference": [
+            "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142.",
+        ],
         "tags": ["classification", "small"],
         "target": "categorical",
         "version": "1.0",
