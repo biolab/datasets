@@ -21,7 +21,7 @@
             "missing": false,
             "variables": 234,
             "source": "",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
             "size": 1018671
         }
     ],
@@ -49,7 +49,7 @@
             "missing": true,
             "variables": 25,
             "source": "http://register.ocistimo.si/",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
             "size": 2907714
         }
     ],
@@ -76,7 +76,7 @@
             "missing": true,
             "variables": 126,
             "source": "https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
             "size": 4212566
         }
     ],
@@ -97,7 +97,7 @@
             "version": "1.0",
             "instances": 12,
             "variables": 3,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/grades-two.tab",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/grades-two.tab",
             "size": 265
         }
     ],
@@ -120,7 +120,7 @@
             "instances": 1470,
             "missing": 0,
             "variables": 32,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
             "size": 262432
         }
     ],
@@ -148,7 +148,7 @@
             "datetime": "2016-12-20 11:00:00.000000",
             "source": "https://archive.ics.uci.edu/ml/datasets/Iris",
             "size": 4625,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/iris.tab"
+            "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab"
         }
     ],
     [
@@ -170,7 +170,7 @@
             "instances": 1163,
             "missing": 0,
             "variables": 15,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
             "size": 219235
         }
     ],
@@ -197,7 +197,7 @@
             "variables": 3,
             "source": null,
             "size": 455,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
+            "url": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
         }
     ],
     [
@@ -224,7 +224,7 @@
             "missing": true,
             "variables": 18,
             "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events.tab",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events.tab",
             "size": 4501650
         }
     ],
@@ -252,7 +252,7 @@
             "missing": true,
             "variables": 13,
             "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
             "size": 2915308
         }
     ],
@@ -277,7 +277,7 @@
             "datetime": "2016-12-20 12:00:00.000000",
             "source": "",
             "size": 45112,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
+            "url": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
         }
     ],
     [
@@ -299,7 +299,7 @@
             "year": 2017,
             "instances": 40,
             "variables": 3,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
             "size": 3900
         }
     ],
@@ -325,7 +325,7 @@
             "datetime": "2016-12-20 11:00:00.000000",
             "source": "https://archive.ics.uci.edu/ml/datasets/Wine",
             "size": 10991,
-            "file": "http://butler.fri.uni-lj.si/datasets/core/wine.tab"
+            "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab"
         }
     ],
     [
@@ -349,7 +349,7 @@
             "missing": false,
             "variables": 17,
             "source": "https://archive.ics.uci.edu/ml/datasets/Zoo",
-            "file": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
             "size": 50929
         }
     ]
