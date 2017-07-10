@@ -6,8 +6,10 @@
         "clustering",
         "small"
     ],
+    "target": null,
     "version": "1.0",
     "instances": 12,
+    "variables": 3,
     "file": "http://butler.fri.uni-lj.si/datasets/core/grades-two.tab",
     "size": 265
 }
