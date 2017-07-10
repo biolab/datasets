@@ -12,6 +12,6 @@
     "year": 2017,
     "instances": 40,
     "variables": 3,
-    "file": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
     "size": 3900
 }

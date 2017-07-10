@@ -19,12 +19,12 @@ for root in argv[1:]:
         with open(infof, 'r') as f:
             d = json.load(f, object_pairs_hook=OrderedDict)
             filename = infof[:-5]
-            location = d.get('file', '')
+            location = d.get('url', '')
             if location and (not location.startswith(URL) or
                              basename(location) != basename(filename)):
                 try:
                     urlretrieve(location, filename)
-                    d['file'] = '{}/{}/{}'.format(URL, normpath(root), filename)
+                    d['url'] = '{}/{}/{}'.format(URL, normpath(root), filename)
                     d['size'] = getsize(filename)
                     changed = True
                 except:

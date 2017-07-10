@@ -15,6 +15,6 @@
     "missing": false,
     "variables": 234,
     "source": "",
-    "file": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
     "size": 1018671
 }

@@ -16,5 +16,5 @@
     "variables": 3,
     "source": null,
     "size": 455,
-    "file": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
+    "url": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
 }

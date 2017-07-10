@@ -15,5 +15,5 @@
     "datetime": "2016-12-20 11:00:00.000000",
     "source": "https://archive.ics.uci.edu/ml/datasets/Wine",
     "size": 10991,
-    "file": "http://butler.fri.uni-lj.si/datasets/core/wine.tab"
+    "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab"
 }

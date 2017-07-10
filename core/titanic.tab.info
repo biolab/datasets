@@ -14,5 +14,5 @@
     "datetime": "2016-12-20 12:00:00.000000",
     "source": "",
     "size": 45112,
-    "file": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
+    "url": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
 }
