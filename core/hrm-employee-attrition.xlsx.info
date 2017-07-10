@@ -12,6 +12,6 @@
     "instances": 1470,
     "missing": 0,
     "variables": 32,
-    "file": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
     "size": 262432
 }

@@ -18,7 +18,7 @@ for infof in glob('**/*.info', recursive=True):
         d = json.load(f, object_pairs_hook=OrderedDict)
         filename = splitext(basename(infof)[:-5])[0]
         assert filename == d['name'], 'name field does not match the filename'
-        location = d['file']
+        location = d['url']
         try:
             remotefile = urlopen(location)
         except:

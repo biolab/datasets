@@ -16,6 +16,6 @@
     "missing": true,
     "variables": 126,
     "source": "https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data",
-    "file": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
     "size": 4212566
 }

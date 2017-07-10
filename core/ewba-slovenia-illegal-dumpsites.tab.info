@@ -17,6 +17,6 @@
     "missing": true,
     "variables": 25,
     "source": "http://register.ocistimo.si/",
-    "file": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
     "size": 2907714
 }
