@@ -26,7 +26,7 @@ Following is an example of description record for the wine data set. Note that t
         "title": "Wine tasting",
         "description": "Wine profiling data with attributes from chemical analysis.",
         "collection": "UCI",
-        "reference": [
+        "references": [
             "Smit J, Miles C, Novak J (2016) On health impact of red wine, Altruism 18(3):42-142.",
         ],
         "tags": ["classification", "small"],
