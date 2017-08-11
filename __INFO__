@@ -2,6 +2,84 @@
     [
         [
             "core",
+            "abalone.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Abalone is marine snails. This data set is about predicting abalone age from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, may be used to predict the age. The data set contains the attributes that report on sex, size and weight measurements. The age is reported as the number of rings, which increased by 1.5 gives the age in years.",
+            "instances": 4177,
+            "name": "abalone",
+            "references": null,
+            "seealso": null,
+            "size": 191993,
+            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Abalone</a>",
+            "tags": null,
+            "target": "numeric",
+            "title": "Abalone",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/abalone.tab",
+            "variables": 8,
+            "version": "1.0",
+            "year": "1994"
+        }
+    ],
+    [
+        [
+            "core",
+            "bank-additional.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Data from direct marketing campaigns (phone calls) of a Portuguese bank. The classification goal is to predict if the client will subscribe a term deposit given the profile of a client that contains attributes such as age, job type, martial status, education, information on previous loans, and other.",
+            "instances": 4119,
+            "name": "bank-additional",
+            "references": [
+                "Moro S, Cortez P, and Rita P (2014) A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems 62:22-31."
+            ],
+            "seealso": null,
+            "size": 477308,
+            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Bank+Marketing</a>",
+            "tags": [
+                "marketing"
+            ],
+            "target": "categorical",
+            "title": "Bank Marketing",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/bank-additional.tab",
+            "variables": 20,
+            "version": "1.0",
+            "year": "2014"
+        }
+    ],
+    [
+        [
+            "core",
+            "car.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This is a synthetic data set derived from a simple hierarchical decision model to demonstrate decision support system DEX (see Bohanec and Rajkovic). The decision model included six attributes, including buying and maintenance price, the number of passengers, size of the luggage booth, and evaluated the utility of the car from a buyer's perspective. All attributes were discrete, having from three to four values. The data set provides car's utility for all possible combinations of attribute values. The data set was originally created to showcase the ability of machine learning by function decomposition to recreate the hierarchy of the decision model.",
+            "instances": 1728,
+            "name": "car",
+            "references": [
+                "Bohanec M, Rajkovic V (1988) Knowledge acquisition and explanation for multi-attribute decision making. In 8th International Workshop on Expert Systems and their Applications, Avignon, France. pages 59-78.",
+                "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href=http://file.biolab.si/papers/1999-Zupan-AIJ.pdf>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
+            ],
+            "seealso": null,
+            "size": 51939,
+            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Car+Evaluation</a>",
+            "tags": [
+                "synthetic"
+            ],
+            "target": "categorical",
+            "title": "Car Evaluation",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/car.tab",
+            "variables": 6,
+            "version": "1.0",
+            "year": 1999
+        }
+    ],
+    [
+        [
+            "core",
             "collagen.tab"
         ],
         {
@@ -68,6 +146,31 @@
             "source": "<a href=https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data>neo4j data repository</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
             "size": 4212566
+        }
+    ],
+    [
+        [
+            "core",
+            "forestfires.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This is a difficult regression task, where the aim is to predict the burned area of forest fires in the northeast region of Portugal. The attributes report on meteorological data (temperature, wind, rain, humidity), month and day of the status, several indices of the Forest Fire Weather Index, and spatial coordinate within the Montesinho park map. Two extra meta attributes are include in the Orange data set that encode the log of area + 1 and the binary attribute reporting if the part of the park was under fire (non-zero fire area).",
+            "instances": 517,
+            "name": "forestfires",
+            "references": [
+                "href=http://www.dsi.uminho.pt/~pcortez/fires.pdf>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523, 2007."
+            ],
+            "seealso": null,
+            "size": 32101,
+            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Forest+Fires</a>",
+            "tags": null,
+            "target": "numeric",
+            "title": "Forest Fires",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/forestfires.tab",
+            "variables": 12,
+            "version": "1.0",
+            "year": 2007
         }
     ],
     [
@@ -159,6 +262,31 @@
             "variables": 15,
             "url": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
             "size": 219235
+        }
+    ],
+    [
+        [
+            "core",
+            "poker-hand.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Each data instance is an example of a Poker hand consisting of five playing cards drawn from a standard deck of 52. Each card is described using two attributes (suit and rank), for a total of 10 predictive attributes. A suit is a discrete attribute (from 1 to 4) representing Hearts, Spades, Diamonds, and Clubs. Rank of the card is an integer-valued attribute with values from 1 to 13 representing Ace, 2, 3, ... , Queen, and King. The discrete class is an integer-encoded poker hand, representing nothing at hand (0), one pair (1), two pairs (2), ..., straight flush (8) and royal flush (9). UCI ML repository contains two data sets (train and test) that we merged into one, with meta attribute reporting on the file origin of each data instance.",
+            "instances": 1025010,
+            "name": "poker-hand",
+            "references": null,
+            "seealso": null,
+            "size": 30302187,
+            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Poker+Hand</a>",
+            "tags": [
+                "synthetic"
+            ],
+            "target": "categorical",
+            "title": "Poker Hand",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/poker-hand.tab",
+            "variables": 10,
+            "version": "1.0",
+            "year": "2007"
         }
     ],
     [
@@ -312,6 +440,60 @@
                 "<a href='https://www.youtube.com/watch?v=OmaAC8a52YI'>Principal Component Analysis</a>, a YouTube video from <a href=https://www.youtube.com/orangedatamining>Getting Started with Orange</a> series that showcases this dataset.",
                 "<a href='https://www.youtube.com/watch?v=bp0VtVS3LN4'>Feature Scoring and Ranking</a>, another video from the same series that uses this dataset."
             ]
+        }
+    ],
+    [
+        [
+            "core",
+            "winequality-red.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "The quality of the red variants of the Portuguese \"Vinho Verde\" wine. Wine samples are described with results of physicochemical tests that include information on acidity, sugar and alcohol content, density and other. This data set is related to its sister data set on the quality of white wines.",
+            "instances": 1599,
+            "name": "winequality-red",
+            "references": [
+                "Cortez P, Cerdeira A, Almeida F, Matos T, and Reis J (2009) Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems Elsevier 47(4):547-553."
+            ],
+            "seealso": null,
+            "size": 84183,
+            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Wine+Quality</a>",
+            "tags": [
+                "wine"
+            ],
+            "target": "numeric",
+            "title": "Wine quality - red",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/winequality-red.tab",
+            "variables": 11,
+            "version": "1.0",
+            "year": "2009"
+        }
+    ],
+    [
+        [
+            "core",
+            "winequality-white.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "The quality of the white variants of the Portuguese \"Vinho Verde\" wine. Wine samples are described with results of physicochemical tests that include information on acidity, sugar and alcohol content, density and other. This data set is related to its sister data set on the quality of red wines.",
+            "instances": 4898,
+            "name": "winequality-white",
+            "references": [
+                "Cortez P, Cerdeira A, Almeida F, Matos T, and Reis J (2009) Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems Elsevier 47(4):547-553."
+            ],
+            "seealso": null,
+            "size": 264270,
+            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Wine+Quality</a>",
+            "tags": [
+                "wine"
+            ],
+            "target": "numeric",
+            "title": "Wine quality - white",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/winequality-white.tab",
+            "variables": 11,
+            "version": "1.0",
+            "year": "2009"
         }
     ],
     [
