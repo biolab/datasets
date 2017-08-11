@@ -7,11 +7,9 @@
         {
             "name": "collagen",
             "title": "Collagen spectroscopy",
-            "description": "Cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of chemical compounds in that part of the cell. The data set was compiled by Christophe Sandt, PhD.",
+            "description": "Data on cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of a chemical compound in that part of the cell. Each row represents the data on specific cell, with components of the spectra given in columns. The data was compiled by dr. Christophe Sandt.",
             "collection": "spectral",
-            "reference": "",
             "tags": [
-                "classification",
                 "infrared"
             ],
             "target": "categorical",
@@ -20,7 +18,6 @@
             "instances": 731,
             "missing": false,
             "variables": 234,
-            "source": "",
             "url": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
             "size": 1018671
         }
@@ -33,15 +30,10 @@
         {
             "name": "ewba-slovenia-illegal-dumpsites",
             "title": "Illegal waste dumpsites in Slovenia",
-            "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association",
-            "references": [
-                "Dru\u0161tvo Ekologi brez meja. Register divjih odlagali\u0161\u010d. URL: http://register.ocistimo.si"
-            ],
+            "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association. The data coutains geographical location of the site and its description, including information about accessibility, access type, vaste area and volume and types of waste deposited.",
             "tags": [
                 "location",
-                "geo",
                 "date",
-                "slovenia",
                 "ecology"
             ],
             "target": null,
@@ -50,7 +42,7 @@
             "instances": 13165,
             "missing": true,
             "variables": 25,
-            "source": "http://register.ocistimo.si/",
+            "source": "<a href=http://register.ocistimo.si>Dumpsite Registry of Slovenia</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
             "size": 2907714
         }
@@ -62,13 +54,9 @@
         ],
         {
             "name": "foodmart",
-            "description": "Foodmart 2000 dataset for market basket analysis from Microsoft AS 2005 samples.",
+            "description": "Foodmart 2000 is a market based dataset that came with Microsoft Analysis Services. For every transaction (rows) it contains tuples of item names and number of items bought. Every transaction also contains the store ID.",
             "title": "Foodmart 2000",
             "tags": [
-                "market basket analysis",
-                "groceries",
-                "food",
-                "transactions",
                 "basket"
             ],
             "target": null,
@@ -77,7 +65,7 @@
             "instances": 62560,
             "missing": true,
             "variables": 126,
-            "source": "https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data",
+            "source": "<a href=https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data>neo4j data repository</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
             "size": 4212566
         }
@@ -89,11 +77,11 @@
         ],
         {
             "name": "grades-two",
-            "title": "Grades of two courses",
-            "description": "Final grades for an English and Mathematics course for a small group of students. This is a hand-crafted data set to demonstrate the results of hierarchical clustering. Show data in a scatter plot and display data subsets as outputs of hierarchical clustering. Or directly link Hierarchical Clustering widget to the Scatter Plot to show display clustering.",
+            "title": "Grades for English and Math",
+            "description": "A small data set with final grades from English and Mathematics that was hand-crafted to introduce Euclidean distance and hierarchical clustering.",
             "tags": [
                 "clustering",
-                "small"
+                "synthetic"
             ],
             "target": null,
             "version": "1.0",
@@ -110,7 +98,7 @@
         ],
         {
             "name": "hrm-employee-attrition",
-            "description": "Uncover the factors that lead to employee attrition and explore important questions such as 'show me a breakdown of distance from home by job role and attrition' or 'compare average monthly income by education and attrition'. This is a fictional data set created by IBM data scientists.",
+            "description": "A fictional data set created by IBM data scientists to demonstrate the use of Watson Analytics. The data reports on factors such as employees' age, gender, salary, job role and satisfaction, and asks to relate these to attrition.",
             "title": "Employee attrition",
             "tags": [
                 "synthetic"
@@ -118,12 +106,13 @@
             "year": 2015,
             "target": "categorical",
             "version": "1.0",
-            "collection": "",
+            "collection": "IBM",
             "instances": 1470,
-            "missing": 0,
+            "missing": false,
             "variables": 32,
             "url": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
-            "size": 262432
+            "size": 262432,
+            "source": "<a href=https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition>IBM Watson Analytics</a>"
         }
     ],
     [
@@ -133,12 +122,9 @@
         ],
         {
             "name": "iris",
-            "description": "The best known database in pattern recognition literature. Fisher's paper is a classic in the field and is referenced frequently to this day. (See Duda & Hart, for example.) The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.",
+            "description": "The Iris flower data set or Fisher's Iris data set was introduced by the British statistician and biologist Ronald Fisher in his 1936 paper as an example of linear discriminant analysis. The data on length and width of petal and sepal leafs was actually collected by American botanist Edgar Anderson to quantify the morphologic variation of Iris flowers of three related species.",
             "title": "Iris",
-            "tags": [
-                "iris",
-                "fisher"
-            ],
+            "tags": [],
             "target": "categorical",
             "version": "1.0",
             "year": 1936,
@@ -146,13 +132,12 @@
             "instances": 150,
             "missing": 0,
             "variables": 5,
-            "references": [
-                "R. A. Fisher (1936). \"The use of multiple measurements in taxonomic problems\". Annals of Eugenics. 7 (2): 179\u2013188. doi:10.1111/j.1469-1809.1936.tb02137.x"
-            ],
-            "datetime": "2016-12-20 11:00:00.000000",
-            "source": "https://archive.ics.uci.edu/ml/datasets/Iris",
+            "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Iris>UCI ML Repository</a>",
             "size": 4625,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab"
+            "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab",
+            "references": [
+                "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179\u2013188."
+            ]
         }
     ],
     [
@@ -162,11 +147,9 @@
         ],
         {
             "name": "kickstarter",
-            "description": "Basic characterization of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
-            "title": "Kickstarter project sample from 2016",
-            "tags": [
-                "kickstarter"
-            ],
+            "description": "Basic profiling of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
+            "title": "Kickstarter projects",
+            "tags": [],
             "year": 2016,
             "target": "categorical",
             "version": "1.0",
@@ -186,22 +169,23 @@
         {
             "name": "sailing",
             "title": "Sailing",
-            "description": "Sara likes weekend sail. Though, not under any condition. Past twenty Wednesdays I have asked her if she will have any company, what kind of boat she can rent, and I have checked the weather forecast. Than, on Saturday, I wrote down if she actually went to sea. Using machine learning and visualization of classification models, I can now learn about her sailing habits. (The data set was designed to explain the workings of classification trees).",
+            "description": "Hand-crafted data set to explain inference of classification trees. It records data for Sara, a weekend sailer, and the data before sailing on company, boat type and weather. The class tells if she actually went sailing.",
             "tags": [
-                "classification",
-                "small",
-                "tree"
+                "tree",
+                "synthetic"
             ],
             "target": "categorical",
             "version": "1.0",
             "year": "2003",
-            "collection": "blaz",
             "instances": 20,
             "missing": null,
             "variables": 3,
             "source": null,
             "size": 455,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
+            "url": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab",
+            "seealso": [
+                "<a href=https://blog.biolab.si/2017/08/04/its-sailing-time-again>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."
+            ]
         }
     ],
     [
@@ -211,16 +195,12 @@
         ],
         {
             "name": "slovenia-traffic-accidents-2016-events",
-            "title": "Traffic accidents in Slovenia (2016) - Events",
-            "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of internal affairs.",
-            "references": [
-                "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u0309\u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost"
-            ],
+            "title": "Traffic accidents - events",
+            "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. Events (rows) are described through location, cause and type of accident, and road condition. The data on geographic location is provided.",
+            "references": [],
             "tags": [
                 "location",
-                "geo",
                 "date",
-                "slovenia",
                 "traffic"
             ],
             "target": null,
@@ -229,7 +209,7 @@
             "instances": 17931,
             "missing": true,
             "variables": 18,
-            "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
+            "source": "<a href=http://www.policija.si/index.php/statistika/prometna-varnost>Archive of Slovene Ministry of Interior</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events.tab",
             "size": 4501650
         }
@@ -241,16 +221,12 @@
         ],
         {
             "name": "slovenia-traffic-accidents-2016-persons",
-            "title": "Traffic accidents in Slovenia (2016) - Persons",
-            "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of internal affairs.",
-            "references": [
-                "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost"
-            ],
+            "title": "Traffic accidents - persons",
+            "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. The data includes geographic location of the accident, and profile of a person involved containing the age, gender, type of accident, the result of an alcohol test, and an indicator if the person caused the accident.",
+            "references": [],
             "tags": [
                 "location",
-                "geo",
                 "date",
-                "slovenia",
                 "traffic"
             ],
             "target": null,
@@ -259,7 +235,7 @@
             "instances": 32857,
             "missing": true,
             "variables": 13,
-            "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
+            "source": "<a href=http://www.policija.si/index.php/statistika/prometna-varnost>Archive of Slovene Ministry of Interior</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
             "size": 2915308
         }
@@ -271,19 +247,19 @@
         ],
         {
             "name": "titanic",
-            "description": "Titanic passenger survival",
+            "description": "This data set provides information on the fate of passengers on the fatal maiden voyage of the ocean liner Titanic, summarized according to economic status (class), sex, age and survival.",
             "title": "Titanic",
-            "tags": [
-                "titanic"
-            ],
+            "tags": [],
             "target": "categorical",
             "version": "1.0",
-            "collection": "",
+            "collection": "R",
             "instances": 2201,
-            "missing": 0,
+            "missing": false,
             "variables": 4,
-            "datetime": "2016-12-20 12:00:00.000000",
-            "source": "",
+            "year": "",
+            "references": [
+                "Dawson Robert J. MacG. (1995) The \u2018Unusual Episode\u2019 Data Revisited. Journal of Statistics Education 3(3)."
+            ],
             "size": 45112,
             "url": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
         }
@@ -296,11 +272,9 @@
         {
             "name": "traffic-signs-rw",
             "title": "Traffic signs",
-            "description": "Images of regulatory and warning traffic signs. Use image analytics add-on and image embedder for analysis. Use Silhouette widget to find which signs stick out from their groups.",
+            "description": "Images (icons) of regulatory and warning traffic signs.",
             "tags": [
-                "classification",
-                "images",
-                "small"
+                "images"
             ],
             "target": "categorical",
             "version": "1.2",
@@ -308,7 +282,10 @@
             "instances": 40,
             "variables": 3,
             "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
-            "size": 3900
+            "size": 3900,
+            "seealso": [
+                "<a href=https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
+            ]
         }
     ],
     [
@@ -318,22 +295,23 @@
         ],
         {
             "name": "wine",
-            "description": "These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.",
+            "description": "This is the data on wines grown in the same region in Italy but derived from three different cultivars. Wines are profiled by chemical analysis that reports on the quantities of thirteen constituents, including alcohol, malic acid, and flavanoids.",
             "title": "Wine",
-            "tags": [
-                "wine"
-            ],
+            "tags": [],
             "target": "categorical",
             "version": "1.0",
-            "year": 1991,
+            "year": "1992",
             "collection": "UCI",
             "instances": 178,
             "missing": 0,
             "variables": 14,
-            "datetime": "2016-12-20 11:00:00.000000",
-            "source": "https://archive.ics.uci.edu/ml/datasets/Wine",
+            "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Wine>UCI ML Repository</a>",
             "size": 10991,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab"
+            "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab",
+            "seealso": [
+                "<a href='https://www.youtube.com/watch?v=OmaAC8a52YI'>Principal Component Analysis</a>, a YouTube video from <a href=https://www.youtube.com/orangedatamining>Getting Started with Orange</a> series that showcases this dataset.",
+                "<a href='https://www.youtube.com/watch?v=bp0VtVS3LN4'>Feature Scoring and Ranking</a>, another video from the same series that uses this dataset."
+            ]
         }
     ],
     [
@@ -344,10 +322,9 @@
         {
             "name": "zoo",
             "title": "Zoo",
-            "description": "A number of animals were described with simple features.",
+            "description": "A dataset created by Richard Forsyth contains seventeen binary-valued attributes that describe animals. Features include information about presence of hair, feathers and teeth, report if animal is aquatic or airborn, and alike. Animals are named and are classified into seven categories: amphibian, bird, fish, insect, invertaebrate, mammal, and reptile.",
             "tags": [
-                "classification",
-                "small"
+                "animals"
             ],
             "target": "categorical",
             "version": "1.0",
@@ -356,7 +333,7 @@
             "instances": 101,
             "missing": false,
             "variables": 17,
-            "source": "https://archive.ics.uci.edu/ml/datasets/Zoo",
+            "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Zoo>UCI ML Repository</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
             "size": 50929
         }
