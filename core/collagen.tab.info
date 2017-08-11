@@ -1,11 +1,9 @@
 {
     "name": "collagen",
     "title": "Collagen spectroscopy",
-    "description": "Cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of chemical compounds in that part of the cell. The data set was compiled by Christophe Sandt, PhD.",
+    "description": "Data on cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of a chemical compound in that part of the cell. Each row represents the data on specific cell, with components of the spectra given in columns. The data was compiled by dr. Christophe Sandt.",
     "collection": "spectral",
-    "reference": "",
     "tags": [
-        "classification",
         "infrared"
     ],
     "target": "categorical",
@@ -14,7 +12,6 @@
     "instances": 731,
     "missing": false,
     "variables": 234,
-    "source": "",
     "url": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
     "size": 1018671
 }

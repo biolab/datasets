@@ -1,6 +1,6 @@
 {
     "name": "hrm-employee-attrition",
-    "description": "Uncover the factors that lead to employee attrition and explore important questions such as 'show me a breakdown of distance from home by job role and attrition' or 'compare average monthly income by education and attrition'. This is a fictional data set created by IBM data scientists.",
+    "description": "A fictional data set created by IBM data scientists to demonstrate the use of Watson Analytics. The data reports on factors such as employees' age, gender, salary, job role and satisfaction, and asks to relate these to attrition.",
     "title": "Employee attrition",
     "tags": [
         "synthetic"
@@ -8,10 +8,11 @@
     "year": 2015,
     "target": "categorical",
     "version": "1.0",
-    "collection": "",
+    "collection": "IBM",
     "instances": 1470,
-    "missing": 0,
+    "missing": false,
     "variables": 32,
     "url": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
-    "size": 262432
+    "size": 262432,
+    "source": "<a href=https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition>IBM Watson Analytics</a>"
 }

@@ -1,18 +1,18 @@
 {
     "name": "titanic",
-    "description": "Titanic passenger survival",
+    "description": "This data set provides information on the fate of passengers on the fatal maiden voyage of the ocean liner Titanic, summarized according to economic status (class), sex, age and survival.",
     "title": "Titanic",
-    "tags": [
-        "titanic"
-    ],
+    "tags": [],
     "target": "categorical",
     "version": "1.0",
-    "collection": "",
+    "collection": "R",
     "instances": 2201,
-    "missing": 0,
+    "missing": false,
     "variables": 4,
-    "datetime": "2016-12-20 12:00:00.000000",
-    "source": "",
+    "year": "",
+    "references": [
+        "Dawson Robert J. MacG. (1995) The ‘Unusual Episode’ Data Revisited. Journal of Statistics Education 3(3)."
+    ],
     "size": 45112,
     "url": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
 }

@@ -1,10 +1,8 @@
 {
     "name": "wine",
-    "description": "These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.",
+    "description": "This is the data on wines grown in the same region in Italy but derived from three different cultivars. Wines are profiled by chemical analysis that reports on the quantities of thirteen constituents, including alcohol, malic acid, and flavanoids.",
     "title": "Wine",
-    "tags": [
-        "wine"
-    ],
+    "tags": [],
     "target": "categorical",
     "version": "1.0",
     "year": 1991,
@@ -12,8 +10,12 @@
     "instances": 178,
     "missing": 0,
     "variables": 14,
-    "datetime": "2016-12-20 11:00:00.000000",
-    "source": "https://archive.ics.uci.edu/ml/datasets/Wine",
+    "year": "1992",
+    "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Wine>UCI ML Repository</a>",
     "size": 10991,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab"
+    "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab",
+    "seealso": [
+        "<a href='https://www.youtube.com/watch?v=OmaAC8a52YI'>Principal Component Analysis</a>, a YouTube video from <a href=https://www.youtube.com/orangedatamining>Getting Started with Orange</a> series that showcases this dataset.",
+        "<a href='https://www.youtube.com/watch?v=bp0VtVS3LN4'>Feature Scoring and Ranking</a>, another video from the same series that uses this dataset."
+    ]
 }
