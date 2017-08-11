@@ -1,10 +1,8 @@
 {
     "name": "kickstarter",
-    "description": "Basic characterization of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
-    "title": "Kickstarter project sample from 2016",
-    "tags": [
-        "kickstarter"
-    ],
+    "description": "Basic profiling of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
+    "title": "Kickstarter projects",
+    "tags": [],
     "year": 2016,
     "target": "categorical",
     "version": "1.0",

@@ -1,20 +1,19 @@
 {
     "name": "sailing",
     "title": "Sailing",
-    "description": "Sara likes weekend sail. Though, not under any condition. Past twenty Wednesdays I have asked her if she will have any company, what kind of boat she can rent, and I have checked the weather forecast. Than, on Saturday, I wrote down if she actually went to sea. Using machine learning and visualization of classification models, I can now learn about her sailing habits. (The data set was designed to explain the workings of classification trees).",
+    "description": "Hand-crafted data set to explain inference of classification trees. It records data for Sara, a weekend sailer, and the data before sailing on company, boat type and weather. The class tells if she actually went sailing.",
     "tags": [
-        "classification",
-        "small",
-        "tree"
+        "tree",
+        "synthetic"
     ],
     "target": "categorical",
     "version": "1.0",
     "year": "2003",
-    "collection": "blaz",
     "instances": 20,
     "missing": null,
     "variables": 3,
     "source": null,
     "size": 455,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab"
+    "url": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab",
+    "seealso": ["<a href=https://blog.biolab.si/2017/08/04/its-sailing-time-again>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."]
 }

@@ -1,12 +1,8 @@
 {
     "name": "foodmart",
-    "description": "Foodmart 2000 dataset for market basket analysis from Microsoft AS 2005 samples.",
+    "description": "Foodmart 2000 is a market based dataset that came with Microsoft Analysis Services. For every transaction (rows) it contains tuples of item names and number of items bought. Every transaction also contains the store ID.",
     "title": "Foodmart 2000",
     "tags": [
-        "market basket analysis",
-        "groceries",
-        "food",
-        "transactions",
         "basket"
     ],
     "target": null,
@@ -15,7 +11,7 @@
     "instances": 62560,
     "missing": true,
     "variables": 126,
-    "source": "https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
+    "source": "<a href=https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data>neo4j data repository</a>",
+    "url": "href=http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
     "size": 4212566
 }

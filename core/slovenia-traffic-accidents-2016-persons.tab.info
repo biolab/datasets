@@ -1,15 +1,11 @@
 {
     "name": "slovenia-traffic-accidents-2016-persons",
-    "title": "Traffic accidents in Slovenia (2016) - Persons",
-    "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of internal affairs.",
-    "references": [
-        "Ministrstvo za notranje zadeve \u2013 policija. Prometna varnost \u2013 statistika. 2016. URL: http://www.policija.si/index.php/statistika/prometna-varnost"
-    ],
+    "title": "Traffic accidents - persons",
+    "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. The data includes geographic location of the accident, and profile of a person involved containing the age, gender, type of accident, the result of an alcohol test, and an indicator if the person caused the accident.",
+    "references": [],
     "tags": [
         "location",
-        "geo",
         "date",
-        "slovenia",
         "traffic"
     ],
     "target": null,
@@ -18,7 +14,7 @@
     "instances": 32857,
     "missing": true,
     "variables": 13,
-    "source": "http://www.policija.si/index.php/statistika/prometna-varnost",
+    "source": "<a href=http://www.policija.si/index.php/statistika/prometna-varnost>Archive of Slovene Ministry of Interior</a>",
     "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
     "size": 2915308
 }

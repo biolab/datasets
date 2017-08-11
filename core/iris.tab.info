@@ -1,11 +1,8 @@
 {
     "name": "iris",
-    "description": "The best known database in pattern recognition literature. Fisher's paper is a classic in the field and is referenced frequently to this day. (See Duda & Hart, for example.) The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.",
+    "description": "The Iris flower data set or Fisher's Iris data set was introduced by the British statistician and biologist Ronald Fisher in his 1936 paper as an example of linear discriminant analysis. The data on length and width of petal and sepal leafs was actually collected by American botanist Edgar Anderson to quantify the morphologic variation of Iris flowers of three related species.",
     "title": "Iris",
-    "tags": [
-        "iris",
-        "fisher"
-    ],
+    "tags": [],
     "target": "categorical",
     "version": "1.0",
     "year": 1936,
@@ -13,11 +10,10 @@
     "instances": 150,
     "missing": 0,
     "variables": 5,
-    "references": [
-        "R. A. Fisher (1936). \"The use of multiple measurements in taxonomic problems\". Annals of Eugenics. 7 (2): 179\u2013188. doi:10.1111/j.1469-1809.1936.tb02137.x"
-    ],
-    "datetime": "2016-12-20 11:00:00.000000",
-    "source": "https://archive.ics.uci.edu/ml/datasets/Iris",
+    "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Iris>UCI ML Repository</a>",
     "size": 4625,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab"
+    "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab",
+    "references": [
+        "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179–188."
+    ]
 }

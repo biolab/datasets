@@ -1,17 +1,18 @@
 {
     "name": "traffic-signs-rw",
     "title": "Traffic signs",
-    "description": "Images of regulatory and warning traffic signs. Use image analytics add-on and image embedder for analysis. Use Silhouette widget to find which signs stick out from their groups.",
+    "description": "Images (icons) of regulatory and warning traffic signs.",
     "tags": [
-        "classification",
-        "images",
-        "small"
+        "images"
     ],
     "target": "categorical",
     "version": "1.2",
     "year": 2017,
     "instances": 40,
     "variables": 3,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
-    "size": 3900
+    "url": "http://file.biolab.si/datasets/traffic-signs-rw.tab",
+    "size": 3900,
+    "seealso": [
+        "<a href=https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
+    ]
 }
