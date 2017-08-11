@@ -1,0 +1,21 @@
+{
+    "collection": "UCI",
+    "description": "The quality of the white variants of the Portuguese \"Vinho Verde\" wine. Wine samples are described with results of physicochemical tests that include information on acidity, sugar and alcohol content, density and other. This data set is related to its sister data set on the quality of red wines.",
+    "instances": 4898,
+    "name": "winequality-white",
+    "references": [
+        "Cortez P, Cerdeira A, Almeida F, Matos T, and Reis J (2009) Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems Elsevier 47(4):547-553."
+    ],
+    "seealso": null,
+    "size": 264270,
+    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Wine+Quality</a>",
+    "tags": [
+        "wine"
+    ],
+    "target": "numeric",
+    "title": "Wine quality - white",
+    "url": "http://file.biolab.si/datasets/winequality-white.tab",
+    "variables": 11,
+    "version": "1.0",
+    "year": "2009"
+}

@@ -1,0 +1,17 @@
+{
+    "collection": "UCI",
+    "description": "Abalone is marine snails. This data set is about predicting abalone age from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, may be used to predict the age. The data set contains the attributes that report on sex, size and weight measurements. The age is reported as the number of rings, which increased by 1.5 gives the age in years.",
+    "instances": 4177,
+    "name": "abalone",
+    "references": null,
+    "seealso": null,
+    "size": 191993,
+    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Abalone</a>",
+    "tags": null,
+    "target": "numeric",
+    "title": "Abalone",
+    "url": "http://file.biolab.si/datasets/abalone.tab",
+    "variables": 8,
+    "version": "1.0",
+    "year": "1994"
+}
