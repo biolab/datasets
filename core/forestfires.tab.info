@@ -1,0 +1,19 @@
+{
+    "collection": "UCI",
+    "description": "This is a difficult regression task, where the aim is to predict the burned area of forest fires in the northeast region of Portugal. The attributes report on meteorological data (temperature, wind, rain, humidity), month and day of the status, several indices of the Forest Fire Weather Index, and spatial coordinate within the Montesinho park map. Two extra meta attributes are include in the Orange data set that encode the log of area + 1 and the binary attribute reporting if the part of the park was under fire (non-zero fire area).",
+    "instances": 517,
+    "name": "forestfires",
+    "references": [
+        "href=http://www.dsi.uminho.pt/~pcortez/fires.pdf>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523, 2007."
+    ],
+    "seealso": null,
+    "size": 32101,
+    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Forest+Fires</a>",
+    "tags": null,
+    "target": "numeric",
+    "title": "Forest Fires",
+    "url": "http://file.biolab.si/datasets/forestfires.tab",
+    "variables": 12,
+    "version": "1.0",
+    "year": 2007
+}
