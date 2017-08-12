@@ -7,11 +7,11 @@
     "seealso": null,
     "size": 191993,
     "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Abalone</a>",
-    "tags": null,
+    "tags": [],
     "target": "numeric",
     "title": "Abalone",
     "url": "http://butler.fri.uni-lj.si/datasets/core/abalone.tab",
     "variables": 8,
-    "version": "1.0",
+    "version": "1.1",
     "year": "1994"
 }
