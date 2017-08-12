@@ -159,7 +159,7 @@
             "instances": 517,
             "name": "forestfires",
             "references": [
-                "href=http://www.dsi.uminho.pt/~pcortez/fires.pdf>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523, 2007."
+                "Cortez P and Morais A (2007) <a href=http://www.dsi.uminho.pt/~pcortez/fires.pdf>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
             ],
             "seealso": null,
             "size": 32101,
@@ -169,7 +169,7 @@
             "title": "Forest Fires",
             "url": "http://butler.fri.uni-lj.si/datasets/core/forestfires.tab",
             "variables": 12,
-            "version": "1.0",
+            "version": "1.1",
             "year": 2007
         }
     ],
