@@ -13,12 +13,12 @@
             "seealso": null,
             "size": 191993,
             "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Abalone</a>",
-            "tags": null,
+            "tags": [],
             "target": "numeric",
             "title": "Abalone",
             "url": "http://butler.fri.uni-lj.si/datasets/core/abalone.tab",
             "variables": 8,
-            "version": "1.0",
+            "version": "1.1",
             "year": "1994"
         }
     ],
@@ -164,12 +164,12 @@
             "seealso": null,
             "size": 32101,
             "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Forest+Fires</a>",
-            "tags": null,
+            "tags": [],
             "target": "numeric",
             "title": "Forest Fires",
             "url": "http://butler.fri.uni-lj.si/datasets/core/forestfires.tab",
             "variables": 12,
-            "version": "1.1",
+            "version": "1.2",
             "year": 2007
         }
     ],
