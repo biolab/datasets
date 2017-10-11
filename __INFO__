@@ -371,6 +371,35 @@
     [
         [
             "core",
+            "slovenian-national-assembly-eng.tab"
+        ],
+        {
+            "collection": "Parlameter",
+            "description": "Ballot counts and Member of parliament (MP) description data set. Ballot counts were retrieved for selected May and June 2017 parliament sessions. ",
+            "instances": 84,
+            "name": "slovenian-national-assembly-eng",
+            "references": [],
+            "seealso": [
+                "https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/"
+            ],
+            "size": 18190,
+            "source": "<a href=Parlameter API>https://parlameter.si/</a>",
+            "tags": [
+                "clustering",
+                "images",
+                "voting"
+            ],
+            "target": "none",
+            "title": "Slovenian National Assembly",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/slovenian-national-assembly-eng.tab",
+            "variables": 18,
+            "version": "1.0",
+            "year": "2017"
+        }
+    ],
+    [
+        [
+            "core",
             "titanic.tab"
         ],
         {
