@@ -5,11 +5,11 @@
     "name": "car",
     "references": [
         "Bohanec M, Rajkovic V (1988) Knowledge acquisition and explanation for multi-attribute decision making. In 8th International Workshop on Expert Systems and their Applications, Avignon, France. pages 59-78.",
-        "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href=http://file.biolab.si/papers/1999-Zupan-AIJ.pdf>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
+        "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href='http://file.biolab.si/papers/1999-Zupan-AIJ.pdf'>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
     ],
     "seealso": null,
     "size": 51939,
-    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Car+Evaluation</a>",
+    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Car+Evaluation'>UCI ML Repository</a>",
     "tags": [
         "synthetic"
     ],

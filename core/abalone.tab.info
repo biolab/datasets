@@ -6,7 +6,7 @@
     "references": null,
     "seealso": null,
     "size": 191993,
-    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Abalone</a>",
+    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Abalone'>UCI ML Repository</a>",
     "tags": [],
     "target": "numeric",
     "title": "Abalone",

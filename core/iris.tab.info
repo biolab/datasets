@@ -10,7 +10,7 @@
     "instances": 150,
     "missing": 0,
     "variables": 5,
-    "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Iris>UCI ML Repository</a>",
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
     "size": 4625,
     "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab",
     "references": [

@@ -6,7 +6,7 @@
     "references": null,
     "seealso": null,
     "size": 30302187,
-    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Poker+Hand</a>",
+    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Poker+Hand'>UCI ML Repository</a>",
     "tags": [
         "synthetic"
     ],

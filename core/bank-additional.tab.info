@@ -8,7 +8,7 @@
     ],
     "seealso": null,
     "size": 477308,
-    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Bank+Marketing</a>",
+    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
     "tags": [
         "marketing"
     ],
