@@ -13,7 +13,7 @@ RE_HREF = """<a href=[^'"]"""
 
 ret = 0
 print('Testing:')
-for infof in glob('**/*.info', recursive=True):
+for infof in sorted(glob('**/*.info', recursive=True)):
     print(infof, end=' ... ')
     with open(infof, 'r') as f:
         d = json.load(f, object_pairs_hook=OrderedDict)
