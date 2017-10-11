@@ -380,7 +380,7 @@
             "name": "slovenian-national-assembly-eng",
             "references": [],
             "seealso": [
-                "https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/"
+                "<a href=https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/>Understanding voting patters at AKOS workshop</a>."
             ],
             "size": 18190,
             "source": "<a href=Parlameter API>https://parlameter.si/</a>",
