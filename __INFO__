@@ -12,7 +12,7 @@
             "references": null,
             "seealso": null,
             "size": 191993,
-            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Abalone</a>",
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Abalone'>UCI ML Repository</a>",
             "tags": [],
             "target": "numeric",
             "title": "Abalone",
@@ -37,7 +37,7 @@
             ],
             "seealso": null,
             "size": 477308,
-            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Bank+Marketing</a>",
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
             "tags": [
                 "marketing"
             ],
@@ -61,11 +61,11 @@
             "name": "car",
             "references": [
                 "Bohanec M, Rajkovic V (1988) Knowledge acquisition and explanation for multi-attribute decision making. In 8th International Workshop on Expert Systems and their Applications, Avignon, France. pages 59-78.",
-                "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href=http://file.biolab.si/papers/1999-Zupan-AIJ.pdf>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
+                "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href='http://file.biolab.si/papers/1999-Zupan-AIJ.pdf'>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
             ],
             "seealso": null,
             "size": 51939,
-            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Car+Evaluation</a>",
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Car+Evaluation'>UCI ML Repository</a>",
             "tags": [
                 "synthetic"
             ],
@@ -120,7 +120,7 @@
             "instances": 13165,
             "missing": true,
             "variables": 25,
-            "source": "<a href=http://register.ocistimo.si>Dumpsite Registry of Slovenia</a>",
+            "source": "<a href='http://register.ocistimo.si'>Dumpsite Registry of Slovenia</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
             "size": 2907714
         }
@@ -143,7 +143,7 @@
             "instances": 62560,
             "missing": true,
             "variables": 126,
-            "source": "<a href=https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data>neo4j data repository</a>",
+            "source": "<a href='https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data'>neo4j data repository</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
             "size": 4212566
         }
@@ -159,11 +159,11 @@
             "instances": 517,
             "name": "forestfires",
             "references": [
-                "Cortez P and Morais A (2007) <a href=http://www.dsi.uminho.pt/~pcortez/fires.pdf>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
+                "Cortez P and Morais A (2007) <a href='http://www.dsi.uminho.pt/~pcortez/fires.pdf'>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
             ],
             "seealso": null,
             "size": 32101,
-            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Forest+Fires</a>",
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Forest+Fires'>UCI ML Repository</a>",
             "tags": [],
             "target": "numeric",
             "title": "Forest Fires",
@@ -215,7 +215,7 @@
             "variables": 32,
             "url": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
             "size": 262432,
-            "source": "<a href=https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition>IBM Watson Analytics</a>"
+            "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition'>IBM Watson Analytics</a>"
         }
     ],
     [
@@ -235,7 +235,7 @@
             "instances": 150,
             "missing": 0,
             "variables": 5,
-            "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Iris>UCI ML Repository</a>",
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
             "size": 4625,
             "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab",
             "references": [
@@ -277,7 +277,7 @@
             "references": null,
             "seealso": null,
             "size": 30302187,
-            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Poker+Hand</a>",
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Poker+Hand'>UCI ML Repository</a>",
             "tags": [
                 "synthetic"
             ],
@@ -337,7 +337,7 @@
             "instances": 17931,
             "missing": true,
             "variables": 18,
-            "source": "<a href=http://www.policija.si/index.php/statistika/prometna-varnost>Archive of Slovene Ministry of Interior</a>",
+            "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events.tab",
             "size": 4501650
         }
@@ -363,7 +363,7 @@
             "instances": 32857,
             "missing": true,
             "variables": 13,
-            "source": "<a href=http://www.policija.si/index.php/statistika/prometna-varnost>Archive of Slovene Ministry of Interior</a>",
+            "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
             "size": 2915308
         }
@@ -380,10 +380,10 @@
             "name": "slovenian-national-assembly-eng",
             "references": [],
             "seealso": [
-                "<a href=https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/>Understanding voting patters at AKOS workshop</a>."
+                "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patters at AKOS workshop</a>."
             ],
             "size": 18190,
-            "source": "<a href=Parlameter API>https://parlameter.si/</a>",
+            "source": "<a href='https://parlameter.si/'>Parlameter API</a>",
             "tags": [
                 "clustering",
                 "images",
@@ -462,7 +462,7 @@
             "instances": 178,
             "missing": 0,
             "variables": 14,
-            "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Wine>UCI ML Repository</a>",
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Wine'>UCI ML Repository</a>",
             "size": 10991,
             "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab",
             "seealso": [
@@ -486,7 +486,7 @@
             ],
             "seealso": null,
             "size": 84183,
-            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Wine+Quality</a>",
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Wine+Quality'>UCI ML Repository</a>",
             "tags": [
                 "wine"
             ],
@@ -513,7 +513,7 @@
             ],
             "seealso": null,
             "size": 264270,
-            "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Wine+Quality</a>",
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Wine+Quality'>UCI ML Repository</a>",
             "tags": [
                 "wine"
             ],
@@ -544,7 +544,7 @@
             "instances": 101,
             "missing": false,
             "variables": 17,
-            "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Zoo>UCI ML Repository</a>",
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
             "url": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
             "size": 50929
         }
