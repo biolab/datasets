@@ -4,11 +4,11 @@
     "instances": 517,
     "name": "forestfires",
     "references": [
-        "Cortez P and Morais A (2007) <a href=http://www.dsi.uminho.pt/~pcortez/fires.pdf>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
+        "Cortez P and Morais A (2007) <a href='http://www.dsi.uminho.pt/~pcortez/fires.pdf'>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
     ],
     "seealso": null,
     "size": 32101,
-    "source": "<a href=UCI ML Repository>http://archive.ics.uci.edu/ml/datasets/Forest+Fires</a>",
+    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Forest+Fires'>UCI ML Repository</a>",
     "tags": [],
     "target": "numeric",
     "title": "Forest Fires",

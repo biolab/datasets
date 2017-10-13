@@ -5,10 +5,10 @@
     "name": "slovenian-national-assembly-eng",
     "references": [],
     "seealso": [
-        "<a href=https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/>Understanding voting patters at AKOS workshop</a>."
+        "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patters at AKOS workshop</a>."
     ],
     "size": 18190,
-    "source": "<a href=Parlameter API>https://parlameter.si/</a>",
+    "source": "<a href='https://parlameter.si/'>Parlameter API</a>",
     "tags": [
         "clustering",
         "images",

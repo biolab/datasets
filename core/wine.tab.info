@@ -11,7 +11,7 @@
     "missing": 0,
     "variables": 14,
     "year": "1992",
-    "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Wine>UCI ML Repository</a>",
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Wine'>UCI ML Repository</a>",
     "size": 10991,
     "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab",
     "seealso": [

@@ -12,7 +12,7 @@
     "instances": 101,
     "missing": false,
     "variables": 17,
-    "source": "<a href=https://archive.ics.uci.edu/ml/datasets/Zoo>UCI ML Repository</a>",
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
     "url": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
     "size": 50929
 }
