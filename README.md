@@ -10,7 +10,7 @@ Each data set is described with a record that contains the following attributes:
 * collection: name of original repository
 * references: any references to essential publications of the data set
 * tags: a list of tags
-* target: the type of target class, if any (categorical, numeric, or None)
+* target: the type of target variable ("categorical", "numeric", or null)
 * version:  data set version
 * year: year when the data set was first published
 * instances: number of data instances

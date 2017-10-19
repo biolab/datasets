@@ -14,7 +14,7 @@
         "images",
         "voting"
     ],
-    "target": "none",
+    "target": null,
     "title": "Slovenian National Assembly",
     "url": "http://butler.fri.uni-lj.si/datasets/core/slovenian-national-assembly-eng.tab",
     "variables": 18,
