@@ -2,7 +2,9 @@
     "name": "buettner-cell-cycle",
     "description": "Single-cell RNA-sequencing data reveals hidden subpopulations of cells",
     "title": "Cell cyle",
-    "tags": ["single cell"],
+    "tags": [
+        "single cell"
+    ],
     "version": "1.0",
     "year": 2015,
     "collection": "single-cell",
@@ -11,9 +13,10 @@
     "missing": 0,
     "variables": 564,
     "source": "<a href='https://www.nature.com/articles/nbt.3102#supplementary-information'>Buettner et. al, 2015, Nature Biotech</a>",
-    "url": "http://butler.fri.uni-lj.si/files/buettner-cell-cycle.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/buettner-cell-cycle.tab",
     "references": [
-        "Buettner et al. (2015) Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells, Nature Biotechnology 33, 155–160."
+        "Buettner et al. (2015) Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells, Nature Biotechnology 33, 155\u2013160."
     ],
-    "seealso": []
+    "seealso": [],
+    "size": 542608
 }
