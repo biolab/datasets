@@ -12,7 +12,7 @@
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML",
-    "url": "http://file.biolab.si/datasets/GDS4182-small.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/GDS4182-small.tab",
     "variables": 1000,
     "version": "1.0",
     "year": "2011"

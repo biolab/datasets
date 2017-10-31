@@ -12,7 +12,7 @@
     ],
     "target": "categorical",
     "title": "Smoking effect on B lymphocytes",
-    "url": "http://file.biolab.si/datasets/GDS3713-small.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/GDS3713-small.tab",
     "variables": 3000,
     "version": "1.0",
     "year": "2009"
