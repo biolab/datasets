@@ -1,0 +1,19 @@
+{
+    "collection": "GEO",
+    "description": "Gene expression data from peripheral circulating B cells from smoking (39 samples) and non-smoking healthy US white females (40 samples). Only 3,000 randomly selected genes (features) were retained from original data set to reduce the data size.",
+    "instances": 79,
+    "name": "GDS3713-small",
+    "references": [],
+    "seealso": [],
+    "size": 1887679,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS3713'>Gene Expression Omnibus GDS3713</a>",
+    "tags": [
+        "genomics"
+    ],
+    "target": "categorical",
+    "title": "Smoking effect on B lymphocytes",
+    "url": "http://file.biolab.si/datasets/GDS3713-small.tab",
+    "variables": 3000,
+    "version": "1.0",
+    "year": "2009"
+}
