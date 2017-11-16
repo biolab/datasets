@@ -4,7 +4,7 @@ import json
 from os.path import basename, splitext
 import re
 from sys import exit
-from urllib.request import urlopen
+from urllib.request import urlopen, Request
 
 
 MANDATORY = ('name', 'description', 'version',
@@ -34,11 +34,16 @@ for infof in sorted(glob('**/*.info', recursive=True)):
             assert re.search(RE_UNQUOTED_HREF, value) is None, 'Unquoted link'
             links = re.findall(RE_HREF_URL, value)
             for link in links:
+                url = link.strip('\'"')
                 try:
-                    urlopen(link.strip('\'"'), timeout=10)
+                    urlopen(url, timeout=10)
                 except:
-                    print('\n X Inaccessible link:', link)
-                    ret = 1
+                    try:
+                        req = Request(url, headers={'User-Agent': "Mozilla/5.0 Firefox"})
+                        con = urllib.request.urlopen(req)
+                    except:
+                        print('\n X Inaccessible link:', link)
+                        ret = 1
     print('OK')
 
 exit(ret)
