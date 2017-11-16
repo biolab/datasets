@@ -1,0 +1,22 @@
+{
+    "collection": "10x Genomics",
+    "description": "Gene expressions in bone marrow mononuclear cells from a patient with acute myeloid leukemia (AML) and two healthy donors used as controls. The data includes over 8000 cells and 1000 genes with the highest dispersion. This is a data that comes with <a href='https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser'>Loupe Cell Browser</a>, and includes cells from three separate experiments with data sets published on <a href='https://www.10xgenomics.com/single-cell/'>10x Genomics single-cell data sets page</a>: <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/aml027_pre_transplant'>AML027 Pre-transplant BMMCs</a>, <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_bmmc_healthy_donor1'>Frozen BMMCs (Healthy Control 1)</a>, and <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_bmmc_healthy_donor2'>Frozen BMMCs (Healthy Control 2)</a>.",
+    "instances": 8390,
+    "name": "aml-8k",
+    "references": [
+        "Zheng GX, Terry JM, Belgrader P et al. (2017) Massively parallel digital transcriptional profiling of single cells, Nat Commun 8:14049."
+    ],
+    "seealso": [],
+    "size": 67913443,
+    "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
+    "tags": [
+        "aml",
+        "expression"
+    ],
+    "target": "categorical",
+    "title": "Bone marrow mononuclear cells with AML",
+    "url": "http://file.biolab.si/scdata/aml-8k.pickle",
+    "variables": 1000,
+    "version": "1.0",
+    "year": "2017"
+}
