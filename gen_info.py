@@ -36,7 +36,11 @@ for root in argv[1:]:
         if changed:
             with open(infof, 'w') as f:
                 json.dump(d, f, indent=4)
-        info.append([[root, filename], d])
+        if root:
+            file_path = [root, filename]
+        else:
+            file_path = [filename]
+        info.append([file_path, d])
 
 info.sort()
 print(json.dumps(info, indent=4))
