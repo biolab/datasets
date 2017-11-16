@@ -40,7 +40,7 @@ for infof in sorted(glob('**/*.info', recursive=True)):
                 except:
                     try:
                         req = Request(url, headers={'User-Agent': "Mozilla/5.0 Firefox"})
-                        con = urllib.request.urlopen(req)
+                        con = urlopen(req)
                     except:
                         print('\n X Inaccessible link:', link)
                         ret = 1
