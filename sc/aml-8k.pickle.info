@@ -15,7 +15,7 @@
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML",
-    "url": "http://file.biolab.si/scdata/aml-8k.pickle",
+    "url": "http://butler.fri.uni-lj.si/datasets/./aml-8k.pickle",
     "variables": 1000,
     "version": "1.0",
     "year": "2017"
