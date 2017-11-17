@@ -15,7 +15,7 @@ Each data set is described with a record that contains the following attributes:
 * year: year when the data set was first published
 * instances: number of data instances
 * missing: does data contain any missing values?
-* variables: number of independent variables (class and meta variables excluded)
+* variables: number of all variables (including target and meta variables)
 * source: the web page from where the data set was obtained
 * url: the web address of the Orange-readable file with the data set
 
