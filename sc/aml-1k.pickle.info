@@ -16,7 +16,7 @@
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML (sample)",
-    "url": "http://butler.fri.uni-lj.si/datasets/./aml-1k.pickle",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/aml-1k.pickle",
     "variables": 1000,
     "version": "1.0",
     "year": "2017"
