@@ -1,0 +1,24 @@
+{
+    "collection": "10x Genomics",
+    "description": "Cell markers to be used with Gene expressions in bone marrow mononuclear cells from a patient with acute myeloid leukemia (AML) and two healthy donors used as controls. The information was manually curated from the relevant <a href='https://www.nature.com/articles/ncomms14049'>article</a> (Zheng, et. al, Nat Commun, 2017).",
+    "instances": 8,
+    "name": "markers",
+    "references": [
+        "Zheng GX, Terry JM, Belgrader P et al. (2017) Massively parallel digital transcriptional profiling of single cells, Nat Commun 8:14049."
+    ],
+    "seealso": [],
+    "size": 308,
+    "source": "<a href='https://www.nature.com/articles/ncomms14049'>10x Genomics</a>",
+    "tags": [
+        "aml",
+        "expression",
+        "markers",
+        "human"
+    ],
+    "target": "none",
+    "title": "Bone marrow mononuclear cells with AML (markers)",
+    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/aml-markers.tab",
+    "variables": 1,
+    "version": "1.0",
+    "year": "2017"
+}
