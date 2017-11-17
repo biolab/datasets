@@ -17,7 +17,7 @@
     ],
     "target": "none",
     "title": "Bone marrow mononuclear cells with AML (markers)",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/aml-markers.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/aml-markers.tab",
     "variables": 1,
     "version": "1.0",
     "year": "2017"
