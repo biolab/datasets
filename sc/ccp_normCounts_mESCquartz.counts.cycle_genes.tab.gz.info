@@ -1,0 +1,27 @@
+{
+    "collection": "NCBI",
+    "description": "The mESCs were FACS sorted into G1, S and G2M phases.  A total of 35 cells (seven S, eight G2M and 20 G1 cells) were sequenced using the Quartz-seq protocol and gene expression was normalised to FPKM values. The amount of technical noise expected for genes with variable levels of expression was estimated using a log-linear fit between the expression mean and the squared coefficient of variation between cells. The reduced data set contains expression of 561 genes related to cell cycle based on Gene Ontology (GO) terms.",
+    "instances": 35,
+    "name": "ccp_normCounts_mESCquartz.counts.cycle_genes.tab",
+    "references": [
+        "Sasagawa, Y., Nikaido, I., ..., Ueda, H. R. (2013).  <a href='https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-4-r31'> Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity. </a> Genome biology, 14(4), 3097.",
+        "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+    ],
+    "seealso": [
+        "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+    ],
+    "size": 21183,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>Gene Expression Omnibus</a>",
+    "tags": [
+        "mouse",
+        "expression",
+        "mesc",
+        "mus-musculus"
+    ],
+    "target": "categorical",
+    "title": "Cell Cycle in mESC (QuartzSeq, cell cycle genes)",
+    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
+    "variables": 562,
+    "version": "1.0",
+    "year": "2013"
+}
