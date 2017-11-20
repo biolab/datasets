@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Mouse retinal bipolar neurons",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/cdp_expression_shekhar.tab.gz",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/cdp_expression_shekhar.tab.gz",
     "variables": 4982,
     "version": "1.0",
     "year": 2016

@@ -18,7 +18,7 @@
     ],
     "target": null,
     "title": "Dendritic cells and monocytes in human blood (deeper characterization)",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/DC_expMatrix_deeper.characterization.pickle",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/DC_expMatrix_deeper.characterization.pickle",
     "variables": 26595,
     "version": "1.0",
     "year": 2017
