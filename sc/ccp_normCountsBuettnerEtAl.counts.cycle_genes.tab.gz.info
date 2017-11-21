@@ -4,7 +4,7 @@
     "instances": 182,
     "name": "ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab",
     "references": [
-        "Buettner, F., Natarajan, K. N., ... & Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160.",
+        "Buettner, F., Natarajan, K. N., ... Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160.",
         "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
     ],
     "seealso": [
