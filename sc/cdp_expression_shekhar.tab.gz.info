@@ -4,9 +4,7 @@
     "instances": 12606,
     "name": "cdp_expression_shekhar.tab",
     "references": [
-        "Shekhar, K., Lapan, S. W., ... McCarroll, S. A. (2016).  ",
-        "<a href='http://www.sciencedirect.com/science/article/pii/S0092867415005498'>",
-        "Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. </a> Cell, 166(5), 1308-1323."
+        "Shekhar, K., Lapan, S. W., ... McCarroll, S. A. (2016). <a href='http://www.sciencedirect.com/science/article/pii/S0092867415005498'> Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. </a> Cell, 166(5), 1308-1323."
     ],
     "seealso": [],
     "size": 11577148,
