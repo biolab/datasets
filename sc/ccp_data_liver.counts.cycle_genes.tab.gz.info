@@ -1,5 +1,5 @@
 {
-    "collection": "NCBI",
+    "collection": "GEO",
     "description": "Five liver cells, sequenced using the Smart-seq protocol. Since most liver cells do not proliferate, they are expected to be in G1 cycle phase.  The instances in the data set are therefore not labelled (with cell cycle information). The reduced data set contains expression of 537 genes related to cell cycle based on Gene Ontology (GO) terms.",
     "instances": 5,
     "name": "ccp_data_liver.counts.cycle_genes.tab",
@@ -11,7 +11,7 @@
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
     ],
     "size": 4009,
-    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>Gene Expression Omnibus</a>",
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
     "tags": [
         "mouse",
         "expression",
@@ -23,5 +23,5 @@
     "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_data_liver.counts.cycle_genes.tab.gz",
     "variables": 537,
     "version": "1.0",
-    "year": "2014"
+    "year": 2014
 }

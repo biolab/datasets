@@ -1,5 +1,5 @@
 {
-    "collection": "Gene Expression Omnibus",
+    "collection": "GEO",
     "description": "DropSeq analysis of more than 6,000 mouse retinal cells with expression levels of more than 6,800 genes expressed in at least 5% of the cells.",
     "instances": 6243,
     "name": "cdp_expression_macosko.tab",

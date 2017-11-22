@@ -1,6 +1,6 @@
 {
-    "collection": "Gene Expression Omnibus",
-    "description": "A data set of 1244 cells from human blood samples. The included cell types are dendritic cells (DCs) with mutants over expressed for marker genes CD141+, CD1C+, pathogenic cells driving blastic plasmacytoid dendritic cell neoplasm (BPDCN) from four donors, a double negative mutant CD11C+/CD141-/CD1C-, monocytes and plasmacytoid DCs, and cells FACS sorted for AXL6+/SIGLEC+ forming a new DC subplopulation.  GEO Accession: GSE94820.",
+    "collection": "GEO",
+    "description": "A data set of 1244 cells from human blood samples. The included cell types are dendritic cells (DCs) with mutants overexpressed for marker genes CD141+, CD1C+, pathogenic cells driving blastic plasmacytoid dendritic cell neoplasm (BPDCN) from four donors, a double negative mutant CD11C+/CD141-/CD1C-, monocytes and plasmacytoid DCs, and cells FACS sorted for AXL6+/SIGLEC+ forming a new DC subplopulation.",
     "instances": 1244,
     "name": "DC_expMatrix_deeper.characterization",
     "references": [

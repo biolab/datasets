@@ -1,5 +1,5 @@
 {
-    "collection": "Gene Expression Omnibus",
+    "collection": "GEO",
     "description": "Dendritic cells and monocytes (markers) Marker genes for dendritic cells subpopulations in human blood, associated to six clusters of cells in human blood samples. With each marker we have an associated Area Under the ROC Curve (AUC) score, quantifying the discriminative value of each marker for the cluster of interest.",
     "instances": 1019,
     "name": "DC_markers_all",

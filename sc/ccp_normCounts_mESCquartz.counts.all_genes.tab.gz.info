@@ -1,5 +1,5 @@
 {
-    "collection": "NCBI",
+    "collection": "GEO",
     "description": "The mouse embryonic stem cells (mESCs) were FACS sorted into G1, S and G2M phases.  A total of 35 cells (seven S, eight G2M and 20 G1 cells) were sequenced using the Quartz-seq protocol and gene expression was normalised to FPKM values. The amount of technical noise expected for genes with variable levels of expression was estimated using a log-linear fit between the expression mean and the squared coefficient of variation between cells. The complete dataset contains expression of 36,807 genes.",
     "instances": 35,
     "name": "ccp_normCounts_mESCquartz.counts.all_genes.tab",
@@ -11,7 +11,7 @@
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
     ],
     "size": 682779,
-    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>Gene Expression Omnibus</a>",
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
     "tags": [
         "mouse",
         "expression",
@@ -23,5 +23,5 @@
     "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_normCounts_mESCquartz.counts.all_genes.tab.gz",
     "variables": 36808,
     "version": "1.0",
-    "year": "2013"
+    "year": 2013
 }
