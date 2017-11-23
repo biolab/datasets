@@ -19,7 +19,7 @@
         "mus-musculus"
     ],
     "target": "categorical",
-    "title": "Cell Cycle prediction in mESC",
+    "title": "Cell Cycle in mESC (Fluidigm)",
     "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
     "variables": 38294,
     "version": "1.0",
