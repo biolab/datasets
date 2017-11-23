@@ -4,12 +4,11 @@
     "instances": 1019,
     "name": "DC_markers_all",
     "references": [
-        "Villani, A. C., Satija, ... Jardine, L. (2017).",
-        "<a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
+        "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
     ],
     "seealso": [],
     "size": 122124,
-    "source": "<a href='http://science.sciencemag.org/content/356/6335/eaah4573/tab-figures-data'>Gene Expression Omnibus</a>",
+    "source": "<a href='http://science.sciencemag.org/content/356/6335/eaah4573/tab-figures-data'>NCBI</a>",
     "tags": [
         "markers",
         "human",
