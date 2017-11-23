@@ -10,7 +10,7 @@
     "seealso": [
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
     ],
-    "size": 136893,
+    "size": 136525,
     "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
     "tags": [
         "mouse",
@@ -19,8 +19,8 @@
         "mus-musculus"
     ],
     "target": "categorical",
-    "title": "Cell Cycle in mESC (Fluidigm, cell cycle genes)",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz",
+    "title": "Cell Cycle in mESC (Fluidigm, cell cycle genes)", 
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz",
     "variables": 564,
     "version": "1.0",
     "year": 2015

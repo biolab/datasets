@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell Cycle in mESC (QuartzSeq)",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_normCounts_mESCquartz.counts.all_genes.tab.gz",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCounts_mESCquartz.counts.all_genes.tab.gz",
     "variables": 36808,
     "version": "1.0",
     "year": 2013
