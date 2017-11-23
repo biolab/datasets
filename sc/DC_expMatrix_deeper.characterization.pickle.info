@@ -7,7 +7,7 @@
         "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
     ],
     "seealso": [],
-    "size": 267286605,
+    "size": 17851141,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
     "tags": [
         "expression",
@@ -17,7 +17,7 @@
     ],
     "target": null,
     "title": "Dendritic cells and monocytes in human blood (deeper characterization)",
-    "url": "http://butler.fri.uni-lj.si/datasets/sc/DC_expMatrix_deeper.characterization.pickle",
+    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/DC_expMatrix_deeper.characterization.tab.gz",
     "variables": 26595,
     "version": "1.0",
     "year": 2017
