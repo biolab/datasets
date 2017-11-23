@@ -10,7 +10,7 @@
     "seealso": [
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
     ],
-    "size": 21183,
+    "size": 20758,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
     "tags": [
         "mouse",
@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell Cycle in mESC (QuartzSeq, cell cycle genes)",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
     "variables": 562,
     "version": "1.0",
     "year": 2013

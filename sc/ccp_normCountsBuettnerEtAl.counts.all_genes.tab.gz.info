@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell Cycle prediction in mESC",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
     "variables": 38294,
     "version": "1.0",
     "year": 2015

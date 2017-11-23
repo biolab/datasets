@@ -8,7 +8,7 @@
     ],
     "seealso": [
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
-],
+    ],
     "size": 293915,
     "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
     "tags": [
@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell Cycle in mESC (bulk RNA-seq)",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_data_mESCbulk.counts.all_genes.tab.gz",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
     "variables": 38294,
     "version": "1.0",
     "year": 2015

@@ -20,7 +20,7 @@
     ],
     "target": null,
     "title": "Cell cycle in T-cells",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/ccp_data_Tcells_normCounts.counts.all_genes.tab.gz",
+    "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_data_Tcells_normCounts.counts.all_genes.tab.gz",
     "variables": 38293,
     "version": "1.0",
     "year": 2014
