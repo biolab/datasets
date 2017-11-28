@@ -2,7 +2,7 @@
     "collection": "EBI",
     "description": "A single-cell RNA-seq dataset comprised of 182 mouse embryonic stem cells (mESCs) with known cell-cycle phase. Cells were sorted using FACS for three different cell-cycle phases. This resulted in a filtered set of 59 cells in G1 phase, 58 cells in S phase and 65 cells in G2M phase. Next, single-cell RNA-seq was performed using the C1 Single Cell Auto Prep System (Fluidigm). The raw read counts were normalised using two different size factors derived from endogenous genes and ERCC spike-ins. The complete dataset contains expression of 38,293 genes.",
     "instances": 182,
-    "name": "ccp_normCountsBuettnerEtAl.counts.all_genes.tab",
+    "name": "ccp_normCountsBuettnerEtAl.counts.all_genes",
     "references": [
         "Buettner, F., Natarajan, K. N., ... Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160.",
         "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."

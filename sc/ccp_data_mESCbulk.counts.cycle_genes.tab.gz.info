@@ -2,7 +2,7 @@
     "collection": "EBI",
     "description": "Mouse embryonic stem cells (mESCs) were FACS sorted for cell cycle stages (G1, S and G2M).  Approximately 150,000\u2013300,000 cells from an asynchronous population and from each cell cycle fractions (G1, S and G2M) were used for bulk mRNA sequencing, with libraries being generated using the Illumina TruSeq Stranded RNA Sample preparation kit. All libraries were prepared and sequenced using the Wellcome Trust Sanger Institute sample preparation pipeline. Sequencing quality control and data quality checks were performed by the Sanger Sequencing facility. The reduced data set contains expression of 553 genes related to cell cycle based on Gene Ontology (GO) terms.",
     "instances": 4,
-    "name": "ccp_data_mESCbulk.counts.cycle_genes.tab",
+    "name": "ccp_data_mESCbulk.counts.cycle_genes",
     "references": [
         "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
     ],
