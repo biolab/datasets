@@ -19,7 +19,7 @@
         "mus-musculus"
     ],
     "target": "categorical",
-    "title": "Cell Cycle in mESC (QuartzSeq, cell cycle genes)",
+    "title": "Cell cycle in mESC (QuartzSeq, cell cycle genes)",
     "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
     "variables": 562,
     "version": "1.0",
