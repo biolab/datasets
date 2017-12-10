@@ -14,7 +14,7 @@
     ],
     "target": "categorical",
     "title": "Traffic signs",
-    "url": "http://file.biolab.si/datasets/traffic-signs.tab",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs.tab",
     "variables": 0,
     "version": "1.0",
     "year": "2017"

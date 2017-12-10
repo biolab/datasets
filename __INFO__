@@ -504,25 +504,28 @@
     [
         [
             "core",
-            "traffic-signs-rw.tab"
+            "traffic-signs.tab"
         ],
         {
-            "name": "traffic-signs-rw",
-            "title": "Traffic signs",
-            "description": "Images (icons) of regulatory and warning traffic signs.",
+            "collection": "",
+            "description": "Images (icons) of traffic signs.",
+            "instances": 70,
+            "name": "traffic-signs",
+            "references": [],
+            "seealso": [
+                "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
+            ],
+            "size": 3726,
+            "source": null,
             "tags": [
                 "images"
             ],
             "target": "categorical",
-            "version": "1.2",
-            "year": 2017,
-            "instances": 40,
-            "variables": 3,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs-rw.tab",
-            "size": 3900,
-            "seealso": [
-                "<a href=https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
-            ]
+            "title": "Traffic signs",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs.tab",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2017"
         }
     ],
     [
