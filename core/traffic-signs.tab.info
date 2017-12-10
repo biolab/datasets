@@ -1,0 +1,21 @@
+{
+    "collection": "",
+    "description": "Images (icons) of traffic signs.",
+    "instances": 70,
+    "name": "traffic-signs",
+    "references": [],
+    "seealso": [
+        "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
+    ],
+    "size": 3726,
+    "source": null,
+    "tags": [
+        "images"
+    ],
+    "target": "categorical",
+    "title": "Traffic signs",
+    "url": "http://file.biolab.si/datasets/traffic-signs.tab",
+    "variables": 0,
+    "version": "1.0",
+    "year": "2017"
+}
