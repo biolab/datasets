@@ -102,6 +102,32 @@
     [
         [
             "core",
+            "bone-healing.xlsx"
+        ],
+        {
+            "collection": "",
+            "description": "Microscope images of bone-fracture repair that highlight the involvement from skeletal stem cells. Images are from laboratory of Dongsu Park at Baylor College of Medicine, Houston.",
+            "instances": 37,
+            "name": "bone-healing",
+            "references": [],
+            "seealso": [],
+            "size": 11922,
+            "source": null,
+            "tags": [
+                "images",
+                "everyone"
+            ],
+            "target": "categorical",
+            "title": "Bone Healing",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/bone-healing.xlsx",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2018"
+        }
+    ],
+    [
+        [
+            "core",
             "car.tab"
         ],
         {
@@ -168,7 +194,8 @@
             "source": null,
             "tags": [
                 "images",
-                "dictyostelium"
+                "dictyostelium",
+                "everyone"
             ],
             "target": "categorical",
             "title": "Development of Social Amoeba",
@@ -340,6 +367,32 @@
             "variables": 15,
             "url": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
             "size": 219235
+        }
+    ],
+    [
+        [
+            "core",
+            "oocyte-competence.xlsx"
+        ],
+        {
+            "collection": "",
+            "description": "Fluorescence images of the nucleus of mouse fully-grown antral oocytes from University of Pavia.",
+            "instances": 131,
+            "name": "oocyte-competence",
+            "references": [],
+            "seealso": [],
+            "size": 9707,
+            "source": null,
+            "tags": [
+                "images",
+                "everyone"
+            ],
+            "target": "categorical",
+            "title": "Mammalian Oocyte Developmental Competence",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/oocyte-competence.xlsx",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2018"
         }
     ],
     [
@@ -634,6 +687,32 @@
             "variables": 11,
             "version": "1.0",
             "year": "2009"
+        }
+    ],
+    [
+        [
+            "core",
+            "yplp.xlsx"
+        ],
+        {
+            "collection": "YPL+.db",
+            "description": "Yeast protein localization images from YPL+ database. Included are only images with unique (single) localization site. The data set includes only localization sites that were reported for at least 30 distinct proteins.",
+            "instances": 2569,
+            "name": "yplp",
+            "references": [],
+            "seealso": [],
+            "size": 93607,
+            "source": "<a href='http://yplp.uni-graz.at'>YPL+.db</a>",
+            "tags": [
+                "images",
+                "everyone"
+            ],
+            "target": "categorical",
+            "title": "Yeast Protein Localization",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/yplp.xlsx",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2018"
         }
     ],
     [

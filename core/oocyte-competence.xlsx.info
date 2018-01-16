@@ -13,7 +13,7 @@
     ],
     "target": "categorical",
     "title": "Mammalian Oocyte Developmental Competence",
-    "url": "http://file.biolab.si/datasets/oocyte-competence.xlsx",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/oocyte-competence.xlsx",
     "variables": 0,
     "version": "1.0",
     "year": "2018"
