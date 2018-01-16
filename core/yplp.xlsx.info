@@ -1,0 +1,20 @@
+{
+    "collection": "YPL+.db",
+    "description": "Yeast protein localization images from YPL+ database. Included are only images with unique (single) localization site. The data set includes only localization sites that were reported for at least 30 distinct proteins.",
+    "instances": 2569,
+    "name": "yplp",
+    "references": [],
+    "seealso": [],
+    "size": 93607,
+    "source": "<a href='http://yplp.uni-graz.at'>YPL+.db</a>",
+    "tags": [
+        "images",
+        "everyone"
+    ],
+    "target": "categorical",
+    "title": "Yeast Protein Localization",
+    "url": "http://file.biolab.si/datasets/yplp.xlsx",
+    "variables": 0,
+    "version": "1.0",
+    "year": "2018"
+}
