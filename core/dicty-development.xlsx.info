@@ -15,7 +15,7 @@
     ],
     "target": "categorical",
     "title": "Development of Social Amoeba",
-    "url": "http://file.biolab.si/datasets/dicty-development.xlsx",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/dicty-development.xlsx",
     "variables": 0,
     "version": "1.0",
     "year": "2018"
