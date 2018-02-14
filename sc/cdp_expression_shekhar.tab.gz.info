@@ -17,7 +17,7 @@
         "drop-seq"
     ],
     "target": "categorical",
-    "title": "Mouse retinal bipolar neurons",
+    "title": "Mouse retinal bipolar neurons (DropSeq, large)",
     "url": "http://butler.fri.uni-lj.si/datasets/sc/cdp_expression_shekhar.tab.gz",
     "variables": 4982,
     "version": "1.0",
