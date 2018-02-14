@@ -1,0 +1,23 @@
+{
+    "collection": "",
+    "description": "Images of strains of the social amoeba Dictyostelium discoideum from Gad Shaulsky's Lab at Baylor College of Medicine, Houston, USA.",
+    "instances": 152,
+    "name": "dicty-development",
+    "references": [
+        "Li CL, Santhanam B, Webb AN, Zupan B, Shaulsky G (2016) Gene discovery by chemical mutagenesis and whole-genome sequencing in Dictyostelium. Genome Res 26(9):1268-76."
+    ],
+    "seealso": [],
+    "size": 46639,
+    "source": null,
+    "tags": [
+        "images",
+        "dictyostelium",
+	"everyone"
+    ],
+    "target": "categorical",
+    "title": "Development of Social Amoeba",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/dicty-development.xlsx",
+    "variables": 0,
+    "version": "1.0",
+    "year": "2018"
+}

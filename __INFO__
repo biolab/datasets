@@ -102,6 +102,32 @@
     [
         [
             "core",
+            "bone-healing.xlsx"
+        ],
+        {
+            "collection": "",
+            "description": "Microscope images of bone-fracture repair that highlight the involvement from skeletal stem cells. Images are from laboratory of Dongsu Park at Baylor College of Medicine, Houston.",
+            "instances": 37,
+            "name": "bone-healing",
+            "references": [],
+            "seealso": [],
+            "size": 11922,
+            "source": null,
+            "tags": [
+                "images",
+                "everyone"
+            ],
+            "target": "categorical",
+            "title": "Bone Healing",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/bone-healing.xlsx",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2018"
+        }
+    ],
+    [
+        [
+            "core",
             "car.tab"
         ],
         {
@@ -148,6 +174,35 @@
             "variables": 234,
             "url": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
             "size": 1018671
+        }
+    ],
+    [
+        [
+            "core",
+            "dicty-development.xlsx"
+        ],
+        {
+            "collection": "",
+            "description": "Images of strains of the social amoeba Dictyostelium discoideum from Gad Shaulsky's Lab at Baylor College of Medicine, Houston, USA.",
+            "instances": 152,
+            "name": "dicty-development",
+            "references": [
+                "Li CL, Santhanam B, Webb AN, Zupan B, Shaulsky G (2016) Gene discovery by chemical mutagenesis and whole-genome sequencing in Dictyostelium. Genome Res 26(9):1268-76."
+            ],
+            "seealso": [],
+            "size": 46639,
+            "source": null,
+            "tags": [
+                "images",
+                "dictyostelium",
+                "everyone"
+            ],
+            "target": "categorical",
+            "title": "Development of Social Amoeba",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/dicty-development.xlsx",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2018"
         }
     ],
     [
@@ -312,6 +367,32 @@
             "variables": 15,
             "url": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
             "size": 219235
+        }
+    ],
+    [
+        [
+            "core",
+            "oocyte-competence.xlsx"
+        ],
+        {
+            "collection": "",
+            "description": "Fluorescence images of the nucleus of mouse fully-grown antral oocytes from University of Pavia.",
+            "instances": 131,
+            "name": "oocyte-competence",
+            "references": [],
+            "seealso": [],
+            "size": 9707,
+            "source": null,
+            "tags": [
+                "images",
+                "everyone"
+            ],
+            "target": "categorical",
+            "title": "Mammalian Oocyte Developmental Competence",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/oocyte-competence.xlsx",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2018"
         }
     ],
     [
@@ -606,6 +687,32 @@
             "variables": 11,
             "version": "1.0",
             "year": "2009"
+        }
+    ],
+    [
+        [
+            "core",
+            "yplp.xlsx"
+        ],
+        {
+            "collection": "YPL+.db",
+            "description": "Yeast protein localization images from YPL+ database. Included are only images with unique (single) localization site. The data set includes only localization sites that were reported for at least 30 distinct proteins.",
+            "instances": 2569,
+            "name": "yplp",
+            "references": [],
+            "seealso": [],
+            "size": 93607,
+            "source": "<a href='http://yplp.uni-graz.at'>YPL+.db</a>",
+            "tags": [
+                "images",
+                "everyone"
+            ],
+            "target": "categorical",
+            "title": "Yeast Protein Localization",
+            "url": "http://butler.fri.uni-lj.si/datasets/core/yplp.xlsx",
+            "variables": 0,
+            "version": "1.0",
+            "year": "2018"
         }
     ],
     [

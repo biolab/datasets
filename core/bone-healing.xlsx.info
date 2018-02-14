@@ -1,0 +1,20 @@
+{
+    "collection": "",
+    "description": "Microscope images of bone-fracture repair that highlight the involvement from skeletal stem cells. Images are from laboratory of Dongsu Park at Baylor College of Medicine, Houston.",
+    "instances": 37,
+    "name": "bone-healing",
+    "references": [],
+    "seealso": [],
+    "size": 11922,
+    "source": null,
+    "tags": [
+        "images",
+        "everyone"
+    ],
+    "target": "categorical",
+    "title": "Bone Healing",
+    "url": "http://butler.fri.uni-lj.si/datasets/core/bone-healing.xlsx",
+    "variables": 0,
+    "version": "1.0",
+    "year": "2018"
+}
