@@ -17,7 +17,7 @@
         "drop-seq"
     ],
     "target": null,
-    "title": "Mouse retinal bipolar neurons (DropSeq)”,
+    "title": "Mouse retinal bipolar neurons (DropSeq)",
     "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/cdp_expression_macosko.tab.gz",
     "variables": 6862,
     "version": "1.0",
