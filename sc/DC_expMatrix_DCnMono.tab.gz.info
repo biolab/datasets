@@ -2,7 +2,7 @@
     "collection": "GEO",
     "description": "A data set of 1140 cells from human blood samples. The included cell types are dendritic cells (DCs) with mutants overexpressed for marker genes CD141+ or CD1C+, a double negative mutant CD11C+/CD141-/CD1C-, monocytes and plasmacytoid DCs. Gene expression is measured as raw count data on 26,593 genes.",
     "instances": 1140,
-    "name": "DC_expMatrix_DCnMono",
+    "name": "DC_expMatrix_DCnMono.tab",
     "references": [
         "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
     ],
