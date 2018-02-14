@@ -2,7 +2,7 @@
     "collection": "GEO",
     "description": "A data set of 1244 cells from human blood samples. The included cell types are dendritic cells (DCs) with mutants overexpressed for marker genes CD141+, CD1C+, pathogenic cells driving blastic plasmacytoid dendritic cell neoplasm (BPDCN) from four donors, a double negative mutant CD11C+/CD141-/CD1C-, monocytes and plasmacytoid DCs, and cells FACS sorted for AXL6+/SIGLEC+ forming a new DC subplopulation.",
     "instances": 1244,
-    "name": "DC_expMatrix_deeper.characterization",
+    "name": "DC_expMatrix_deeper.characterization.tab",
     "references": [
         "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
     ],

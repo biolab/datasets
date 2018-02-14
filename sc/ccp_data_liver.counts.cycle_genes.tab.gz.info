@@ -2,7 +2,7 @@
     "collection": "GEO",
     "description": "Five liver cells, sequenced using the Smart-seq protocol. Since most liver cells do not proliferate, they are expected to be in G1 cycle phase.  The instances in the data set are therefore not labelled (with cell cycle information). The reduced data set contains expression of 537 genes related to cell cycle based on Gene Ontology (GO) terms.",
     "instances": 5,
-    "name": "ccp_data_liver.counts.cycle_genes",
+    "name": "ccp_data_liver.counts.cycle_genes.tab",
     "references": [
         "Deng, Q., Ramsk\u00f6ld, D., Reinius, B., Sandberg, R. (2014). <a href='http://science.sciencemag.org/content/343/6167/193.full'> Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells. </a> Science, 343(6167), 193-196.",
         "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."

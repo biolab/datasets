@@ -2,7 +2,7 @@
     "collection": "EBI",
     "description": "Na\u00efve CD4+ cells from spleens of IL-13eGFP Balb/c mice were negatively selected and differentiated toward TH2 in anti-CD3/CD28 coated plates.  Gene expression was normalized with respect to ERCC spike-ins. Cell cycle stage of the cells is not known, but relevant marker genes can be used.  The complete dataset contains expression of 38,293 genes.",
     "instances": 81,
-    "name": "ccp_data_Tcells_normCounts.counts.all_genes",
+    "name": "ccp_data_Tcells_normCounts.counts.all_genes.tab",
     "references": [
         "Mahata, B., Zhang, X., ...  Arlt, W. (2014). <a href='http://www.sciencedirect.com/science/article/pii/S2211124714002988'> Single-cell RNA sequencing reveals T helper cells synthesizing steroids de novo to contribute to immune homeostasis.</a> Cell reports, 7(4), 1130-1142.",
         "Buettner, F., Natarajan, K. N., ... Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160."

@@ -2,7 +2,7 @@
     "collection": "GEO",
     "description": "The dataset contains a heterogeneous class of neurons, mouse retinal bipolar cells (BCs). Gene expression was measured with the DropSeq protocol. More than 4,900 genes expressed in at least 5% of the cells are included. The 12,606 cells are classified into 13 subtypes based on morphology and position.",
     "instances": 12606,
-    "name": "cdp_expression_shekhar",
+    "name": "cdp_expression_shekhar.tab",
     "references": [
         "Shekhar, K., Lapan, S. W., ... McCarroll, S. A. (2016). <a href='http://www.sciencedirect.com/science/article/pii/S0092867416310078'> Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. </a> Cell, 166(5), 1308-1323."
     ],
