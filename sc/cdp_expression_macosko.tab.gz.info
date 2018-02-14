@@ -2,7 +2,7 @@
     "collection": "GEO",
     "description": "DropSeq analysis of more than 6,000 mouse retinal cells with expression levels of more than 6,800 genes expressed in at least 5% of the cells. The cells are labelled with corresponding bipolar cell (BC) cluster identified by the original study.",
     "instances": 6243,
-    "name": "cdp_expression_macosko.tab",
+    "name": "cdp_expression_macosko",
     "references": [
         "Macosko, E. Z., Basu, A., Satija, R., ... Trombetta, J. J. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S0092867415005498'> Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. </a> Cell, 161(5), 1202-1214."
     ],
@@ -20,6 +20,6 @@
     "title": "Mouse retinal bipolar neurons (DropSeq)",
     "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/cdp_expression_macosko.tab.gz",
     "variables": 6862,
-    "version": "1.0",
+    "version": "2.0",
     "year": 2015
 }
