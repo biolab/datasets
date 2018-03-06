@@ -20,5 +20,6 @@
     "url": "http://butler.fri.uni-lj.si/datasets/sc/DC_markers_all.tab",
     "variables": 11,
     "version": "1.0",
-    "year": 2017
+    "year": 2017,
+    "taxid": "9606"
 }
