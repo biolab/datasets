@@ -23,5 +23,6 @@
     "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
     "variables": 562,
     "version": "1.0",
-    "year": 2013
+    "year": 2013,
+    "taxid": "10090"
 }

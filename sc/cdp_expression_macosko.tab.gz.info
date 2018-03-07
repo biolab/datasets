@@ -21,5 +21,6 @@
     "url": "http://butler.fri.uni-lj.si/datasets/sc/cdp_expression_macosko.tab.gz",
     "variables": 6862,
     "version": "2.0",
-    "year": 2015
+    "year": 2015,
+    "taxid": "10090"
 }
