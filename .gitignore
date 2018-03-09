@@ -1,0 +1,12 @@
+# Data files
+core/*.tab
+core/*.xlsx
+core/*.basket
+core/*.gz
+core/*.pickle
+
+sc/*.tab
+sc/*.xlsx
+sc/*.basket
+sc/*.gz
+sc/*.pickle
