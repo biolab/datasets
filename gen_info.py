@@ -7,7 +7,8 @@ from sys import argv, stderr
 from urllib.request import urlretrieve
 
 
-URL = 'http://butler.fri.uni-lj.si/datasets'
+# set the base url without trailing slash!
+URL = 'http://datasets.orange.biolab.si'
 
 
 start_dir = getcwd()
