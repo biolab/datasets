@@ -1,0 +1,571 @@
+[
+    [
+        [
+            "DC_expMatrix_DCnMono.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "A data set of 1140 cells from human blood samples. The included cell types are dendritic cells (DCs) with mutants overexpressed for marker genes CD141+ or CD1C+, a double negative mutant CD11C+/CD141-/CD1C-, monocytes and plasmacytoid DCs. Gene expression is measured as raw count data on 26,593 genes.",
+            "instances": 1140,
+            "name": "DC_expMatrix_DCnMono",
+            "references": [
+                "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
+            ],
+            "seealso": [],
+            "size": 19163499,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
+            "tags": [
+                "expression",
+                "human",
+                "homo-sapiens",
+                "blood"
+            ],
+            "target": null,
+            "title": "Dendritic cells and monocytes in human blood",
+            "url": "http://datasets.orange.biolab.si/sc/DC_expMatrix_DCnMono.tab.gz",
+            "variables": 26595,
+            "version": "1.1",
+            "year": 2017,
+            "taxid": "9606"
+        }
+    ],
+    [
+        [
+            "DC_expMatrix_deeper.characterization.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "A data set of 1244 cells from human blood samples. The included cell types are dendritic cells (DCs) with mutants overexpressed for marker genes CD141+, CD1C+, pathogenic cells driving blastic plasmacytoid dendritic cell neoplasm (BPDCN) from four donors, a double negative mutant CD11C+/CD141-/CD1C-, monocytes and plasmacytoid DCs, and cells FACS sorted for AXL6+/SIGLEC+ forming a new DC subplopulation.",
+            "instances": 1244,
+            "name": "DC_expMatrix_deeper.characterization",
+            "references": [
+                "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
+            ],
+            "seealso": [],
+            "size": 17851141,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
+            "tags": [
+                "expression",
+                "human",
+                "homo-sapiens",
+                "blood"
+            ],
+            "target": null,
+            "title": "Dendritic cells and monocytes in human blood (deeper characterization)",
+            "url": "http://datasets.orange.biolab.si/sc/DC_expMatrix_deeper.characterization.tab.gz",
+            "variables": 26595,
+            "version": "1.1",
+            "year": 2017,
+            "taxid": "9606"
+        }
+    ],
+    [
+        [
+            "DC_markers_all.tab"
+        ],
+        {
+            "collection": "GEO",
+            "description": "Dendritic cells and monocytes (markers) Marker genes for dendritic cells subpopulations in human blood, associated to six clusters of cells in human blood samples. With each marker we have an associated Area Under the ROC Curve (AUC) score, quantifying the discriminative value of each marker for the cluster of interest.",
+            "instances": 1019,
+            "name": "DC_markers_all",
+            "references": [
+                "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
+            ],
+            "seealso": [],
+            "size": 122124,
+            "source": "<a href='http://science.sciencemag.org/content/356/6335/eaah4573/tab-figures-data'>NCBI</a>",
+            "tags": [
+                "markers",
+                "human",
+                "homo-sapiens",
+                "blood"
+            ],
+            "target": null,
+            "title": "Dendritic cells and monocytes (markers)",
+            "url": "http://datasets.orange.biolab.si/sc/DC_markers_all.tab",
+            "variables": 11,
+            "version": "1.0",
+            "year": 2017,
+            "taxid": "9606"
+        }
+    ],
+    [
+        [
+            "aml-1k.pickle"
+        ],
+        {
+            "collection": "10x Genomics",
+            "description": "Gene expressions in bone marrow mononuclear cells from a patient with acute myeloid leukemia (AML) and two healthy donors used as controls. The data includes a sample of 1000 cells and 1000 genes with the highest dispersion. This is a sample data that comes with <a href='https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser'>Loupe Cell Browser</a>, and includes cells from three separate experiments with data sets published on <a href='https://www.10xgenomics.com/single-cell/'>10x Genomics single-cell data sets page</a>: <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/aml027_pre_transplant'>AML027 Pre-transplant BMMCs</a>, <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_bmmc_healthy_donor1'>Frozen BMMCs (Healthy Control 1)</a>, and <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_bmmc_healthy_donor2'>Frozen BMMCs (Healthy Control 2)</a>.",
+            "instances": 1000,
+            "name": "aml-1k",
+            "references": [
+                "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
+            ],
+            "seealso": [],
+            "size": 8209557,
+            "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
+            "tags": [
+                "aml",
+                "expression",
+                "sample"
+            ],
+            "target": "categorical",
+            "title": "Bone marrow mononuclear cells with AML (sample)",
+            "url": "http://datasets.orange.biolab.si/sc/aml-1k.pickle",
+            "variables": 1004,
+            "version": "1.0",
+            "year": 2017,
+            "taxid": "9606"
+        }
+    ],
+    [
+        [
+            "aml-8k.pickle"
+        ],
+        {
+            "collection": "10x Genomics",
+            "description": "Gene expressions in bone marrow mononuclear cells from a patient with acute myeloid leukemia (AML) and two healthy donors used as controls. The data includes over 8000 cells and 1000 genes with the highest dispersion. This is a data that comes with <a href='https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/what-is-loupe-cell-browser'>Loupe Cell Browser</a>, and includes cells from three separate experiments with data sets published on <a href='https://www.10xgenomics.com/single-cell/'>10x Genomics single-cell data sets page</a>: <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/aml027_pre_transplant'>AML027 Pre-transplant BMMCs</a>, <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_bmmc_healthy_donor1'>Frozen BMMCs (Healthy Control 1)</a>, and <a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets/1.1.0/frozen_bmmc_healthy_donor2'>Frozen BMMCs (Healthy Control 2)</a>.",
+            "instances": 8390,
+            "name": "aml-8k",
+            "references": [
+                "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
+            ],
+            "seealso": [],
+            "size": 67913443,
+            "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
+            "tags": [
+                "aml",
+                "expression"
+            ],
+            "target": "categorical",
+            "title": "Bone marrow mononuclear cells with AML",
+            "url": "http://datasets.orange.biolab.si/sc/aml-8k.pickle",
+            "variables": 1004,
+            "version": "1.0",
+            "year": 2017,
+            "taxid": "9606"
+        }
+    ],
+    [
+        [
+            "aml-markers.tab"
+        ],
+        {
+            "collection": "10x Genomics",
+            "description": "Cell type markers for bone marrow cells. Markers were manually extracted from the <a href='https://www.nature.com/articles/ncomms14049'>publication on bone marrow mononuclear cells with AML</a>.",
+            "instances": 8,
+            "name": "aml-markers",
+            "references": [
+                "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
+            ],
+            "seealso": [],
+            "size": 308,
+            "source": "<a href='https://www.nature.com/articles/ncomms14049'>10x Genomics</a>",
+            "tags": [
+                "aml",
+                "expression",
+                "markers",
+                "human"
+            ],
+            "target": null,
+            "title": "Bone marrow mononuclear cells with AML (markers)",
+            "url": "http://datasets.orange.biolab.si/sc/aml-markers.tab",
+            "variables": 3,
+            "version": "1.0",
+            "year": 2017,
+            "taxid": "9606"
+        }
+    ],
+    [
+        [
+            "ccp_data_Tcells_normCounts.counts.all_genes.tab.gz"
+        ],
+        {
+            "collection": "EBI",
+            "description": "Na\u00efve CD4+ cells from spleens of IL-13eGFP Balb/c mice were negatively selected and differentiated toward TH2 in anti-CD3/CD28 coated plates.  Gene expression was normalized with respect to ERCC spike-ins. Cell cycle stage of the cells is not known, but relevant marker genes can be used.  The complete dataset contains expression of 38,293 genes.",
+            "instances": 81,
+            "name": "ccp_data_Tcells_normCounts.counts.all_genes",
+            "references": [
+                "Mahata, B., Zhang, X., ...  Arlt, W. (2014). <a href='http://www.sciencedirect.com/science/article/pii/S2211124714002988'> Single-cell RNA sequencing reveals T helper cells synthesizing steroids de novo to contribute to immune homeostasis.</a> Cell reports, 7(4), 1130-1142.",
+                "Buettner, F., Natarajan, K. N., ... Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/scLVM'> PMBio / scLVM </a> (GitHub resource)."
+            ],
+            "size": 4475628,
+            "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2512/'>ArrayExpress</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "tcell",
+                "mus-musculus"
+            ],
+            "target": null,
+            "title": "Cell cycle in T-cells",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.all_genes.tab.gz",
+            "variables": 38293,
+            "version": "1.0",
+            "year": 2014,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_data_Tcells_normCounts.counts.cycle_genes.tab.gz"
+        ],
+        {
+            "collection": "EBI",
+            "description": "Na\u00efve CD4+ cells from spleens of IL-13eGFP Balb/c mice were negatively selected and differentiated toward TH2 in anti-CD3/CD28 coated plates.  Gene expression was normalized with respect to ERCC spike-ins. Cell cycle stage of the cells is not known,  but relevant marker genes can be used.  The reduced data set contains expression of 553 genes related to cell cycle based on Gene Ontology (GO) terms.",
+            "instances": 81,
+            "name": "ccp_data_Tcells_normCounts.counts.cycle_genes",
+            "references": [
+                "Mahata, B., Zhang, X., ...  Arlt, W. (2014). <a href='http://www.sciencedirect.com/science/article/pii/S2211124714002988'> Single-cell RNA sequencing reveals T helper cells synthesizing steroids de novo to contribute to immune homeostasis.</a> Cell reports, 7(4), 1130-1142.",
+                "Buettner, F., Natarajan, K. N., ... Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/scLVM'> PMBio / scLVM </a> (GitHub resource)."
+            ],
+            "size": 225475,
+            "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2512/'>ArrayExpress</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "tcell",
+                "mus-musculus"
+            ],
+            "target": null,
+            "title": "Cell cycle in T-cells (cell cycle genes)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.cycle_genes.tab.gz",
+            "variables": 553,
+            "version": "1.0",
+            "year": 2014,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_data_liver.counts.all_genes.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "Five liver cells, sequenced using the Smart-seq protocol. Since most liver cells do not proliferate, they are expected to be in G1 cycle phase.  The instances in the data set are therefore not labelled (with cell cycle information). The complete dataset contains expression of 20,683 genes.",
+            "instances": 5,
+            "name": "ccp_data_liver.counts.all_genes",
+            "references": [
+                "Deng, Q., Ramsk\u00f6ld, D., Reinius, B., Sandberg, R. (2014). <a href='http://science.sciencemag.org/content/343/6167/193.full'> Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells. </a> Science, 343(6167), 193-196.",
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 128912,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "liver",
+                "mus-musculus"
+            ],
+            "target": null,
+            "title": "Cell cycle in mouse liver",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.all_genes.tab.gz",
+            "variables": 20683,
+            "version": "1.0",
+            "year": 2014,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_data_liver.counts.cycle_genes.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "Five liver cells, sequenced using the Smart-seq protocol. Since most liver cells do not proliferate, they are expected to be in G1 cycle phase.  The instances in the data set are therefore not labelled (with cell cycle information). The reduced data set contains expression of 537 genes related to cell cycle based on Gene Ontology (GO) terms.",
+            "instances": 5,
+            "name": "ccp_data_liver.counts.cycle_genes",
+            "references": [
+                "Deng, Q., Ramsk\u00f6ld, D., Reinius, B., Sandberg, R. (2014). <a href='http://science.sciencemag.org/content/343/6167/193.full'> Single-cell RNA-seq reveals dynamic, random monoallelic gene expression in mammalian cells. </a> Science, 343(6167), 193-196.",
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 3594,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "liver",
+                "mus-musculus"
+            ],
+            "target": null,
+            "title": "Cell cycle in mouse liver (cell cycle genes)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.cycle_genes.tab.gz",
+            "variables": 537,
+            "version": "1.0",
+            "year": 2014,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_data_mESCbulk.counts.all_genes.tab.gz"
+        ],
+        {
+            "collection": "EBI",
+            "description": "Mouse embryonic stem cells (mESCs) were FACS sorted for cell cycle stages (G1, S and G2M).  Approximately 150,000\u2013300,000 cells from an asynchronous population and from each cell cycle fractions (G1, S and G2M) were used for bulk mRNA sequencing, with libraries being generated using the Illumina TruSeq Stranded RNA Sample preparation kit. All libraries were prepared and sequenced using the Wellcome Trust Sanger Institute sample preparation pipeline. Sequencing quality control and data quality checks were performed by the Sanger Sequencing facility. The complete dataset contains expression of 38,293 genes.",
+            "instances": 4,
+            "name": "ccp_data_mESCbulk.counts.all_genes",
+            "references": [
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 293915,
+            "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "mesc",
+                "mus-musculus",
+                "rna-seq"
+            ],
+            "target": "categorical",
+            "title": "Cell cycle in mESC (bulk RNA-seq)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
+            "variables": 38294,
+            "version": "1.0",
+            "year": 2015,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_data_mESCbulk.counts.cycle_genes.tab.gz"
+        ],
+        {
+            "collection": "EBI",
+            "description": "Mouse embryonic stem cells (mESCs) were FACS sorted for cell cycle stages (G1, S and G2M).  Approximately 150,000\u2013300,000 cells from an asynchronous population and from each cell cycle fractions (G1, S and G2M) were used for bulk mRNA sequencing, with libraries being generated using the Illumina TruSeq Stranded RNA Sample preparation kit. All libraries were prepared and sequenced using the Wellcome Trust Sanger Institute sample preparation pipeline. Sequencing quality control and data quality checks were performed by the Sanger Sequencing facility. The reduced data set contains expression of 553 genes related to cell cycle based on Gene Ontology (GO) terms.",
+            "instances": 4,
+            "name": "ccp_data_mESCbulk.counts.cycle_genes",
+            "references": [
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 7209,
+            "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "mesc",
+                "mus-musculus",
+                "rna-seq"
+            ],
+            "target": "categorical",
+            "title": "Cell cycle in mESC (bulk RNA-seq, cell cycle genes)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.cycle_genes.tab.gz",
+            "variables": 554,
+            "version": "1.0",
+            "year": 2015,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz"
+        ],
+        {
+            "collection": "EBI",
+            "description": "A single-cell RNA-seq dataset comprised of 182 mouse embryonic stem cells (mESCs) with known cell-cycle phase. Cells were sorted using FACS for three different cell-cycle phases. This resulted in a filtered set of 59 cells in G1 phase, 58 cells in S phase and 65 cells in G2M phase. Next, single-cell RNA-seq was performed using the C1 Single Cell Auto Prep System (Fluidigm). The raw read counts were normalised using two different size factors derived from endogenous genes and ERCC spike-ins. The complete dataset contains expression of 38,293 genes.",
+            "instances": 182,
+            "name": "ccp_normCountsBuettnerEtAl.counts.all_genes",
+            "references": [
+                "Buettner, F., Natarajan, K. N., ... Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160.",
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 3878670,
+            "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "mesc",
+                "mus-musculus"
+            ],
+            "target": "categorical",
+            "title": "Cell cycle in mESC (Fluidigm)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
+            "variables": 38294,
+            "version": "1.0",
+            "year": 2015,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz"
+        ],
+        {
+            "collection": "EBI",
+            "description": "A single-cell RNA-seq dataset comprised of 182 mouse embryonic stem cells (mESCs) with known cell-cycle phase. Cells were sorted using FACS for three different cell-cycle phases. This resulted in a filtered set of 59 cells in G1 phase, 58 cells in S phase and 65 cells in G2M phase. Next, single-cell RNA-seq was performed using the C1 Single Cell Auto Prep System (Fluidigm). The raw read counts were normalised using two different size factors derived from endogenous genes and ERCC spike-ins.  The reduced data set contains expression of 563 genes related to cell cycle based on Gene Ontology (GO) terms.",
+            "instances": 182,
+            "name": "ccp_normCountsBuettnerEtAl.counts.cycle_genes",
+            "references": [
+                "Buettner, F., Natarajan, K. N., ... Stegle, O. (2015). <a href='https://www.nature.com/articles/nbt.3102'> Computational analysis of cell-to-cell heterogeneity in single-cell RNA-sequencing data reveals hidden subpopulations of cells. </a> Nature biotechnology, 33(2), 155-160.",
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 136525,
+            "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "mesc",
+                "mus-musculus"
+            ],
+            "target": "categorical",
+            "title": "Cell cycle in mESC (Fluidigm, cell cycle genes)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz",
+            "variables": 564,
+            "version": "1.0",
+            "year": 2015,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_normCounts_mESCquartz.counts.all_genes.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "The mouse embryonic stem cells (mESCs) were FACS sorted into G1, S and G2M phases.  A total of 35 cells (seven S, eight G2M and 20 G1 cells) were sequenced using the Quartz-seq protocol and gene expression was normalised to FPKM values. The amount of technical noise expected for genes with variable levels of expression was estimated using a log-linear fit between the expression mean and the squared coefficient of variation between cells. The complete dataset contains expression of 36,807 genes.",
+            "instances": 35,
+            "name": "ccp_normCounts_mESCquartz.counts.all_genes",
+            "references": [
+                "Sasagawa, Y., Nikaido, I., ..., Ueda, H. R. (2013).  <a href='https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-4-r31'> Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity. </a> Genome biology, 14(4), 3097.",
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 682779,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "mesc",
+                "mus-musculus"
+            ],
+            "target": "categorical",
+            "title": "Cell cycle in mESC (QuartzSeq)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_normCounts_mESCquartz.counts.all_genes.tab.gz",
+            "variables": 36808,
+            "version": "1.0",
+            "year": 2013,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "The mESCs were FACS sorted into G1, S and G2M phases.  A total of 35 cells (seven S, eight G2M and 20 G1 cells) were sequenced using the Quartz-seq protocol and gene expression was normalised to FPKM values. The amount of technical noise expected for genes with variable levels of expression was estimated using a log-linear fit between the expression mean and the squared coefficient of variation between cells. The reduced data set contains expression of 561 genes related to cell cycle based on Gene Ontology (GO) terms.",
+            "instances": 35,
+            "name": "ccp_normCounts_mESCquartz.counts.cycle_genes",
+            "references": [
+                "Sasagawa, Y., Nikaido, I., ..., Ueda, H. R. (2013).  <a href='https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-4-r31'> Quartz-Seq: a highly reproducible and sensitive single-cell RNA sequencing method, reveals non-genetic gene-expression heterogeneity. </a> Genome biology, 14(4), 3097.",
+                "Scialdone, A., Natarajan, K. N., Saraiva, L. R., ... Buettner, F. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S1046202315300098'>Computational assignment of cell-cycle stage from single-cell transcriptome data.</a> Methods, 85, 54-61."
+            ],
+            "seealso": [
+                "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
+            ],
+            "size": 20758,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
+            "tags": [
+                "mouse",
+                "expression",
+                "mesc",
+                "mus-musculus"
+            ],
+            "target": "categorical",
+            "title": "Cell cycle in mESC (QuartzSeq, cell cycle genes)",
+            "url": "http://datasets.orange.biolab.si/sc/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
+            "variables": 562,
+            "version": "1.0",
+            "year": 2013,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "cdp_expression_macosko.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "DropSeq analysis of more than 6,000 mouse retinal cells with expression levels of more than 6,800 genes expressed in at least 5% of the cells. The cells are labelled with corresponding bipolar cell (BC) cluster identified by the original study.",
+            "instances": 6243,
+            "name": "cdp_expression_macosko",
+            "references": [
+                "Macosko, E. Z., Basu, A., Satija, R., ... Trombetta, J. J. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S0092867415005498'> Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. </a> Cell, 161(5), 1202-1214."
+            ],
+            "seealso": [],
+            "size": 8047738,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63473'>NCBI</a>",
+            "tags": [
+                "expression",
+                "mouse",
+                "mus-musculus",
+                "neuron",
+                "drop-seq"
+            ],
+            "target": null,
+            "title": "Mouse retinal bipolar neurons (DropSeq)",
+            "url": "http://datasets.orange.biolab.si/sc/cdp_expression_macosko.tab.gz",
+            "variables": 6862,
+            "version": "2.0",
+            "year": 2015,
+            "taxid": "10090"
+        }
+    ],
+    [
+        [
+            "cdp_expression_shekhar.tab.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "The dataset contains a heterogeneous class of neurons, mouse retinal bipolar cells (BCs). Gene expression was measured with the DropSeq protocol. More than 4,900 genes expressed in at least 5% of the cells are included. The 12,606 cells are classified into 13 subtypes based on morphology and position.",
+            "instances": 12606,
+            "name": "cdp_expression_shekhar",
+            "references": [
+                "Shekhar, K., Lapan, S. W., ... McCarroll, S. A. (2016). <a href='http://www.sciencedirect.com/science/article/pii/S0092867416310078'> Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. </a> Cell, 166(5), 1308-1323."
+            ],
+            "seealso": [],
+            "size": 11577148,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81905'>NCBI</a>",
+            "tags": [
+                "expression",
+                "mouse",
+                "mus-musculus",
+                "neuron",
+                "drop-seq"
+            ],
+            "target": "categorical",
+            "title": "Mouse retinal bipolar neurons (DropSeq, large)",
+            "url": "http://datasets.orange.biolab.si/sc/cdp_expression_shekhar.tab.gz",
+            "variables": 4982,
+            "version": "1.0",
+            "year": 2016,
+            "taxid": "10090"
+        }
+    ]
+]
