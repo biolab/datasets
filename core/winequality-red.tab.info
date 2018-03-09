@@ -14,7 +14,7 @@
     ],
     "target": "numeric",
     "title": "Wine quality - red",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/winequality-red.tab",
+    "url": "http://datasets.orange.biolab.si/core/winequality-red.tab",
     "variables": 11,
     "version": "1.0",
     "year": "2009"

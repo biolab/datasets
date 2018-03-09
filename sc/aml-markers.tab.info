@@ -3,7 +3,9 @@
     "description": "Cell type markers for bone marrow cells. Markers were manually extracted from the <a href='https://www.nature.com/articles/ncomms14049'>publication on bone marrow mononuclear cells with AML</a>.",
     "instances": 8,
     "name": "aml-markers",
-    "references": ["Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."],
+    "references": [
+        "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
+    ],
     "seealso": [],
     "size": 308,
     "source": "<a href='https://www.nature.com/articles/ncomms14049'>10x Genomics</a>",
@@ -15,7 +17,7 @@
     ],
     "target": null,
     "title": "Bone marrow mononuclear cells with AML (markers)",
-    "url": "http://butler.fri.uni-lj.si/datasets/sc/aml-markers.tab",
+    "url": "http://datasets.orange.biolab.si/sc/aml-markers.tab",
     "variables": 3,
     "version": "1.0",
     "year": 2017,

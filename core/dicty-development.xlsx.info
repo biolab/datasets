@@ -12,11 +12,11 @@
     "tags": [
         "images",
         "dictyostelium",
-	"everyone"
+        "everyone"
     ],
     "target": "categorical",
     "title": "Development of Social Amoeba",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/dicty-development.xlsx",
+    "url": "http://datasets.orange.biolab.si/core/dicty-development.xlsx",
     "variables": 0,
     "version": "1.0",
     "year": "2018"

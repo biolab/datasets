@@ -15,7 +15,7 @@
     ],
     "target": "categorical",
     "title": "Car Evaluation",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/car.tab",
+    "url": "http://datasets.orange.biolab.si/core/car.tab",
     "variables": 6,
     "version": "1.0",
     "year": 1999

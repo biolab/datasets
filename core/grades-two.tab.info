@@ -10,6 +10,6 @@
     "version": "1.0",
     "instances": 12,
     "variables": 3,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/grades-two.tab",
+    "url": "http://datasets.orange.biolab.si/core/grades-two.tab",
     "size": 265
 }

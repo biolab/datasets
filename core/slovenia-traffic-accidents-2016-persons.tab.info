@@ -15,6 +15,6 @@
     "missing": true,
     "variables": 13,
     "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
+    "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-persons.tab",
     "size": 2915308
 }

@@ -17,7 +17,7 @@
     ],
     "target": null,
     "title": "Dendritic cells and monocytes (markers)",
-    "url": "http://butler.fri.uni-lj.si/datasets/sc/DC_markers_all.tab",
+    "url": "http://datasets.orange.biolab.si/sc/DC_markers_all.tab",
     "variables": 11,
     "version": "1.0",
     "year": 2017,

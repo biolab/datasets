@@ -10,6 +10,6 @@
     "instances": 1163,
     "missing": 0,
     "variables": 15,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
+    "url": "http://datasets.orange.biolab.si/core/kickstarter.tab",
     "size": 219235
 }

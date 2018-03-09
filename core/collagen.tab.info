@@ -12,6 +12,6 @@
     "instances": 731,
     "missing": false,
     "variables": 234,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
+    "url": "http://datasets.orange.biolab.si/core/collagen.tab",
     "size": 1018671
 }

@@ -12,7 +12,7 @@
     "tags": [],
     "target": "numeric",
     "title": "Forest Fires",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/forestfires.tab",
+    "url": "http://datasets.orange.biolab.si/core/forestfires.tab",
     "variables": 12,
     "version": "1.2",
     "year": 2007

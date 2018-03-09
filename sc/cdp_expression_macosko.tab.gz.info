@@ -18,7 +18,7 @@
     ],
     "target": null,
     "title": "Mouse retinal bipolar neurons (DropSeq)",
-    "url": "http://butler.fri.uni-lj.si/datasets/sc/cdp_expression_macosko.tab.gz",
+    "url": "http://datasets.orange.biolab.si/sc/cdp_expression_macosko.tab.gz",
     "variables": 6862,
     "version": "2.0",
     "year": 2015,

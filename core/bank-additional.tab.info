@@ -14,7 +14,7 @@
     ],
     "target": "categorical",
     "title": "Bank Marketing",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/bank-additional.tab",
+    "url": "http://datasets.orange.biolab.si/core/bank-additional.tab",
     "variables": 20,
     "version": "1.0",
     "year": "2014"

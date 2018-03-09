@@ -18,7 +18,7 @@
             ],
             "target": "categorical",
             "title": "Smoking effect on B lymphocytes",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/GDS3713-small.tab",
+            "url": "http://datasets.orange.biolab.si/core/GDS3713-small.tab",
             "variables": 3000,
             "version": "1.0",
             "year": "2009"
@@ -43,7 +43,7 @@
             ],
             "target": "categorical",
             "title": "Bone marrow mononuclear cells with AML",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/GDS4182-small.tab",
+            "url": "http://datasets.orange.biolab.si/core/GDS4182-small.tab",
             "variables": 1000,
             "version": "1.0",
             "year": "2011"
@@ -66,7 +66,7 @@
             "tags": [],
             "target": "numeric",
             "title": "Abalone",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/abalone.tab",
+            "url": "http://datasets.orange.biolab.si/core/abalone.tab",
             "variables": 8,
             "version": "1.1",
             "year": "1994"
@@ -93,7 +93,7 @@
             ],
             "target": "categorical",
             "title": "Bank Marketing",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/bank-additional.tab",
+            "url": "http://datasets.orange.biolab.si/core/bank-additional.tab",
             "variables": 20,
             "version": "1.0",
             "year": "2014"
@@ -119,7 +119,7 @@
             ],
             "target": "categorical",
             "title": "Bone Healing",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/bone-healing.xlsx",
+            "url": "http://datasets.orange.biolab.si/core/bone-healing.xlsx",
             "variables": 0,
             "version": "1.0",
             "year": "2018"
@@ -147,7 +147,7 @@
             ],
             "target": "categorical",
             "title": "Car Evaluation",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/car.tab",
+            "url": "http://datasets.orange.biolab.si/core/car.tab",
             "variables": 6,
             "version": "1.0",
             "year": 1999
@@ -172,7 +172,7 @@
             "instances": 731,
             "missing": false,
             "variables": 234,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/collagen.tab",
+            "url": "http://datasets.orange.biolab.si/core/collagen.tab",
             "size": 1018671
         }
     ],
@@ -199,7 +199,7 @@
             ],
             "target": "categorical",
             "title": "Development of Social Amoeba",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/dicty-development.xlsx",
+            "url": "http://datasets.orange.biolab.si/core/dicty-development.xlsx",
             "variables": 0,
             "version": "1.0",
             "year": "2018"
@@ -226,7 +226,7 @@
             "missing": true,
             "variables": 25,
             "source": "<a href='http://register.ocistimo.si'>Dumpsite Registry of Slovenia</a>",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
+            "url": "http://datasets.orange.biolab.si/core/ewba-slovenia-illegal-dumpsites.tab",
             "size": 2907714
         }
     ],
@@ -249,7 +249,7 @@
             "missing": true,
             "variables": 126,
             "source": "<a href='https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data'>neo4j data repository</a>",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/foodmart.basket",
+            "url": "http://datasets.orange.biolab.si/core/foodmart.basket",
             "size": 4212566
         }
     ],
@@ -272,7 +272,7 @@
             "tags": [],
             "target": "numeric",
             "title": "Forest Fires",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/forestfires.tab",
+            "url": "http://datasets.orange.biolab.si/core/forestfires.tab",
             "variables": 12,
             "version": "1.2",
             "year": 2007
@@ -295,7 +295,7 @@
             "version": "1.0",
             "instances": 12,
             "variables": 3,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/grades-two.tab",
+            "url": "http://datasets.orange.biolab.si/core/grades-two.tab",
             "size": 265
         }
     ],
@@ -318,7 +318,7 @@
             "instances": 1470,
             "missing": false,
             "variables": 32,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/hrm-employee-attrition.xlsx",
+            "url": "http://datasets.orange.biolab.si/core/hrm-employee-attrition.xlsx",
             "size": 262432,
             "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition'>IBM Watson Analytics</a>"
         }
@@ -342,7 +342,7 @@
             "variables": 5,
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
             "size": 4625,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab",
+            "url": "http://datasets.orange.biolab.si/core/iris.tab",
             "references": [
                 "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179\u2013188."
             ]
@@ -365,7 +365,7 @@
             "instances": 1163,
             "missing": 0,
             "variables": 15,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/kickstarter.tab",
+            "url": "http://datasets.orange.biolab.si/core/kickstarter.tab",
             "size": 219235
         }
     ],
@@ -389,7 +389,7 @@
             ],
             "target": "categorical",
             "title": "Mammalian Oocyte Developmental Competence",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/oocyte-competence.xlsx",
+            "url": "http://datasets.orange.biolab.si/core/oocyte-competence.xlsx",
             "variables": 0,
             "version": "1.0",
             "year": "2018"
@@ -414,7 +414,7 @@
             ],
             "target": "categorical",
             "title": "Poker Hand",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/poker-hand.tab",
+            "url": "http://datasets.orange.biolab.si/core/poker-hand.tab",
             "variables": 10,
             "version": "1.0",
             "year": "2007"
@@ -443,7 +443,7 @@
                 "Daqing Chen, Sai Liang Sain, and Kun Guo (2012) <a href='https://link.springer.com/article/10.1057/dbm.2012.17'>Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining.</a> Journal of Database Marketing and Customer Strategy Management 19(3), pp. 197."
             ],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/online+retail'>UCI ML Repository</a>",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/retail-basket.tab",
+            "url": "http://datasets.orange.biolab.si/core/retail-basket.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/11/17/data-mining-business-public-administration/'>Data Mining for Business and Administration</a>."
             ],
@@ -471,7 +471,7 @@
             "variables": 3,
             "source": null,
             "size": 455,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/sailing.tab",
+            "url": "http://datasets.orange.biolab.si/core/sailing.tab",
             "seealso": [
                 "<a href=https://blog.biolab.si/2017/08/11/its-sailing-time-again/>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."
             ]
@@ -499,7 +499,7 @@
             "missing": true,
             "variables": 18,
             "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-events.tab",
+            "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-events.tab",
             "size": 4501650
         }
     ],
@@ -525,7 +525,7 @@
             "missing": true,
             "variables": 13,
             "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/slovenia-traffic-accidents-2016-persons.tab",
+            "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-persons.tab",
             "size": 2915308
         }
     ],
@@ -552,7 +552,7 @@
             ],
             "target": null,
             "title": "Slovenian National Assembly",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/slovenian-national-assembly-eng.tab",
+            "url": "http://datasets.orange.biolab.si/core/slovenian-national-assembly-eng.tab",
             "variables": 18,
             "version": "1.0",
             "year": "2017"
@@ -579,7 +579,7 @@
                 "Dawson Robert J. MacG. (1995) The \u2018Unusual Episode\u2019 Data Revisited. Journal of Statistics Education 3(3)."
             ],
             "size": 45112,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
+            "url": "http://datasets.orange.biolab.si/core/titanic.tab"
         }
     ],
     [
@@ -603,7 +603,7 @@
             ],
             "target": "categorical",
             "title": "Traffic signs",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/traffic-signs.tab",
+            "url": "http://datasets.orange.biolab.si/core/traffic-signs.tab",
             "variables": 0,
             "version": "1.0",
             "year": "2017"
@@ -628,7 +628,7 @@
             "variables": 14,
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Wine'>UCI ML Repository</a>",
             "size": 10991,
-            "url": "http://butler.fri.uni-lj.si/datasets/core/wine.tab",
+            "url": "http://datasets.orange.biolab.si/core/wine.tab",
             "seealso": [
                 "<a href='https://www.youtube.com/watch?v=OmaAC8a52YI'>Principal Component Analysis</a>, a YouTube video from <a href=https://www.youtube.com/orangedatamining>Getting Started with Orange</a> series that showcases this dataset.",
                 "<a href='https://www.youtube.com/watch?v=bp0VtVS3LN4'>Feature Scoring and Ranking</a>, another video from the same series that uses this dataset."
@@ -656,7 +656,7 @@
             ],
             "target": "numeric",
             "title": "Wine quality - red",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/winequality-red.tab",
+            "url": "http://datasets.orange.biolab.si/core/winequality-red.tab",
             "variables": 11,
             "version": "1.0",
             "year": "2009"
@@ -683,7 +683,7 @@
             ],
             "target": "numeric",
             "title": "Wine quality - white",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/winequality-white.tab",
+            "url": "http://datasets.orange.biolab.si/core/winequality-white.tab",
             "variables": 11,
             "version": "1.0",
             "year": "2009"
@@ -709,7 +709,7 @@
             ],
             "target": "categorical",
             "title": "Yeast Protein Localization",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/yplp.xlsx",
+            "url": "http://datasets.orange.biolab.si/core/yplp.xlsx",
             "variables": 0,
             "version": "1.0",
             "year": "2018"
@@ -735,7 +735,7 @@
             "missing": false,
             "variables": 17,
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
-            "url": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
+            "url": "http://datasets.orange.biolab.si/core/zoo.xlsx",
             "size": 50929
         }
     ]

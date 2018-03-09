@@ -14,6 +14,6 @@
     "missing": true,
     "variables": 25,
     "source": "<a href='http://register.ocistimo.si'>Dumpsite Registry of Slovenia</a>",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/ewba-slovenia-illegal-dumpsites.tab",
+    "url": "http://datasets.orange.biolab.si/core/ewba-slovenia-illegal-dumpsites.tab",
     "size": 2907714
 }

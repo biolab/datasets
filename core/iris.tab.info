@@ -12,8 +12,8 @@
     "variables": 5,
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
     "size": 4625,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/iris.tab",
+    "url": "http://datasets.orange.biolab.si/core/iris.tab",
     "references": [
-        "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179–188."
+        "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179\u2013188."
     ]
 }

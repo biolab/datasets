@@ -13,6 +13,6 @@
     "missing": false,
     "variables": 17,
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/zoo.xlsx",
+    "url": "http://datasets.orange.biolab.si/core/zoo.xlsx",
     "size": 50929
 }

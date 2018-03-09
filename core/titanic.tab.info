@@ -11,8 +11,8 @@
     "variables": 4,
     "year": "",
     "references": [
-        "Dawson Robert J. MacG. (1995) The ‘Unusual Episode’ Data Revisited. Journal of Statistics Education 3(3)."
+        "Dawson Robert J. MacG. (1995) The \u2018Unusual Episode\u2019 Data Revisited. Journal of Statistics Education 3(3)."
     ],
     "size": 45112,
-    "url": "http://butler.fri.uni-lj.si/datasets/core/titanic.tab"
+    "url": "http://datasets.orange.biolab.si/core/titanic.tab"
 }

@@ -16,7 +16,7 @@
     ],
     "target": null,
     "title": "Slovenian National Assembly",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/slovenian-national-assembly-eng.tab",
+    "url": "http://datasets.orange.biolab.si/core/slovenian-national-assembly-eng.tab",
     "variables": 18,
     "version": "1.0",
     "year": "2017"

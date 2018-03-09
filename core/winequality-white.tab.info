@@ -14,7 +14,7 @@
     ],
     "target": "numeric",
     "title": "Wine quality - white",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/winequality-white.tab",
+    "url": "http://datasets.orange.biolab.si/core/winequality-white.tab",
     "variables": 11,
     "version": "1.0",
     "year": "2009"

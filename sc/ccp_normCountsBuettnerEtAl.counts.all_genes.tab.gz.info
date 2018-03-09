@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell cycle in mESC (Fluidigm)",
-    "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
+    "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
     "variables": 38294,
     "version": "1.0",
     "year": 2015,

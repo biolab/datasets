@@ -12,7 +12,7 @@
     ],
     "target": "categorical",
     "title": "Poker Hand",
-    "url": "http://butler.fri.uni-lj.si/datasets/core/poker-hand.tab",
+    "url": "http://datasets.orange.biolab.si/core/poker-hand.tab",
     "variables": 10,
     "version": "1.0",
     "year": "2007"
