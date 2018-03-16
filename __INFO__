@@ -468,7 +468,7 @@
             "year": "2003",
             "instances": 20,
             "missing": null,
-            "variables": 3,
+            "variables": 4,
             "source": null,
             "size": 455,
             "url": "http://datasets.orange.biolab.si/core/sailing.tab",
