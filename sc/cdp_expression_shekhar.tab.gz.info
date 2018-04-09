@@ -20,6 +20,7 @@
     "title": "Mouse retinal bipolar neurons (DropSeq, large)",
     "url": "http://butler.fri.uni-lj.si/datasets/sc/cdp_expression_shekhar.tab.gz",
     "variables": 4982,
+    "num_of_genes": 4980,
     "version": "1.0",
     "year": 2016,
     "taxid": "10090"

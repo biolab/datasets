@@ -22,6 +22,7 @@
     "title": "Cell cycle in mESC (bulk RNA-seq)",
     "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
     "variables": 38294,
+    "num_of_genes": 38293,
     "version": "1.0",
     "year": 2015,
     "taxid": "10090"

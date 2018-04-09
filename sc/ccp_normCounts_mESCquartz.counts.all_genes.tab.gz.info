@@ -22,6 +22,7 @@
     "title": "Cell cycle in mESC (QuartzSeq)",
     "url": "http://butler.fri.uni-lj.si/datasets/sc/ccp_normCounts_mESCquartz.counts.all_genes.tab.gz",
     "variables": 36808,
+    "num_of_genes": 36807,
     "version": "1.0",
     "year": 2013,
     "taxid": "10090"

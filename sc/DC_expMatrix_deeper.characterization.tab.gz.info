@@ -19,6 +19,7 @@
     "title": "Dendritic cells and monocytes in human blood (deeper characterization)",
     "url": "http://butler.fri.uni-lj.si/datasets/sc/DC_expMatrix_deeper.characterization.tab.gz",
     "variables": 26595,
+    "num_of_genes": 26593,
     "version": "1.1",
     "year": 2017,
     "taxid": "9606"
