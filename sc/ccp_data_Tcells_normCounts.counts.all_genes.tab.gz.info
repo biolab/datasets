@@ -22,6 +22,7 @@
     "title": "Cell cycle in T-cells",
     "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.all_genes.tab.gz",
     "variables": 38293,
+    "num_of_genes": 38293,
     "version": "1.0",
     "year": 2014,
     "taxid": "10090"
