@@ -24,6 +24,7 @@
             "title": "Dendritic cells and monocytes in human blood",
             "url": "http://datasets.orange.biolab.si/sc/DC_expMatrix_DCnMono.tab.gz",
             "variables": 26595,
+            "num_of_genes": 26593,
             "version": "1.1",
             "year": 2017,
             "taxid": "9606"
@@ -54,6 +55,7 @@
             "title": "Dendritic cells and monocytes in human blood (deeper characterization)",
             "url": "http://datasets.orange.biolab.si/sc/DC_expMatrix_deeper.characterization.tab.gz",
             "variables": 26595,
+            "num_of_genes": 26593,
             "version": "1.1",
             "year": 2017,
             "taxid": "9606"
@@ -113,6 +115,7 @@
             "title": "Bone marrow mononuclear cells with AML (sample)",
             "url": "http://datasets.orange.biolab.si/sc/aml-1k.pickle",
             "variables": 1004,
+            "num_of_genes": 1000,
             "version": "1.0",
             "year": 2017,
             "taxid": "9606"
@@ -141,6 +144,7 @@
             "title": "Bone marrow mononuclear cells with AML",
             "url": "http://datasets.orange.biolab.si/sc/aml-8k.pickle",
             "variables": 1004,
+            "num_of_genes": 1000,
             "version": "1.0",
             "year": 2017,
             "taxid": "9606"
@@ -204,6 +208,7 @@
             "title": "Cell cycle in T-cells",
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.all_genes.tab.gz",
             "variables": 38293,
+            "num_of_genes": 38293,
             "version": "1.0",
             "year": 2014,
             "taxid": "10090"
@@ -237,6 +242,7 @@
             "title": "Cell cycle in T-cells (cell cycle genes)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.cycle_genes.tab.gz",
             "variables": 553,
+            "num_of_genes": 553,
             "version": "1.0",
             "year": 2014,
             "taxid": "10090"
@@ -270,6 +276,7 @@
             "title": "Cell cycle in mouse liver",
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.all_genes.tab.gz",
             "variables": 20683,
+            "num_of_genes": 20683,
             "version": "1.0",
             "year": 2014,
             "taxid": "10090"
@@ -303,6 +310,7 @@
             "title": "Cell cycle in mouse liver (cell cycle genes)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.cycle_genes.tab.gz",
             "variables": 537,
+            "num_of_genes": 537,
             "version": "1.0",
             "year": 2014,
             "taxid": "10090"
@@ -336,6 +344,7 @@
             "title": "Cell cycle in mESC (bulk RNA-seq)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
             "variables": 38294,
+            "num_of_genes": 38293,
             "version": "1.0",
             "year": 2015,
             "taxid": "10090"
@@ -369,6 +378,7 @@
             "title": "Cell cycle in mESC (bulk RNA-seq, cell cycle genes)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.cycle_genes.tab.gz",
             "variables": 554,
+            "num_of_genes": 553,
             "version": "1.0",
             "year": 2015,
             "taxid": "10090"
@@ -402,6 +412,7 @@
             "title": "Cell cycle in mESC (Fluidigm)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
             "variables": 38294,
+            "num_of_genes": 38293,
             "version": "1.0",
             "year": 2015,
             "taxid": "10090"
@@ -435,6 +446,7 @@
             "title": "Cell cycle in mESC (Fluidigm, cell cycle genes)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz",
             "variables": 564,
+            "num_of_genes": 563,
             "version": "1.0",
             "year": 2015,
             "taxid": "10090"
@@ -468,6 +480,7 @@
             "title": "Cell cycle in mESC (QuartzSeq)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCounts_mESCquartz.counts.all_genes.tab.gz",
             "variables": 36808,
+            "num_of_genes": 36807,
             "version": "1.0",
             "year": 2013,
             "taxid": "10090"
@@ -501,6 +514,7 @@
             "title": "Cell cycle in mESC (QuartzSeq, cell cycle genes)",
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
             "variables": 562,
+            "num_of_genes": 561,
             "version": "1.0",
             "year": 2013,
             "taxid": "10090"
@@ -532,6 +546,7 @@
             "title": "Mouse retinal bipolar neurons (DropSeq)",
             "url": "http://datasets.orange.biolab.si/sc/cdp_expression_macosko.tab.gz",
             "variables": 6862,
+            "num_of_genes": 6860,
             "version": "2.0",
             "year": 2015,
             "taxid": "10090"
@@ -563,6 +578,7 @@
             "title": "Mouse retinal bipolar neurons (DropSeq, large)",
             "url": "http://datasets.orange.biolab.si/sc/cdp_expression_shekhar.tab.gz",
             "variables": 4982,
+            "num_of_genes": 4980,
             "version": "1.0",
             "year": 2016,
             "taxid": "10090"
