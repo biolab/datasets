@@ -12,7 +12,7 @@
                 "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
             ],
             "seealso": [],
-            "size": 19163499,
+            "size": 20325568,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
             "tags": [
                 "expression",
@@ -25,7 +25,7 @@
             "url": "http://datasets.orange.biolab.si/sc/DC_expMatrix_DCnMono.tab.gz",
             "variables": 26595,
             "num_of_genes": 26593,
-            "version": "1.1",
+            "version": "1.2",
             "year": 2017,
             "taxid": "9606"
         }
@@ -43,7 +43,7 @@
                 "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
             ],
             "seealso": [],
-            "size": 17851141,
+            "size": 18994828,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
             "tags": [
                 "expression",
@@ -56,7 +56,7 @@
             "url": "http://datasets.orange.biolab.si/sc/DC_expMatrix_deeper.characterization.tab.gz",
             "variables": 26595,
             "num_of_genes": 26593,
-            "version": "1.1",
+            "version": "1.2",
             "year": 2017,
             "taxid": "9606"
         }
@@ -104,7 +104,7 @@
                 "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
             ],
             "seealso": [],
-            "size": 8209557,
+            "size": 8215978,
             "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
             "tags": [
                 "aml",
@@ -116,7 +116,7 @@
             "url": "http://datasets.orange.biolab.si/sc/aml-1k.pickle",
             "variables": 1004,
             "num_of_genes": 1000,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2017,
             "taxid": "9606"
         }
@@ -134,7 +134,7 @@
                 "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
             ],
             "seealso": [],
-            "size": 67913443,
+            "size": 67919915,
             "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
             "tags": [
                 "aml",
@@ -145,7 +145,7 @@
             "url": "http://datasets.orange.biolab.si/sc/aml-8k.pickle",
             "variables": 1004,
             "num_of_genes": 1000,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2017,
             "taxid": "9606"
         }
@@ -196,7 +196,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/scLVM'> PMBio / scLVM </a> (GitHub resource)."
             ],
-            "size": 4475628,
+            "size": 4653255,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2512/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -209,7 +209,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.all_genes.tab.gz",
             "variables": 38293,
             "num_of_genes": 38293,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2014,
             "taxid": "10090"
         }
@@ -240,10 +240,10 @@
             ],
             "target": null,
             "title": "Cell cycle in T-cells (cell cycle genes)",
-            "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.cycle_genes.tab.gz",
+            "url": "https://orange.biolab.si/serverfiles-bio2/temp/ccp_data_Tcells_normCounts.counts.cycle_genes.tab.gz",
             "variables": 553,
             "num_of_genes": 553,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2014,
             "taxid": "10090"
         }
@@ -264,7 +264,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 128912,
+            "size": 197017,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -277,7 +277,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.all_genes.tab.gz",
             "variables": 20683,
             "num_of_genes": 20683,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2014,
             "taxid": "10090"
         }
@@ -298,7 +298,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 3594,
+            "size": 5833,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -311,7 +311,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.cycle_genes.tab.gz",
             "variables": 537,
             "num_of_genes": 537,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2014,
             "taxid": "10090"
         }
@@ -331,7 +331,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 293915,
+            "size": 386526,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -345,7 +345,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
             "variables": 38294,
             "num_of_genes": 38293,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2015,
             "taxid": "10090"
         }
@@ -365,7 +365,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 7209,
+            "size": 9850,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -379,7 +379,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.cycle_genes.tab.gz",
             "variables": 554,
             "num_of_genes": 553,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2015,
             "taxid": "10090"
         }
@@ -400,7 +400,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 3878670,
+            "size": 4112050,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -413,7 +413,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.all_genes.tab.gz",
             "variables": 38294,
             "num_of_genes": 38293,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2015,
             "taxid": "10090"
         }
@@ -434,7 +434,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 136525,
+            "size": 149950,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -447,7 +447,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz",
             "variables": 564,
             "num_of_genes": 563,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2015,
             "taxid": "10090"
         }
@@ -468,7 +468,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 682779,
+            "size": 777134,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -481,7 +481,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCounts_mESCquartz.counts.all_genes.tab.gz",
             "variables": 36808,
             "num_of_genes": 36807,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2013,
             "taxid": "10090"
         }
@@ -502,7 +502,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 20758,
+            "size": 24458,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -515,7 +515,7 @@
             "url": "http://datasets.orange.biolab.si/sc/ccp_normCounts_mESCquartz.counts.cycle_genes.tab.gz",
             "variables": 562,
             "num_of_genes": 561,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2013,
             "taxid": "10090"
         }
@@ -533,7 +533,7 @@
                 "Macosko, E. Z., Basu, A., Satija, R., ... Trombetta, J. J. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S0092867415005498'> Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. </a> Cell, 161(5), 1202-1214."
             ],
             "seealso": [],
-            "size": 8047738,
+            "size": 7786244,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63473'>NCBI</a>",
             "tags": [
                 "expression",
@@ -547,7 +547,7 @@
             "url": "http://datasets.orange.biolab.si/sc/cdp_expression_macosko.tab.gz",
             "variables": 6862,
             "num_of_genes": 6860,
-            "version": "2.0",
+            "version": "2.2",
             "year": 2015,
             "taxid": "10090"
         }
@@ -565,7 +565,7 @@
                 "Shekhar, K., Lapan, S. W., ... McCarroll, S. A. (2016). <a href='http://www.sciencedirect.com/science/article/pii/S0092867416310078'> Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. </a> Cell, 166(5), 1308-1323."
             ],
             "seealso": [],
-            "size": 11577148,
+            "size": 11190952,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81905'>NCBI</a>",
             "tags": [
                 "expression",
@@ -579,7 +579,7 @@
             "url": "http://datasets.orange.biolab.si/sc/cdp_expression_shekhar.tab.gz",
             "variables": 4982,
             "num_of_genes": 4980,
-            "version": "1.0",
+            "version": "1.2",
             "year": 2016,
             "taxid": "10090"
         }

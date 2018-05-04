@@ -7,7 +7,7 @@
         "Shekhar, K., Lapan, S. W., ... McCarroll, S. A. (2016). <a href='http://www.sciencedirect.com/science/article/pii/S0092867416310078'> Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. </a> Cell, 166(5), 1308-1323."
     ],
     "seealso": [],
-    "size": 11577148,
+    "size": 11190952,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81905'>NCBI</a>",
     "tags": [
         "expression",
@@ -18,7 +18,7 @@
     ],
     "target": "categorical",
     "title": "Mouse retinal bipolar neurons (DropSeq, large)",
-    "url": "https://orange.biolab.si/serverfiles-bio2/temp/cdp_expression_shekhar.tab.gz",
+    "url": "http://datasets.orange.biolab.si/sc/cdp_expression_shekhar.tab.gz",
     "variables": 4982,
     "num_of_genes": 4980,
     "version": "1.2",
