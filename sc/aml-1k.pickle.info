@@ -16,10 +16,10 @@
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML (sample)",
-    "url": "http://datasets.orange.biolab.si/sc/aml-1k.pickle",
+    "url": "https://orange.biolab.si/serverfiles-bio2/temp/aml-1k.pickle",
     "variables": 1004,
     "num_of_genes": 1000,
-    "version": "1.0",
+    "version": "1.2",
     "year": 2017,
     "taxid": "9606"
 }

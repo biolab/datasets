@@ -17,10 +17,10 @@
     ],
     "target": null,
     "title": "Dendritic cells and monocytes in human blood (deeper characterization)",
-    "url": "http://datasets.orange.biolab.si/sc/DC_expMatrix_deeper.characterization.tab.gz",
+    "url": "https://orange.biolab.si/serverfiles-bio2/temp/DC_expMatrix_deeper.characterization.tab.gz",
     "variables": 26595,
     "num_of_genes": 26593,
-    "version": "1.1",
+    "version": "1.2",
     "year": 2017,
     "taxid": "9606"
 }
