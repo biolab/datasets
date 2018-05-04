@@ -18,10 +18,10 @@
     ],
     "target": "categorical",
     "title": "Mouse retinal bipolar neurons (DropSeq, large)",
-    "url": "http://datasets.orange.biolab.si/sc/cdp_expression_shekhar.tab.gz",
+    "url": "https://orange.biolab.si/serverfiles-bio2/temp/cdp_expression_shekhar.tab.gz",
     "variables": 4982,
     "num_of_genes": 4980,
-    "version": "1.0",
+    "version": "1.2",
     "year": 2016,
     "taxid": "10090"
 }
