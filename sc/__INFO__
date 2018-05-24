@@ -12,7 +12,7 @@
                 "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
             ],
             "seealso": [],
-            "size": 20388837,
+            "size": 20325076,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
             "tags": [
                 "expression",
@@ -43,7 +43,7 @@
                 "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
             ],
             "seealso": [],
-            "size": 19056986,
+            "size": 18994431,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
             "tags": [
                 "expression",
@@ -104,7 +104,7 @@
                 "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
             ],
             "seealso": [],
-            "size": 8221858,
+            "size": 8215441,
             "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
             "tags": [
                 "aml",
@@ -134,7 +134,7 @@
                 "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
             ],
             "seealso": [],
-            "size": 67925795,
+            "size": 67919378,
             "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
             "tags": [
                 "aml",
@@ -196,7 +196,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/scLVM'> PMBio / scLVM </a> (GitHub resource)."
             ],
-            "size": 4722593,
+            "size": 4650642,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2512/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -230,7 +230,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/scLVM'> PMBio / scLVM </a> (GitHub resource)."
             ],
-            "size": 232745,
+            "size": 230943,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2512/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -264,7 +264,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 257068,
+            "size": 197362,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -298,7 +298,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 7462,
+            "size": 5841,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -331,7 +331,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 456668,
+            "size": 383715,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -365,7 +365,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 11591,
+            "size": 9879,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -400,7 +400,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 4202632,
+            "size": 4110383,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -434,7 +434,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 151699,
+            "size": 150014,
             "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
             "tags": [
                 "mouse",
@@ -468,7 +468,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 842879,
+            "size": 774815,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -502,7 +502,7 @@
             "seealso": [
                 "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
             ],
-            "size": 25944,
+            "size": 24516,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE42268'>NCBI</a>",
             "tags": [
                 "mouse",
@@ -533,7 +533,7 @@
                 "Macosko, E. Z., Basu, A., Satija, R., ... Trombetta, J. J. (2015). <a href='http://www.sciencedirect.com/science/article/pii/S0092867415005498'> Highly parallel genome-wide expression profiling of individual cells using nanoliter droplets. </a> Cell, 161(5), 1202-1214."
             ],
             "seealso": [],
-            "size": 7807722,
+            "size": 7786356,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63473'>NCBI</a>",
             "tags": [
                 "expression",
@@ -565,7 +565,7 @@
                 "Shekhar, K., Lapan, S. W., ... McCarroll, S. A. (2016). <a href='http://www.sciencedirect.com/science/article/pii/S0092867416310078'> Comprehensive classification of retinal bipolar neurons by single-cell transcriptomics. </a> Cell, 166(5), 1308-1323."
             ],
             "seealso": [],
-            "size": 11204880,
+            "size": 11191059,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81905'>NCBI</a>",
             "tags": [
                 "expression",

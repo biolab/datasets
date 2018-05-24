@@ -7,7 +7,7 @@
         "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
     ],
     "seealso": [],
-    "size": 67925795,
+    "size": 67919378,
     "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
     "tags": [
         "aml",
@@ -15,7 +15,7 @@
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML",
-    "url": "https://orange.biolab.si/serverfiles-bio2/temp/aml-8k.pickle",
+    "url": "http://datasets.orange.biolab.si/sc/aml-8k.pickle",
     "variables": 1004,
     "num_of_genes": 1000,
     "version": "1.3",

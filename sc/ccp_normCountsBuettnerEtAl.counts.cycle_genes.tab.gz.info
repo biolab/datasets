@@ -10,7 +10,7 @@
     "seealso": [
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
     ],
-    "size": 151699,
+    "size": 150014,
     "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2805/'>ArrayExpress</a>",
     "tags": [
         "mouse",
@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell cycle in mESC (Fluidigm, cell cycle genes)",
-    "url": "https://orange.biolab.si/serverfiles-bio2/temp/ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz",
+    "url": "http://datasets.orange.biolab.si/sc/ccp_normCountsBuettnerEtAl.counts.cycle_genes.tab.gz",
     "variables": 564,
     "num_of_genes": 563,
     "version": "1.3",

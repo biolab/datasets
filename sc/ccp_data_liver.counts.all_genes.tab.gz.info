@@ -10,7 +10,7 @@
     "seealso": [
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
     ],
-    "size": 257068,
+    "size": 197362,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE45719'>NCBI</a>",
     "tags": [
         "mouse",
@@ -20,7 +20,7 @@
     ],
     "target": null,
     "title": "Cell cycle in mouse liver",
-    "url": "https://orange.biolab.si/serverfiles-bio2/temp/ccp_data_liver.counts.all_genes.tab.gz",
+    "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.all_genes.tab.gz",
     "variables": 20683,
     "num_of_genes": 20683,
     "version": "1.3",
