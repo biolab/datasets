@@ -9,7 +9,7 @@
     "seealso": [
         "<a href='https://github.com/PMBio/cyclone'> PMBio / cyclone </a> (GitHub resource)."
     ],
-    "size": 386526,
+    "size": 456668,
     "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3749/'>ArrayExpress</a>",
     "tags": [
         "mouse",
@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell cycle in mESC (bulk RNA-seq)",
-    "url": "https://orange.biolab.si/serverfiles-bio2/temp/ccp_data_mESCbulk.counts.all_genes.tab.gz",
+    "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
     "variables": 38294,
     "num_of_genes": 38293,
     "version": "1.3",

@@ -10,7 +10,7 @@
     "seealso": [
         "<a href='https://github.com/PMBio/scLVM'> PMBio / scLVM </a> (GitHub resource)."
     ],
-    "size": 230960,
+    "size": 232745,
     "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-2512/'>ArrayExpress</a>",
     "tags": [
         "mouse",
@@ -20,7 +20,7 @@
     ],
     "target": null,
     "title": "Cell cycle in T-cells (cell cycle genes)",
-    "url": "https://orange.biolab.si/serverfiles-bio2/temp/ccp_data_Tcells_normCounts.counts.cycle_genes.tab.gz",
+    "url": "http://datasets.orange.biolab.si/sc/ccp_data_Tcells_normCounts.counts.cycle_genes.tab.gz",
     "variables": 553,
     "num_of_genes": 553,
     "version": "1.3",
