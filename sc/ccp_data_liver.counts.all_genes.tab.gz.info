@@ -20,10 +20,10 @@
     ],
     "target": null,
     "title": "Cell cycle in mouse liver",
-    "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.all_genes.tab.gz",
+    "url": "https://orange.biolab.si/serverfiles-bio2/temp/ccp_data_liver.counts.all_genes.tab.gz",
     "variables": 20683,
     "num_of_genes": 20683,
-    "version": "1.2",
+    "version": "1.3",
     "year": 2014,
     "taxid": "10090"
 }
