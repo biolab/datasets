@@ -4,9 +4,8 @@
     "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. Events (rows) are described through location, cause and type of accident, and road condition. The data on geographic location is provided.",
     "references": [],
     "tags": [
-        "location",
-        "date",
-        "traffic"
+        "geo",
+        "timeseries"
     ],
     "target": null,
     "version": "1.0",

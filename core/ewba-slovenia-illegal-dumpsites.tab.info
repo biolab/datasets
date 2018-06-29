@@ -3,8 +3,8 @@
     "title": "Illegal waste dumpsites in Slovenia",
     "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association. The data coutains geographical location of the site and its description, including information about accessibility, access type, vaste area and volume and types of waste deposited.",
     "tags": [
-        "location",
-        "date",
+        "geo",
+        "timeseries",
         "ecology"
     ],
     "target": null,

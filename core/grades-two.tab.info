@@ -3,8 +3,8 @@
     "title": "Grades for English and Math",
     "description": "A small data set with final grades from English and Mathematics that was hand-crafted to introduce Euclidean distance and hierarchical clustering.",
     "tags": [
-        "clustering",
-        "synthetic"
+        "synthetic",
+        "educational"
     ],
     "target": null,
     "version": "1.0",

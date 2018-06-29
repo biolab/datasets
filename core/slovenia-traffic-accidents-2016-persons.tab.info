@@ -4,9 +4,8 @@
     "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. The data includes geographic location of the accident, and profile of a person involved containing the age, gender, type of accident, the result of an alcohol test, and an indicator if the person caused the accident.",
     "references": [],
     "tags": [
-        "location",
-        "date",
-        "traffic"
+        "geo",
+        "timeseries"
     ],
     "target": null,
     "version": "1.0",

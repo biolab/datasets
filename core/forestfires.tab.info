@@ -9,7 +9,9 @@
     "seealso": null,
     "size": 32101,
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Forest+Fires'>UCI ML Repository</a>",
-    "tags": [],
+    "tags": [
+        "ecology"
+    ],
     "target": "numeric",
     "title": "Forest Fires",
     "url": "http://datasets.orange.biolab.si/core/forestfires.tab",

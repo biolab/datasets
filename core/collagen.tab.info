@@ -4,7 +4,7 @@
     "description": "Data on cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of a chemical compound in that part of the cell. Each row represents the data on specific cell, with components of the spectra given in columns. The data was compiled by dr. Christophe Sandt.",
     "collection": "spectral",
     "tags": [
-        "infrared"
+        "spectral"
     ],
     "target": "categorical",
     "version": "1.0",

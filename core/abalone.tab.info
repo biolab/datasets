@@ -7,7 +7,9 @@
     "seealso": null,
     "size": 191993,
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Abalone'>UCI ML Repository</a>",
-    "tags": [],
+    "tags": [
+        "biology"
+    ],
     "target": "numeric",
     "title": "Abalone",
     "url": "http://datasets.orange.biolab.si/core/abalone.tab",
