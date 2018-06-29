@@ -3,7 +3,6 @@
     "title": "Sailing",
     "description": "Hand-crafted data set to explain inference of classification trees. It records data for Sara, a weekend sailer, and the data before sailing on company, boat type and weather. The class tells if she actually went sailing.",
     "tags": [
-        "tree",
         "synthetic"
     ],
     "target": "categorical",

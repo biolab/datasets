@@ -9,9 +9,7 @@
     "seealso": null,
     "size": 84183,
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Wine+Quality'>UCI ML Repository</a>",
-    "tags": [
-        "wine"
-    ],
+    "tags": [],
     "target": "numeric",
     "title": "Wine quality - red",
     "url": "http://datasets.orange.biolab.si/core/winequality-red.tab",

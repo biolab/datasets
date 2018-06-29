@@ -8,8 +8,7 @@
     "size": 93607,
     "source": "<a href='http://yplp.uni-graz.at'>YPL+.db</a>",
     "tags": [
-        "images",
-        "everyone"
+        "image analytics"
     ],
     "target": "categorical",
     "title": "Yeast Protein Localization",

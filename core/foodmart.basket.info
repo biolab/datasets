@@ -3,6 +3,8 @@
     "description": "Foodmart 2000 is a market based dataset that came with Microsoft Analysis Services. For every transaction (rows) it contains tuples of item names and number of items bought. Every transaction also contains the store ID.",
     "title": "Foodmart 2000",
     "tags": [
+        "economy",
+        "associate",
         "basket"
     ],
     "target": null,

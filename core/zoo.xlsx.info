@@ -3,7 +3,7 @@
     "title": "Zoo",
     "description": "A dataset created by Richard Forsyth contains seventeen binary-valued attributes that describe animals. Features include information about presence of hair, feathers and teeth, report if animal is aquatic or airborn, and alike. Animals are named and are classified into seven categories: amphibian, bird, fish, insect, invertaebrate, mammal, and reptile.",
     "tags": [
-        "animals"
+        "biology"
     ],
     "target": "categorical",
     "version": "1.0",

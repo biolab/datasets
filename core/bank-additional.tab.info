@@ -10,7 +10,7 @@
     "size": 477308,
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
     "tags": [
-        "marketing"
+        "economy"
     ],
     "target": "categorical",
     "title": "Bank Marketing",

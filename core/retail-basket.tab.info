@@ -3,7 +3,10 @@
     "description": "This is a transnational data set which contains all the transactions occurring between 2010-12-1 and 2011-12-09 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.",
     "title": "Online Retail",
     "tags": [
-        "marketing"
+        "economy",
+        "timeseries",
+        "geo",
+        "sparse"
     ],
     "target": null,
     "version": "1.0",

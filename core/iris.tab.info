@@ -2,7 +2,9 @@
     "name": "iris",
     "description": "The Iris flower data set or Fisher's Iris data set was introduced by the British statistician and biologist Ronald Fisher in his 1936 paper as an example of linear discriminant analysis. The data on length and width of petal and sepal leafs was actually collected by American botanist Edgar Anderson to quantify the morphologic variation of Iris flowers of three related species.",
     "title": "Iris",
-    "tags": [],
+    "tags": [
+        "biology"
+    ],
     "target": "categorical",
     "version": "1.0",
     "year": 1936,
