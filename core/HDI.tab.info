@@ -15,6 +15,6 @@
     "variables": 66,
     "source": "<a href='http://hdr.undp.org/en/data'>Human Development Data (1990-2015)</a>",
     "size": 66650,
-    "url": "http://file.biolab.si/datasets/HDI.tab",
+    "url": "http://datasets.orange.biolab.si/core/HDI.tab",
     "references": []
 }

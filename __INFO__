@@ -52,6 +52,32 @@
     [
         [
             "core",
+            "HDI.tab"
+        ],
+        {
+            "name": "HDI",
+            "description": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living. The HDI is the geometric mean of normalized indices for each of the three dimensions. The HDI simplifies and captures only part of what human development entails. This data is a pre-processed version of the entire data. We have removed HDI-related variables and countries with a missing HDI score.",
+            "title": "HDI",
+            "tags": [
+                "economy",
+                "geo"
+            ],
+            "target": "numeric",
+            "version": "1.0",
+            "year": 2016,
+            "collection": "UNDP Human Development Reports",
+            "instances": 188,
+            "missing": 0,
+            "variables": 66,
+            "source": "<a href='http://hdr.undp.org/en/data'>Human Development Data (1990-2015)</a>",
+            "size": 66650,
+            "url": "http://datasets.orange.biolab.si/core/HDI.tab",
+            "references": []
+        }
+    ],
+    [
+        [
+            "core",
             "abalone.tab"
         ],
         {
