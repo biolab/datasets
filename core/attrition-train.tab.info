@@ -1,0 +1,22 @@
+{
+    "collection": "IBM",
+    "description": "Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.",
+    "instances": 1470,
+    "name": "attrition-train",
+    "references": null,
+    "seealso": [
+        "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
+    ],
+    "size": 186525,
+    "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/'>Watson Analytics Sample Data</a>",
+    "tags": [
+        "economy",
+        "synthetic"
+    ],
+    "target": "categorical",
+    "title": "Attrition - Train",
+    "url": "http://file.biolab.si/datasets/attrition-train.tab",
+    "variables": 18,
+    "version": null,
+    "year": "2015"
+}
