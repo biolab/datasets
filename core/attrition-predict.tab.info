@@ -16,7 +16,7 @@
     ],
     "target": "categorical",
     "title": "Attrition - Predict",
-    "url": "http://file.biolab.si/datasets/attrition-predict.tab",
+    "url": "http://datasets.orange.biolab.si/core/attrition-predict.tab",
     "variables": 18,
     "version": "",
     "year": "2017"

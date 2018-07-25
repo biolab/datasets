@@ -1,6 +1,6 @@
 {
     "collection": "IBM",
-    "description": "Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.",
+    "description": "Uncover the factors that lead to employee attrition and explore important questions such as \u2018show me a breakdown of distance from home by job role and attrition\u2019 or \u2018compare average monthly income by education and attrition\u2019. This is a fictional data set created by IBM data scientists.",
     "instances": 1470,
     "name": "attrition-train",
     "references": null,
@@ -15,7 +15,7 @@
     ],
     "target": "categorical",
     "title": "Attrition - Train",
-    "url": "http://file.biolab.si/datasets/attrition-train.tab",
+    "url": "http://datasets.orange.biolab.si/core/attrition-train.tab",
     "variables": 18,
     "version": null,
     "year": "2015"
