@@ -1,0 +1,18 @@
+{
+    "name": "auto-mpg",
+    "description": "This dataset is a slightly modified version of the dataset provided in the StatLib library. In line with the use by Ross Quinlan (1993) in predicting the attribute 'mpg', 8 of the original instances were removed because they had unknown values for the 'mpg' attribute. The original dataset is available in the file 'auto-mpg.data-original'. 'The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes.'' (Quinlan, 1993)",
+    "title": "Auto MPG",
+    "tags": [],
+    "target": "numeric",
+    "version": "1.0",
+    "year": "1993",
+    "collection": "UCI",
+    "instances": 398,
+    "variables": 9,
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/auto+mpg'>UCI ML Repository</a>",
+    "size": 17760,
+    "url": "http://file.biolab.si/datasets/auto-mpg.tab",
+    "references": [
+        "Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann."
+    ] 
+}
