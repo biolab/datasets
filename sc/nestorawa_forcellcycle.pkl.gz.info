@@ -1,0 +1,27 @@
+{
+    "collection": "GEO",
+    "description": "The data set contains 1656 single cell transcriptomes analysed by single-cell RNA sequencing. Cells were FACS sorted on broad gates encompassing haematopoietic stem and progenitor populations (HSPCs), with index sorting data collected to permit retrospective identification of populations by surface marker expression.",
+    "instances": 774,
+    "name": "nestorawa_forcellcycle.pkl",
+    "references": [
+        "Nestorowa, S., Hamey, F. K., Sala, B. P., Diamanti, E., Shepherd, M., Laurenti, E., ... & G\\u00f6ttgens, B. (2016). A single cell resolution map of mouse haematopoietic stem and progenitor cell differentiation. Blood, blood-2016."
+    ],
+    "seealso": [
+        "<a href=\\\"https://satijalab.org/seurat/cell_cycle_vignette.html\\\">Seurat vignette on cell-cycle effect removal</a>"
+    ],
+    "size": 17564953,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81682'>GEO</a>",
+    "tags": [
+        "mus-musculus",
+        "expression",
+        "HPSC",
+        "cell-cycle",
+        "differentiation"
+    ],
+    "target": null,
+    "title": "Mouse haematopoietic stem and progenitor cell differentiation",
+    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/nestorawa_forcellcycle.pkl.gz",
+    "variables": 23930,
+    "version": "1.0",
+    "year": 2016
+}
