@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Stimulated and resting immune cells",
-    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/pbmc_kang2018.pkl.gz",
+    "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018.pkl.gz",
     "variables": 1411,
     "version": "1.0",
     "year": 2018

@@ -583,5 +583,69 @@
             "year": 2016,
             "taxid": "10090"
         }
+    ],
+    [
+        [
+            "nestorawa_forcellcycle.pkl.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "The data set contains 1656 single cell transcriptomes analysed by single-cell RNA sequencing. Cells were FACS sorted on broad gates encompassing haematopoietic stem and progenitor populations (HSPCs), with index sorting data collected to permit retrospective identification of populations by surface marker expression.",
+            "instances": 774,
+            "name": "nestorawa_forcellcycle.pkl",
+            "references": [
+                "Nestorowa, S., Hamey, F. K., Sala, B. P., Diamanti, E., Shepherd, M., Laurenti, E., ... & G\\u00f6ttgens, B. (2016). A single cell resolution map of mouse haematopoietic stem and progenitor cell differentiation. Blood, blood-2016."
+            ],
+            "seealso": [
+                "<a href=\\\"https://satijalab.org/seurat/cell_cycle_vignette.html\\\">Seurat vignette on cell-cycle effect removal</a>"
+            ],
+            "size": 17564953,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81682'>GEO</a>",
+            "tags": [
+                "mus-musculus",
+                "expression",
+                "HPSC",
+                "cell-cycle",
+                "differentiation"
+            ],
+            "target": null,
+            "title": "Mouse haematopoietic stem and progenitor cell differentiation",
+            "url": "http://datasets.orange.biolab.si/sc/nestorawa_forcellcycle.pkl.gz",
+            "variables": 23930,
+            "version": "1.0",
+            "year": 2016
+        }
+    ],
+    [
+        [
+            "pbmc_kang2018.pkl.gz"
+        ],
+        {
+            "collection": "GEO",
+            "description": "Multiplexed dscRNA-seq was used to characterize the cell-type specificity and inter-individual variability of response to IFN-\u03b2, a potent cytokine that induces genome-scale changes in the transcriptional profiles of immune cells. From each of eight lupus patients, PBMCs were activated with recombinant IFN-\u03b2 or left untreated for 6 h, a time point previously found to maximize the expression of interferon-sensitive genes in dendritic cells and T cells16,17. Two pools, IFN-\u03b2-treated and control, were prepared with the same number of cells from each individual and loaded onto the 10\u00d7 Chromium instrument. Cells with fewer than 500 genes detected were remove, leaving 14,039 single cells in total. Genes were reduced to 1410 most variable genes according to dispersion. This reduced data set is used as an example of Seurat alignment workflow (see link below).",
+            "instances": 14039,
+            "name": "pbmc_kang2018.pkl",
+            "references": [
+                "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
+                "Butler, A., Hoffman, P., Smibert, P., Papalexi, E., & Satija, R. (2018). Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature biotechnology, 36(5), 411."
+            ],
+            "seealso": [
+                "<a href=\"https://satijalab.org/seurat/immune_alignment.html\">Seurat vignette on data set alignment</a>"
+            ],
+            "size": 21323778,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
+            "tags": [
+                "human",
+                "expression",
+                "pbmc",
+                "immune-system"
+            ],
+            "target": "categorical",
+            "title": "Stimulated and resting immune cells",
+            "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018.pkl.gz",
+            "variables": 1411,
+            "version": "1.0",
+            "year": 2018
+        }
     ]
 ]
