@@ -1,0 +1,14 @@
+{
+    "name": "anneal",
+    "description": null,
+    "title": "Anneal",
+    "tags": [],
+    "target": "categorical",
+    "collection": "UCI",
+    "version": "1.0",
+    "instances": 898,
+    "variables": 39,
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Annealing'>UCI ML Repository</a>",
+    "size": 90814,
+    "url": "http://file.biolab.si/datasets/anneal.tab" 
+}
