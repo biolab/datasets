@@ -13,9 +13,9 @@
     "variables": 15,
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
     "size": 4301202,
-    "url": "http://file.biolab.si/datasets/adult.tab",
+    "url": "http://datasets.orange.biolab.si/core/adult.tab",
     "references": [
         "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. AProceedings of the Second International Conference on Knowledge Discovery and Data Mining."
     ],
-    "seealso": null  
+    "seealso": null
 }

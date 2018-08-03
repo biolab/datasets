@@ -13,8 +13,8 @@
     "variables": 70,
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/audiology+(standardized)'>UCI ML Repository</a>",
     "size": 44860,
-    "url": "http://file.biolab.si/datasets/audiology.tab",
+    "url": "http://datasets.orange.biolab.si/core/audiology.tab",
     "references": [
         "Bareiss, E. Ray, & Porter, Bruce (1987). Protos: An Exemplar-Based Learning Apprentice. In the Proceedings of the 4th International Workshop on Machine Learning, 12-23, Irvine, CA: Morgan Kaufmann. "
-    ]  
+    ]
 }

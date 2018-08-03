@@ -103,6 +103,53 @@
     [
         [
             "core",
+            "adult.tab"
+        ],
+        {
+            "name": "adult",
+            "description": "Extraction was done by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1)&& (HRSWK>0)). Prediction task is to determine whether a person makes over 50K a year.",
+            "title": "Adult",
+            "tags": [
+                "economy"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "1996",
+            "collection": "UCI",
+            "instances": 32561,
+            "variables": 15,
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
+            "size": 4301202,
+            "url": "http://datasets.orange.biolab.si/core/adult.tab",
+            "references": [
+                "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. AProceedings of the Second International Conference on Knowledge Discovery and Data Mining."
+            ],
+            "seealso": null
+        }
+    ],
+    [
+        [
+            "core",
+            "anneal.tab"
+        ],
+        {
+            "name": "anneal",
+            "description": null,
+            "title": "Anneal",
+            "tags": [],
+            "target": "categorical",
+            "collection": "UCI",
+            "version": "1.0",
+            "instances": 898,
+            "variables": 39,
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Annealing'>UCI ML Repository</a>",
+            "size": 90814,
+            "url": "http://datasets.orange.biolab.si/core/anneal.tab"
+        }
+    ],
+    [
+        [
+            "core",
             "attrition-predict.tab"
         ],
         {
@@ -155,6 +202,56 @@
             "variables": 18,
             "version": null,
             "year": "2015"
+        }
+    ],
+    [
+        [
+            "core",
+            "audiology.tab"
+        ],
+        {
+            "name": "audiology",
+            "description": "Nominal audiology dataset from Baylor.",
+            "title": "Audiology",
+            "tags": [
+                "biology"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "1987",
+            "collection": "UCI",
+            "instances": 226,
+            "variables": 70,
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/audiology+(standardized)'>UCI ML Repository</a>",
+            "size": 44860,
+            "url": "http://datasets.orange.biolab.si/core/audiology.tab",
+            "references": [
+                "Bareiss, E. Ray, & Porter, Bruce (1987). Protos: An Exemplar-Based Learning Apprentice. In the Proceedings of the 4th International Workshop on Machine Learning, 12-23, Irvine, CA: Morgan Kaufmann. "
+            ]
+        }
+    ],
+    [
+        [
+            "core",
+            "auto-mpg.tab"
+        ],
+        {
+            "name": "auto-mpg",
+            "description": "This dataset is a slightly modified version of the dataset provided in the StatLib library. In line with the use by Ross Quinlan (1993) in predicting the attribute 'mpg', 8 of the original instances were removed because they had unknown values for the 'mpg' attribute. The original dataset is available in the file 'auto-mpg.data-original'. 'The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes.'' (Quinlan, 1993)",
+            "title": "Auto MPG",
+            "tags": [],
+            "target": "numeric",
+            "version": "1.0",
+            "year": "1993",
+            "collection": "UCI",
+            "instances": 398,
+            "variables": 9,
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/auto+mpg'>UCI ML Repository</a>",
+            "size": 17760,
+            "url": "http://datasets.orange.biolab.si/core/auto-mpg.tab",
+            "references": [
+                "Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann."
+            ]
         }
     ],
     [

@@ -10,5 +10,5 @@
     "variables": 39,
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Annealing'>UCI ML Repository</a>",
     "size": 90814,
-    "url": "http://file.biolab.si/datasets/anneal.tab" 
+    "url": "http://datasets.orange.biolab.si/core/anneal.tab"
 }
