@@ -1,0 +1,21 @@
+{
+    "name": "brown-selected",
+    "description": "Gene expression of baker's yeast.",
+    "title": "Baker's Yeast",
+    "tags": [
+        "biology"
+    ],
+    "target": "categorical",
+    "version": "1.0",
+    "year": "",
+    "collection": "",
+    "instances": 186,
+    "variables": 81,
+    "source": "<a href='http://www.biolab.si/supp/bi-vizrank/use.html'>Brown for Orange</a>",
+    "size": 98010,
+    "url": "http://file.biolab.si/datasets/brown-selected.tab",
+    "references": [
+        "Brown, M.P., Grundy, W.N., Lin, D., Cristianini, N., Sugnet, C., Furey, T.S., Ares, M., Haussler, D. (2000) Knowledge-based analysis of microarray gene expression data by using support vector machines, Proceedings of the National Academy of Sciences, 1 , 262-267."
+    ],
+    "seealso": null
+}

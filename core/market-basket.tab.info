@@ -1,0 +1,20 @@
+{
+    "name": "market-basket",
+    "description": "Sythetic market basket data set.",
+    "title": "Market basked",
+    "tags": [
+        "synthetic",
+        "basket"
+    ],
+    "target": null,
+    "version": "1.0",
+    "year": "",
+    "collection": "",
+    "instances": 5,
+    "variables": 6,
+    "source": "",
+    "size": 99,
+    "url": "http://file.biolab.si/datasets/market-basket.tab",
+    "references": [],
+    "seealso": null
+}
