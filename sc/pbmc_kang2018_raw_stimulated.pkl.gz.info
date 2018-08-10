@@ -1,7 +1,7 @@
 {
-    "name": "pbmc_kang2018_raw_stimulated_matched.tab.gz",
+    "name": "pbmc_kang2018_raw_stimulated.pkl.gz",
     "description": "Multiplexed dscRNA-seq was used to characterize the cell-type specificity and inter-individual variability of response to IFN-\u03b2, a potent cytokine that induces genome-scale changes in the transcriptional profiles of immune cells. From each of eight lupus patients, PBMCs were activated with recombinant IFN-\u03b2 or left untreated for 6 h, a time point previously found to maximize the expression of interferon-sensitive genes in dendritic cells and T cells16,17. Two pools, IFN-\u03b2-treated and control, were prepared with the same number of cells from each individual and loaded onto the 10\u00d7 Chromium instrument.",
-    "title": "Stimulated and resting immune cells (full - stimulated)",
+    "title": "Stimulated and resting immune cells (stimulated)",
     "tags": [
         "human",
         "expression",
@@ -9,14 +9,14 @@
         "immune-system"
     ],
     "target": "categorical",
-    "version": "1.0",
+    "version": "2.0",
     "year": 2018,
     "collection": "GEO",
     "instances": 12875,
     "variables": 35637,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
-    "size": 21259687,
-    "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_raw_stimulated_matched.tab.gz",
+    "size": 19959878,
+    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/pbmc_kang2018_raw_stimulated.pkl.gz",
     "references": [
         "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
         "Butler, A., Hoffman, P., Smibert, P., Papalexi, E., & Satija, R. (2018). Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature biotechnology, 36(5), 411."
