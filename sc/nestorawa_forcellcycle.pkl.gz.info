@@ -23,5 +23,6 @@
     "url": "http://datasets.orange.biolab.si/sc/nestorawa_forcellcycle.pkl.gz",
     "variables": 23930,
     "version": "1.0",
-    "year": 2016
+    "year": 2016,
+    "taxid": "10090"
 }
