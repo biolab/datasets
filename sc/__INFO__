@@ -645,7 +645,8 @@
             ],
             "seealso": [
                 "<a href=\"https://satijalab.org/seurat/immune_alignment.html\">Seurat vignette on data set alignment</a>"
-            ]
+            ],
+            "taxid": "9606"
         }
     ],
     [
@@ -677,7 +678,8 @@
             ],
             "seealso": [
                 "<a href=\"https://satijalab.org/seurat/immune_alignment.html\">Seurat vignette on data set alignment</a>"
-            ]
+            ],
+            "taxid": "9606"
         }
     ]
 ]
