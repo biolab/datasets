@@ -63,36 +63,6 @@
     ],
     [
         [
-            "DC_markers_all.tab"
-        ],
-        {
-            "collection": "GEO",
-            "description": "Dendritic cells and monocytes (markers) Marker genes for dendritic cells subpopulations in human blood, associated to six clusters of cells in human blood samples. With each marker we have an associated Area Under the ROC Curve (AUC) score, quantifying the discriminative value of each marker for the cluster of interest.",
-            "instances": 1019,
-            "name": "DC_markers_all",
-            "references": [
-                "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
-            ],
-            "seealso": [],
-            "size": 122124,
-            "source": "<a href='http://science.sciencemag.org/content/356/6335/eaah4573/tab-figures-data'>NCBI</a>",
-            "tags": [
-                "markers",
-                "human",
-                "homo-sapiens",
-                "blood"
-            ],
-            "target": null,
-            "title": "Dendritic cells and monocytes (markers)",
-            "url": "http://datasets.orange.biolab.si/sc/DC_markers_all.tab",
-            "variables": 11,
-            "version": "1.0",
-            "year": 2017,
-            "taxid": "9606"
-        }
-    ],
-    [
-        [
             "aml-1k.pickle"
         ],
         {
@@ -146,36 +116,6 @@
             "variables": 1004,
             "num_of_genes": 1000,
             "version": "1.3",
-            "year": 2017,
-            "taxid": "9606"
-        }
-    ],
-    [
-        [
-            "aml-markers.tab"
-        ],
-        {
-            "collection": "10x Genomics",
-            "description": "Cell type markers for bone marrow cells. Markers were manually extracted from the <a href='https://www.nature.com/articles/ncomms14049'>publication on bone marrow mononuclear cells with AML</a>.",
-            "instances": 8,
-            "name": "aml-markers",
-            "references": [
-                "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
-            ],
-            "seealso": [],
-            "size": 308,
-            "source": "<a href='https://www.nature.com/articles/ncomms14049'>10x Genomics</a>",
-            "tags": [
-                "aml",
-                "expression",
-                "markers",
-                "human"
-            ],
-            "target": null,
-            "title": "Bone marrow mononuclear cells with AML (markers)",
-            "url": "http://datasets.orange.biolab.si/sc/aml-markers.tab",
-            "variables": 3,
-            "version": "1.0",
             "year": 2017,
             "taxid": "9606"
         }
@@ -614,7 +554,8 @@
             "variables": 23930,
             "version": "1.0",
             "year": 2016,
-            "taxid": "10090"
+            "taxid": "10090",
+            "num_of_genes": 23929
         }
     ],
     [
@@ -638,7 +579,7 @@
             "instances": 13019,
             "variables": 35637,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
-            "size": 19387533,
+            "size": 19670012,
             "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_raw_control.pkl.gz",
             "references": [
                 "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
@@ -647,7 +588,8 @@
             "seealso": [
                 "<a href=\"https://satijalab.org/seurat/immune_alignment.html\">Seurat vignette on data set alignment</a>"
             ],
-            "taxid": "9606"
+            "taxid": "9606",
+            "num_of_genes": 35635
         }
     ],
     [
@@ -671,7 +613,7 @@
             "instances": 12875,
             "variables": 35637,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
-            "size": 19959878,
+            "size": 20096165,
             "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_raw_stimulated.pkl.gz",
             "references": [
                 "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
@@ -680,7 +622,8 @@
             "seealso": [
                 "<a href=\"https://satijalab.org/seurat/immune_alignment.html\">Seurat vignette on data set alignment</a>"
             ],
-            "taxid": "9606"
+            "taxid": "9606",
+            "num_of_genes": 35635
         }
     ]
 ]
