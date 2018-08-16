@@ -15,8 +15,8 @@
     "instances": 13019,
     "variables": 35637,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
-    "size": 19387533,
-    "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_raw_control.pkl.gz",
+    "size": 19670012,
+    "url": "http://bubble.fri.uni-lj.si/zp/singlecell/datasets/pbmc_kang2018_raw_control.pkl.gz",
     "references": [
         "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
         "Butler, A., Hoffman, P., Smibert, P., Papalexi, E., & Satija, R. (2018). Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature biotechnology, 36(5), 411."
@@ -24,5 +24,6 @@
     "seealso": [
         "<a href=\"https://satijalab.org/seurat/immune_alignment.html\">Seurat vignette on data set alignment</a>"
     ],
-   "taxid": "9606"
+   "taxid": "9606",
+   "num_of_genes": 35635
 }

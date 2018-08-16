@@ -24,5 +24,6 @@
     "variables": 23930,
     "version": "1.0",
     "year": 2016,
-    "taxid": "10090"
+    "taxid": "10090",
+    "num_of_genes": 23929
 }
