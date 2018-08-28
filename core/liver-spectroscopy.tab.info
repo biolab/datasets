@@ -1,0 +1,17 @@
+{
+    "name": "liver-spectroscopy",
+    "title": "Liver spectroscopy",
+    "description": "Data on cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of a chemical compound (collagen, glycogen, lipids, or DNA) in that part of the cell. Each row represents the data on specific cell, with components of the spectra given in columns. The data was compiled by dr. Christophe Sandt.",
+    "collection": "spectral",
+    "tags": [
+        "spectral"
+    ],
+    "target": "categorical",
+    "version": "1.0",
+    "year": 2017,
+    "instances": 731,
+    "missing": false,
+    "variables": 234,
+    "url": "http://datasets.orange.biolab.si/core/collagen.tab",
+    "size": 1018671
+}
