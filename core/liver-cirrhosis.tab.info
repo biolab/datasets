@@ -1,0 +1,21 @@
+{
+    "name": "liver-cirrhosis",
+    "title": "Liver cirrhosis - spectral image",
+    "description": "Liver is the organ in charge of food and drug detoxification, cholesterol, lipids and glycogen synthesis. In case of cirrhosis, some parts of the liver become isolated in nodules by fibrotic tissue rich in collagen. The infrared map was recorded at the intersection between several cirrhotic nodules. The Fourier transform infrared spectroscopy (FTIR) measurement was performed in trans-reflection mode from a 10 µm thick section at 8x8 µm² spatial resolution. The data was imaged by dr. Christophe Sandt.",
+    "collection": "spectral",
+    "tags": [
+        "spectral",  "hyperspectral"
+    ],
+    "target": null,
+    "version": "1.0",
+    "year": 2018,
+    "instances": 1078,
+    "missing": false,
+    "variables": 546,
+    "url": "https://www.dropbox.com/s/nij8ey9323lq6mm/liver-cirrhosis.tab?dl=1"
+}
+
+
+
+
+
