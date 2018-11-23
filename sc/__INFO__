@@ -526,6 +526,38 @@
     ],
     [
         [
+            "dm_proj_neurons_li2017.pkl.gz"
+        ],
+        {
+            "collection": "EBI",
+            "description": "The data set contains 1842 projection neurons from <i>Drosophila Melanogaster</i>.  The brains with mCD8GFP-labeled cells using specific GAL4 drivers were manually dissected, and two optical lobes were removed.",
+            "instances": 1842,
+            "name": "dm_proj_neurons_li2017",
+            "seealso": [
+                ""
+            ],
+            "references": [
+                "Li, Hongjie, et al. Classifying Drosophila olfactory projection neuron subtypes by single-cell RNA sequencing. Cell 171.5 (2017): 1206-1220."
+            ],
+            "size": 24587348,
+            "source": "<a href='https://www.ebi.ac.uk/gxa/sc/experiments/E-GEOD-100058/Results'>EBI</a>",
+            "tags": [
+                "drosophila-melanogaster",
+                "expression",
+                "differentiation"
+            ],
+            "target": null,
+            "title": "Drosophila Olfactory Projection Neuron Subtypes",
+            "url": "http://datasets.orange.biolab.si/sc/dm_proj_neurons_li2017.pkl.gz",
+            "variables": 13920,
+            "version": "1.0",
+            "year": 2017,
+            "taxid": "7227",
+            "num_of_genes": 13898
+        }
+    ],
+    [
+        [
             "nestorawa_forcellcycle.pkl.gz"
         ],
         {
