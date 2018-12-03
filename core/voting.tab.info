@@ -13,7 +13,7 @@
     "variables": 17,
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/congressional+voting+records'>UCI ML Repository</a>",
     "size": 18212,
-    "url": "http://file.biolab.si/datasets/voting.tab",
+    "url": "http://datasets.orange.biolab.si/core/voting.tab",
     "references": [
         "Schlimmer, J. C. (1987). Concept acquisition through representational adjustment. Doctoral dissertation, Department of Information and Computer Science, University of California, Irvine, CA."
     ],

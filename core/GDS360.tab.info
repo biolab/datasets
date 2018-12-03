@@ -13,7 +13,7 @@
     "variables": 9486,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS360'>NCBI</a>",
     "size": 1870893,
-    "url": "http://file.biolab.si/datasets/geo-gds360.tab",
+    "url": "http://datasets.orange.biolab.si/core/GDS360.tab",
     "references": [
         "Chang JC, Wooten EC, Tsimelzon A, Hilsenbeck SG et al. (2005) Patterns of resistance and incomplete response to docetaxel by gene expression profiling in breast cancer patients. J Clin Oncol, 23(6): 1169-77."
     ],

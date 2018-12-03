@@ -2,6 +2,33 @@
     [
         [
             "core",
+            "GDS360.tab"
+        ],
+        {
+            "name": "GDS360",
+            "description": "Breast cancer core biopsies taken from patients found to be resistant (greater than 25% residual tumor volume) or sensitive (less than 25% residual tumor volume) to docetaxel treatment.",
+            "title": "Breast Cancer and Docetaxel Treatment",
+            "tags": [
+                "biology"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "2006",
+            "collection": "NCBI",
+            "instances": 24,
+            "variables": 9486,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS360'>NCBI</a>",
+            "size": 1870893,
+            "url": "http://datasets.orange.biolab.si/core/GDS360.tab",
+            "references": [
+                "Chang JC, Wooten EC, Tsimelzon A, Hilsenbeck SG et al. (2005) Patterns of resistance and incomplete response to docetaxel by gene expression profiling in breast cancer patients. J Clin Oncol, 23(6): 1169-77."
+            ],
+            "seealso": null
+        }
+    ],
+    [
+        [
+            "core",
             "GDS3713-small.tab"
         ],
         {
@@ -310,6 +337,33 @@
     [
         [
             "core",
+            "brown-selected.tab"
+        ],
+        {
+            "name": "brown-selected",
+            "description": "Gene expression of baker's yeast.",
+            "title": "Baker's Yeast",
+            "tags": [
+                "biology"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "",
+            "collection": "",
+            "instances": 186,
+            "variables": 81,
+            "source": "<a href='http://www.biolab.si/supp/bi-vizrank/use.html'>Brown for Orange</a>",
+            "size": 98010,
+            "url": "http://datasets.orange.biolab.si/core/brown-selected.tab",
+            "references": [
+                "Brown, M.P., Grundy, W.N., Lin, D., Cristianini, N., Sugnet, C., Furey, T.S., Ares, M., Haussler, D. (2000) Knowledge-based analysis of microarray gene expression data by using support vector machines, Proceedings of the National Academy of Sciences, 1 , 262-267."
+            ],
+            "seealso": null
+        }
+    ],
+    [
+        [
+            "core",
             "car.tab"
         ],
         {
@@ -333,6 +387,29 @@
             "variables": 6,
             "version": "1.0",
             "year": 1999
+        }
+    ],
+    [
+        [
+            "core",
+            "conferences.tab"
+        ],
+        {
+            "name": "conferences",
+            "description": "Machine learning publications with author and paper counts.",
+            "title": "Conferences",
+            "tags": [],
+            "target": "",
+            "version": "1.0",
+            "year": "",
+            "collection": "",
+            "instances": 42,
+            "variables": 5,
+            "source": "",
+            "size": 2337,
+            "url": "http://datasets.orange.biolab.si/core/conferences.tab",
+            "references": [],
+            "seealso": "<a href='https://blog.biolab.si/2016/07/18/network-analysis-with-orange'>Network Analysis with Orange</a>, a blog about how to plot ML publications in a network."
         }
     ],
     [
@@ -489,6 +566,33 @@
     [
         [
             "core",
+            "imports-85.tab"
+        ],
+        {
+            "name": "imports-85",
+            "description": "This data set consists of three types of entities: (a) the specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. The second rating corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuarians call this process 'symboling'. A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe. The third factor is the relative average loss payment per insured vehicle year. This value is normalized for all autos within a particular size classification (two-door small, station wagons, sports/speciality, etc...), and represents the average loss per car per year. Note: Several of the attributes in the database could be used as a 'class' attribute.",
+            "title": "Congressional Voting Records",
+            "tags": [
+                "economy"
+            ],
+            "target": "numeric",
+            "version": "1.0",
+            "year": "1987",
+            "collection": "UCI",
+            "instances": 205,
+            "variables": 26,
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/automobile'>UCI ML Repository</a>",
+            "size": 26300,
+            "url": "http://datasets.orange.biolab.si/core/imports-85.tab",
+            "references": [
+                "Kibler, D., Aha, D.W., & Albert, M. (1989). Instance-based prediction of real-valued attributes. Computational Intelligence, Vol 5, 51-57."
+            ],
+            "seealso": null
+        }
+    ],
+    [
+        [
+            "core",
             "iris.tab"
         ],
         {
@@ -586,6 +690,32 @@
     [
         [
             "core",
+            "market-basket.tab"
+        ],
+        {
+            "name": "market-basket",
+            "description": "Sythetic market basket data set.",
+            "title": "Market basked",
+            "tags": [
+                "synthetic",
+                "basket"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": "",
+            "collection": "",
+            "instances": 5,
+            "variables": 6,
+            "source": "",
+            "size": 99,
+            "url": "http://datasets.orange.biolab.si/core/market-basket.tab",
+            "references": [],
+            "seealso": null
+        }
+    ],
+    [
+        [
+            "core",
             "oocyte-competence.xlsx"
         ],
         {
@@ -607,6 +737,33 @@
             "variables": 0,
             "version": "1.0",
             "year": "2018"
+        }
+    ],
+    [
+        [
+            "core",
+            "philadelphia-crime.csv.xz"
+        ],
+        {
+            "name": "philadelphia-crime.csv.xz",
+            "description": "Data from minor criminal acts in Philadelphia.",
+            "title": "Philadelphia Crime",
+            "tags": [
+                "criminology",
+                "time",
+                "geo"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "2016",
+            "collection": "",
+            "instances": 9666,
+            "variables": 4,
+            "source": "",
+            "size": 92660,
+            "url": "http://datasets.orange.biolab.si/core/philadelphia-crime.csv.xz",
+            "references": [],
+            "seealso": null
         }
     ],
     [
@@ -689,7 +846,7 @@
             "size": 455,
             "url": "http://datasets.orange.biolab.si/core/sailing.tab",
             "seealso": [
-                "<a href=https://blog.biolab.si/2017/08/11/its-sailing-time-again/>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."
+                "<a href='https://blog.biolab.si/2017/08/11/its-sailing-time-again/'>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."
             ]
         }
     ],
@@ -820,6 +977,58 @@
             "variables": 0,
             "version": "1.0",
             "year": "2017"
+        }
+    ],
+    [
+        [
+            "core",
+            "vehicle.tab"
+        ],
+        {
+            "name": "vehicle",
+            "description": "The purpose is to classify a given silhouette as one of four types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.",
+            "title": "Vehicle Silhouettes",
+            "tags": [],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "1986",
+            "collection": "UCI",
+            "instances": 846,
+            "variables": 19,
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
+            "size": 55560,
+            "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
+            "references": [
+                "Siebert, JP. (1987) Vehicle Recognition Using Rule Based Methods, Turing Institute Research Memorandum TIRM-87-018."
+            ],
+            "seealso": null
+        }
+    ],
+    [
+        [
+            "core",
+            "voting.tab"
+        ],
+        {
+            "name": "voting",
+            "description": "This data set includes votes for each of the U.S. House of Representatives Congressmen on the 16 key votes identified by the CQA. The CQA lists nine different types of votes: voted for, paired for, and announced for (these three simplified to yea), voted against, paired against, and announced against (these three simplified to nay), voted present, voted present to avoid conflict of interest, and did not vote or otherwise make a position known (these three simplified to an unknown disposition).",
+            "title": "Congressional Voting Records",
+            "tags": [
+                "politics"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": "1987",
+            "collection": "UCI",
+            "instances": 435,
+            "variables": 17,
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/congressional+voting+records'>UCI ML Repository</a>",
+            "size": 18212,
+            "url": "http://datasets.orange.biolab.si/core/voting.tab",
+            "references": [
+                "Schlimmer, J. C. (1987). Concept acquisition through representational adjustment. Doctoral dissertation, Department of Information and Computer Science, University of California, Irvine, CA."
+            ],
+            "seealso": null
         }
     ],
     [

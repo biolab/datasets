@@ -15,7 +15,7 @@
     "variables": 4,
     "source": "",
     "size": 92660,
-    "url": "http://file.biolab.si/datasets/philadelphia-crime.csv.xz",
+    "url": "http://datasets.orange.biolab.si/core/philadelphia-crime.csv.xz",
     "references": [],
     "seealso": null
 }

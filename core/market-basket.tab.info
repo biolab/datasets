@@ -14,7 +14,7 @@
     "variables": 6,
     "source": "",
     "size": 99,
-    "url": "http://file.biolab.si/datasets/market-basket.tab",
+    "url": "http://datasets.orange.biolab.si/core/market-basket.tab",
     "references": [],
     "seealso": null
 }

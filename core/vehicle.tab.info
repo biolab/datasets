@@ -11,7 +11,7 @@
     "variables": 19,
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
     "size": 55560,
-    "url": "http://file.biolab.si/datasets/vehicle.tab",
+    "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
     "references": [
         "Siebert, JP. (1987) Vehicle Recognition Using Rule Based Methods, Turing Institute Research Memorandum TIRM-87-018."
     ],

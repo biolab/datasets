@@ -11,7 +11,7 @@
     "variables": 5,
     "source": "",
     "size": 2337,
-    "url": "http://file.biolab.si/datasets/conferences.tab",
+    "url": "http://datasets.orange.biolab.si/core/conferences.tab",
     "references": [],
     "seealso": "<a href='https://blog.biolab.si/2016/07/18/network-analysis-with-orange'>Network Analysis with Orange</a>, a blog about how to plot ML publications in a network."
 }
