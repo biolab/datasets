@@ -1,0 +1,17 @@
+{
+    "name": "conferences",
+    "description": "Machine learning publications with author and paper counts.",
+    "title": "Conferences",
+    "tags": [],
+    "target": "",
+    "version": "1.0",
+    "year": "",
+    "collection": "",
+    "instances": 42,
+    "variables": 5,
+    "source": "",
+    "size": 2337,
+    "url": "http://file.biolab.si/datasets/conferences.tab",
+    "references": [],
+    "seealso": "<a href='https://blog.biolab.si/2016/07/18/network-analysis-with-orange'>Network Analysis with Orange</a>, a blog about how to plot ML publications in a network."
+}

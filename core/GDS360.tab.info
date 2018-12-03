@@ -1,0 +1,21 @@
+{
+    "name": "GDS360",
+    "description": "Breast cancer core biopsies taken from patients found to be resistant (greater than 25% residual tumor volume) or sensitive (less than 25% residual tumor volume) to docetaxel treatment.",
+    "title": "Breast Cancer and Docetaxel Treatment",
+    "tags": [
+        "biology"
+    ],
+    "target": "categorical",
+    "version": "1.0",
+    "year": "2006",
+    "collection": "NCBI",
+    "instances": 24,
+    "variables": 9486,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS360'>NCBI</a>",
+    "size": 1870893,
+    "url": "http://file.biolab.si/datasets/geo-gds360.tab",
+    "references": [
+        "Chang JC, Wooten EC, Tsimelzon A, Hilsenbeck SG et al. (2005) Patterns of resistance and incomplete response to docetaxel by gene expression profiling in breast cancer patients. J Clin Oncol, 23(6): 1169-77."
+    ],
+    "seealso": null
+}
