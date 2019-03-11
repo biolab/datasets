@@ -1,0 +1,22 @@
+{
+    "collection": "PRC",
+    "description": "Reports on security breaches in the US states between 1997 and 2014. Data reports on type, individuals affects, location of the breach and entity involved.",
+    "name": "cyber-security-breaches",
+    "title": "Cyber Security Breaches",
+    "instances": 1055,
+    "variables": 10,
+    "missing": true,
+    "target": null,
+    "size": 230445,
+    "year": 2014,
+    "version": "1.0",
+    "tags": [
+        "security",
+        "time",
+        "geo"
+    ],
+    "references": [],
+    "source": "<a href='https://academic.oup.com/cybersecurity/article/2/1/3/2736315'>Hype and Heavy Tails: a closer look at data breaches</a>",
+    "url": "http://file.biolab.si/datasets/cyber-security-breaches.tab",
+    "seealso": []
+}

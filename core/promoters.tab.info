@@ -1,0 +1,22 @@
+{
+    "collection": "UCI",
+    "description": "E. Coli promoter gene sequences (DNA) with partial domain theory.",
+    "name": "promoters",
+    "title": "Promoter Gene Sequences",
+    "instances": 106,
+    "variables": 58,
+    "missing": false,
+    "target": "categorical",
+    "size": 13216,
+    "year": 1990,
+    "version": "1.0",
+    "tags": [
+        "molecular biology"
+    ],
+    "references": [
+        "Harley, C. and Reynolds, R. 1987. Analysis of E. Coli Promoter Sequences. Nucleic Acids Research, 15:2343-2361."
+    ],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/promoters.tab",
+    "seealso": []
+}

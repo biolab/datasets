@@ -1,0 +1,20 @@
+{
+    "collection": "UCI",
+    "description": "This is a dataset about primary tumors in people. Locations of primary tumors are locations in body where the tumor first appeared and from there started to metastasize to other parts of the body. This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature.",
+    "name": "primary-tumor",
+    "title": "Primary Tumor",
+    "instances": 339,
+    "variables": 18,
+    "missing": true,
+    "target": "categorical",
+    "size": 24401,
+    "year": 1988,
+    "version": "1.0",
+    "tags": [
+        "medical"
+    ],
+    "references": "Cestnik, G., Konenenko, I., & Bratko, I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users. In I. Bratko & N. Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press.",
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/primary+tumor'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/primary-tumor.tab",
+    "seealso": []
+}

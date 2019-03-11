@@ -1,23 +1,24 @@
 {
     "collection": "IBM",
-    "description": "Complimentary synthetic data set to be used for prediction with Attrition - Train. Data instances where created at Biolab for education purposes.",
-    "instances": 3,
+    "description": "Complimentary synthetic data set to be used for prediction with Attrition - Train. Data instances were created at Biolab for education purposes.",
     "name": "attrition-predict",
-    "references": [],
-    "seealso": [
-        "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
-    ],
+    "title": "Attrition - Predict",
+    "instances": 3,
+    "variables": 18,
+    "missing": false,
+    "target": "categorical",
     "size": 838,
-    "source": "",
+    "year": 2017,
+    "version": "1.0",
     "tags": [
         "economy",
         "synthetic",
         "education"
     ],
-    "target": "categorical",
-    "title": "Attrition - Predict",
+    "references": [],
+    "source": "",
     "url": "http://datasets.orange.biolab.si/core/attrition-predict.tab",
-    "variables": 18,
-    "version": "",
-    "year": "2017"
+    "seealso": [
+        "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
+    ]
 }

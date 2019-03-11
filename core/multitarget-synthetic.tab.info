@@ -1,0 +1,22 @@
+{
+    "collection": "",
+    "description": "Synthetic data set for multitarget regression.",
+    "name": "multitarget-synthetic",
+    "title": "Multitarget Synthetic",
+    "instances": 100,
+    "variables": 7,
+    "missing": false,
+    "target": "numeric",
+    "size": 4486,
+    "year": null,
+    "version": "1.0",
+    "tags": [
+        "synthetic"
+    ],
+    "references": [],
+    "source": "",
+    "url": "http://file.biolab.si/datasets/multitarget-synthetic.tab",
+    "seealso": [
+        "<a href='https://blog.biolab.si/2012/02/02/new-in-orange-partial-least-squares-regression/'>Partial Least Squares Regression</a>."
+    ]
+}

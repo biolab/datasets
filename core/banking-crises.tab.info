@@ -1,0 +1,21 @@
+{
+    "collection": "The World Bank",
+    "description": "This is a transformed STATA file reporting on the banking crises per year per country.",
+    "name": "banking-crises",
+    "title": "Banking Crises",
+    "instances": 211,
+    "variables": 73,
+    "missing": false,
+    "target": null,
+    "size": 32083,
+    "year": "2017",
+    "version": "1.0",
+    "tags": [
+        "time",
+        "economy"
+    ],
+    "references": [],
+    "source": "<a href='https://datacatalog.worldbank.org/dataset/wps5016-banking-crisis-and-exports-dataset'>The World Bank</a>",
+    "url": "http://file.biolab.si/datasets/banking-crises.tab",
+    "seealso": []
+}

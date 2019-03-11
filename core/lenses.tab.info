@@ -1,0 +1,22 @@
+{
+    "collection": "UCI",
+    "description": "The following example is taken from the world of ophthalmic optics. The aim is to determine whether a patient is suitable for contact lens wear and for which type of contacts.",
+    "name": "lenses",
+    "title": "Lenses",
+    "instances": 24,
+    "variables": 5,
+    "missing": false,
+    "target": "categorical",
+    "size": 968,
+    "year": 1990,
+    "version": "1.0",
+    "tags": [
+        "medical"
+    ],
+    "references": [
+        "Cendrowska, J., PRISM: An algorithm for inducing modular rules, International Journal of Man-Machine Studies, 1987, 27, 349-370."
+    ],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/lenses'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/lenses.tab",
+    "seealso": []
+}

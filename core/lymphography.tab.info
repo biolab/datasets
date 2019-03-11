@@ -1,0 +1,22 @@
+{
+    "collection": "UCI",
+    "description": "This is a small medical dataset containing 148 instances. The task is to distinguish healthy patients from those with metastases or malignant lymphoma. This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature.",
+    "name": "lymphography",
+    "title": "Lymphography",
+    "instances": 148,
+    "variables": 19,
+    "missing": false,
+    "target": "categorical",
+    "size": 14939,
+    "year": 1988,
+    "version": "1.0",
+    "tags": [
+        "medical"
+    ],
+    "references": [
+        "Cestnik, G., Konenenko, I., & Bratko, I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users. In I. Bratko & N. Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press."
+    ],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Lymphography'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/lymphography.tab",
+    "seealso": []
+}

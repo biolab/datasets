@@ -1,19 +1,21 @@
 {
+    "collection": "",
+    "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. The data includes geographic location of the accident, and profile of a person involved containing the age, gender, type of accident, the result of an alcohol test, and an indicator if the person caused the accident.",
     "name": "slovenia-traffic-accidents-2016-persons",
     "title": "Traffic accidents - persons",
-    "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. The data includes geographic location of the accident, and profile of a person involved containing the age, gender, type of accident, the result of an alcohol test, and an indicator if the person caused the accident.",
-    "references": [],
+    "instances": 32857,
+    "variables": 13,
+    "missing": true,
+    "target": null,
+    "size": 2915308,
+    "year": 2016,
+    "version": "1.0",
     "tags": [
         "geo",
         "timeseries"
     ],
-    "target": null,
-    "version": "1.0",
-    "year": 2016,
-    "instances": 32857,
-    "missing": true,
-    "variables": 13,
+    "references": [],
     "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
     "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-persons.tab",
-    "size": 2915308
+    "seealso": []
 }

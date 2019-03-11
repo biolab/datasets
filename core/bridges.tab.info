@@ -1,0 +1,20 @@
+{
+    "collection": "UCI",
+    "description": "This is a design domain where 5 properties (design description) need to be predicted based on 7 specification properties.",
+    "name": "bridges",
+    "title": "Pittsburg Bridges",
+    "instances": 108,
+    "variables": 11,
+    "missing": true,
+    "target": null,
+    "size": 6251,
+    "year": 1990,
+    "version": "1.0",
+    "tags": [
+        "design"
+    ],
+    "references": "Reich & Fenves (1989). Incremental Learning for Capturing Design Expertise. Technical Report: EDRC 12-34-89, Engineering Design Research Center, Carnegie Mellon University, Pittsburgh, PA.",
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/bridges.tab",
+    "seealso": []
+}

@@ -1,21 +1,22 @@
 {
-    "name": "philadelphia-crime.csv.xz",
+    "collection": "",
     "description": "Data from minor criminal acts in Philadelphia.",
+    "name": "philadelphia-crime.csv.xz",
     "title": "Philadelphia Crime",
+    "instances": 9666,
+    "variables": 4,
+    "missing": false,
+    "target": "categorical",
+    "size": 92660,
+    "year": 2016,
+    "version": "1.0",
     "tags": [
         "criminology",
         "time",
         "geo"
     ],
-    "target": "categorical",
-    "version": "1.0",
-    "year": "2016",
-    "collection": "",
-    "instances": 9666,
-    "variables": 4,
-    "source": "",
-    "size": 92660,
-    "url": "http://datasets.orange.biolab.si/core/philadelphia-crime.csv.xz",
     "references": [],
-    "seealso": null
+    "source": "",
+    "url": "http://datasets.orange.biolab.si/core/philadelphia-crime.csv.xz",
+    "seealso": []
 }

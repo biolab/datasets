@@ -1,15 +1,21 @@
 {
+    "collection": "",
+    "description": "A small data set with final grades from English and Mathematics that was hand-crafted to introduce Euclidean distance and hierarchical clustering.",
     "name": "grades-two",
     "title": "Grades for English and Math",
-    "description": "A small data set with final grades from English and Mathematics that was hand-crafted to introduce Euclidean distance and hierarchical clustering.",
+    "instances": 12,
+    "variables": 3,
+    "missing": false,
+    "target": null,
+    "size": 265,
+    "year": null,
+    "version": "1.0",
     "tags": [
         "synthetic",
         "educational"
     ],
-    "target": null,
-    "version": "1.0",
-    "instances": 12,
-    "variables": 3,
+    "references": [],
+    "source": "",
     "url": "http://datasets.orange.biolab.si/core/grades-two.tab",
-    "size": 265
+    "seealso": []
 }

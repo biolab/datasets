@@ -1,0 +1,22 @@
+{
+    "collection": "UCI",
+    "description": "This radar data was collected by a system in Goose Bay, Labrador. This system consists of a phased array of 16 high-frequency antennas with a total transmitted power on the order of 6.4 kilowatts. The targets were free electrons in the ionosphere. 'Good' radar returns are those showing evidence of some type of structure in the ionosphere. 'Bad' returns are those that do not; their signals pass through the ionosphere. Received signals were processed using an autocorrelation function whose arguments are the time of a pulse and the pulse number. There were 17 pulse numbers for the Goose Bay system. Instances in this database are described by 2 attributes per pulse number, corresponding to the complex values returned by the function resulting from the complex electromagnetic signal.",
+    "name": "ionosphere",
+    "title": "Ionosphere",
+    "instances": 351,
+    "variables": 33,
+    "missing": false,
+    "target": "categorical",
+    "size": 76708,
+    "year": 1989,
+    "version": "1.0",
+    "tags": [
+        "physics"
+    ],
+    "references": [
+        "Sigillito, V. G., Wing, S. P., Hutton, L. V., & Baker, K. B. (1989). Classification of radar returns from the ionosphere using neural networks. Johns Hopkins APL Technical Digest, 10, 262-266."
+    ],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/ionosphere'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/ionosphere.tab",
+    "seealso": []
+}

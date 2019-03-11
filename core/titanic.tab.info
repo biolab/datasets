@@ -1,18 +1,22 @@
 {
-    "name": "titanic",
-    "description": "This data set provides information on the fate of passengers on the fatal maiden voyage of the ocean liner Titanic, summarized according to economic status (class), sex, age and survival.",
-    "title": "Titanic",
-    "tags": [],
-    "target": "categorical",
-    "version": "1.0",
     "collection": "R",
+    "description": "This data set provides information on the fate of passengers on the fatal maiden voyage of the ocean liner Titanic, summarized according to economic status (class), sex, age and survival.",
+    "name": "titanic",
+    "title": "Titanic",
     "instances": 2201,
-    "missing": false,
     "variables": 4,
-    "year": "",
+    "missing": false,
+    "target": "categorical",
+    "size": 45112,
+    "year": null,
+    "version": "1.0",
+    "tags": [],
     "references": [
         "Dawson Robert J. MacG. (1995) The \u2018Unusual Episode\u2019 Data Revisited. Journal of Statistics Education 3(3)."
     ],
-    "size": 45112,
-    "url": "http://datasets.orange.biolab.si/core/titanic.tab"
+    "source": "",
+    "url": "http://datasets.orange.biolab.si/core/titanic.tab",
+    "seealso": [
+        "<a href='https://blog.biolab.si/2017/06/05/nomogram/'>Nomogram - Visualizing Probabilities</a>."
+    ]
 }

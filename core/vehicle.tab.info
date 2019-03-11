@@ -1,19 +1,20 @@
 {
-    "name": "vehicle",
-    "description": "The purpose is to classify a given silhouette as one of four types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.",
-    "title": "Vehicle Silhouettes",
-    "tags": [],
-    "target": "categorical",
-    "version": "1.0",
-    "year": "1986",
     "collection": "UCI",
+    "description": "The purpose is to classify a given silhouette as one of four types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.",
+    "name": "vehicle",
+    "title": "Vehicle Silhouettes",
     "instances": 846,
     "variables": 19,
-    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
+    "missing": false,
+    "target": "categorical",
     "size": 55560,
-    "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
+    "year": 1986,
+    "version": "1.0",
+    "tags": [],
     "references": [
         "Siebert, JP. (1987) Vehicle Recognition Using Rule Based Methods, Turing Institute Research Memorandum TIRM-87-018."
     ],
-    "seealso": null
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
+    "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
+    "seealso": []
 }

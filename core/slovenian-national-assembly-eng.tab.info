@@ -1,22 +1,23 @@
 {
     "collection": "Parlameter",
     "description": "Ballot counts and Member of parliament (MP) description data set. Ballot counts were retrieved for selected May and June 2017 parliament sessions. ",
-    "instances": 84,
     "name": "slovenian-national-assembly-eng",
-    "references": [],
-    "seealso": [
-        "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patters at AKOS workshop</a>."
-    ],
+    "title": "Slovenian National Assembly",
+    "instances": 84,
+    "variables": 18,
+    "missing": true,
+    "target": null,
     "size": 18190,
-    "source": "<a href='https://parlameter.si/'>Parlameter API</a>",
+    "year": 2017,
+    "version": "1.0",
     "tags": [
         "image analytics",
         "politics"
     ],
-    "target": null,
-    "title": "Slovenian National Assembly",
+    "references": [],
+    "source": "Parlameter API",
     "url": "http://datasets.orange.biolab.si/core/slovenian-national-assembly-eng.tab",
-    "variables": 18,
-    "version": "1.0",
-    "year": "2017"
+    "seealso": [
+        "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patterns at AKOS workshop</a>."
+    ]
 }

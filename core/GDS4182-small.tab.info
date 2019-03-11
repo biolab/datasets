@@ -1,19 +1,20 @@
 {
     "collection": "GEO",
     "description": "Gene expression data from analysis of bone marrow mononuclear cells from untreated patients with AML-MRC (AML with myelodysplasia-related changes) and from the combined group AML-NOS plus AML-MLD-sole on the basis of cytogenetics or a myelodysplastic syndrome (MDS) history. Only 1,000 randomly selected genes (features) were retained from original data set to reduce the data size.",
-    "instances": 96,
     "name": "GDS4182-small",
-    "references": [],
-    "seealso": [],
+    "title": "Bone marrow mononuclear cells with AML",
+    "instances": 96,
+    "variables": 1000,
+    "missing": false,
+    "target": "categorical",
     "size": 595921,
-    "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4182'>Gene Expression Omnibus GDS4182</a>",
+    "year": 2011,
+    "version": "1.0",
     "tags": [
         "genomics"
     ],
-    "target": "categorical",
-    "title": "Bone marrow mononuclear cells with AML",
+    "references": [],
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4182'>Gene Expression Omnibus GDS4182</a>",
     "url": "http://datasets.orange.biolab.si/core/GDS4182-small.tab",
-    "variables": 1000,
-    "version": "1.0",
-    "year": "2011"
+    "seealso": []
 }

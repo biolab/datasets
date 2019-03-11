@@ -1,18 +1,20 @@
 {
+    "collection": "",
+    "description": "Hand-crafted data set to explain inference of classification trees. It records data for Sara, a weekend sailer, and the data before sailing on company, boat type and weather. The class tells if she actually went sailing.",
     "name": "sailing",
     "title": "Sailing",
-    "description": "Hand-crafted data set to explain inference of classification trees. It records data for Sara, a weekend sailer, and the data before sailing on company, boat type and weather. The class tells if she actually went sailing.",
+    "instances": 20,
+    "variables": 4,
+    "missing": false,
+    "target": "categorical",
+    "size": 455,
+    "year": 2003,
+    "version": "1.0",
     "tags": [
         "synthetic"
     ],
-    "target": "categorical",
-    "version": "1.0",
-    "year": "2003",
-    "instances": 20,
-    "missing": null,
-    "variables": 4,
-    "source": null,
-    "size": 455,
+    "references": [],
+    "source": "",
     "url": "http://datasets.orange.biolab.si/core/sailing.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2017/08/11/its-sailing-time-again/'>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."

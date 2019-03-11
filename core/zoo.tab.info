@@ -1,0 +1,22 @@
+{
+    "collection": "UCI",
+    "description": "A dataset created by Richard Forsyth contains seventeen binary-valued attributes that describe animals. Features include information about presence of hair, feathers and teeth, report if animal is aquatic or airborn, and alike. Animals are named and are classified into seven categories: amphibian, bird, fish, insect, invertaebrate, mammal, and reptile.",
+    "name": "zoo",
+    "title": "Zoo",
+    "instances": 101,
+    "variables": 17,
+    "missing": false,
+    "target": "categorical",
+    "size": 4837,
+    "year": 1990,
+    "version": "1.0",
+    "tags": [
+        "biology"
+    ],
+    "references": [],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/zoo.tab",
+    "seealso": [
+        "<a href='https://blog.biolab.si/2018/01/26/visualizing-multiple-variables-freeviz/'>Visualizing Multiple Variables with Freeviz</a>."
+    ]
+}

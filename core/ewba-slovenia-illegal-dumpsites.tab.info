@@ -1,19 +1,22 @@
 {
+    "collection": "",
+    "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association. The data contains geographical location of the site and its description, including information about accessibility, access type, waste area and volume and types of waste deposited.",
     "name": "ewba-slovenia-illegal-dumpsites",
     "title": "Illegal waste dumpsites in Slovenia",
-    "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association. The data coutains geographical location of the site and its description, including information about accessibility, access type, vaste area and volume and types of waste deposited.",
+    "instances": 13165,
+    "variables": 25,
+    "missing": true,
+    "target": null,
+    "size": 2907714,
+    "year": 2017,
+    "version": "1.0",
     "tags": [
         "geo",
         "timeseries",
         "ecology"
     ],
-    "target": null,
-    "version": "1.0",
-    "year": 2017,
-    "instances": 13165,
-    "missing": true,
-    "variables": 25,
+    "references": [],
     "source": "<a href='http://register.ocistimo.si'>Dumpsite Registry of Slovenia</a>",
     "url": "http://datasets.orange.biolab.si/core/ewba-slovenia-illegal-dumpsites.tab",
-    "size": 2907714
+    "seealso": []
 }
