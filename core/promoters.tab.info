@@ -17,6 +17,6 @@
         "Harley, C. and Reynolds, R. 1987. Analysis of E. Coli Promoter Sequences. Nucleic Acids Research, 15:2343-2361."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/promoters.tab",
+    "url": "http://datasets.orange.biolab.si/core/promoters.tab",
     "seealso": []
 }

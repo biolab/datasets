@@ -17,6 +17,6 @@
         "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/monks-3.tab",
+    "url": "http://datasets.orange.biolab.si/core/monks-3.tab",
     "seealso": []
 }

@@ -18,6 +18,6 @@
         "G. Demiroz, H. A. Govenir, and N. Ilter, Learning Differential Diagnosis of Eryhemato-Squamous Diseases using Voting Feature Intervals, Aritificial Intelligence in Medicine."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/dermatology'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/dermatology.tab",
+    "url": "http://datasets.orange.biolab.si/core/dermatology.tab",
     "seealso": []
 }

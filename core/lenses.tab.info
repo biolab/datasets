@@ -17,6 +17,6 @@
         "Cendrowska, J., PRISM: An algorithm for inducing modular rules, International Journal of Man-Machine Studies, 1987, 27, 349-370."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/lenses'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/lenses.tab",
+    "url": "http://datasets.orange.biolab.si/core/lenses.tab",
     "seealso": []
 }

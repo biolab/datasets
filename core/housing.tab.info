@@ -13,8 +13,10 @@
     "tags": [
         "economy"
     ],
-    "references": "Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81–102.",
+    "references": [
+        "Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81\u2013102."
+    ],
     "source": "<a href='http://lib.stat.cmu.edu/datasets/boston'>StatLib</a>",
-    "url": "http://file.biolab.si/datasets/housing.tab",
+    "url": "http://datasets.orange.biolab.si/core/housing.tab",
     "seealso": []
 }

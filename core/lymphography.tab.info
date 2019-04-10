@@ -17,6 +17,6 @@
         "Cestnik, G., Konenenko, I., & Bratko, I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users. In I. Bratko & N. Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Lymphography'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/lymphography.tab",
+    "url": "http://datasets.orange.biolab.si/core/lymphography.tab",
     "seealso": []
 }

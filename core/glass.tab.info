@@ -18,6 +18,6 @@
         "I. W. Evett and E. J. Spiehler, Rule Induction in Forensic Science, KBS in Government, 1987, pp. 107-118."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/glass+identification'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/glass.tab",
+    "url": "http://datasets.orange.biolab.si/core/glass.tab",
     "seealso": []
 }

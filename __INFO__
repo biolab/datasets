@@ -5,25 +5,26 @@
             "GDS360.tab"
         ],
         {
-            "name": "GDS360",
+            "collection": "NCBI",
             "description": "Breast cancer core biopsies taken from patients found to be resistant (greater than 25% residual tumor volume) or sensitive (less than 25% residual tumor volume) to docetaxel treatment.",
+            "name": "GDS360",
             "title": "Breast Cancer and Docetaxel Treatment",
+            "instances": 24,
+            "variables": 9486,
+            "missing": false,
+            "target": "categorical",
+            "size": 1870893,
+            "year": 2006,
+            "version": "1.0",
             "tags": [
                 "biology"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "2006",
-            "collection": "NCBI",
-            "instances": 24,
-            "variables": 9486,
-            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS360'>NCBI</a>",
-            "size": 1870893,
-            "url": "http://datasets.orange.biolab.si/core/GDS360.tab",
             "references": [
                 "Chang JC, Wooten EC, Tsimelzon A, Hilsenbeck SG et al. (2005) Patterns of resistance and incomplete response to docetaxel by gene expression profiling in breast cancer patients. J Clin Oncol, 23(6): 1169-77."
             ],
-            "seealso": null
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS360'>NCBI</a>",
+            "url": "http://datasets.orange.biolab.si/core/GDS360.tab",
+            "seealso": []
         }
     ],
     [
@@ -34,21 +35,22 @@
         {
             "collection": "GEO",
             "description": "Gene expression data from peripheral circulating B cells from smoking (39 samples) and non-smoking healthy US white females (40 samples). Only 3,000 randomly selected genes (features) were retained from original data set to reduce the data size.",
-            "instances": 79,
             "name": "GDS3713-small",
-            "references": [],
-            "seealso": [],
+            "title": "Smoking effect on B lymphocytes",
+            "instances": 79,
+            "variables": 3000,
+            "missing": false,
+            "target": "categorical",
             "size": 1887679,
-            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS3713'>Gene Expression Omnibus GDS3713</a>",
+            "year": 2009,
+            "version": "1.0",
             "tags": [
                 "genomics"
             ],
-            "target": "categorical",
-            "title": "Smoking effect on B lymphocytes",
+            "references": [],
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS3713'>Gene Expression Omnibus GDS3713</a>",
             "url": "http://datasets.orange.biolab.si/core/GDS3713-small.tab",
-            "variables": 3000,
-            "version": "1.0",
-            "year": "2009"
+            "seealso": []
         }
     ],
     [
@@ -59,21 +61,22 @@
         {
             "collection": "GEO",
             "description": "Gene expression data from analysis of bone marrow mononuclear cells from untreated patients with AML-MRC (AML with myelodysplasia-related changes) and from the combined group AML-NOS plus AML-MLD-sole on the basis of cytogenetics or a myelodysplastic syndrome (MDS) history. Only 1,000 randomly selected genes (features) were retained from original data set to reduce the data size.",
-            "instances": 96,
             "name": "GDS4182-small",
-            "references": [],
-            "seealso": [],
+            "title": "Bone marrow mononuclear cells with AML",
+            "instances": 96,
+            "variables": 1000,
+            "missing": false,
+            "target": "categorical",
             "size": 595921,
-            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4182'>Gene Expression Omnibus GDS4182</a>",
+            "year": 2011,
+            "version": "1.0",
             "tags": [
                 "genomics"
             ],
-            "target": "categorical",
-            "title": "Bone marrow mononuclear cells with AML",
+            "references": [],
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4182'>Gene Expression Omnibus GDS4182</a>",
             "url": "http://datasets.orange.biolab.si/core/GDS4182-small.tab",
-            "variables": 1000,
-            "version": "1.0",
-            "year": "2011"
+            "seealso": []
         }
     ],
     [
@@ -82,24 +85,27 @@
             "HDI.tab"
         ],
         {
-            "name": "HDI",
+            "collection": "UNDP Human Development Reports",
             "description": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, being knowledgeable and have a decent standard of living. The HDI is the geometric mean of normalized indices for each of the three dimensions. The HDI simplifies and captures only part of what human development entails. This data is a pre-processed version of the entire data. We have removed HDI-related variables and countries with a missing HDI score.",
+            "name": "HDI",
             "title": "HDI",
+            "instances": 188,
+            "variables": 66,
+            "missing": false,
+            "target": "numeric",
+            "size": 66650,
+            "year": 2016,
+            "version": "1.0",
             "tags": [
                 "economy",
                 "geo"
             ],
-            "target": "numeric",
-            "version": "1.0",
-            "year": 2016,
-            "collection": "UNDP Human Development Reports",
-            "instances": 188,
-            "missing": 0,
-            "variables": 66,
+            "references": [],
             "source": "<a href='http://hdr.undp.org/en/data'>Human Development Data (1990-2015)</a>",
-            "size": 66650,
             "url": "http://datasets.orange.biolab.si/core/HDI.tab",
-            "references": []
+            "seealso": [
+                "<a href='https://blog.biolab.si/2018/07/17/data-mining-and-machine-learning-for-economists/'>Data Mining and Machine Learning for Economists</a>."
+            ]
         }
     ],
     [
@@ -109,22 +115,23 @@
         ],
         {
             "collection": "UCI",
-            "description": "Abalone is marine snails. This data set is about predicting abalone age from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope -- a boring and time-consuming task. Other measurements, which are easier to obtain, may be used to predict the age. The data set contains the attributes that report on sex, size and weight measurements. The age is reported as the number of rings, which increased by 1.5 gives the age in years.",
-            "instances": 4177,
+            "description": "Abalone is marine snails. This data set is about predicting abalone age from physical measurements. The age of abalone is determined by cutting the shell through the cone, staining it, and counting the number of rings through a microscope - a boring and time-consuming task. Other measurements, which are easier to obtain, may be used to predict the age. The data set contains the attributes that report on sex, size and weight measurements. The age is reported as the number of rings, which increased by 1.5 gives the age in years.",
             "name": "abalone",
-            "references": null,
-            "seealso": null,
+            "title": "Abalone",
+            "instances": 4177,
+            "variables": 8,
+            "missing": false,
+            "target": "numeric",
             "size": 191993,
-            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Abalone'>UCI ML Repository</a>",
+            "year": 1994,
+            "version": "1.1",
             "tags": [
                 "biology"
             ],
-            "target": "numeric",
-            "title": "Abalone",
+            "references": [],
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Abalone'>UCI ML Repository</a>",
             "url": "http://datasets.orange.biolab.si/core/abalone.tab",
-            "variables": 8,
-            "version": "1.1",
-            "year": "1994"
+            "seealso": []
         }
     ],
     [
@@ -133,45 +140,26 @@
             "adult.tab"
         ],
         {
-            "name": "adult",
+            "collection": "UCI",
             "description": "Extraction was done by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1)&& (HRSWK>0)). Prediction task is to determine whether a person makes over 50K a year.",
+            "name": "adult",
             "title": "Adult",
+            "instances": 32561,
+            "variables": 15,
+            "missing": true,
+            "target": "categorical",
+            "size": 4301202,
+            "year": 1996,
+            "version": "1.0",
             "tags": [
                 "economy"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "1996",
-            "collection": "UCI",
-            "instances": 32561,
-            "variables": 15,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
-            "size": 4301202,
-            "url": "http://datasets.orange.biolab.si/core/adult.tab",
             "references": [
                 "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. AProceedings of the Second International Conference on Knowledge Discovery and Data Mining."
             ],
-            "seealso": null
-        }
-    ],
-    [
-        [
-            "core",
-            "anneal.tab"
-        ],
-        {
-            "name": "anneal",
-            "description": null,
-            "title": "Anneal",
-            "tags": [],
-            "target": "categorical",
-            "collection": "UCI",
-            "version": "1.0",
-            "instances": 898,
-            "variables": 39,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Annealing'>UCI ML Repository</a>",
-            "size": 90814,
-            "url": "http://datasets.orange.biolab.si/core/anneal.tab"
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/adult.tab",
+            "seealso": []
         }
     ],
     [
@@ -181,26 +169,27 @@
         ],
         {
             "collection": "IBM",
-            "description": "Complimentary synthetic data set to be used for prediction with Attrition - Train. Data instances where created at Biolab for education purposes.",
-            "instances": 3,
+            "description": "Complimentary synthetic data set to be used for prediction with Attrition - Train. Data instances were created at Biolab for education purposes.",
             "name": "attrition-predict",
-            "references": [],
-            "seealso": [
-                "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
-            ],
+            "title": "Attrition - Predict",
+            "instances": 3,
+            "variables": 18,
+            "missing": false,
+            "target": "categorical",
             "size": 838,
-            "source": "",
+            "year": 2017,
+            "version": "1.0",
             "tags": [
                 "economy",
                 "synthetic",
                 "education"
             ],
-            "target": "categorical",
-            "title": "Attrition - Predict",
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/attrition-predict.tab",
-            "variables": 18,
-            "version": "",
-            "year": "2017"
+            "seealso": [
+                "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
+            ]
         }
     ],
     [
@@ -211,49 +200,24 @@
         {
             "collection": "IBM",
             "description": "Uncover the factors that lead to employee attrition and explore important questions such as \u2018show me a breakdown of distance from home by job role and attrition\u2019 or \u2018compare average monthly income by education and attrition\u2019. This is a fictional data set created by IBM data scientists.",
-            "instances": 1470,
             "name": "attrition-train",
-            "references": null,
-            "seealso": [
-                "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
-            ],
+            "title": "Attrition - Train",
+            "instances": 1470,
+            "variables": 18,
+            "missing": false,
+            "target": "categorical",
             "size": 186525,
-            "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/'>Watson Analytics Sample Data</a>",
+            "year": 2015,
+            "version": "1.0",
             "tags": [
                 "economy",
                 "synthetic"
             ],
-            "target": "categorical",
-            "title": "Attrition - Train",
+            "references": [],
+            "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/'>Watson Analytics Sample Data</a>",
             "url": "http://datasets.orange.biolab.si/core/attrition-train.tab",
-            "variables": 18,
-            "version": null,
-            "year": "2015"
-        }
-    ],
-    [
-        [
-            "core",
-            "audiology.tab"
-        ],
-        {
-            "name": "audiology",
-            "description": "Nominal audiology dataset from Baylor.",
-            "title": "Audiology",
-            "tags": [
-                "biology"
-            ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "1987",
-            "collection": "UCI",
-            "instances": 226,
-            "variables": 70,
-            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/audiology+(standardized)'>UCI ML Repository</a>",
-            "size": 44860,
-            "url": "http://datasets.orange.biolab.si/core/audiology.tab",
-            "references": [
-                "Bareiss, E. Ray, & Porter, Bruce (1987). Protos: An Exemplar-Based Learning Apprentice. In the Proceedings of the 4th International Workshop on Machine Learning, 12-23, Irvine, CA: Morgan Kaufmann. "
+            "seealso": [
+                "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
             ]
         }
     ],
@@ -263,22 +227,24 @@
             "auto-mpg.tab"
         ],
         {
-            "name": "auto-mpg",
-            "description": "This dataset is a slightly modified version of the dataset provided in the StatLib library. In line with the use by Ross Quinlan (1993) in predicting the attribute 'mpg', 8 of the original instances were removed because they had unknown values for the 'mpg' attribute. The original dataset is available in the file 'auto-mpg.data-original'. 'The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes.'' (Quinlan, 1993)",
-            "title": "Auto MPG",
-            "tags": [],
-            "target": "numeric",
-            "version": "1.0",
-            "year": "1993",
             "collection": "UCI",
+            "description": "This dataset is a slightly modified version of the dataset provided in the StatLib library. In line with the use by Ross Quinlan (1993) in predicting the attribute 'mpg', 8 of the original instances were removed because they had unknown values for the 'mpg' attribute. 'The data concerns city-cycle fuel consumption in miles per gallon, to be predicted in terms of 3 multivalued discrete and 5 continuous attributes.' (Quinlan, 1993)",
+            "name": "auto-mpg",
+            "title": "Auto MPG",
             "instances": 398,
             "variables": 9,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/auto+mpg'>UCI ML Repository</a>",
+            "missing": true,
+            "target": "numeric",
             "size": 17760,
-            "url": "http://datasets.orange.biolab.si/core/auto-mpg.tab",
+            "year": 1993,
+            "version": "1.0",
+            "tags": [],
             "references": [
-                "Quinlan,R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann."
-            ]
+                "Quinlan, R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/auto+mpg'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/auto-mpg.tab",
+            "seealso": []
         }
     ],
     [
@@ -289,23 +255,51 @@
         {
             "collection": "UCI",
             "description": "Data from direct marketing campaigns (phone calls) of a Portuguese bank. The classification goal is to predict if the client will subscribe a term deposit given the profile of a client that contains attributes such as age, job type, martial status, education, information on previous loans, and other.",
-            "instances": 4119,
             "name": "bank-additional",
-            "references": [
-                "Moro S, Cortez P, and Rita P (2014) A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems 62:22-31."
-            ],
-            "seealso": null,
+            "title": "Bank Marketing",
+            "instances": 4119,
+            "variables": 20,
+            "missing": true,
+            "target": "categorical",
             "size": 477308,
-            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
+            "year": 2014,
+            "version": "1.0",
             "tags": [
                 "economy"
             ],
-            "target": "categorical",
-            "title": "Bank Marketing",
+            "references": [
+                "Moro S, Cortez P, and Rita P (2014) A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems 62:22-31."
+            ],
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
             "url": "http://datasets.orange.biolab.si/core/bank-additional.tab",
-            "variables": 20,
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "banking-crises.tab"
+        ],
+        {
+            "collection": "The World Bank",
+            "description": "This is a transformed STATA file reporting on the banking crises per year per country.",
+            "name": "banking-crises",
+            "title": "Banking Crises",
+            "instances": 211,
+            "variables": 73,
+            "missing": false,
+            "target": null,
+            "size": 32083,
+            "year": "2017",
             "version": "1.0",
-            "year": "2014"
+            "tags": [
+                "time",
+                "economy"
+            ],
+            "references": [],
+            "source": "<a href='https://datacatalog.worldbank.org/dataset/wps5016-banking-crisis-and-exports-dataset'>The World Bank</a>",
+            "url": "http://datasets.orange.biolab.si/core/banking-crises.tab",
+            "seealso": []
         }
     ],
     [
@@ -316,22 +310,107 @@
         {
             "collection": "",
             "description": "Microscope images of bone-fracture repair that highlight the involvement from skeletal stem cells. Images are from laboratory of Dongsu Park at Baylor College of Medicine, Houston.",
-            "instances": 37,
             "name": "bone-healing",
-            "references": [],
-            "seealso": [],
+            "title": "Bone Healing",
+            "instances": 37,
+            "variables": 0,
+            "missing": true,
+            "target": "categorical",
             "size": 11922,
-            "source": null,
+            "year": 2018,
+            "version": "1.0",
             "tags": [
                 "image analytics",
                 "biology"
             ],
-            "target": "categorical",
-            "title": "Bone Healing",
+            "references": [],
+            "source": null,
             "url": "http://datasets.orange.biolab.si/core/bone-healing.xlsx",
-            "variables": 0,
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "breast-cancer-wisconsin.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image. Separating plane described above was obtained using Multisurface Method-Tree (MSM-T), a classification method which uses linear programming to construct a decision tree. Relevant features were selected using an exhaustive search in the space of 1-4 features and 1-3 separating planes.",
+            "name": "breast-cancer-wisconsin",
+            "title": "Breast Cancer Wisconsin",
+            "instances": 683,
+            "variables": 10,
+            "missing": false,
+            "target": "categorical",
+            "size": 35787,
+            "year": 1992,
             "version": "1.0",
-            "year": "2018"
+            "tags": [
+                "biology"
+            ],
+            "references": [
+                "Wolberg, W.H., & Mangasarian, O.L. (1990). Multisurface method of pattern separation for medical diagnosis applied to breast cytology. In Proceedings of the National Academy of Sciences, 87, 9193-9196."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/breast-cancer-wisconsin.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "breast-cancer.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. This data set includes 201 instances of one class and 85 instances of another class. The instances are described by 9 attributes, some of which are linear and some are nominal.",
+            "name": "breast-cancer",
+            "title": "Breast Cancer",
+            "instances": 286,
+            "variables": 10,
+            "missing": true,
+            "target": "categorical",
+            "size": 18801,
+            "year": 1992,
+            "version": "1.0",
+            "tags": [
+                "biology"
+            ],
+            "references": [
+                "Michalski, R.S., Mozetic, I., Hong, J., & Lavrac, N. (1986). The Multi-Purpose Incremental Learning System AQ15 and its Testing Application to Three Medical Domains. In Proceedings of the Fifth National Conference on Artificial Intelligence, 1041-1045, Philadelphia, PA: Morgan Kaufmann."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/breast+cancer'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/breast-cancer.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "bridges.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This is a design domain where 5 properties (design description) need to be predicted based on 7 specification properties.",
+            "name": "bridges",
+            "title": "Pittsburg Bridges",
+            "instances": 108,
+            "variables": 11,
+            "missing": true,
+            "target": null,
+            "size": 6251,
+            "year": 1990,
+            "version": "1.0",
+            "tags": [
+                "design"
+            ],
+            "references": [
+                "Reich & Fenves (1989). Incremental Learning for Capturing Design Expertise. Technical Report: EDRC 12-34-89, Engineering Design Research Center, Carnegie Mellon University, Pittsburgh, PA."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/bridges.tab",
+            "seealso": []
         }
     ],
     [
@@ -340,25 +419,56 @@
             "brown-selected.tab"
         ],
         {
-            "name": "brown-selected",
+            "collection": "",
             "description": "Gene expression of baker's yeast.",
+            "name": "brown-selected",
             "title": "Baker's Yeast",
+            "instances": 186,
+            "variables": 81,
+            "missing": true,
+            "target": "categorical",
+            "size": 98010,
+            "year": null,
+            "version": "1.0",
             "tags": [
                 "biology"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "",
-            "collection": "",
-            "instances": 186,
-            "variables": 81,
-            "source": "<a href='http://www.biolab.si/supp/bi-vizrank/use.html'>Brown for Orange</a>",
-            "size": 98010,
-            "url": "http://datasets.orange.biolab.si/core/brown-selected.tab",
             "references": [
                 "Brown, M.P., Grundy, W.N., Lin, D., Cristianini, N., Sugnet, C., Furey, T.S., Ares, M., Haussler, D. (2000) Knowledge-based analysis of microarray gene expression data by using support vector machines, Proceedings of the National Academy of Sciences, 1 , 262-267."
             ],
-            "seealso": null
+            "source": "<a href='http://www.biolab.si/supp/bi-vizrank/use.html'>Brown for Orange</a>",
+            "url": "http://datasets.orange.biolab.si/core/brown-selected.tab",
+            "seealso": [
+                "<a href='https://blog.biolab.si/2016/10/02/intro-to-data-mining-for-life-scientists/'>Intro to Data Mining for Life Scientists</a>."
+            ]
+        }
+    ],
+    [
+        [
+            "core",
+            "bupa.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "The BUPA dataset contains 345 single male patients with 6 numeric attributes. Five of these attributes are blood tests which are thought to be sensitive to liver disorders that might arise from excessive alcohol consumption. Each line in the dataset constitutes the record of a single male individual.",
+            "name": "bupa",
+            "title": "Liver Disorders",
+            "instances": 345,
+            "variables": 11,
+            "missing": false,
+            "target": "categorical",
+            "size": 7369,
+            "year": 1990,
+            "version": "1.0",
+            "tags": [
+                "biology"
+            ],
+            "references": [
+                "McDermott & Forsyth 2016, Diagnosing a disorder in a classification benchmark, Pattern Recognition Letters, Volume 73."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/liver+disorders'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/bupa.tab",
+            "seealso": []
         }
     ],
     [
@@ -369,24 +479,25 @@
         {
             "collection": "UCI",
             "description": "This is a synthetic data set derived from a simple hierarchical decision model to demonstrate decision support system DEX (see Bohanec and Rajkovic). The decision model included six attributes, including buying and maintenance price, the number of passengers, size of the luggage booth, and evaluated the utility of the car from a buyer's perspective. All attributes were discrete, having from three to four values. The data set provides car's utility for all possible combinations of attribute values. The data set was originally created to showcase the ability of machine learning by function decomposition to recreate the hierarchy of the decision model.",
-            "instances": 1728,
             "name": "car",
+            "title": "Car Evaluation",
+            "instances": 1728,
+            "variables": 6,
+            "missing": false,
+            "target": "categorical",
+            "size": 51939,
+            "year": 1999,
+            "version": "1.0",
+            "tags": [
+                "synthetic"
+            ],
             "references": [
                 "Bohanec M, Rajkovic V (1988) Knowledge acquisition and explanation for multi-attribute decision making. In 8th International Workshop on Expert Systems and their Applications, Avignon, France. pages 59-78.",
                 "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href='http://file.biolab.si/papers/1999-Zupan-AIJ.pdf'>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
             ],
-            "seealso": null,
-            "size": 51939,
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Car+Evaluation'>UCI ML Repository</a>",
-            "tags": [
-                "synthetic"
-            ],
-            "target": "categorical",
-            "title": "Car Evaluation",
             "url": "http://datasets.orange.biolab.si/core/car.tab",
-            "variables": 6,
-            "version": "1.0",
-            "year": 1999
+            "seealso": []
         }
     ],
     [
@@ -395,21 +506,79 @@
             "conferences.tab"
         ],
         {
-            "name": "conferences",
-            "description": "Machine learning publications with author and paper counts.",
-            "title": "Conferences",
-            "tags": [],
-            "target": "",
-            "version": "1.0",
-            "year": "",
             "collection": "",
+            "description": "Machine learning publications with author and paper counts.",
+            "name": "conferences",
+            "title": "Conferences",
             "instances": 42,
             "variables": 5,
-            "source": "",
+            "missing": false,
+            "target": null,
             "size": 2337,
-            "url": "http://datasets.orange.biolab.si/core/conferences.tab",
+            "year": null,
+            "version": "1.0",
+            "tags": [],
             "references": [],
+            "source": "",
+            "url": "http://datasets.orange.biolab.si/core/conferences.tab",
             "seealso": "<a href='https://blog.biolab.si/2016/07/18/network-analysis-with-orange'>Network Analysis with Orange</a>, a blog about how to plot ML publications in a network."
+        }
+    ],
+    [
+        [
+            "core",
+            "cyber-security-breaches.tab"
+        ],
+        {
+            "collection": "PRC",
+            "description": "Reports on security breaches in the US states between 1997 and 2014. Data reports on type, individuals affects, location of the breach and entity involved.",
+            "name": "cyber-security-breaches",
+            "title": "Cyber Security Breaches",
+            "instances": 1055,
+            "variables": 10,
+            "missing": true,
+            "target": null,
+            "size": 230445,
+            "year": 2014,
+            "version": "1.0",
+            "tags": [
+                "security",
+                "time",
+                "geo"
+            ],
+            "references": [],
+            "source": "<a href='https://academic.oup.com/cybersecurity/article/2/1/3/2736315'>Hype and Heavy Tails: a closer look at data breaches</a>",
+            "url": "http://datasets.orange.biolab.si/core/cyber-security-breaches.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "dermatology.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "The differential diagnosis of erythemato-squamous diseases is a real problem in dermatology. They all share the clinical features of erythema and scaling, with very little differences. The diseases in this group are psoriasis, seboreic dermatitis, lichen planus, pityriasis rosea, chronic dermatitis, and pityriasis rubra pilaris. Usually a biopsy is necessary for the diagnosis but unfortunately these diseases share many histopathological features as well. Another difficulty for the differential diagnosis is that a disease may show the features of another disease at the beginning stage and may have the characteristic features at the following stages. Patients were first evaluated clinically with 12 features. Afterwards, skin samples were taken for the evaluation of 22 histopathological features. The values of the histopathological features are determined by an analysis of the samples under a microscope. In the dataset constructed for this domain, the family history feature has the value 1 if any of these diseases has been observed in the family, and 0 otherwise. The age feature simply represents the age of the patient. Every other feature (clinical and histopathological) was given a degree in the range of 0 to 3. Here, 0 indicates that the feature was not present, 3 indicates the largest amount possible, and 1, 2 indicate the relative intermediate values.",
+            "name": "dermatology",
+            "title": "Dermatology",
+            "instances": 366,
+            "variables": 35,
+            "missing": true,
+            "target": "categorical",
+            "size": 31682,
+            "year": 1998,
+            "version": "1.0",
+            "tags": [
+                "biology",
+                "medical"
+            ],
+            "references": [
+                "G. Demiroz, H. A. Govenir, and N. Ilter, Learning Differential Diagnosis of Eryhemato-Squamous Diseases using Voting Feature Intervals, Aritificial Intelligence in Medicine."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/dermatology'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/dermatology.tab",
+            "seealso": []
         }
     ],
     [
@@ -420,24 +589,25 @@
         {
             "collection": "",
             "description": "Images of strains of the social amoeba Dictyostelium discoideum from Gad Shaulsky's Lab at Baylor College of Medicine, Houston, USA.",
-            "instances": 152,
             "name": "dicty-development",
-            "references": [
-                "Li CL, Santhanam B, Webb AN, Zupan B, Shaulsky G (2016) Gene discovery by chemical mutagenesis and whole-genome sequencing in Dictyostelium. Genome Res 26(9):1268-76."
-            ],
-            "seealso": [],
+            "title": "Development of Social Amoeba",
+            "instances": 152,
+            "variables": 0,
+            "missing": true,
+            "target": "categorical",
             "size": 46639,
-            "source": null,
+            "year": 2018,
+            "version": "1.0",
             "tags": [
                 "image analytics",
                 "biology"
             ],
-            "target": "categorical",
-            "title": "Development of Social Amoeba",
+            "references": [
+                "Li CL, Santhanam B, Webb AN, Zupan B, Shaulsky G (2016) Gene discovery by chemical mutagenesis and whole-genome sequencing in Dictyostelium. Genome Res 26(9):1268-76."
+            ],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/dicty-development.xlsx",
-            "variables": 0,
-            "version": "1.0",
-            "year": "2018"
+            "seealso": []
         }
     ],
     [
@@ -446,23 +616,26 @@
             "ewba-slovenia-illegal-dumpsites.tab"
         ],
         {
+            "collection": "",
+            "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association. The data contains geographical location of the site and its description, including information about accessibility, access type, waste area and volume and types of waste deposited.",
             "name": "ewba-slovenia-illegal-dumpsites",
             "title": "Illegal waste dumpsites in Slovenia",
-            "description": "Illegal waste dumpsites in Slovenia as tracked by Ecologists Without Borders Association. The data coutains geographical location of the site and its description, including information about accessibility, access type, vaste area and volume and types of waste deposited.",
+            "instances": 13165,
+            "variables": 25,
+            "missing": true,
+            "target": null,
+            "size": 2907714,
+            "year": 2017,
+            "version": "1.0",
             "tags": [
                 "geo",
                 "timeseries",
                 "ecology"
             ],
-            "target": null,
-            "version": "1.0",
-            "year": 2017,
-            "instances": 13165,
-            "missing": true,
-            "variables": 25,
+            "references": [],
             "source": "<a href='http://register.ocistimo.si'>Dumpsite Registry of Slovenia</a>",
             "url": "http://datasets.orange.biolab.si/core/ewba-slovenia-illegal-dumpsites.tab",
-            "size": 2907714
+            "seealso": []
         }
     ],
     [
@@ -471,23 +644,28 @@
             "foodmart.basket"
         ],
         {
-            "name": "foodmart",
+            "collection": "",
             "description": "Foodmart 2000 is a market based dataset that came with Microsoft Analysis Services. For every transaction (rows) it contains tuples of item names and number of items bought. Every transaction also contains the store ID.",
+            "name": "foodmart",
             "title": "Foodmart 2000",
+            "instances": 62560,
+            "variables": 126,
+            "missing": true,
+            "target": null,
+            "size": 4212566,
+            "year": 2005,
+            "version": "1.0",
             "tags": [
                 "economy",
                 "associate",
                 "basket"
             ],
-            "target": null,
-            "version": "1.0",
-            "year": 2005,
-            "instances": 62560,
-            "missing": true,
-            "variables": 126,
+            "references": [],
             "source": "<a href='https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data'>neo4j data repository</a>",
             "url": "http://datasets.orange.biolab.si/core/foodmart.basket",
-            "size": 4212566
+            "seealso": [
+                "<a href='https://blog.biolab.si/2016/04/25/association-rules-in-orange/'>Association Rules in Orange</a>."
+            ]
         }
     ],
     [
@@ -498,23 +676,53 @@
         {
             "collection": "UCI",
             "description": "This is a difficult regression task, where the aim is to predict the burned area of forest fires in the northeast region of Portugal. The attributes report on meteorological data (temperature, wind, rain, humidity), month and day of the status, several indices of the Forest Fire Weather Index, and spatial coordinate within the Montesinho park map. Two extra meta attributes are include in the Orange data set that encode the log of area + 1 and the binary attribute reporting if the part of the park was under fire (non-zero fire area).",
-            "instances": 517,
             "name": "forestfires",
-            "references": [
-                "Cortez P and Morais A (2007) <a href='http://www.dsi.uminho.pt/~pcortez/fires.pdf'>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
-            ],
-            "seealso": null,
+            "title": "Forest Fires",
+            "instances": 517,
+            "variables": 12,
+            "missing": false,
+            "target": "numeric",
             "size": 32101,
-            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Forest+Fires'>UCI ML Repository</a>",
+            "year": 2007,
+            "version": "1.2",
             "tags": [
                 "ecology"
             ],
-            "target": "numeric",
-            "title": "Forest Fires",
+            "references": [
+                "Cortez P and Morais A (2007) <a href='http://www.dsi.uminho.pt/~pcortez/fires.pdf'>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
+            ],
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Forest+Fires'>UCI ML Repository</a>",
             "url": "http://datasets.orange.biolab.si/core/forestfires.tab",
-            "variables": 12,
-            "version": "1.2",
-            "year": 2007
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "glass.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Determine whether the glass was a type of 'float' glass or not. The study of classification of types of glass was motivated by criminological investigation. At the scene of the crime, the glass left can be used as evidence... if it is correctly identified!",
+            "name": "glass",
+            "title": "Glass",
+            "instances": 214,
+            "variables": 10,
+            "missing": false,
+            "target": "categorical",
+            "size": 10625,
+            "year": 1987,
+            "version": "1.0",
+            "tags": [
+                "physics",
+                "criminology"
+            ],
+            "references": [
+                "I. W. Evett and E. J. Spiehler, Rule Induction in Forensic Science, KBS in Government, 1987, pp. 107-118."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/glass+identification'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/glass.tab",
+            "seealso": []
         }
     ],
     [
@@ -523,19 +731,85 @@
             "grades-two.tab"
         ],
         {
+            "collection": "",
+            "description": "A small data set with final grades from English and Mathematics that was hand-crafted to introduce Euclidean distance and hierarchical clustering.",
             "name": "grades-two",
             "title": "Grades for English and Math",
-            "description": "A small data set with final grades from English and Mathematics that was hand-crafted to introduce Euclidean distance and hierarchical clustering.",
+            "instances": 12,
+            "variables": 3,
+            "missing": false,
+            "target": null,
+            "size": 265,
+            "year": null,
+            "version": "1.0",
             "tags": [
                 "synthetic",
                 "educational"
             ],
-            "target": null,
-            "version": "1.0",
-            "instances": 12,
-            "variables": 3,
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/grades-two.tab",
-            "size": 265
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "heart_disease.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This data uses a subset of 14 attributes from the Cleveland database. The 'goal' field refers to the presence of heart disease in the patient. It is integer valued from 0 (no presence) to 4. Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0).",
+            "name": "heart_disease",
+            "title": "Heart Disease",
+            "instances": 303,
+            "variables": 14,
+            "missing": true,
+            "target": "categorical",
+            "size": 24031,
+            "year": 1988,
+            "version": "1.0",
+            "tags": [
+                "biology",
+                "medicine"
+            ],
+            "references": [
+                "Detrano, R., Janosi, A., Steinbrunn, W., Pfisterer, M., Schmid, J., Sandhu, S., Guppy, K., Lee, S., & Froelicher, V. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology, 64, 304-310."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/heart+Disease'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/heart_disease.tab",
+            "seealso": [
+                "<a href='https://blog.biolab.si/2017/11/29/how-to-properly-test-models/'>How to Properly Test Models</a>.",
+                "<a href='https://blog.biolab.si/2018/05/03/data-mining-course-at-higher-school-of-economics-moscow/'>Minimum Cost of Misclassification</a>."
+            ]
+        }
+    ],
+    [
+        [
+            "core",
+            "housing.tab"
+        ],
+        {
+            "collection": "StatLib",
+            "description": "This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston. It was obtained from the StatLib archive and has been used extensively throughout the literature to benchmark algorithms. This data was originally a part of UCI Machine Learning Repository and has been removed. The objective is to predict the value of prices of the house using the given features.",
+            "name": "housing",
+            "title": "Housing",
+            "instances": 506,
+            "variables": 14,
+            "missing": false,
+            "target": "numeric",
+            "size": 34742,
+            "year": 1979,
+            "version": "1.0",
+            "tags": [
+                "economy"
+            ],
+            "references": [
+                "Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81\u2013102."
+            ],
+            "source": "<a href='http://lib.stat.cmu.edu/datasets/boston'>StatLib</a>",
+            "url": "http://datasets.orange.biolab.si/core/housing.tab",
+            "seealso": []
         }
     ],
     [
@@ -544,23 +818,25 @@
             "hrm-employee-attrition.xlsx"
         ],
         {
-            "name": "hrm-employee-attrition",
+            "collection": "IBM",
             "description": "A fictional data set created by IBM data scientists to demonstrate the use of Watson Analytics. The data reports on factors such as employees' age, gender, salary, job role and satisfaction, and asks to relate these to attrition.",
+            "name": "hrm-employee-attrition",
             "title": "Employee attrition",
+            "instances": 1470,
+            "variables": 32,
+            "missing": false,
+            "target": "categorical",
+            "size": 262432,
+            "year": 2015,
+            "version": "1.0",
             "tags": [
                 "economy",
                 "synthetic"
             ],
-            "year": 2015,
-            "target": "categorical",
-            "version": "1.0",
-            "collection": "IBM",
-            "instances": 1470,
-            "missing": false,
-            "variables": 32,
+            "references": [],
+            "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition'>IBM Watson Analytics</a>",
             "url": "http://datasets.orange.biolab.si/core/hrm-employee-attrition.xlsx",
-            "size": 262432,
-            "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition'>IBM Watson Analytics</a>"
+            "seealso": []
         }
     ],
     [
@@ -569,25 +845,54 @@
             "imports-85.tab"
         ],
         {
+            "collection": "UCI",
+            "description": "This data set consists of three types of entities: (a) the specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. The second rating corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuarians call this process 'symboling'. A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe. The third factor is the relative average loss payment per insured vehicle year. This value is normalized for all autos within a particular size classification (two-door small, station wagons, sports/speciality, etc...), and represents the average loss per car per year.",
             "name": "imports-85",
-            "description": "This data set consists of three types of entities: (a) the specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. The second rating corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuarians call this process 'symboling'. A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe. The third factor is the relative average loss payment per insured vehicle year. This value is normalized for all autos within a particular size classification (two-door small, station wagons, sports/speciality, etc...), and represents the average loss per car per year. Note: Several of the attributes in the database could be used as a 'class' attribute.",
-            "title": "Congressional Voting Records",
+            "title": "Automobile",
+            "instances": 205,
+            "variables": 26,
+            "missing": true,
+            "target": "numeric",
+            "size": 26300,
+            "year": 1987,
+            "version": "1.0",
             "tags": [
                 "economy"
             ],
-            "target": "numeric",
-            "version": "1.0",
-            "year": "1987",
-            "collection": "UCI",
-            "instances": 205,
-            "variables": 26,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/automobile'>UCI ML Repository</a>",
-            "size": 26300,
-            "url": "http://datasets.orange.biolab.si/core/imports-85.tab",
             "references": [
-                "Kibler, D., Aha, D.W., & Albert, M. (1989). Instance-based prediction of real-valued attributes. Computational Intelligence, Vol 5, 51-57."
+                "Kibler, D., Aha, D.W., & Albert,M. (1989). Instance-based prediction of real-valued attributes. Computational Intelligence, Vol 5, 51-57."
             ],
-            "seealso": null
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/automobile'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/imports-85.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "ionosphere.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This radar data was collected by a system in Goose Bay, Labrador. This system consists of a phased array of 16 high-frequency antennas with a total transmitted power on the order of 6.4 kilowatts. The targets were free electrons in the ionosphere. 'Good' radar returns are those showing evidence of some type of structure in the ionosphere. 'Bad' returns are those that do not; their signals pass through the ionosphere. Received signals were processed using an autocorrelation function whose arguments are the time of a pulse and the pulse number. There were 17 pulse numbers for the Goose Bay system. Instances in this database are described by 2 attributes per pulse number, corresponding to the complex values returned by the function resulting from the complex electromagnetic signal.",
+            "name": "ionosphere",
+            "title": "Ionosphere",
+            "instances": 351,
+            "variables": 33,
+            "missing": false,
+            "target": "categorical",
+            "size": 76708,
+            "year": 1989,
+            "version": "1.0",
+            "tags": [
+                "physics"
+            ],
+            "references": [
+                "Sigillito, V. G., Wing, S. P., Hutton, L. V., & Baker, K. B. (1989). Classification of radar returns from the ionosphere using neural networks. Johns Hopkins APL Technical Digest, 10, 262-266."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/ionosphere'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/ionosphere.tab",
+            "seealso": []
         }
     ],
     [
@@ -596,24 +901,28 @@
             "iris.tab"
         ],
         {
-            "name": "iris",
+            "collection": "UCI",
             "description": "The Iris flower data set or Fisher's Iris data set was introduced by the British statistician and biologist Ronald Fisher in his 1936 paper as an example of linear discriminant analysis. The data on length and width of petal and sepal leafs was actually collected by American botanist Edgar Anderson to quantify the morphologic variation of Iris flowers of three related species.",
+            "name": "iris",
             "title": "Iris",
+            "instances": 150,
+            "variables": 5,
+            "missing": false,
+            "target": "categorical",
+            "size": 4625,
+            "year": 1936,
+            "version": "1.0",
             "tags": [
                 "biology"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": 1936,
-            "collection": "UCI",
-            "instances": 150,
-            "missing": 0,
-            "variables": 5,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
-            "size": 4625,
-            "url": "http://datasets.orange.biolab.si/core/iris.tab",
             "references": [
                 "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179\u2013188."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/iris.tab",
+            "seealso": [
+                "<a href='https://blog.biolab.si/2018/12/21/scatter-plots-the-tour/'>Scatter Plots: the Tour</a>.",
+                "<a href='https://blog.biolab.si/2016/03/23/all-i-see-is-silhouette/'>All I See is Silhouette</a>."
             ]
         }
     ],
@@ -623,21 +932,54 @@
             "kickstarter.tab"
         ],
         {
-            "name": "kickstarter",
+            "collection": "",
             "description": "Basic profiling of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
+            "name": "kickstarter",
             "title": "Kickstarter projects",
+            "instances": 1163,
+            "variables": 15,
+            "missing": false,
+            "target": "categorical",
+            "size": 219235,
+            "year": 2016,
+            "version": "1.0",
             "tags": [
                 "economy"
             ],
-            "year": 2016,
-            "target": "categorical",
-            "version": "1.0",
-            "collection": "",
-            "instances": 1163,
-            "missing": 0,
-            "variables": 15,
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/kickstarter.tab",
-            "size": 219235
+            "seealso": [
+                "<a href='https://blog.biolab.si/2018/08/27/explaining-kickstarter-success/'>Explaining Kickstarter Success</a>."
+            ]
+        }
+    ],
+    [
+        [
+            "core",
+            "lenses.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "The following example is taken from the world of ophthalmic optics. The aim is to determine whether a patient is suitable for contact lens wear and for which type of contacts.",
+            "name": "lenses",
+            "title": "Lenses",
+            "instances": 24,
+            "variables": 5,
+            "missing": false,
+            "target": "categorical",
+            "size": 968,
+            "year": 1990,
+            "version": "1.0",
+            "tags": [
+                "medical"
+            ],
+            "references": [
+                "Cendrowska, J., PRISM: An algorithm for inducing modular rules, International Journal of Man-Machine Studies, 1987, 27, 349-370."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/lenses'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/lenses.tab",
+            "seealso": []
         }
     ],
     [
@@ -646,22 +988,25 @@
             "liver-cirrhosis.tab"
         ],
         {
+            "collection": "spectral",
+            "description": "Liver is the organ in charge of food and drug detoxification, cholesterol, lipids and glycogen synthesis. In case of cirrhosis, some parts of the liver become isolated in nodules by fibrotic tissue rich in collagen. The infrared map was recorded at the intersection between several cirrhotic nodules. The Fourier transform infrared spectroscopy (FTIR) measurement was performed in trans-reflection mode from a 10 \u00b5m thick section at 8x8 \u00b5m\u00b2 spatial resolution. The data was imaged by dr. Christophe Sandt.",
             "name": "liver-cirrhosis",
             "title": "Liver cirrhosis - spectral image",
-            "description": "Liver is the organ in charge of food and drug detoxification, cholesterol, lipids and glycogen synthesis. In case of cirrhosis, some parts of the liver become isolated in nodules by fibrotic tissue rich in collagen. The infrared map was recorded at the intersection between several cirrhotic nodules. The Fourier transform infrared spectroscopy (FTIR) measurement was performed in trans-reflection mode from a 10 \u00b5m thick section at 8x8 \u00b5m\u00b2 spatial resolution. The data was imaged by dr. Christophe Sandt.",
-            "collection": "spectral",
+            "instances": 1078,
+            "variables": 546,
+            "missing": false,
+            "target": null,
+            "size": 3546498,
+            "year": 2018,
+            "version": "1.0",
             "tags": [
                 "spectral",
                 "hyperspectral"
             ],
-            "target": null,
-            "version": "1.0",
-            "year": 2018,
-            "instances": 1078,
-            "missing": false,
-            "variables": 546,
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/liver-cirrhosis.tab",
-            "size": 3546498
+            "seealso": []
         }
     ],
     [
@@ -670,21 +1015,54 @@
             "liver-spectroscopy.tab"
         ],
         {
-            "name": "liver-spectroscopy",
-            "title": "Liver spectroscopy",
-            "description": "Data on cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of a chemical compound (collagen, glycogen, lipids, or DNA) in that part of the cell. Each row represents the data on specific cell, with components of the spectra given in columns. The data was compiled by dr. Christophe Sandt.",
             "collection": "spectral",
+            "description": "Data on cells measured with Fourier transform infrared spectroscopy (FTIR) and annotated according to the majority presence of a chemical compound (collagen, glycogen, lipids, or DNA) in that part of the cell. Each row represents the data on specific cell, with components of the spectra given in columns. The data was compiled by dr. Christophe Sandt.",
+            "name": "liver-spectroscopy",
+            "title": "Liver spectroscopy (Collagen)",
+            "instances": 731,
+            "variables": 234,
+            "missing": false,
+            "target": "categorical",
+            "size": 1018671,
+            "year": 2017,
+            "version": "1.0",
             "tags": [
                 "spectral"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": 2017,
-            "instances": 731,
-            "missing": false,
-            "variables": 234,
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/liver-spectroscopy.tab",
-            "size": 1018671
+            "seealso": [
+                "<a href='https://blog.biolab.si/2018/03/28/orange-with-spectroscopy-add-on-workshop/'>Orange with Spectroscopy Add-on Workshop</a>."
+            ]
+        }
+    ],
+    [
+        [
+            "core",
+            "lymphography.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This is a small medical dataset containing 148 instances. The task is to distinguish healthy patients from those with metastases or malignant lymphoma. This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature.",
+            "name": "lymphography",
+            "title": "Lymphography",
+            "instances": 148,
+            "variables": 19,
+            "missing": false,
+            "target": "categorical",
+            "size": 14939,
+            "year": 1988,
+            "version": "1.0",
+            "tags": [
+                "medical"
+            ],
+            "references": [
+                "Cestnik, G., Konenenko, I., & Bratko, I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users. In I. Bratko & N. Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Lymphography'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/lymphography.tab",
+            "seealso": []
         }
     ],
     [
@@ -693,24 +1071,137 @@
             "market-basket.tab"
         ],
         {
-            "name": "market-basket",
-            "description": "Sythetic market basket data set.",
-            "title": "Market basked",
-            "tags": [
-                "synthetic",
-                "basket"
-            ],
-            "target": null,
-            "version": "1.0",
-            "year": "",
             "collection": "",
+            "description": "Synthetic example of market basket for introducing association rules and frequent itemsets.",
+            "name": "market-basket",
+            "title": "Market Basket",
             "instances": 5,
             "variables": 6,
-            "source": "",
+            "missing": true,
+            "target": null,
             "size": 99,
-            "url": "http://datasets.orange.biolab.si/core/market-basket.tab",
+            "year": null,
+            "version": "1.0",
+            "tags": [
+                "economy",
+                "synthetic"
+            ],
             "references": [],
-            "seealso": null
+            "source": "",
+            "url": "http://datasets.orange.biolab.si/core/market-basket.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "monks-1.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Once upon a time, in July 1991, the monks of Corsendonk Priory were faced with a school held in their priory, namely the 2nd European Summer School on Machine Learning. After listening more than one week to a wide variety of learning algorithms, they felt rather confused: Which algorithm would be optimal? And which one to avoid? As a consequence of this dilemma, they created a simple task on which all learning algorithms ought to be compared: the three MONK's problems. The target concept associated with the 1st Monk's problem is the binary outcome of the logical formula: MONK-1: (a1 == a2) or (a5 == 1)",
+            "name": "monks-1",
+            "title": "MONK's 1",
+            "instances": 556,
+            "variables": 7,
+            "missing": false,
+            "target": "categorical",
+            "size": 12733,
+            "year": 1992,
+            "version": "1.0",
+            "tags": [
+                "synthetic"
+            ],
+            "references": [
+                "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/monks-1.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "monks-2.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Once upon a time, in July 1991, the monks of Corsendonk Priory were faced with a school held in their priory, namely the 2nd European Summer School on Machine Learning. After listening more than one week to a wide variety of learning algorithms, they felt rather confused: Which algorithm would be optimal? And which one to avoid? As a consequence of this dilemma, they created a simple task on which all learning algorithms ought to be compared: the three MONK's problems. The target concept associated with the 2nd Monk's problem is the binary outcome of the logical formula: MONK-2: EXACTLY TWO of {a1 = 1, a2 = 1, a3 = 1, a4 = 1, a5 = 1, a6 = 1}",
+            "name": "monks-2",
+            "title": "MONK's 2",
+            "instances": 601,
+            "variables": 7,
+            "missing": false,
+            "target": "categorical",
+            "size": 13754,
+            "year": 1992,
+            "version": "1.0",
+            "tags": [
+                "synthetic"
+            ],
+            "references": [
+                "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/monks-2.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "monks-3.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Once upon a time, in July 1991, the monks of Corsendonk Priory were faced with a school held in their priory, namely the 2nd European Summer School on Machine Learning. After listening more than one week to a wide variety of learning algorithms, they felt rather confused: Which algorithm would be optimal? And which one to avoid? As a consequence of this dilemma, they created a simple task on which all learning algorithms ought to be compared: the three MONK's problems. The target concept associated with the 3rd Monk's problem is the binary outcome of the logical formula: MONK-3: (a5 = 3 and a4 = 1) or (a5 /= 4 and a2 /= 3). In addition, 5% class noise was added to the training set.",
+            "name": "monks-3",
+            "title": "MONK's 3",
+            "instances": 554,
+            "variables": 7,
+            "missing": false,
+            "target": "categorical",
+            "size": 12674,
+            "year": 1992,
+            "version": "1.0",
+            "tags": [
+                "synthetic"
+            ],
+            "references": [
+                "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/monks-3.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "multitarget-synthetic.tab"
+        ],
+        {
+            "collection": "",
+            "description": "Synthetic data set for multitarget regression.",
+            "name": "multitarget-synthetic",
+            "title": "Multitarget Synthetic",
+            "instances": 100,
+            "variables": 7,
+            "missing": false,
+            "target": "numeric",
+            "size": 4486,
+            "year": null,
+            "version": "1.0",
+            "tags": [
+                "synthetic"
+            ],
+            "references": [],
+            "source": "",
+            "url": "http://datasets.orange.biolab.si/core/multitarget-synthetic.tab",
+            "seealso": [
+                "<a href='https://blog.biolab.si/2012/02/02/new-in-orange-partial-least-squares-regression/'>Partial Least Squares Regression</a>."
+            ]
         }
     ],
     [
@@ -721,22 +1212,23 @@
         {
             "collection": "",
             "description": "Fluorescence images of the nucleus of mouse fully-grown antral oocytes from University of Pavia.",
-            "instances": 131,
             "name": "oocyte-competence",
-            "references": [],
-            "seealso": [],
+            "title": "Mammalian Oocyte Developmental Competence",
+            "instances": 131,
+            "variables": 0,
+            "missing": false,
+            "target": "categorical",
             "size": 9707,
-            "source": null,
+            "year": 2018,
+            "version": "1.0",
             "tags": [
                 "image analytics",
                 "biology"
             ],
-            "target": "categorical",
-            "title": "Mammalian Oocyte Developmental Competence",
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/oocyte-competence.xlsx",
-            "variables": 0,
-            "version": "1.0",
-            "year": "2018"
+            "seealso": []
         }
     ],
     [
@@ -745,25 +1237,26 @@
             "philadelphia-crime.csv.xz"
         ],
         {
-            "name": "philadelphia-crime.csv.xz",
+            "collection": "",
             "description": "Data from minor criminal acts in Philadelphia.",
+            "name": "philadelphia-crime.csv.xz",
             "title": "Philadelphia Crime",
+            "instances": 9666,
+            "variables": 4,
+            "missing": false,
+            "target": "categorical",
+            "size": 92660,
+            "year": 2016,
+            "version": "1.0",
             "tags": [
                 "criminology",
                 "time",
                 "geo"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "2016",
-            "collection": "",
-            "instances": 9666,
-            "variables": 4,
-            "source": "",
-            "size": 92660,
-            "url": "http://datasets.orange.biolab.si/core/philadelphia-crime.csv.xz",
             "references": [],
-            "seealso": null
+            "source": "",
+            "url": "http://datasets.orange.biolab.si/core/philadelphia-crime.csv.xz",
+            "seealso": []
         }
     ],
     [
@@ -774,21 +1267,78 @@
         {
             "collection": "UCI",
             "description": "Each data instance is an example of a Poker hand consisting of five playing cards drawn from a standard deck of 52. Each card is described using two attributes (suit and rank), for a total of 10 predictive attributes. A suit is a discrete attribute (from 1 to 4) representing Hearts, Spades, Diamonds, and Clubs. Rank of the card is an integer-valued attribute with values from 1 to 13 representing Ace, 2, 3, ... , Queen, and King. The discrete class is an integer-encoded poker hand, representing nothing at hand (0), one pair (1), two pairs (2), ..., straight flush (8) and royal flush (9). UCI ML repository contains two data sets (train and test) that we merged into one, with meta attribute reporting on the file origin of each data instance.",
-            "instances": 1025010,
             "name": "poker-hand",
-            "references": null,
-            "seealso": null,
+            "title": "Poker Hand",
+            "instances": 1025010,
+            "variables": 10,
+            "missing": false,
+            "target": "categorical",
             "size": 30302187,
-            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Poker+Hand'>UCI ML Repository</a>",
+            "year": 2007,
+            "version": "1.0",
             "tags": [
                 "synthetic"
             ],
-            "target": "categorical",
-            "title": "Poker Hand",
+            "references": [],
+            "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Poker+Hand'>UCI ML Repository</a>",
             "url": "http://datasets.orange.biolab.si/core/poker-hand.tab",
-            "variables": 10,
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "primary-tumor.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "This is a dataset about primary tumors in people. Locations of primary tumors are locations in body where the tumor first appeared and from there started to metastasize to other parts of the body. This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature.",
+            "name": "primary-tumor",
+            "title": "Primary Tumor",
+            "instances": 339,
+            "variables": 18,
+            "missing": true,
+            "target": "categorical",
+            "size": 24401,
+            "year": 1988,
             "version": "1.0",
-            "year": "2007"
+            "tags": [
+                "medical"
+            ],
+            "references": [
+                "Cestnik, G., Konenenko, I., & Bratko, I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users. In I. Bratko & N. Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/primary+tumor'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/primary-tumor.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "promoters.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "E. Coli promoter gene sequences (DNA) with partial domain theory.",
+            "name": "promoters",
+            "title": "Promoter Gene Sequences",
+            "instances": 106,
+            "variables": 58,
+            "missing": false,
+            "target": "categorical",
+            "size": 13216,
+            "year": 1990,
+            "version": "1.0",
+            "tags": [
+                "molecular biology"
+            ],
+            "references": [
+                "Harley, C. and Reynolds, R. 1987. Analysis of E. Coli Promoter Sequences. Nucleic Acids Research, 15:2343-2361."
+            ],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/promoters.tab",
+            "seealso": []
         }
     ],
     [
@@ -797,22 +1347,23 @@
             "retail-basket.tab"
         ],
         {
-            "name": "retail-basket",
+            "collection": "UCI",
             "description": "This is a transnational data set which contains all the transactions occurring between 2010-12-1 and 2011-12-09 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.",
+            "name": "retail-basket",
             "title": "Online Retail",
+            "instances": 914,
+            "variables": 50,
+            "missing": true,
+            "target": null,
+            "size": 92519,
+            "year": 2012,
+            "version": "1.0",
             "tags": [
                 "economy",
                 "timeseries",
                 "geo",
                 "sparse"
             ],
-            "target": null,
-            "version": "1.0",
-            "collection": "UCI",
-            "instances": 914,
-            "missing": false,
-            "variables": 50,
-            "year": "2012",
             "references": [
                 "Daqing Chen, Sai Liang Sain, and Kun Guo (2012) <a href='https://link.springer.com/article/10.1057/dbm.2012.17'>Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining.</a> Journal of Database Marketing and Customer Strategy Management 19(3), pp. 197."
             ],
@@ -820,8 +1371,7 @@
             "url": "http://datasets.orange.biolab.si/core/retail-basket.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/11/17/data-mining-business-public-administration/'>Data Mining for Business and Administration</a>."
-            ],
-            "size": 92519
+            ]
         }
     ],
     [
@@ -830,20 +1380,22 @@
             "sailing.tab"
         ],
         {
+            "collection": "",
+            "description": "Hand-crafted data set to explain inference of classification trees. It records data for Sara, a weekend sailer, and the data before sailing on company, boat type and weather. The class tells if she actually went sailing.",
             "name": "sailing",
             "title": "Sailing",
-            "description": "Hand-crafted data set to explain inference of classification trees. It records data for Sara, a weekend sailer, and the data before sailing on company, boat type and weather. The class tells if she actually went sailing.",
+            "instances": 20,
+            "variables": 4,
+            "missing": false,
+            "target": "categorical",
+            "size": 455,
+            "year": 2003,
+            "version": "1.0",
             "tags": [
                 "synthetic"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "2003",
-            "instances": 20,
-            "missing": null,
-            "variables": 4,
-            "source": null,
-            "size": 455,
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/sailing.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/08/11/its-sailing-time-again/'>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."
@@ -856,23 +1408,25 @@
             "slovenia-traffic-accidents-2016-events.tab"
         ],
         {
+            "collection": "",
+            "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. Events (rows) are described through location, cause and type of accident, and road condition. The data on geographic location is provided.",
             "name": "slovenia-traffic-accidents-2016-events",
             "title": "Traffic accidents - events",
-            "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. Events (rows) are described through location, cause and type of accident, and road condition. The data on geographic location is provided.",
-            "references": [],
+            "instances": 17931,
+            "variables": 18,
+            "missing": true,
+            "target": null,
+            "size": 4501650,
+            "year": 2016,
+            "version": "1.0",
             "tags": [
                 "geo",
                 "timeseries"
             ],
-            "target": null,
-            "version": "1.0",
-            "year": 2016,
-            "instances": 17931,
-            "missing": true,
-            "variables": 18,
+            "references": [],
             "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
             "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-events.tab",
-            "size": 4501650
+            "seealso": []
         }
     ],
     [
@@ -881,23 +1435,25 @@
             "slovenia-traffic-accidents-2016-persons.tab"
         ],
         {
+            "collection": "",
+            "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. The data includes geographic location of the accident, and profile of a person involved containing the age, gender, type of accident, the result of an alcohol test, and an indicator if the person caused the accident.",
             "name": "slovenia-traffic-accidents-2016-persons",
             "title": "Traffic accidents - persons",
-            "description": "Persons involved in traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. The data includes geographic location of the accident, and profile of a person involved containing the age, gender, type of accident, the result of an alcohol test, and an indicator if the person caused the accident.",
-            "references": [],
+            "instances": 32857,
+            "variables": 13,
+            "missing": true,
+            "target": null,
+            "size": 2915308,
+            "year": 2016,
+            "version": "1.0",
             "tags": [
                 "geo",
                 "timeseries"
             ],
-            "target": null,
-            "version": "1.0",
-            "year": 2016,
-            "instances": 32857,
-            "missing": true,
-            "variables": 13,
+            "references": [],
             "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
             "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-persons.tab",
-            "size": 2915308
+            "seealso": []
         }
     ],
     [
@@ -908,24 +1464,25 @@
         {
             "collection": "Parlameter",
             "description": "Ballot counts and Member of parliament (MP) description data set. Ballot counts were retrieved for selected May and June 2017 parliament sessions. ",
-            "instances": 84,
             "name": "slovenian-national-assembly-eng",
-            "references": [],
-            "seealso": [
-                "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patters at AKOS workshop</a>."
-            ],
+            "title": "Slovenian National Assembly",
+            "instances": 84,
+            "variables": 18,
+            "missing": true,
+            "target": null,
             "size": 18190,
-            "source": "<a href='https://parlameter.si/'>Parlameter API</a>",
+            "year": 2017,
+            "version": "1.0",
             "tags": [
                 "image analytics",
                 "politics"
             ],
-            "target": null,
-            "title": "Slovenian National Assembly",
+            "references": [],
+            "source": "Parlameter API",
             "url": "http://datasets.orange.biolab.si/core/slovenian-national-assembly-eng.tab",
-            "variables": 18,
-            "version": "1.0",
-            "year": "2017"
+            "seealso": [
+                "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patterns at AKOS workshop</a>."
+            ]
         }
     ],
     [
@@ -934,22 +1491,26 @@
             "titanic.tab"
         ],
         {
-            "name": "titanic",
-            "description": "This data set provides information on the fate of passengers on the fatal maiden voyage of the ocean liner Titanic, summarized according to economic status (class), sex, age and survival.",
-            "title": "Titanic",
-            "tags": [],
-            "target": "categorical",
-            "version": "1.0",
             "collection": "R",
+            "description": "This data set provides information on the fate of passengers on the fatal maiden voyage of the ocean liner Titanic, summarized according to economic status (class), sex, age and survival.",
+            "name": "titanic",
+            "title": "Titanic",
             "instances": 2201,
-            "missing": false,
             "variables": 4,
-            "year": "",
+            "missing": false,
+            "target": "categorical",
+            "size": 45112,
+            "year": null,
+            "version": "1.0",
+            "tags": [],
             "references": [
                 "Dawson Robert J. MacG. (1995) The \u2018Unusual Episode\u2019 Data Revisited. Journal of Statistics Education 3(3)."
             ],
-            "size": 45112,
-            "url": "http://datasets.orange.biolab.si/core/titanic.tab"
+            "source": "",
+            "url": "http://datasets.orange.biolab.si/core/titanic.tab",
+            "seealso": [
+                "<a href='https://blog.biolab.si/2017/06/05/nomogram/'>Nomogram - Visualizing Probabilities</a>."
+            ]
         }
     ],
     [
@@ -960,23 +1521,24 @@
         {
             "collection": "",
             "description": "Images (icons) of traffic signs.",
-            "instances": 70,
             "name": "traffic-signs",
-            "references": [],
-            "seealso": [
-                "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
-            ],
+            "title": "Traffic signs",
+            "instances": 70,
+            "variables": 0,
+            "missing": false,
+            "target": "categorical",
             "size": 3726,
-            "source": null,
+            "year": 2017,
+            "version": "1.0",
             "tags": [
                 "image analytics"
             ],
-            "target": "categorical",
-            "title": "Traffic signs",
+            "references": [],
+            "source": "",
             "url": "http://datasets.orange.biolab.si/core/traffic-signs.tab",
-            "variables": 0,
-            "version": "1.0",
-            "year": "2017"
+            "seealso": [
+                "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
+            ]
         }
     ],
     [
@@ -985,23 +1547,24 @@
             "vehicle.tab"
         ],
         {
-            "name": "vehicle",
-            "description": "The purpose is to classify a given silhouette as one of four types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.",
-            "title": "Vehicle Silhouettes",
-            "tags": [],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "1986",
             "collection": "UCI",
+            "description": "The purpose is to classify a given silhouette as one of four types of vehicle, using a set of features extracted from the silhouette. The vehicle may be viewed from one of many different angles.",
+            "name": "vehicle",
+            "title": "Vehicle Silhouettes",
             "instances": 846,
             "variables": 19,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
+            "missing": false,
+            "target": "categorical",
             "size": 55560,
-            "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
+            "year": 1986,
+            "version": "1.0",
+            "tags": [],
             "references": [
                 "Siebert, JP. (1987) Vehicle Recognition Using Rule Based Methods, Turing Institute Research Memorandum TIRM-87-018."
             ],
-            "seealso": null
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
+            "seealso": []
         }
     ],
     [
@@ -1010,25 +1573,28 @@
             "voting.tab"
         ],
         {
-            "name": "voting",
+            "collection": "UCI",
             "description": "This data set includes votes for each of the U.S. House of Representatives Congressmen on the 16 key votes identified by the CQA. The CQA lists nine different types of votes: voted for, paired for, and announced for (these three simplified to yea), voted against, paired against, and announced against (these three simplified to nay), voted present, voted present to avoid conflict of interest, and did not vote or otherwise make a position known (these three simplified to an unknown disposition).",
+            "name": "voting",
             "title": "Congressional Voting Records",
+            "instances": 435,
+            "variables": 17,
+            "missing": true,
+            "target": "categorical",
+            "size": 18212,
+            "year": 1987,
+            "version": "1.0",
             "tags": [
                 "politics"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "1987",
-            "collection": "UCI",
-            "instances": 435,
-            "variables": 17,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/congressional+voting+records'>UCI ML Repository</a>",
-            "size": 18212,
-            "url": "http://datasets.orange.biolab.si/core/voting.tab",
             "references": [
                 "Schlimmer, J. C. (1987). Concept acquisition through representational adjustment. Doctoral dissertation, Department of Information and Computer Science, University of California, Irvine, CA."
             ],
-            "seealso": null
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/congressional+voting+records'>UCI ML Repository</a>",
+            "url": "http://datasets.orange.biolab.si/core/voting.tab",
+            "seealso": [
+                "<a href='https://blog.biolab.si/2015/12/19/model-based-feature-scoring/'>Model-based Feature Scoring</a>."
+            ]
         }
     ],
     [
@@ -1037,19 +1603,22 @@
             "wine.tab"
         ],
         {
-            "name": "wine",
-            "description": "This is the data on wines grown in the same region in Italy but derived from three different cultivars. Wines are profiled by chemical analysis that reports on the quantities of thirteen constituents, including alcohol, malic acid, and flavanoids.",
-            "title": "Wine",
-            "tags": [],
-            "target": "categorical",
-            "version": "1.0",
-            "year": "1992",
             "collection": "UCI",
+            "description": "This is the data on wines grown in the same region in Italy but derived from three different cultivars. Wines are profiled by chemical analysis that reports on the quantities of thirteen constituents, including alcohol, malic acid, and flavanoids.",
+            "name": "wine",
+            "title": "Wine",
             "instances": 178,
-            "missing": 0,
             "variables": 14,
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Wine'>UCI ML Repository</a>",
+            "missing": false,
+            "target": "categorical",
             "size": 10991,
+            "year": 1992,
+            "version": "1.0",
+            "tags": [
+                "chemistry"
+            ],
+            "references": [],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Wine'>UCI ML Repository</a>",
             "url": "http://datasets.orange.biolab.si/core/wine.tab",
             "seealso": [
                 "<a href='https://www.youtube.com/watch?v=OmaAC8a52YI'>Principal Component Analysis</a>, a YouTube video from <a href=https://www.youtube.com/orangedatamining>Getting Started with Orange</a> series that showcases this dataset.",
@@ -1065,21 +1634,22 @@
         {
             "collection": "UCI",
             "description": "The quality of the red variants of the Portuguese \"Vinho Verde\" wine. Wine samples are described with results of physicochemical tests that include information on acidity, sugar and alcohol content, density and other. This data set is related to its sister data set on the quality of white wines.",
-            "instances": 1599,
             "name": "winequality-red",
+            "title": "Wine quality - red",
+            "instances": 1599,
+            "variables": 11,
+            "missing": false,
+            "target": "numeric",
+            "size": 84183,
+            "year": 2009,
+            "version": "1.0",
+            "tags": [],
             "references": [
                 "Cortez P, Cerdeira A, Almeida F, Matos T, and Reis J (2009) Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems Elsevier 47(4):547-553."
             ],
-            "seealso": null,
-            "size": 84183,
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Wine+Quality'>UCI ML Repository</a>",
-            "tags": [],
-            "target": "numeric",
-            "title": "Wine quality - red",
             "url": "http://datasets.orange.biolab.si/core/winequality-red.tab",
-            "variables": 11,
-            "version": "1.0",
-            "year": "2009"
+            "seealso": []
         }
     ],
     [
@@ -1090,21 +1660,22 @@
         {
             "collection": "UCI",
             "description": "The quality of the white variants of the Portuguese \"Vinho Verde\" wine. Wine samples are described with results of physicochemical tests that include information on acidity, sugar and alcohol content, density and other. This data set is related to its sister data set on the quality of red wines.",
-            "instances": 4898,
             "name": "winequality-white",
+            "title": "Wine quality - white",
+            "instances": 4898,
+            "variables": 11,
+            "missing": false,
+            "target": "numeric",
+            "size": 264270,
+            "year": 2009,
+            "version": "1.0",
+            "tags": [],
             "references": [
                 "Cortez P, Cerdeira A, Almeida F, Matos T, and Reis J (2009) Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems Elsevier 47(4):547-553."
             ],
-            "seealso": null,
-            "size": 264270,
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Wine+Quality'>UCI ML Repository</a>",
-            "tags": [],
-            "target": "numeric",
-            "title": "Wine quality - white",
             "url": "http://datasets.orange.biolab.si/core/winequality-white.tab",
-            "variables": 11,
-            "version": "1.0",
-            "year": "2009"
+            "seealso": []
         }
     ],
     [
@@ -1115,45 +1686,50 @@
         {
             "collection": "YPL+.db",
             "description": "Yeast protein localization images from YPL+ database. Included are only images with unique (single) localization site. The data set includes only localization sites that were reported for at least 30 distinct proteins.",
-            "instances": 2569,
             "name": "yplp",
-            "references": [],
-            "seealso": [],
+            "title": "Yeast Protein Localization",
+            "instances": 2569,
+            "variables": 0,
+            "missing": true,
+            "target": "categorical",
             "size": 93607,
-            "source": "<a href='http://yplp.uni-graz.at'>YPL+.db</a>",
+            "year": 2018,
+            "version": "1.0",
             "tags": [
                 "image analytics"
             ],
-            "target": "categorical",
-            "title": "Yeast Protein Localization",
+            "references": [],
+            "source": "<a href='http://yplp.uni-graz.at'>YPL+.db</a>",
             "url": "http://datasets.orange.biolab.si/core/yplp.xlsx",
-            "variables": 0,
-            "version": "1.0",
-            "year": "2018"
+            "seealso": []
         }
     ],
     [
         [
             "core",
-            "zoo.xlsx"
+            "zoo.tab"
         ],
         {
+            "collection": "UCI",
+            "description": "A dataset created by Richard Forsyth contains seventeen binary-valued attributes that describe animals. Features include information about presence of hair, feathers and teeth, report if animal is aquatic or airborn, and alike. Animals are named and are classified into seven categories: amphibian, bird, fish, insect, invertaebrate, mammal, and reptile.",
             "name": "zoo",
             "title": "Zoo",
-            "description": "A dataset created by Richard Forsyth contains seventeen binary-valued attributes that describe animals. Features include information about presence of hair, feathers and teeth, report if animal is aquatic or airborn, and alike. Animals are named and are classified into seven categories: amphibian, bird, fish, insect, invertaebrate, mammal, and reptile.",
+            "instances": 101,
+            "variables": 17,
+            "missing": false,
+            "target": "categorical",
+            "size": 4837,
+            "year": 1990,
+            "version": "1.0",
             "tags": [
                 "biology"
             ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": 1990,
-            "collection": "UCI",
-            "instances": 101,
-            "missing": false,
-            "variables": 17,
+            "references": [],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/zoo.xlsx",
-            "size": 50929
+            "url": "http://datasets.orange.biolab.si/core/zoo.tab",
+            "seealso": [
+                "<a href='https://blog.biolab.si/2018/01/26/visualizing-multiple-variables-freeviz/'>Visualizing Multiple Variables with Freeviz</a>."
+            ]
         }
     ]
 ]

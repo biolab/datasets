@@ -13,8 +13,10 @@
     "tags": [
         "biology"
     ],
-    "references": "McDermott & Forsyth 2016, Diagnosing a disorder in a classification benchmark, Pattern Recognition Letters, Volume 73.",
+    "references": [
+        "McDermott & Forsyth 2016, Diagnosing a disorder in a classification benchmark, Pattern Recognition Letters, Volume 73."
+    ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/liver+disorders'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/bupa.tab",
+    "url": "http://datasets.orange.biolab.si/core/bupa.tab",
     "seealso": []
 }
