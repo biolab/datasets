@@ -1,19 +1,20 @@
 {
     "collection": "UCI",
     "description": "Each data instance is an example of a Poker hand consisting of five playing cards drawn from a standard deck of 52. Each card is described using two attributes (suit and rank), for a total of 10 predictive attributes. A suit is a discrete attribute (from 1 to 4) representing Hearts, Spades, Diamonds, and Clubs. Rank of the card is an integer-valued attribute with values from 1 to 13 representing Ace, 2, 3, ... , Queen, and King. The discrete class is an integer-encoded poker hand, representing nothing at hand (0), one pair (1), two pairs (2), ..., straight flush (8) and royal flush (9). UCI ML repository contains two data sets (train and test) that we merged into one, with meta attribute reporting on the file origin of each data instance.",
-    "instances": 1025010,
     "name": "poker-hand",
-    "references": null,
-    "seealso": null,
+    "title": "Poker Hand",
+    "instances": 1025010,
+    "variables": 10,
+    "missing": false,
+    "target": "categorical",
     "size": 30302187,
-    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Poker+Hand'>UCI ML Repository</a>",
+    "year": 2007,
+    "version": "1.0",
     "tags": [
         "synthetic"
     ],
-    "target": "categorical",
-    "title": "Poker Hand",
+    "references": [],
+    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Poker+Hand'>UCI ML Repository</a>",
     "url": "http://datasets.orange.biolab.si/core/poker-hand.tab",
-    "variables": 10,
-    "version": "1.0",
-    "year": "2007"
+    "seealso": []
 }

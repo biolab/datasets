@@ -1,21 +1,25 @@
 {
-    "name": "iris",
+    "collection": "UCI",
     "description": "The Iris flower data set or Fisher's Iris data set was introduced by the British statistician and biologist Ronald Fisher in his 1936 paper as an example of linear discriminant analysis. The data on length and width of petal and sepal leafs was actually collected by American botanist Edgar Anderson to quantify the morphologic variation of Iris flowers of three related species.",
+    "name": "iris",
     "title": "Iris",
+    "instances": 150,
+    "variables": 5,
+    "missing": false,
+    "target": "categorical",
+    "size": 4625,
+    "year": 1936,
+    "version": "1.0",
     "tags": [
         "biology"
     ],
-    "target": "categorical",
-    "version": "1.0",
-    "year": 1936,
-    "collection": "UCI",
-    "instances": 150,
-    "missing": 0,
-    "variables": 5,
-    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
-    "size": 4625,
-    "url": "http://datasets.orange.biolab.si/core/iris.tab",
     "references": [
         "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179\u2013188."
+    ],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
+    "url": "http://datasets.orange.biolab.si/core/iris.tab",
+    "seealso": [
+        "<a href='https://blog.biolab.si/2018/12/21/scatter-plots-the-tour/'>Scatter Plots: the Tour</a>.",
+        "<a href='https://blog.biolab.si/2016/03/23/all-i-see-is-silhouette/'>All I See is Silhouette</a>."
     ]
 }

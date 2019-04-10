@@ -1,0 +1,22 @@
+{
+    "collection": "UCI",
+    "description": "This is one of three domains provided by the Oncology Institute that has repeatedly appeared in the machine learning literature. This data set includes 201 instances of one class and 85 instances of another class. The instances are described by 9 attributes, some of which are linear and some are nominal.",
+    "name": "breast-cancer",
+    "title": "Breast Cancer",
+    "instances": 286,
+    "variables": 10,
+    "missing": true,
+    "target": "categorical",
+    "size": 18801,
+    "year": 1992,
+    "version": "1.0",
+    "tags": [
+        "biology"
+    ],
+    "references": [
+        "Michalski, R.S., Mozetic, I., Hong, J., & Lavrac, N. (1986). The Multi-Purpose Incremental Learning System AQ15 and its Testing Application to Three Medical Domains. In Proceedings of the Fifth National Conference on Artificial Intelligence, 1041-1045, Philadelphia, PA: Morgan Kaufmann."
+    ],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/breast+cancer'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/breast-cancer.tab",
+    "seealso": []
+}

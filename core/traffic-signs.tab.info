@@ -1,21 +1,22 @@
 {
     "collection": "",
     "description": "Images (icons) of traffic signs.",
-    "instances": 70,
     "name": "traffic-signs",
-    "references": [],
-    "seealso": [
-        "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
-    ],
+    "title": "Traffic signs",
+    "instances": 70,
+    "variables": 0,
+    "missing": false,
+    "target": "categorical",
     "size": 3726,
-    "source": null,
+    "year": 2017,
+    "version": "1.0",
     "tags": [
         "image analytics"
     ],
-    "target": "categorical",
-    "title": "Traffic signs",
+    "references": [],
+    "source": "",
     "url": "http://datasets.orange.biolab.si/core/traffic-signs.tab",
-    "variables": 0,
-    "version": "1.0",
-    "year": "2017"
+    "seealso": [
+        "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
+    ]
 }

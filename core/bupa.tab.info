@@ -1,0 +1,20 @@
+{
+    "collection": "UCI",
+    "description": "The BUPA dataset contains 345 single male patients with 6 numeric attributes. Five of these attributes are blood tests which are thought to be sensitive to liver disorders that might arise from excessive alcohol consumption. Each line in the dataset constitutes the record of a single male individual.",
+    "name": "bupa",
+    "title": "Liver Disorders",
+    "instances": 345,
+    "variables": 11,
+    "missing": false,
+    "target": "categorical",
+    "size": 7369,
+    "year": 1990,
+    "version": "1.0",
+    "tags": [
+        "biology"
+    ],
+    "references": "McDermott & Forsyth 2016, Diagnosing a disorder in a classification benchmark, Pattern Recognition Letters, Volume 73.",
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/liver+disorders'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/bupa.tab",
+    "seealso": []
+}

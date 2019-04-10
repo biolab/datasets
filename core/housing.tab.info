@@ -1,0 +1,20 @@
+{
+    "collection": "StatLib",
+    "description": "This dataset contains information collected by the U.S Census Service concerning housing in the area of Boston. It was obtained from the StatLib archive and has been used extensively throughout the literature to benchmark algorithms. This data was originally a part of UCI Machine Learning Repository and has been removed. The objective is to predict the value of prices of the house using the given features.",
+    "name": "housing",
+    "title": "Housing",
+    "instances": 506,
+    "variables": 14,
+    "missing": false,
+    "target": "numeric",
+    "size": 34742,
+    "year": 1979,
+    "version": "1.0",
+    "tags": [
+        "economy"
+    ],
+    "references": "Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81–102.",
+    "source": "<a href='http://lib.stat.cmu.edu/datasets/boston'>StatLib</a>",
+    "url": "http://file.biolab.si/datasets/housing.tab",
+    "seealso": []
+}

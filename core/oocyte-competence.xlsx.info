@@ -1,20 +1,21 @@
 {
     "collection": "",
     "description": "Fluorescence images of the nucleus of mouse fully-grown antral oocytes from University of Pavia.",
-    "instances": 131,
     "name": "oocyte-competence",
-    "references": [],
-    "seealso": [],
+    "title": "Mammalian Oocyte Developmental Competence",
+    "instances": 131,
+    "variables": 0,
+    "missing": false,
+    "target": "categorical",
     "size": 9707,
-    "source": null,
+    "year": 2018,
+    "version": "1.0",
     "tags": [
         "image analytics",
         "biology"
     ],
-    "target": "categorical",
-    "title": "Mammalian Oocyte Developmental Competence",
+    "references": [],
+    "source": "",
     "url": "http://datasets.orange.biolab.si/core/oocyte-competence.xlsx",
-    "variables": 0,
-    "version": "1.0",
-    "year": "2018"
+    "seealso": []
 }

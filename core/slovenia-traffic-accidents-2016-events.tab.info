@@ -1,19 +1,21 @@
 {
+    "collection": "",
+    "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. Events (rows) are described through location, cause and type of accident, and road condition. The data on geographic location is provided.",
     "name": "slovenia-traffic-accidents-2016-events",
     "title": "Traffic accidents - events",
-    "description": "Traffic accidents in Slovenia in year 2016 as published by the Ministry of Internal Affairs. Events (rows) are described through location, cause and type of accident, and road condition. The data on geographic location is provided.",
-    "references": [],
+    "instances": 17931,
+    "variables": 18,
+    "missing": true,
+    "target": null,
+    "size": 4501650,
+    "year": 2016,
+    "version": "1.0",
     "tags": [
         "geo",
         "timeseries"
     ],
-    "target": null,
-    "version": "1.0",
-    "year": 2016,
-    "instances": 17931,
-    "missing": true,
-    "variables": 18,
+    "references": [],
     "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
     "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-events.tab",
-    "size": 4501650
+    "seealso": []
 }

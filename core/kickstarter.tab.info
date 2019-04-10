@@ -1,17 +1,22 @@
 {
-    "name": "kickstarter",
+    "collection": "",
     "description": "Basic profiling of Kickstarter project pages at the time of the start of the campaign. The class label records if the project was founded. The data is on a small sample of Kickstarter projects whose campaigns started from January to April, 2016. Even though the attributes contain very basic information about the web pages, like the number of videos and images included, it is surprising that these are sufficient for solid prediction of success of the project.",
+    "name": "kickstarter",
     "title": "Kickstarter projects",
+    "instances": 1163,
+    "variables": 15,
+    "missing": false,
+    "target": "categorical",
+    "size": 219235,
+    "year": 2016,
+    "version": "1.0",
     "tags": [
         "economy"
     ],
-    "year": 2016,
-    "target": "categorical",
-    "version": "1.0",
-    "collection": "",
-    "instances": 1163,
-    "missing": 0,
-    "variables": 15,
+    "references": [],
+    "source": "",
     "url": "http://datasets.orange.biolab.si/core/kickstarter.tab",
-    "size": 219235
+    "seealso": [
+        "<a href='https://blog.biolab.si/2018/08/27/explaining-kickstarter-success/'>Explaining Kickstarter Success</a>."
+    ]
 }

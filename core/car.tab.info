@@ -1,22 +1,23 @@
 {
     "collection": "UCI",
     "description": "This is a synthetic data set derived from a simple hierarchical decision model to demonstrate decision support system DEX (see Bohanec and Rajkovic). The decision model included six attributes, including buying and maintenance price, the number of passengers, size of the luggage booth, and evaluated the utility of the car from a buyer's perspective. All attributes were discrete, having from three to four values. The data set provides car's utility for all possible combinations of attribute values. The data set was originally created to showcase the ability of machine learning by function decomposition to recreate the hierarchy of the decision model.",
-    "instances": 1728,
     "name": "car",
+    "title": "Car Evaluation",
+    "instances": 1728,
+    "variables": 6,
+    "missing": false,
+    "target": "categorical",
+    "size": 51939,
+    "year": 1999,
+    "version": "1.0",
+    "tags": [
+        "synthetic"
+    ],
     "references": [
         "Bohanec M, Rajkovic V (1988) Knowledge acquisition and explanation for multi-attribute decision making. In 8th International Workshop on Expert Systems and their Applications, Avignon, France. pages 59-78.",
         "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href='http://file.biolab.si/papers/1999-Zupan-AIJ.pdf'>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
     ],
-    "seealso": null,
-    "size": 51939,
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Car+Evaluation'>UCI ML Repository</a>",
-    "tags": [
-        "synthetic"
-    ],
-    "target": "categorical",
-    "title": "Car Evaluation",
     "url": "http://datasets.orange.biolab.si/core/car.tab",
-    "variables": 6,
-    "version": "1.0",
-    "year": 1999
+    "seealso": []
 }

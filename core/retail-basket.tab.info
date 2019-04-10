@@ -1,20 +1,21 @@
 {
-    "name": "retail-basket",
+    "collection": "UCI",
     "description": "This is a transnational data set which contains all the transactions occurring between 2010-12-1 and 2011-12-09 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts. Many customers of the company are wholesalers.",
+    "name": "retail-basket",
     "title": "Online Retail",
+    "instances": 914,
+    "variables": 50,
+    "missing": true,
+    "target": null,
+    "size": 92519,
+    "year": 2012,
+    "version": "1.0",
     "tags": [
         "economy",
         "timeseries",
         "geo",
         "sparse"
     ],
-    "target": null,
-    "version": "1.0",
-    "collection": "UCI",
-    "instances": 914,
-    "missing": false,
-    "variables": 50,
-    "year": "2012",
     "references": [
         "Daqing Chen, Sai Liang Sain, and Kun Guo (2012) <a href='https://link.springer.com/article/10.1057/dbm.2012.17'>Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining.</a> Journal of Database Marketing and Customer Strategy Management 19(3), pp. 197."
     ],
@@ -22,6 +23,5 @@
     "url": "http://datasets.orange.biolab.si/core/retail-basket.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2017/11/17/data-mining-business-public-administration/'>Data Mining for Business and Administration</a>."
-    ],
-    "size": 92519
+    ] 
 }

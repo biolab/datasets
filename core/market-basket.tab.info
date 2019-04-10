@@ -1,20 +1,21 @@
 {
-    "name": "market-basket",
-    "description": "Sythetic market basket data set.",
-    "title": "Market basked",
-    "tags": [
-        "synthetic",
-        "basket"
-    ],
-    "target": null,
-    "version": "1.0",
-    "year": "",
     "collection": "",
+    "description": "Synthetic example of market basket for introducing association rules and frequent itemsets.",
+    "name": "market-basket",
+    "title": "Market Basket",
     "instances": 5,
     "variables": 6,
-    "source": "",
+    "missing": true,
+    "target": null,
     "size": 99,
-    "url": "http://datasets.orange.biolab.si/core/market-basket.tab",
+    "year": null,
+    "version": "1.0",
+    "tags": [
+        "economy",
+        "synthetic"
+    ],
     "references": [],
-    "seealso": null
+    "source": "",
+    "url": "http://file.biolab.si/datasets/market-basket.tab",
+    "seealso": []
 }

@@ -1,0 +1,23 @@
+{
+    "collection": "UCI",
+    "description": "Determine whether the glass was a type of 'float' glass or not. The study of classification of types of glass was motivated by criminological investigation. At the scene of the crime, the glass left can be used as evidence... if it is correctly identified!",
+    "name": "glass",
+    "title": "Glass",
+    "instances": 214,
+    "variables": 10,
+    "missing": false,
+    "target": "categorical",
+    "size": 10625,
+    "year": 1987,
+    "version": "1.0",
+    "tags": [
+        "physics",
+        "criminology"
+    ],
+    "references": [
+        "I. W. Evett and E. J. Spiehler, Rule Induction in Forensic Science, KBS in Government, 1987, pp. 107-118."
+    ],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/glass+identification'>UCI ML Repository</a>",
+    "url": "http://file.biolab.si/datasets/glass.tab",
+    "seealso": []
+}

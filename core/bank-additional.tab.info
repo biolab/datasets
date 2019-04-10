@@ -1,21 +1,22 @@
 {
     "collection": "UCI",
     "description": "Data from direct marketing campaigns (phone calls) of a Portuguese bank. The classification goal is to predict if the client will subscribe a term deposit given the profile of a client that contains attributes such as age, job type, martial status, education, information on previous loans, and other.",
-    "instances": 4119,
     "name": "bank-additional",
-    "references": [
-        "Moro S, Cortez P, and Rita P (2014) A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems 62:22-31."
-    ],
-    "seealso": null,
+    "title": "Bank Marketing",
+    "instances": 4119,
+    "variables": 20,
+    "missing": true,
+    "target": "categorical",
     "size": 477308,
-    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
+    "year": 2014,
+    "version": "1.0",
     "tags": [
         "economy"
     ],
-    "target": "categorical",
-    "title": "Bank Marketing",
+    "references": [
+        "Moro S, Cortez P, and Rita P (2014) A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems 62:22-31."
+    ],
+    "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
     "url": "http://datasets.orange.biolab.si/core/bank-additional.tab",
-    "variables": 20,
-    "version": "1.0",
-    "year": "2014"
+    "seealso": []
 }

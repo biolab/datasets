@@ -1,19 +1,24 @@
 {
-    "name": "foodmart",
+    "collection": "",
     "description": "Foodmart 2000 is a market based dataset that came with Microsoft Analysis Services. For every transaction (rows) it contains tuples of item names and number of items bought. Every transaction also contains the store ID.",
+    "name": "foodmart",
     "title": "Foodmart 2000",
+    "instances": 62560,
+    "variables": 126,
+    "missing": true,
+    "target": null,
+    "size": 4212566,
+    "year": 2005,
+    "version": "1.0",
     "tags": [
         "economy",
         "associate",
         "basket"
     ],
-    "target": null,
-    "version": "1.0",
-    "year": 2005,
-    "instances": 62560,
-    "missing": true,
-    "variables": 126,
+    "references": [],
     "source": "<a href='https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data'>neo4j data repository</a>",
     "url": "http://datasets.orange.biolab.si/core/foodmart.basket",
-    "size": 4212566
+    "seealso": [
+        "<a href='https://blog.biolab.si/2016/04/25/association-rules-in-orange/'>Association Rules in Orange</a>."
+    ]
 }
