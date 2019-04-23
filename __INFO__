@@ -1488,6 +1488,31 @@
     [
         [
             "core",
+            "telecom-customer-churn.xlsx"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Profiles of telecom customers with information on whether the customers left the provider.",
+            "name": "telecom-customer-churn",
+            "title": "Telecom customer churn",
+            "target": "categorical",
+            "year": 2018,
+            "version": "1.0",
+            "instances": 7043,
+            "missing": false,
+            "variables": 20,
+            "tags": [
+                "churn",
+                "telecom"
+            ],
+            "source": "<a href='https://www.kaggle.com/blastchar/telco-customer-churn'>Telco Customer Churn</a>",
+            "url": "http://datasets.orange.biolab.si/core/telecom-customer-churn.xlsx",
+            "size": 722015
+        }
+    ],
+    [
+        [
+            "core",
             "titanic.tab"
         ],
         {

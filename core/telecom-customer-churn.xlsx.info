@@ -10,8 +10,10 @@
     "missing": false,
     "variables": 20,
     "tags": [
-        "churn", "telecom"
+        "churn",
+        "telecom"
     ],
     "source": "<a href='https://www.kaggle.com/blastchar/telco-customer-churn'>Telco Customer Churn</a>",
-    "url": "http://file.biolab.si/tmp/WA_Fn-UseC_-Telco-Customer-Churn.xlsx"
+    "url": "http://datasets.orange.biolab.si/core/telecom-customer-churn.xlsx",
+    "size": 722015
 }
