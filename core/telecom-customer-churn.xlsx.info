@@ -6,6 +6,9 @@
     "target": "categorical",
     "year": 2018,
     "version": "1.0",
+    "instances": 7043,
+    "missing": false,
+    "variables": 20,
     "tags": [
         "churn", "telecom"
     ],
