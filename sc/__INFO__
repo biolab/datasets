@@ -63,7 +63,7 @@
     ],
     [
         [
-            "aml-1k.pickle"
+            "aml-1k.tab.gz"
         ],
         {
             "collection": "10x Genomics",
@@ -74,7 +74,7 @@
                 "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
             ],
             "seealso": [],
-            "size": 8215441,
+            "size": 353229,
             "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
             "tags": [
                 "aml",
@@ -83,7 +83,7 @@
             ],
             "target": "categorical",
             "title": "Bone marrow mononuclear cells with AML (sample)",
-            "url": "http://datasets.orange.biolab.si/sc/aml-1k.pickle",
+            "url": "http://datasets.orange.biolab.si/sc/aml-1k.tab.gz",
             "variables": 1004,
             "num_of_genes": 1000,
             "version": "1.3",
@@ -93,7 +93,7 @@
     ],
     [
         [
-            "aml-8k.pickle"
+            "aml-8k.tab.gz"
         ],
         {
             "collection": "10x Genomics",
@@ -104,7 +104,7 @@
                 "Zheng, G. X., Terry, J. M., ... Gregory, M. T. (2017). <a href='https://www.nature.com/articles/ncomms14049'> Massively parallel digital transcriptional profiling of single cells.</a> Nature communications, 8, 14049."
             ],
             "seealso": [],
-            "size": 67919378,
+            "size": 2859987,
             "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
             "tags": [
                 "aml",
@@ -112,7 +112,7 @@
             ],
             "target": "categorical",
             "title": "Bone marrow mononuclear cells with AML",
-            "url": "http://datasets.orange.biolab.si/sc/aml-8k.pickle",
+            "url": "http://datasets.orange.biolab.si/sc/aml-8k.tab.gz",
             "variables": 1004,
             "num_of_genes": 1000,
             "version": "1.3",
@@ -611,7 +611,7 @@
             "instances": 13019,
             "variables": 35637,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
-            "size": 19670012,
+            "size": 19504172,
             "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_raw_control.pkl.gz",
             "references": [
                 "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
@@ -645,7 +645,7 @@
             "instances": 12875,
             "variables": 35637,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
-            "size": 20096165,
+            "size": 19932029,
             "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_raw_stimulated.pkl.gz",
             "references": [
                 "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
@@ -660,10 +660,10 @@
     ],
     [
         [
-            "pbmc_kang2018_sample.pkl.gz"
+            "pbmc_kang2018_sample.tab.gz"
         ],
         {
-            "name": "pbmc_kang2018_sample.pkl.gz",
+            "name": "pbmc_kang2018_sample.tab.gz",
             "description": "A preprocessed sample of Kang et al. (2018) data containing 1,000 controls and stimulated cells and 1,500 highly variable genes. Expression was CPM-normalized, log-transformed, and z-standardized. In the original study, the multiplexed dscRNA-seq was used to characterize the cell-type specificity and inter-individual variability of response to IFN-\u03b2, a potent cytokine that induces genome-scale changes in the transcriptional profiles of immune cells. From each of eight lupus patients, PBMCs were activated with recombinant IFN-\u03b2 or left untreated for 6 h, a time point previously found to maximize the expression of interferon-sensitive genes in dendritic cells and T cells16,17. Two pools, IFN-\u03b2-treated and control, were prepared with the same number of cells from each individual and loaded onto the 10\u00d7 Chromium instrument.",
             "title": "Stimulated and resting immune cells (sample)",
             "tags": [
@@ -679,7 +679,7 @@
             "instances": 1000,
             "variables": 1502,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE96583'>GEO</a>",
-            "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_sample.pkl.gz",
+            "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_sample.tab.gz",
             "references": [
                 "Kang, H. M., Subramaniam, M., Targ, S., Nguyen, M., Maliskova, L., McCarthy, E., ... & Gate, R. E. (2018). Multiplexed droplet single-cell RNA-sequencing using natural genetic variation. Nature biotechnology, 36(1), 89.",
                 "Butler, A., Hoffman, P., Smibert, P., Papalexi, E., & Satija, R. (2018). Integrating single-cell transcriptomic data across different conditions, technologies, and species. Nature biotechnology, 36(5), 411."
@@ -689,7 +689,7 @@
             ],
             "taxid": "9606",
             "num_of_genes": 1500,
-            "size": 2741235
+            "size": 4000592
         }
     ]
 ]
