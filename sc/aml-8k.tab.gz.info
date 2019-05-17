@@ -15,7 +15,7 @@
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML",
-    "url": "http://datasets.orange.biolab.si/sc/aml-8k.pickle",
+    "url": "http://file.biolab.si/datasets/sc/aml-8k.tab.gz",
     "variables": 1004,
     "num_of_genes": 1000,
     "version": "1.3",
