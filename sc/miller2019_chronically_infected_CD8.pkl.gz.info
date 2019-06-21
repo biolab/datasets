@@ -1,0 +1,25 @@
+{
+    "name": "miller2019_chronically_infected_CD8.pkl.gz",
+    "description": "Expression profile obtained by high throughput sequencing of distinct populations of progenitor exhausted and terminally exhausted CD8+ T-cells that occur in chronic LCMV Clone 13 infection in mouse",
+    "title": "CD8+ in chronic viral infection",
+    "tags": [
+        "mouse",
+        "expression",
+        "CD8+",
+        "chronic viral infection"
+    ],
+    "target": null,
+    "version": "1.0",
+    "year": 2018,
+    "collection": "GEO",
+    "instances": 9197,
+    "variables": 27998,
+    "source": "<https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122712",
+    "url": "http://file.biolab.si/scdata/miller2019_chronically_infected_CD8.pkl.gz ",
+    "references": [
+"Miller, B. C., Sen, D. R., Al Abosy, R., Bi, K., Virkud, Y. V., LaFleur, M. W., ... & Manos, M. (2019). Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade. Nature immunology, 20(3), 326."
+    ],
+    "seealso": [],
+    "taxid": "10090",
+    "num_of_genes": 27996,
+    "size": 15261712

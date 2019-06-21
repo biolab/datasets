@@ -11,8 +11,8 @@
     "version": "1.0",
     "year": 2016,
     "collection": "GEO",
-    "instances": 14756,
-    "variables": 1886,
+    "instances": 1886,
+    "variables": 14756,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
     "url": "http://file.biolab.si/scdata/baron2016_pancreas_mouse.pkl.gz",
     "references": [
@@ -20,6 +20,6 @@
     ],
     "seealso": [],
     "taxid": "10090",
-    "num_of_genes": 1881,
+    "num_of_genes": 14881,
     "size": 4827248
 }
