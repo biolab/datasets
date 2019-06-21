@@ -1,0 +1,26 @@
+{
+    "name": "galen2019_AML_bone_marrow_day15.pkl.gz",
+    "description": "Bone marrow aspirate from AML patient 15 days after first undergoing chemotherapy",
+    "title": "AML patient bone marrow day 15",
+    "tags": [
+        "human",
+        "expression",
+        "AML",
+        "bone marrow"
+    ],
+    "target": null,
+    "version": "1.0",
+    "year": 2018,
+    "collection": "GEO",
+    "instances": 1203,
+    "variables": 27699,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3587965'>GEO</a>",
+    "url": "http://file.biolab.si/scdata/galen2019_AML_bone_marrow_day15.pkl.gz",
+    "references": [
+"van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
+    ],
+    "seealso": [],
+    "taxid": "9606",
+    "num_of_genes": 27899,
+    "size": 3863633
+}

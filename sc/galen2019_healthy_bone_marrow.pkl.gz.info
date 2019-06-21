@@ -1,0 +1,25 @@
+{
+    "name": "galen2019_healthy_bone_marrow.pkl.gz",
+    "description": "Single cell profile of a bone marrow aspirate from a healthy donor containing 3739 cells",
+    "title": "Healthy human bone marrow",
+    "tags": [
+        "human",
+        "expression",
+        "bone marrow"
+    ],
+    "target": null,
+    "version": "1.0",
+    "year": 2018,
+    "collection": "GEO",
+    "instances": 3737,
+    "variables": 27699,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116256'>GEO</a>",
+    "url": "http://file.biolab.si/scdata/galen2019_healthy_bone_marrow.pkl.gz",
+    "references": [
+"van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
+    ],
+    "seealso": [],
+    "taxid": "9606",
+    "num_of_genes": 27699,
+    "size": 10082836
+}
