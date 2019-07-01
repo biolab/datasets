@@ -122,6 +122,36 @@
     ],
     [
         [
+            "baron2016_pancreas_mouse.pkl.gz"
+        ],
+        {
+            "name": "baron2016_pancreas_mouse.pkl.gz",
+            "description": "Cells captured obtained using a droplet-based single-cell RNA-Seq method, to determine the transcriptomes of over 12,000 individual pancreatic cells from  two strains of mice. Cells could be divided into 15 clusters that matched previously characterized cell types: all endocrine cell types, including rare ghrelin-expressing epsilon-cells, exocrine cell types, vascular cells, Schwann cells, quiescent and activated pancreatic stellate cells, and four types of immune cells.",
+            "title": "Pancreas cells in mouse",
+            "tags": [
+                "mouse",
+                "expression",
+                "pancreas"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": 2016,
+            "collection": "GEO",
+            "instances": 1886,
+            "variables": 14756,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
+            "url": "http://datasets.orange.biolab.si/sc/baron2016_pancreas_mouse.pkl.gz",
+            "references": [
+                "Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., ... & Melton, D. A. (2016). A single-cell transcriptomic map of the human and mouse pancreas reveals inter-and intra-cell population structure. Cell systems, 3(4), 346-360."
+            ],
+            "seealso": [],
+            "taxid": "10090",
+            "num_of_genes": 14881,
+            "size": 4827248
+        }
+    ],
+    [
+        [
             "ccp_data_Tcells_normCounts.counts.all_genes.tab.gz"
         ],
         {
@@ -558,6 +588,191 @@
     ],
     [
         [
+            "galen2019_AML_bone_marrow_day0.pkl.gz"
+        ],
+        {
+            "name": "galen2019_AML_bone_marrow_day0.pkl.gz",
+            "description": "Bone marrow aspirate from AML patient before chemotherapy",
+            "title": "AML patient bone marrow day 0",
+            "tags": [
+                "human",
+                "expression",
+                "AML",
+                "bone marrow"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2018,
+            "collection": "GEO",
+            "instances": 2328,
+            "variables": 27699,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3587963'>GEO</a>",
+            "url": "http://datasets.orange.biolab.si/sc/galen2019_AML_bone_marrow_day0.pkl.gz",
+            "references": [
+                "van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
+            ],
+            "seealso": [],
+            "taxid": "9606",
+            "num_of_genes": 27899,
+            "size": 6275273
+        }
+    ],
+    [
+        [
+            "galen2019_AML_bone_marrow_day15.pkl.gz"
+        ],
+        {
+            "name": "galen2019_AML_bone_marrow_day15.pkl.gz",
+            "description": "Bone marrow aspirate from AML patient 15 days after first undergoing chemotherapy",
+            "title": "AML patient bone marrow day 15",
+            "tags": [
+                "human",
+                "expression",
+                "AML",
+                "bone marrow"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2018,
+            "collection": "GEO",
+            "instances": 1203,
+            "variables": 27699,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3587965'>GEO</a>",
+            "url": "http://datasets.orange.biolab.si/sc/galen2019_AML_bone_marrow_day15.pkl.gz",
+            "references": [
+                "van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
+            ],
+            "seealso": [],
+            "taxid": "9606",
+            "num_of_genes": 27899,
+            "size": 3863633
+        }
+    ],
+    [
+        [
+            "galen2019_AML_bone_marrow_day31.pkl.gz"
+        ],
+        {
+            "name": "galen2019_AML_bone_marrow_day31.pkl.gz",
+            "description": "Bone marrow aspirate from AML patient 31 days after first undergoing chemotherapy",
+            "title": "AML patient bone marrow day 31",
+            "tags": [
+                "human",
+                "expression",
+                "AML",
+                "bone marrow"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2018,
+            "collection": "GEO",
+            "instances": 1452,
+            "variables": 27699,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3587967'>GEO</a>",
+            "url": "http://datasets.orange.biolab.si/sc/galen2019_AML_bone_marrow_day31.pkl.gz",
+            "references": [
+                "van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
+            ],
+            "seealso": [],
+            "taxid": "9606",
+            "num_of_genes": 27899,
+            "size": 3863633
+        }
+    ],
+    [
+        [
+            "galen2019_healthy_bone_marrow.pkl.gz"
+        ],
+        {
+            "name": "galen2019_healthy_bone_marrow.pkl.gz",
+            "description": "Single cell profile of a bone marrow aspirate from a healthy donor containing 3739 cells",
+            "title": "Healthy human bone marrow",
+            "tags": [
+                "human",
+                "expression",
+                "bone marrow"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2018,
+            "collection": "GEO",
+            "instances": 3737,
+            "variables": 27699,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE116256'>GEO</a>",
+            "url": "http://datasets.orange.biolab.si/sc/galen2019_healthy_bone_marrow.pkl.gz",
+            "references": [
+                "van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
+            ],
+            "seealso": [],
+            "taxid": "9606",
+            "num_of_genes": 27699,
+            "size": 10082836
+        }
+    ],
+    [
+        [
+            "miller2019_chronically_infected_CD8.pkl.gz"
+        ],
+        {
+            "name": "miller2019_chronically_infected_CD8.pkl.gz",
+            "description": "Expression profile obtained by high throughput sequencing of distinct populations of progenitor exhausted and terminally exhausted CD8+ T-cells that occur in chronic LCMV Clone 13 infection in mouse",
+            "title": "CD8+ in chronic viral infection",
+            "tags": [
+                "mouse",
+                "expression",
+                "CD8+",
+                "chronic viral infection"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2018,
+            "collection": "GEO",
+            "instances": 9197,
+            "variables": 27998,
+            "source": "<https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122712",
+            "url": "http://datasets.orange.biolab.si/sc/miller2019_chronically_infected_CD8.pkl.gz",
+            "references": [
+                "Miller, B. C., Sen, D. R., Al Abosy, R., Bi, K., Virkud, Y. V., LaFleur, M. W., ... & Manos, M. (2019). Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade. Nature immunology, 20(3), 326."
+            ],
+            "seealso": [],
+            "taxid": "10090",
+            "num_of_genes": 27996,
+            "size": 15261712
+        }
+    ],
+    [
+        [
+            "miller2019_tumor_infiltrating_CD8.pkl.gz"
+        ],
+        {
+            "name": "miller2019_tumor_infiltrating_CD8.pkl.gz",
+            "description": "Expression profile obtained by high throughput sequencing of distinct populations of progenitor exhausted  and terminally exhausted CD8+ T-cells that occur in mouse B16-OVA tumors",
+            "title": "Tumor infiltrating CD8+",
+            "tags": [
+                "mouse",
+                "expression",
+                "CD8+",
+                "tumor infiltrating"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2018,
+            "collection": "GEO",
+            "instances": 11805,
+            "variables": 27998,
+            "source": "<https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122675",
+            "url": "http://datasets.orange.biolab.si/sc/miller2019_tumor_infiltrating_CD8.pkl.gz",
+            "references": [
+                "Miller, B. C., Sen, D. R., Al Abosy, R., Bi, K., Virkud, Y. V., LaFleur, M. W., ... & Manos, M. (2019). Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade. Nature immunology, 20(3), 326."
+            ],
+            "seealso": [],
+            "taxid": "10090",
+            "num_of_genes": 27998,
+            "size": 31938157
+        }
+    ],
+    [
+        [
             "nestorawa_forcellcycle.pkl.gz"
         ],
         {
@@ -690,6 +905,36 @@
             "taxid": "9606",
             "num_of_genes": 1500,
             "size": 4000592
+        }
+    ],
+    [
+        [
+            "petropoulos2016_preimplantation_embryos.pkl.gz"
+        ],
+        {
+            "name": "petropoulos2016_preimplantation_embryos.pkl.gz",
+            "description": "Single-cell RNA-seq of 1,529 cells obtained from 88 human preimplantation embryos ranging from embryonic day 3 to 7.",
+            "title": "Human preimplantation embryos",
+            "tags": [
+                "human",
+                "expression",
+                "preimplantation embryo"
+            ],
+            "target": "categorical",
+            "version": "1.0",
+            "year": 2016,
+            "collection": "ArrayExpress",
+            "instances": 24235,
+            "variables": 1529,
+            "source": "<a href='https://www.ebi.ac.uk/arrayexpress/experiments/E-MTAB-3929'>ArrayExpress</a>",
+            "url": "http://datasets.orange.biolab.si/sc/petropoulos2016_preimplantation_embryos.pkl.gz",
+            "references": [
+                "Petropoulos, S., Edsg\u00e4rd, D., Reinius, B., Deng, Q., Panula, S. P., Codeluppi, S., ... & Lanner, F. (2016). Single-cell RNA-seq reveals lineage and X chromosome dynamics in human preimplantation embryos. Cell, 165(4), 1012-1026."
+            ],
+            "seealso": [],
+            "taxid": "9606",
+            "num_of_genes": 1882,
+            "size": 34306120
         }
     ]
 ]

@@ -15,9 +15,9 @@
     "instances": 1203,
     "variables": 27699,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3587965'>GEO</a>",
-    "url": "http://file.biolab.si/scdata/galen2019_AML_bone_marrow_day15.pkl.gz",
+    "url": "http://datasets.orange.biolab.si/sc/galen2019_AML_bone_marrow_day15.pkl.gz",
     "references": [
-"van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
+        "van Galen, P., Hovestadt, V., Wadsworth II, M. H., Hughes, T. K., Griffin, G. K., Battaglia, S., ... & Pinkus, G. S. (2019). Single-Cell RNA-Seq Reveals AML Hierarchies Relevant to Disease Progression and Immunity. Cell, 176(6), 1265-1281."
     ],
     "seealso": [],
     "taxid": "9606",
