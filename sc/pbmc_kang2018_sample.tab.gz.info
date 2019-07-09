@@ -1,7 +1,7 @@
 {
     "name": "pbmc_kang2018_sample.tab.gz",
     "description": "A preprocessed sample of Kang et al. (2018) data containing 1,000 controls and stimulated cells and 1,500 highly variable genes. Expression was CPM-normalized, log-transformed, and z-standardized. In the original study, the multiplexed dscRNA-seq was used to characterize the cell-type specificity and inter-individual variability of response to IFN-\u03b2, a potent cytokine that induces genome-scale changes in the transcriptional profiles of immune cells. From each of eight lupus patients, PBMCs were activated with recombinant IFN-\u03b2 or left untreated for 6 h, a time point previously found to maximize the expression of interferon-sensitive genes in dendritic cells and T cells16,17. Two pools, IFN-\u03b2-treated and control, were prepared with the same number of cells from each individual and loaded onto the 10\u00d7 Chromium instrument.",
-    "title": "Stimulated and resting immune cells (sample)",
+    "title": "Stimulated and resting immune cells (1000 cells)",
     "tags": [
         "human",
         "expression",
