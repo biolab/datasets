@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Stimulated and resting immune cells (3000 cells)",
-    "url": "http://file.biolab.si/scdata/pbmc_kang2018_sample_3000.pkl.gz",
+    "url": "http://datasets.orange.biolab.si/sc/pbmc_kang2018_sample_3000.pkl.gz",
     "variables": 9828,
     "version": "1.0",
     "year": 2018
