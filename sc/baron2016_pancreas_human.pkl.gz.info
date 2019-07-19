@@ -1,0 +1,25 @@
+{
+    "name": "baron2016_pancreas_human.pkl.gz",
+    "description": "Cells captured obtained using a droplet-based single-cell RNA-Seq method, to determine the transcriptomes of over 12,000 individual pancreatic cells from  four human donors. Cells could be divided into 15 clusters that matched previously characterized cell types: all endocrine cell types, including rare ghrelin-expressing epsilon-cells, exocrine cell types, vascular cells, Schwann cells, quiescent and activated pancreatic stellate cells, and four types of immune cells.",
+    "title": "Pancreas cells in human",
+    "tags": [
+        "human",
+        "expression",
+        "pancreas"
+    ],
+    "target": "categorical",
+    "version": "1.0",
+    "year": 2016,
+    "collection": "GEO",
+    "instances": 45188,
+    "variables": 20125,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
+    "url": "http://file.biolab.si/scdata/baron2016_pancreas_human.pkl.gz",
+    "references": [
+"Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., ... & Melton, D. A. (2016). A single-cell transcriptomic map of the human and mouse pancreas reveals inter-and intra-cell population structure. Cell systems, 3(4), 346-360."
+    ],
+    "seealso": [],
+    "taxid": "10090",
+    "num_of_genes": 20128,
+    "size": 529805
+}
