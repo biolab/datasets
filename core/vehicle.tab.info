@@ -15,6 +15,6 @@
         "Siebert, JP. (1987) Vehicle Recognition Using Rule Based Methods, Turing Institute Research Memorandum TIRM-87-018."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
+    "url": "https://datasets.biolab.si/core/vehicle.tab",
     "seealso": []
 }

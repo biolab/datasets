@@ -15,7 +15,7 @@
         "Dawson Robert J. MacG. (1995) The \u2018Unusual Episode\u2019 Data Revisited. Journal of Statistics Education 3(3)."
     ],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/titanic.tab",
+    "url": "https://datasets.biolab.si/core/titanic.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2017/06/05/nomogram/'>Nomogram - Visualizing Probabilities</a>."
     ]

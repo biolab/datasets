@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/liver-spectroscopy.tab",
+    "url": "https://datasets.biolab.si/core/liver-spectroscopy.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2018/03/28/orange-with-spectroscopy-add-on-workshop/'>Orange with Spectroscopy Add-on Workshop</a>."
     ]

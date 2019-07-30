@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/kickstarter.tab",
+    "url": "https://datasets.biolab.si/core/kickstarter.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2018/08/27/explaining-kickstarter-success/'>Explaining Kickstarter Success</a>."
     ]

@@ -16,6 +16,6 @@
     ],
     "references": [],
     "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition'>IBM Watson Analytics</a>",
-    "url": "http://datasets.orange.biolab.si/core/hrm-employee-attrition.xlsx",
+    "url": "https://datasets.biolab.si/core/hrm-employee-attrition.xlsx",
     "seealso": []
 }

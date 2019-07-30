@@ -17,7 +17,7 @@
         "Schlimmer, J. C. (1987). Concept acquisition through representational adjustment. Doctoral dissertation, Department of Information and Computer Science, University of California, Irvine, CA."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/congressional+voting+records'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/voting.tab",
+    "url": "https://datasets.biolab.si/core/voting.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2015/12/19/model-based-feature-scoring/'>Model-based Feature Scoring</a>."
     ]

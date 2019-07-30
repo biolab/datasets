@@ -18,7 +18,7 @@
         "Detrano, R., Janosi, A., Steinbrunn, W., Pfisterer, M., Schmid, J., Sandhu, S., Guppy, K., Lee, S., & Froelicher, V. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology, 64, 304-310."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/heart+Disease'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/heart_disease.tab",
+    "url": "https://datasets.biolab.si/core/heart_disease.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2017/11/29/how-to-properly-test-models/'>How to Properly Test Models</a>.",
         "<a href='https://blog.biolab.si/2018/05/03/data-mining-course-at-higher-school-of-economics-moscow/'>Minimum Cost of Misclassification</a>."

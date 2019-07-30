@@ -15,6 +15,6 @@
     ],
     "references": [],
     "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4182'>Gene Expression Omnibus GDS4182</a>",
-    "url": "http://datasets.orange.biolab.si/core/GDS4182-small.tab",
+    "url": "https://datasets.biolab.si/core/GDS4182-small.tab",
     "seealso": []
 }

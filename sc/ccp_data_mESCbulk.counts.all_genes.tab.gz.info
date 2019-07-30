@@ -20,7 +20,7 @@
     ],
     "target": "categorical",
     "title": "Cell cycle in mESC (bulk RNA-seq)",
-    "url": "http://datasets.orange.biolab.si/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
+    "url": "https://datasets.biolab.si/sc/ccp_data_mESCbulk.counts.all_genes.tab.gz",
     "variables": 38294,
     "num_of_genes": 38293,
     "version": "1.3",

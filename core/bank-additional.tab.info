@@ -17,6 +17,6 @@
         "Moro S, Cortez P, and Rita P (2014) A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems 62:22-31."
     ],
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/bank-additional.tab",
+    "url": "https://datasets.biolab.si/core/bank-additional.tab",
     "seealso": []
 }

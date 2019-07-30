@@ -17,6 +17,6 @@
         "Kibler, D., Aha, D.W., & Albert,M. (1989). Instance-based prediction of real-valued attributes. Computational Intelligence, Vol 5, 51-57."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/automobile'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/imports-85.tab",
+    "url": "https://datasets.biolab.si/core/imports-85.tab",
     "seealso": []
 }

@@ -17,6 +17,6 @@
         "Chang JC, Wooten EC, Tsimelzon A, Hilsenbeck SG et al. (2005) Patterns of resistance and incomplete response to docetaxel by gene expression profiling in breast cancer patients. J Clin Oncol, 23(6): 1169-77."
     ],
     "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS360'>NCBI</a>",
-    "url": "http://datasets.orange.biolab.si/core/GDS360.tab",
+    "url": "https://datasets.biolab.si/core/GDS360.tab",
     "seealso": []
 }

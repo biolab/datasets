@@ -23,7 +23,7 @@
                 "Chang JC, Wooten EC, Tsimelzon A, Hilsenbeck SG et al. (2005) Patterns of resistance and incomplete response to docetaxel by gene expression profiling in breast cancer patients. J Clin Oncol, 23(6): 1169-77."
             ],
             "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS360'>NCBI</a>",
-            "url": "http://datasets.orange.biolab.si/core/GDS360.tab",
+            "url": "https://datasets.biolab.si/core/GDS360.tab",
             "seealso": []
         }
     ],
@@ -49,7 +49,7 @@
             ],
             "references": [],
             "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS3713'>Gene Expression Omnibus GDS3713</a>",
-            "url": "http://datasets.orange.biolab.si/core/GDS3713-small.tab",
+            "url": "https://datasets.biolab.si/core/GDS3713-small.tab",
             "seealso": []
         }
     ],
@@ -75,7 +75,7 @@
             ],
             "references": [],
             "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4182'>Gene Expression Omnibus GDS4182</a>",
-            "url": "http://datasets.orange.biolab.si/core/GDS4182-small.tab",
+            "url": "https://datasets.biolab.si/core/GDS4182-small.tab",
             "seealso": []
         }
     ],
@@ -102,7 +102,7 @@
             ],
             "references": [],
             "source": "<a href='http://hdr.undp.org/en/data'>Human Development Data (1990-2015)</a>",
-            "url": "http://datasets.orange.biolab.si/core/HDI.tab",
+            "url": "https://datasets.biolab.si/core/HDI.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2018/07/17/data-mining-and-machine-learning-for-economists/'>Data Mining and Machine Learning for Economists</a>."
             ]
@@ -130,7 +130,7 @@
             ],
             "references": [],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Abalone'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/abalone.tab",
+            "url": "https://datasets.biolab.si/core/abalone.tab",
             "seealso": []
         }
     ],
@@ -158,7 +158,7 @@
                 "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. AProceedings of the Second International Conference on Knowledge Discovery and Data Mining."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/adult.tab",
+            "url": "https://datasets.biolab.si/core/adult.tab",
             "seealso": []
         }
     ],
@@ -186,7 +186,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/attrition-predict.tab",
+            "url": "https://datasets.biolab.si/core/attrition-predict.tab",
             "seealso": [
                 "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
             ]
@@ -215,7 +215,7 @@
             ],
             "references": [],
             "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/'>Watson Analytics Sample Data</a>",
-            "url": "http://datasets.orange.biolab.si/core/attrition-train.tab",
+            "url": "https://datasets.biolab.si/core/attrition-train.tab",
             "seealso": [
                 "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
             ]
@@ -243,7 +243,7 @@
                 "Quinlan, R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/auto+mpg'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/auto-mpg.tab",
+            "url": "https://datasets.biolab.si/core/auto-mpg.tab",
             "seealso": []
         }
     ],
@@ -271,7 +271,7 @@
                 "Moro S, Cortez P, and Rita P (2014) A Data-Driven Approach to Predict the Success of Bank Telemarketing. Decision Support Systems 62:22-31."
             ],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Bank+Marketing'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/bank-additional.tab",
+            "url": "https://datasets.biolab.si/core/bank-additional.tab",
             "seealso": []
         }
     ],
@@ -298,7 +298,7 @@
             ],
             "references": [],
             "source": "<a href='https://datacatalog.worldbank.org/dataset/wps5016-banking-crisis-and-exports-dataset'>The World Bank</a>",
-            "url": "http://datasets.orange.biolab.si/core/banking-crises.tab",
+            "url": "https://datasets.biolab.si/core/banking-crises.tab",
             "seealso": []
         }
     ],
@@ -325,7 +325,7 @@
             ],
             "references": [],
             "source": null,
-            "url": "http://datasets.orange.biolab.si/core/bone-healing.xlsx",
+            "url": "https://datasets.biolab.si/core/bone-healing.xlsx",
             "seealso": []
         }
     ],
@@ -353,7 +353,7 @@
                 "Wolberg, W.H., & Mangasarian, O.L. (1990). Multisurface method of pattern separation for medical diagnosis applied to breast cytology. In Proceedings of the National Academy of Sciences, 87, 9193-9196."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/breast-cancer-wisconsin.tab",
+            "url": "https://datasets.biolab.si/core/breast-cancer-wisconsin.tab",
             "seealso": []
         }
     ],
@@ -381,7 +381,7 @@
                 "Michalski, R.S., Mozetic, I., Hong, J., & Lavrac, N. (1986). The Multi-Purpose Incremental Learning System AQ15 and its Testing Application to Three Medical Domains. In Proceedings of the Fifth National Conference on Artificial Intelligence, 1041-1045, Philadelphia, PA: Morgan Kaufmann."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/breast+cancer'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/breast-cancer.tab",
+            "url": "https://datasets.biolab.si/core/breast-cancer.tab",
             "seealso": []
         }
     ],
@@ -409,7 +409,7 @@
                 "Reich & Fenves (1989). Incremental Learning for Capturing Design Expertise. Technical Report: EDRC 12-34-89, Engineering Design Research Center, Carnegie Mellon University, Pittsburgh, PA."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Pittsburgh+Bridges'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/bridges.tab",
+            "url": "https://datasets.biolab.si/core/bridges.tab",
             "seealso": []
         }
     ],
@@ -437,7 +437,7 @@
                 "Brown, M.P., Grundy, W.N., Lin, D., Cristianini, N., Sugnet, C., Furey, T.S., Ares, M., Haussler, D. (2000) Knowledge-based analysis of microarray gene expression data by using support vector machines, Proceedings of the National Academy of Sciences, 1 , 262-267."
             ],
             "source": "<a href='http://www.biolab.si/supp/bi-vizrank/use.html'>Brown for Orange</a>",
-            "url": "http://datasets.orange.biolab.si/core/brown-selected.tab",
+            "url": "https://datasets.biolab.si/core/brown-selected.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2016/10/02/intro-to-data-mining-for-life-scientists/'>Intro to Data Mining for Life Scientists</a>."
             ]
@@ -467,7 +467,7 @@
                 "McDermott & Forsyth 2016, Diagnosing a disorder in a classification benchmark, Pattern Recognition Letters, Volume 73."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/liver+disorders'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/bupa.tab",
+            "url": "https://datasets.biolab.si/core/bupa.tab",
             "seealso": []
         }
     ],
@@ -496,7 +496,7 @@
                 "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href='http://file.biolab.si/papers/1999-Zupan-AIJ.pdf'>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
             ],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Car+Evaluation'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/car.tab",
+            "url": "https://datasets.biolab.si/core/car.tab",
             "seealso": []
         }
     ],
@@ -520,7 +520,7 @@
             "tags": [],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/conferences.tab",
+            "url": "https://datasets.biolab.si/core/conferences.tab",
             "seealso": "<a href='https://blog.biolab.si/2016/07/18/network-analysis-with-orange'>Network Analysis with Orange</a>, a blog about how to plot ML publications in a network."
         }
     ],
@@ -548,7 +548,7 @@
             ],
             "references": [],
             "source": "<a href='https://academic.oup.com/cybersecurity/article/2/1/3/2736315'>Hype and Heavy Tails: a closer look at data breaches</a>",
-            "url": "http://datasets.orange.biolab.si/core/cyber-security-breaches.tab",
+            "url": "https://datasets.biolab.si/core/cyber-security-breaches.tab",
             "seealso": []
         }
     ],
@@ -577,7 +577,7 @@
                 "G. Demiroz, H. A. Govenir, and N. Ilter, Learning Differential Diagnosis of Eryhemato-Squamous Diseases using Voting Feature Intervals, Aritificial Intelligence in Medicine."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/dermatology'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/dermatology.tab",
+            "url": "https://datasets.biolab.si/core/dermatology.tab",
             "seealso": []
         }
     ],
@@ -606,7 +606,7 @@
                 "Li CL, Santhanam B, Webb AN, Zupan B, Shaulsky G (2016) Gene discovery by chemical mutagenesis and whole-genome sequencing in Dictyostelium. Genome Res 26(9):1268-76."
             ],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/dicty-development.xlsx",
+            "url": "https://datasets.biolab.si/core/dicty-development.xlsx",
             "seealso": []
         }
     ],
@@ -634,7 +634,7 @@
             ],
             "references": [],
             "source": "<a href='http://register.ocistimo.si'>Dumpsite Registry of Slovenia</a>",
-            "url": "http://datasets.orange.biolab.si/core/ewba-slovenia-illegal-dumpsites.tab",
+            "url": "https://datasets.biolab.si/core/ewba-slovenia-illegal-dumpsites.tab",
             "seealso": []
         }
     ],
@@ -662,7 +662,7 @@
             ],
             "references": [],
             "source": "<a href='https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data'>neo4j data repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/foodmart.basket",
+            "url": "https://datasets.biolab.si/core/foodmart.basket",
             "seealso": [
                 "<a href='https://blog.biolab.si/2016/04/25/association-rules-in-orange/'>Association Rules in Orange</a>."
             ]
@@ -692,7 +692,7 @@
                 "Cortez P and Morais A (2007) <a href='http://www.dsi.uminho.pt/~pcortez/fires.pdf'>A Data Mining Approach to Predict Forest Fires using Meteorological Data</a>. In Proc. of the 13th Portuguese Conference on Artificial Intelligence, Portugal, pp. 512-523."
             ],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Forest+Fires'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/forestfires.tab",
+            "url": "https://datasets.biolab.si/core/forestfires.tab",
             "seealso": []
         }
     ],
@@ -721,7 +721,7 @@
                 "I. W. Evett and E. J. Spiehler, Rule Induction in Forensic Science, KBS in Government, 1987, pp. 107-118."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/glass+identification'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/glass.tab",
+            "url": "https://datasets.biolab.si/core/glass.tab",
             "seealso": []
         }
     ],
@@ -748,7 +748,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/grades-two.tab",
+            "url": "https://datasets.biolab.si/core/grades-two.tab",
             "seealso": []
         }
     ],
@@ -777,7 +777,7 @@
                 "Detrano, R., Janosi, A., Steinbrunn, W., Pfisterer, M., Schmid, J., Sandhu, S., Guppy, K., Lee, S., & Froelicher, V. (1989). International application of a new probability algorithm for the diagnosis of coronary artery disease. American Journal of Cardiology, 64, 304-310."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/heart+Disease'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/heart_disease.tab",
+            "url": "https://datasets.biolab.si/core/heart_disease.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/11/29/how-to-properly-test-models/'>How to Properly Test Models</a>.",
                 "<a href='https://blog.biolab.si/2018/05/03/data-mining-course-at-higher-school-of-economics-moscow/'>Minimum Cost of Misclassification</a>."
@@ -808,7 +808,7 @@
                 "Harrison, D. and Rubinfeld, D.L. (1978) Hedonic prices and the demand for clean air. J. Environ. Economics and Management 5, 81\u2013102."
             ],
             "source": "<a href='http://lib.stat.cmu.edu/datasets/boston'>StatLib</a>",
-            "url": "http://datasets.orange.biolab.si/core/housing.tab",
+            "url": "https://datasets.biolab.si/core/housing.tab",
             "seealso": []
         }
     ],
@@ -835,7 +835,7 @@
             ],
             "references": [],
             "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition'>IBM Watson Analytics</a>",
-            "url": "http://datasets.orange.biolab.si/core/hrm-employee-attrition.xlsx",
+            "url": "https://datasets.biolab.si/core/hrm-employee-attrition.xlsx",
             "seealso": []
         }
     ],
@@ -863,7 +863,7 @@
                 "Kibler, D., Aha, D.W., & Albert,M. (1989). Instance-based prediction of real-valued attributes. Computational Intelligence, Vol 5, 51-57."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/automobile'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/imports-85.tab",
+            "url": "https://datasets.biolab.si/core/imports-85.tab",
             "seealso": []
         }
     ],
@@ -891,7 +891,7 @@
                 "Sigillito, V. G., Wing, S. P., Hutton, L. V., & Baker, K. B. (1989). Classification of radar returns from the ionosphere using neural networks. Johns Hopkins APL Technical Digest, 10, 262-266."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/ionosphere'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/ionosphere.tab",
+            "url": "https://datasets.biolab.si/core/ionosphere.tab",
             "seealso": []
         }
     ],
@@ -919,7 +919,7 @@
                 "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179\u2013188."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/iris.tab",
+            "url": "https://datasets.biolab.si/core/iris.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2018/12/21/scatter-plots-the-tour/'>Scatter Plots: the Tour</a>.",
                 "<a href='https://blog.biolab.si/2016/03/23/all-i-see-is-silhouette/'>All I See is Silhouette</a>."
@@ -948,7 +948,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/kickstarter.tab",
+            "url": "https://datasets.biolab.si/core/kickstarter.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2018/08/27/explaining-kickstarter-success/'>Explaining Kickstarter Success</a>."
             ]
@@ -978,7 +978,7 @@
                 "Cendrowska, J., PRISM: An algorithm for inducing modular rules, International Journal of Man-Machine Studies, 1987, 27, 349-370."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/lenses'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/lenses.tab",
+            "url": "https://datasets.biolab.si/core/lenses.tab",
             "seealso": []
         }
     ],
@@ -1005,7 +1005,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/liver-cirrhosis.tab",
+            "url": "https://datasets.biolab.si/core/liver-cirrhosis.tab",
             "seealso": []
         }
     ],
@@ -1031,7 +1031,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/liver-spectroscopy.tab",
+            "url": "https://datasets.biolab.si/core/liver-spectroscopy.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2018/03/28/orange-with-spectroscopy-add-on-workshop/'>Orange with Spectroscopy Add-on Workshop</a>."
             ]
@@ -1061,7 +1061,7 @@
                 "Cestnik, G., Konenenko, I., & Bratko, I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users. In I. Bratko & N. Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Lymphography'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/lymphography.tab",
+            "url": "https://datasets.biolab.si/core/lymphography.tab",
             "seealso": []
         }
     ],
@@ -1088,7 +1088,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/market-basket.tab",
+            "url": "https://datasets.biolab.si/core/market-basket.tab",
             "seealso": []
         }
     ],
@@ -1116,7 +1116,7 @@
                 "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/monks-1.tab",
+            "url": "https://datasets.biolab.si/core/monks-1.tab",
             "seealso": []
         }
     ],
@@ -1144,7 +1144,7 @@
                 "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/monks-2.tab",
+            "url": "https://datasets.biolab.si/core/monks-2.tab",
             "seealso": []
         }
     ],
@@ -1172,7 +1172,7 @@
                 "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/monks-3.tab",
+            "url": "https://datasets.biolab.si/core/monks-3.tab",
             "seealso": []
         }
     ],
@@ -1198,7 +1198,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/multitarget-synthetic.tab",
+            "url": "https://datasets.biolab.si/core/multitarget-synthetic.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2012/02/02/new-in-orange-partial-least-squares-regression/'>Partial Least Squares Regression</a>."
             ]
@@ -1227,7 +1227,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/oocyte-competence.xlsx",
+            "url": "https://datasets.biolab.si/core/oocyte-competence.xlsx",
             "seealso": []
         }
     ],
@@ -1255,7 +1255,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/philadelphia-crime.csv.xz",
+            "url": "https://datasets.biolab.si/core/philadelphia-crime.csv.xz",
             "seealso": []
         }
     ],
@@ -1281,7 +1281,7 @@
             ],
             "references": [],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Poker+Hand'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/poker-hand.tab",
+            "url": "https://datasets.biolab.si/core/poker-hand.tab",
             "seealso": []
         }
     ],
@@ -1309,7 +1309,7 @@
                 "Cestnik, G., Konenenko, I., & Bratko, I. (1987). Assistant-86: A Knowledge-Elicitation Tool for Sophisticated Users. In I. Bratko & N. Lavrac (Eds.) Progress in Machine Learning, 31-45, Sigma Press."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/primary+tumor'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/primary-tumor.tab",
+            "url": "https://datasets.biolab.si/core/primary-tumor.tab",
             "seealso": []
         }
     ],
@@ -1337,7 +1337,7 @@
                 "Harley, C. and Reynolds, R. 1987. Analysis of E. Coli Promoter Sequences. Nucleic Acids Research, 15:2343-2361."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Molecular+Biology+(Promoter+Gene+Sequences)'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/promoters.tab",
+            "url": "https://datasets.biolab.si/core/promoters.tab",
             "seealso": []
         }
     ],
@@ -1368,7 +1368,7 @@
                 "Daqing Chen, Sai Liang Sain, and Kun Guo (2012) <a href='https://link.springer.com/article/10.1057/dbm.2012.17'>Data mining for the online retail industry: A case study of RFM model-based customer segmentation using data mining.</a> Journal of Database Marketing and Customer Strategy Management 19(3), pp. 197."
             ],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/online+retail'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/retail-basket.tab",
+            "url": "https://datasets.biolab.si/core/retail-basket.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/11/17/data-mining-business-public-administration/'>Data Mining for Business and Administration</a>."
             ]
@@ -1396,7 +1396,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/sailing.tab",
+            "url": "https://datasets.biolab.si/core/sailing.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/08/11/its-sailing-time-again/'>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."
             ]
@@ -1425,7 +1425,7 @@
             ],
             "references": [],
             "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
-            "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-events.tab",
+            "url": "https://datasets.biolab.si/core/slovenia-traffic-accidents-2016-events.tab",
             "seealso": []
         }
     ],
@@ -1452,7 +1452,7 @@
             ],
             "references": [],
             "source": "<a href='http://www.policija.si/index.php/statistika/prometna-varnost'>Archive of Slovene Ministry of Interior</a>",
-            "url": "http://datasets.orange.biolab.si/core/slovenia-traffic-accidents-2016-persons.tab",
+            "url": "https://datasets.biolab.si/core/slovenia-traffic-accidents-2016-persons.tab",
             "seealso": []
         }
     ],
@@ -1479,7 +1479,7 @@
             ],
             "references": [],
             "source": "Parlameter API",
-            "url": "http://datasets.orange.biolab.si/core/slovenian-national-assembly-eng.tab",
+            "url": "https://datasets.biolab.si/core/slovenian-national-assembly-eng.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patterns at AKOS workshop</a>."
             ]
@@ -1506,7 +1506,7 @@
                 "telecom"
             ],
             "source": "<a href='https://www.kaggle.com/blastchar/telco-customer-churn'>Telco Customer Churn</a>",
-            "url": "http://datasets.orange.biolab.si/core/telecom-customer-churn.xlsx",
+            "url": "https://datasets.biolab.si/core/telecom-customer-churn.xlsx",
             "size": 722015
         }
     ],
@@ -1532,7 +1532,7 @@
                 "Dawson Robert J. MacG. (1995) The \u2018Unusual Episode\u2019 Data Revisited. Journal of Statistics Education 3(3)."
             ],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/titanic.tab",
+            "url": "https://datasets.biolab.si/core/titanic.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/06/05/nomogram/'>Nomogram - Visualizing Probabilities</a>."
             ]
@@ -1560,7 +1560,7 @@
             ],
             "references": [],
             "source": "",
-            "url": "http://datasets.orange.biolab.si/core/traffic-signs.tab",
+            "url": "https://datasets.biolab.si/core/traffic-signs.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
             ]
@@ -1588,7 +1588,7 @@
                 "Siebert, JP. (1987) Vehicle Recognition Using Rule Based Methods, Turing Institute Research Memorandum TIRM-87-018."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/vehicle.tab",
+            "url": "https://datasets.biolab.si/core/vehicle.tab",
             "seealso": []
         }
     ],
@@ -1616,7 +1616,7 @@
                 "Schlimmer, J. C. (1987). Concept acquisition through representational adjustment. Doctoral dissertation, Department of Information and Computer Science, University of California, Irvine, CA."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/congressional+voting+records'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/voting.tab",
+            "url": "https://datasets.biolab.si/core/voting.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2015/12/19/model-based-feature-scoring/'>Model-based Feature Scoring</a>."
             ]
@@ -1644,7 +1644,7 @@
             ],
             "references": [],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Wine'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/wine.tab",
+            "url": "https://datasets.biolab.si/core/wine.tab",
             "seealso": [
                 "<a href='https://www.youtube.com/watch?v=OmaAC8a52YI'>Principal Component Analysis</a>, a YouTube video from <a href=https://www.youtube.com/orangedatamining>Getting Started with Orange</a> series that showcases this dataset.",
                 "<a href='https://www.youtube.com/watch?v=bp0VtVS3LN4'>Feature Scoring and Ranking</a>, another video from the same series that uses this dataset."
@@ -1673,7 +1673,7 @@
                 "Cortez P, Cerdeira A, Almeida F, Matos T, and Reis J (2009) Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems Elsevier 47(4):547-553."
             ],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Wine+Quality'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/winequality-red.tab",
+            "url": "https://datasets.biolab.si/core/winequality-red.tab",
             "seealso": []
         }
     ],
@@ -1699,7 +1699,7 @@
                 "Cortez P, Cerdeira A, Almeida F, Matos T, and Reis J (2009) Modeling wine preferences by data mining from physicochemical properties, Decision Support Systems Elsevier 47(4):547-553."
             ],
             "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Wine+Quality'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/winequality-white.tab",
+            "url": "https://datasets.biolab.si/core/winequality-white.tab",
             "seealso": []
         }
     ],
@@ -1725,7 +1725,7 @@
             ],
             "references": [],
             "source": "<a href='http://yplp.uni-graz.at'>YPL+.db</a>",
-            "url": "http://datasets.orange.biolab.si/core/yplp.xlsx",
+            "url": "https://datasets.biolab.si/core/yplp.xlsx",
             "seealso": []
         }
     ],
@@ -1751,7 +1751,7 @@
             ],
             "references": [],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
-            "url": "http://datasets.orange.biolab.si/core/zoo.tab",
+            "url": "https://datasets.biolab.si/core/zoo.tab",
             "seealso": [
                 "<a href='https://blog.biolab.si/2018/01/26/visualizing-multiple-variables-freeviz/'>Visualizing Multiple Variables with Freeviz</a>."
             ]

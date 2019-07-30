@@ -17,6 +17,6 @@
         "Sigillito, V. G., Wing, S. P., Hutton, L. V., & Baker, K. B. (1989). Classification of radar returns from the ionosphere using neural networks. Johns Hopkins APL Technical Digest, 10, 262-266."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/ionosphere'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/ionosphere.tab",
+    "url": "https://datasets.biolab.si/core/ionosphere.tab",
     "seealso": []
 }

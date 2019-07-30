@@ -17,6 +17,6 @@
         "McDermott & Forsyth 2016, Diagnosing a disorder in a classification benchmark, Pattern Recognition Letters, Volume 73."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/liver+disorders'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/bupa.tab",
+    "url": "https://datasets.biolab.si/core/bupa.tab",
     "seealso": []
 }

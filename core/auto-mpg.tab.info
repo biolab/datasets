@@ -15,6 +15,6 @@
         "Quinlan, R. (1993). Combining Instance-Based and Model-Based Learning. In Proceedings on the Tenth International Conference of Machine Learning, 236-243, University of Massachusetts, Amherst. Morgan Kaufmann."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/auto+mpg'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/auto-mpg.tab",
+    "url": "https://datasets.biolab.si/core/auto-mpg.tab",
     "seealso": []
 }

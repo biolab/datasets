@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/multitarget-synthetic.tab",
+    "url": "https://datasets.biolab.si/core/multitarget-synthetic.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2012/02/02/new-in-orange-partial-least-squares-regression/'>Partial Least Squares Regression</a>."
     ]

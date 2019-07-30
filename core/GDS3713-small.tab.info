@@ -15,6 +15,6 @@
     ],
     "references": [],
     "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser/?acc=GDS3713'>Gene Expression Omnibus GDS3713</a>",
-    "url": "http://datasets.orange.biolab.si/core/GDS3713-small.tab",
+    "url": "https://datasets.biolab.si/core/GDS3713-small.tab",
     "seealso": []
 }

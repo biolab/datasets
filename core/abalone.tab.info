@@ -15,6 +15,6 @@
     ],
     "references": [],
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Abalone'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/abalone.tab",
+    "url": "https://datasets.biolab.si/core/abalone.tab",
     "seealso": []
 }

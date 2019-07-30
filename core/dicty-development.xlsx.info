@@ -18,6 +18,6 @@
         "Li CL, Santhanam B, Webb AN, Zupan B, Shaulsky G (2016) Gene discovery by chemical mutagenesis and whole-genome sequencing in Dictyostelium. Genome Res 26(9):1268-76."
     ],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/dicty-development.xlsx",
+    "url": "https://datasets.biolab.si/core/dicty-development.xlsx",
     "seealso": []  
 }

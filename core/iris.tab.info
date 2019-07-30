@@ -17,7 +17,7 @@
         "R. A. Fisher (1936) The use of multiple measurements in taxonomic problems. Annals of Eugenics 7(2):179\u2013188."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Iris'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/iris.tab",
+    "url": "https://datasets.biolab.si/core/iris.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2018/12/21/scatter-plots-the-tour/'>Scatter Plots: the Tour</a>.",
         "<a href='https://blog.biolab.si/2016/03/23/all-i-see-is-silhouette/'>All I See is Silhouette</a>."
