@@ -23,7 +23,8 @@ for infof in sorted(glob('**/*.info', recursive=True)):
                 'Name field does not match the filename'
         location = d['url']
         try:
-            remotefile = urlopen(location)
+            req = Request(location, headers={'User-Agent': "Mozilla/5.0 Firefox"})
+            remotefile = urlopen(req)
         except:
             print('\n X Cannot open remote file')
             ret = 1
