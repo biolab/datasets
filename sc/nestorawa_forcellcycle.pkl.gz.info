@@ -20,7 +20,7 @@
     ],
     "target": null,
     "title": "Mouse haematopoietic stem and progenitor cell differentiation",
-    "url": "http://datasets.orange.biolab.si/sc/nestorawa_forcellcycle.pkl.gz",
+    "url": "https://datasets.biolab.si/sc/nestorawa_forcellcycle.pkl.gz",
     "variables": 23930,
     "version": "1.0",
     "year": 2016,

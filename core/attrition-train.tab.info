@@ -16,7 +16,7 @@
     ],
     "references": [],
     "source": "<a href='https://www.ibm.com/communities/analytics/watson-analytics-blog/hr-employee-attrition/'>Watson Analytics Sample Data</a>",
-    "url": "http://datasets.orange.biolab.si/core/attrition-train.tab",
+    "url": "https://datasets.biolab.si/core/attrition-train.tab",
     "seealso": [
         "<a href='http://www.planetgv.si/hrm/iz-revije/hrm-revija-februar-marec-2017/kratek-primer-iz-napovedane-analitike-v-hr-u'>Kratek primer iz napovedne analitike v HR-u</a>."
     ] 

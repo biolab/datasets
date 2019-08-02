@@ -16,7 +16,7 @@
     ],
     "references": [],
     "source": "Parlameter API",
-    "url": "http://datasets.orange.biolab.si/core/slovenian-national-assembly-eng.tab",
+    "url": "https://datasets.biolab.si/core/slovenian-national-assembly-eng.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2017/09/22/understanding-voting-patterns-at-akos-workshop/'>Understanding voting patterns at AKOS workshop</a>."
     ]

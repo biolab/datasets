@@ -15,7 +15,7 @@
     "instances": 11805,
     "variables": 27998,
     "source": "<https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE122675",
-    "url": "http://datasets.orange.biolab.si/sc/miller2019_tumor_infiltrating_CD8.pkl.gz",
+    "url": "https://datasets.biolab.si/sc/miller2019_tumor_infiltrating_CD8.pkl.gz",
     "references": [
         "Miller, B. C., Sen, D. R., Al Abosy, R., Bi, K., Virkud, Y. V., LaFleur, M. W., ... & Manos, M. (2019). Subsets of exhausted CD8+ T cells differentially mediate tumor control and respond to checkpoint blockade. Nature immunology, 20(3), 326."
     ],

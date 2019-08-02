@@ -18,6 +18,6 @@
         "Zupan B, Bohanec M, Demsar J, Bratko I (1999) <a href='http://file.biolab.si/papers/1999-Zupan-AIJ.pdf'>Learning by discovering concept hierarchies</a>, Artificial Intelligence 109: 211-242."
     ],
     "source": "<a href='http://archive.ics.uci.edu/ml/datasets/Car+Evaluation'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/car.tab",
+    "url": "https://datasets.biolab.si/core/car.tab",
     "seealso": []
 }

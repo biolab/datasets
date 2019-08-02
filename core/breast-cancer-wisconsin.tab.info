@@ -17,6 +17,6 @@
         "Wolberg, W.H., & Mangasarian, O.L. (1990). Multisurface method of pattern separation for medical diagnosis applied to breast cytology. In Proceedings of the National Academy of Sciences, 87, 9193-9196."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(original)'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/breast-cancer-wisconsin.tab",
+    "url": "https://datasets.biolab.si/core/breast-cancer-wisconsin.tab",
     "seealso": []
 }

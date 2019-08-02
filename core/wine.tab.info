@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Wine'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/wine.tab",
+    "url": "https://datasets.biolab.si/core/wine.tab",
     "seealso": [
         "<a href='https://www.youtube.com/watch?v=OmaAC8a52YI'>Principal Component Analysis</a>, a YouTube video from <a href=https://www.youtube.com/orangedatamining>Getting Started with Orange</a> series that showcases this dataset.",
         "<a href='https://www.youtube.com/watch?v=bp0VtVS3LN4'>Feature Scoring and Ranking</a>, another video from the same series that uses this dataset."

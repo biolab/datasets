@@ -8,7 +8,7 @@ from urllib.request import urlretrieve
 
 
 # set the base url without trailing slash!
-URL = 'http://datasets.orange.biolab.si'
+URL = 'https://datasets.biolab.si'
 
 
 start_dir = getcwd()

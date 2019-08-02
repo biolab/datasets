@@ -17,7 +17,7 @@
         "Brown, M.P., Grundy, W.N., Lin, D., Cristianini, N., Sugnet, C., Furey, T.S., Ares, M., Haussler, D. (2000) Knowledge-based analysis of microarray gene expression data by using support vector machines, Proceedings of the National Academy of Sciences, 1 , 262-267."
     ],
     "source": "<a href='http://www.biolab.si/supp/bi-vizrank/use.html'>Brown for Orange</a>",
-    "url": "http://datasets.orange.biolab.si/core/brown-selected.tab",
+    "url": "https://datasets.biolab.si/core/brown-selected.tab",
     "seealso":[
         "<a href='https://blog.biolab.si/2016/10/02/intro-to-data-mining-for-life-scientists/'>Intro to Data Mining for Life Scientists</a>."
     ]

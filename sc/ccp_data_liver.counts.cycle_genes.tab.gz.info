@@ -20,7 +20,7 @@
     ],
     "target": null,
     "title": "Cell cycle in mouse liver (cell cycle genes)",
-    "url": "http://datasets.orange.biolab.si/sc/ccp_data_liver.counts.cycle_genes.tab.gz",
+    "url": "https://datasets.biolab.si/sc/ccp_data_liver.counts.cycle_genes.tab.gz",
     "variables": 537,
     "num_of_genes": 537,
     "version": "1.3",

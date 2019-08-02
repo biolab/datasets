@@ -17,7 +17,7 @@
     ],
     "references": [],
     "source": "<a href='https://github.com/neo4j-examples/neo4j-foodmart-dataset/tree/master/data'>neo4j data repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/foodmart.basket",
+    "url": "https://datasets.biolab.si/core/foodmart.basket",
     "seealso": [
         "<a href='https://blog.biolab.si/2016/04/25/association-rules-in-orange/'>Association Rules in Orange</a>."
     ]

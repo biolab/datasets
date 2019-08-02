@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/sailing.tab",
+    "url": "https://datasets.biolab.si/core/sailing.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2017/08/11/its-sailing-time-again/'>It is sailing time (again)</a>, a blog about preparing a lecture on hierarchical clustering."
     ]

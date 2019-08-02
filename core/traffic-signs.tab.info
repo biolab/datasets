@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/traffic-signs.tab",
+    "url": "https://datasets.biolab.si/core/traffic-signs.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2017/04/25/outliers-in-traffic-signs'>Outliers in Traffic Signs</a>, a blog on image data analysis that uses this data set."
     ]

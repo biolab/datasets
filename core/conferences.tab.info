@@ -13,6 +13,6 @@
     "tags": [],
     "references": [],
     "source": "",
-    "url": "http://datasets.orange.biolab.si/core/conferences.tab",
+    "url": "https://datasets.biolab.si/core/conferences.tab",
     "seealso": "<a href='https://blog.biolab.si/2016/07/18/network-analysis-with-orange'>Network Analysis with Orange</a>, a blog about how to plot ML publications in a network."
 }

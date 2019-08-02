@@ -17,6 +17,6 @@
         "Michalski, R.S., Mozetic, I., Hong, J., & Lavrac, N. (1986). The Multi-Purpose Incremental Learning System AQ15 and its Testing Application to Three Medical Domains. In Proceedings of the Fifth National Conference on Artificial Intelligence, 1041-1045, Philadelphia, PA: Morgan Kaufmann."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/breast+cancer'>UCI ML Repository</a>",
-    "url": "http://datasets.orange.biolab.si/core/breast-cancer.tab",
+    "url": "https://datasets.biolab.si/core/breast-cancer.tab",
     "seealso": []
 }

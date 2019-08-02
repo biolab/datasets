@@ -14,7 +14,7 @@
     "instances": 1886,
     "variables": 14756,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
-    "url": "http://datasets.orange.biolab.si/sc/baron2016_pancreas_mouse.pkl.gz",
+    "url": "https://datasets.biolab.si/sc/baron2016_pancreas_mouse.pkl.gz",
     "references": [
         "Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., ... & Melton, D. A. (2016). A single-cell transcriptomic map of the human and mouse pancreas reveals inter-and intra-cell population structure. Cell systems, 3(4), 346-360."
     ],
