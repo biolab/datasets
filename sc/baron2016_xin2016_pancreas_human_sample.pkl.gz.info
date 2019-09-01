@@ -14,10 +14,10 @@
     "instances": 2131,
     "variables": 19548,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2230759'>Baron et al.</a>&nbsp;<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>Xin et al.</a>",
-    "url": "http://file.biolab.si/scdata/baron2016_xin2016_pancreas_human.pkl.gz",
+    "url": "https://datasets.biolab.si/sc/baron2016_xin2016_pancreas_human_sample.pkl.gz",
     "references": [
-"Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., ... & Melton, D. A. (2016). A single-cell transcriptomic map of the human and mouse pancreas reveals inter-and intra-cell population structure. Cell systems, 3(4), 346-360.",
-"Xin, Y, Kim, J., Okamoto, H., Ni, M., Wei, Y., Adler, C., J. Murphy, A., D. Yancopoulos, Lin, C., Gromada, J. (2016). RNA Sequencing of Single Human Islet Cells Reveals Type 2 Diabetes Genes. Cell Metabolism, 24 (4), 608-615."
+        "Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., ... & Melton, D. A. (2016). A single-cell transcriptomic map of the human and mouse pancreas reveals inter-and intra-cell population structure. Cell systems, 3(4), 346-360.",
+        "Xin, Y, Kim, J., Okamoto, H., Ni, M., Wei, Y., Adler, C., J. Murphy, A., D. Yancopoulos, Lin, C., Gromada, J. (2016). RNA Sequencing of Single Human Islet Cells Reveals Type 2 Diabetes Genes. Cell Metabolism, 24 (4), 608-615."
     ],
     "seealso": [],
     "taxid": "10090",
