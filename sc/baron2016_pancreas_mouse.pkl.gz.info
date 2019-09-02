@@ -1,5 +1,5 @@
 {
-    "name": "baron2016_pancreas_mouse.pkl.gz",
+    "name": "baron2016_pancreas_mouse",
     "description": "Cells captured obtained using a droplet-based single-cell RNA-Seq method, to determine the transcriptomes of over 12,000 individual pancreatic cells from  two strains of mice. Cells could be divided into 15 clusters that matched previously characterized cell types: all endocrine cell types, including rare ghrelin-expressing epsilon-cells, exocrine cell types, vascular cells, Schwann cells, quiescent and activated pancreatic stellate cells, and four types of immune cells.",
     "title": "Pancreas cells in mouse",
     "tags": [
@@ -8,7 +8,7 @@
         "pancreas"
     ],
     "target": "categorical",
-    "version": "1.0",
+    "version": "1.1",
     "year": 2016,
     "collection": "GEO",
     "instances": 1886,
