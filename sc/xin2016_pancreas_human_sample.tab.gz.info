@@ -1,0 +1,27 @@
+{
+    "name": "xin2016_pancreas_human_sample.tab.gz",
+    "description": "A sample of 500 single cells gathered using single-cell RNA sequencing to determine the transcriptomes of human pancreatic α-, β-, δ- and PP cells from non-diabetic and type 2 diabetes organ donors. 245 genes with disturbed expression in type 2 diabetes can be idenfitied from it.",
+    "title": "Pancreas cells in human (type 2 diabetes) sample",
+    "tags": [
+        "human",
+        "expression",
+        "pancreas",
+        "diabetes"
+    ],
+    "target": "categorical",
+    "version": "1.0",
+    "year": 2016,
+    "collection": "GEO",
+    "instances": 500,
+    "variables": 39851,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>GEO</a>",
+    "url": "http://file.biolab.si/scdata/xin2016_pancreas_human_sample.tab.gz",
+    "references": [
+"Xin, Y, Kim, J., Okamoto, H., Ni, M., Wei, Y., Adler, C., J. Murphy, A., D. Yancopoulos, Lin, C., Gromada, J. (2016). RNA Sequencing of Single Human Islet Cells Reveals Type 2 Diabetes Genes. Cell Metabolism, 24 (4), 608-615."
+
+    ],
+    "seealso": [],
+    "taxid": "9606",
+    "num_of_genes": 35899,
+    "size": 24493444
+}
