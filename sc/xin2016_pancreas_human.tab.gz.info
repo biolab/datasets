@@ -13,7 +13,7 @@
     "year": 2016,
     "collection": "GEO",
     "instances": 1492,
-    "variables": 35899,
+    "variables": 35900,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>GEO</a>",
     "url": "http://file.biolab.si/scdata/xin2016_pancreas_human.tab.gz",
     "references": [
@@ -21,6 +21,6 @@
     ],
     "seealso": [],
     "taxid": "9606",
-    "num_of_genes": 35900,
+    "num_of_genes": 35899,
     "size": 74519264
 }
