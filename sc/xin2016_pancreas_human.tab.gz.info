@@ -15,7 +15,7 @@
     "instances": 1492,
     "variables": 35900,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>GEO</a>",
-    "url": "http://file.biolab.si/scdata/xin2016_pancreas_human.tab.gz",
+    "url": "https://datasets.biolab.si/sc/xin2016_pancreas_human.tab.gz",
     "references": [
         "Xin, Y, Kim, J., Okamoto, H., Ni, M., Wei, Y., Adler, C., J. Murphy, A., D. Yancopoulos, Lin, C., Gromada, J. (2016). RNA Sequencing of Single Human Islet Cells Reveals Type 2 Diabetes Genes. Cell Metabolism, 24 (4), 608-615."
     ],
