@@ -164,11 +164,11 @@
                 "pancreas"
             ],
             "target": "categorical",
-            "version": "2.0",
+            "version": "2.1",
             "year": 2016,
             "collection": "GEO",
             "instances": 1631,
-            "variables": 15279,
+            "variables": 15284,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
             "url": "https://datasets.biolab.si/sc/baron2016_pancreas_human_sample.tab.gz",
             "references": [
@@ -208,37 +208,6 @@
             "taxid": "10090",
             "num_of_genes": 14881,
             "size": 4827248
-        }
-    ],
-    [
-        [
-            "baron2016_xin2016_pancreas_human_sample.pkl.gz"
-        ],
-        {
-            "name": "baron2016_xin2016_pancreas_human_sample.pkl.gz",
-            "description": "Pancreatic cells originating from two data sets obtained using different experimental protocols exhibit substantial batch effects. The cells are samples from studies by Xin et al. and Baron et al. and contain major pancreatic cell types.",
-            "title": "Pancreatic cells from two experimental studies",
-            "tags": [
-                "human",
-                "expression",
-                "pancreas"
-            ],
-            "target": "categorical",
-            "version": "1.0",
-            "year": 2016,
-            "collection": "GEO",
-            "instances": 2131,
-            "variables": 19548,
-            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2230759'>Baron et al.</a>&nbsp;<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>Xin et al.</a>",
-            "url": "https://datasets.biolab.si/sc/baron2016_xin2016_pancreas_human_sample.pkl.gz",
-            "references": [
-                "Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., ... & Melton, D. A. (2016). A single-cell transcriptomic map of the human and mouse pancreas reveals inter-and intra-cell population structure. Cell systems, 3(4), 346-360.",
-                "Xin, Y, Kim, J., Okamoto, H., Ni, M., Wei, Y., Adler, C., J. Murphy, A., D. Yancopoulos, Lin, C., Gromada, J. (2016). RNA Sequencing of Single Human Islet Cells Reveals Type 2 Diabetes Genes. Cell Metabolism, 24 (4), 608-615."
-            ],
-            "seealso": [],
-            "taxid": "10090",
-            "num_of_genes": 19548,
-            "size": 18021305
         }
     ],
     [
@@ -1108,11 +1077,11 @@
                 "diabetes"
             ],
             "target": "categorical",
-            "version": "2.0",
+            "version": "2.1",
             "year": 2016,
             "collection": "GEO",
             "instances": 500,
-            "variables": 26413,
+            "variables": 26414,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>GEO</a>",
             "url": "https://datasets.biolab.si/sc/xin2016_pancreas_human_sample.tab.gz",
             "references": [
