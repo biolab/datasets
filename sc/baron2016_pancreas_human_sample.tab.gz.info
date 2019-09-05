@@ -8,11 +8,11 @@
         "pancreas"
     ],
     "target": "categorical",
-    "version": "2.0",
+    "version": "2.1",
     "year": 2016,
     "collection": "GEO",
     "instances": 1631,
-    "variables": 15279,
+    "variables": 15284,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
     "url": "http://file.biolab.si/scdata/baron2016_pancreas_human_sample.tab.gz",
     "references": [

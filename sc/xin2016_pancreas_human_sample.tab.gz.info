@@ -9,11 +9,11 @@
         "diabetes"
     ],
     "target": "categorical",
-    "version": "2.0",
+    "version": "2.1",
     "year": 2016,
     "collection": "GEO",
     "instances": 500,
-    "variables": 26413,
+    "variables": 26414,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>GEO</a>",
     "url": "http://file.biolab.si/scdata/xin2016_pancreas_human_sample.tab.gz",
     "references": [
