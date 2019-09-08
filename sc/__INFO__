@@ -127,18 +127,18 @@
         {
             "name": "baron2016_pancreas_human_sample",
             "description": "A sample of transcriptomes of major pancreatic cell types from one human donor.",
-            "title": "Pancreas cells in human samples",
+            "title": "Pancreas cells in human (sample)",
             "tags": [
                 "human",
                 "expression",
                 "pancreas"
             ],
             "target": "categorical",
-            "version": "2.1",
+            "version": "3.0",
             "year": 2016,
             "collection": "GEO",
             "instances": 1631,
-            "variables": 15284,
+            "variables": 5015,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
             "url": "https://datasets.biolab.si/sc/baron2016_pancreas_human_sample.tab.gz",
             "references": [
@@ -146,8 +146,8 @@
             ],
             "seealso": [],
             "taxid": "9606",
-            "num_of_genes": 15279,
-            "size": 4827070
+            "num_of_genes": 5010,
+            "size": 1376129
         }
     ],
     [
@@ -1039,7 +1039,7 @@
         {
             "name": "xin2016_pancreas_human_sample",
             "description": "A sample of 500 single cells gathered using single-cell RNA sequencing to determine the transcriptomes of human pancreatic \u03b1-, \u03b2-, \u03b4- and PP cells from non-diabetic and type 2 diabetes organ donors. 245 genes with disturbed expression in type 2 diabetes can be idenfitied from it.",
-            "title": "Pancreas cells in human (type 2 diabetes) sample",
+            "title": "Pancreas cells in human (type 2 diabetes) (sample)",
             "tags": [
                 "human",
                 "expression",
@@ -1047,11 +1047,11 @@
                 "diabetes"
             ],
             "target": "categorical",
-            "version": "2.1",
+            "version": "3.0",
             "year": 2016,
             "collection": "GEO",
             "instances": 500,
-            "variables": 26414,
+            "variables": 4648,
             "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE81608'>GEO</a>",
             "url": "https://datasets.biolab.si/sc/xin2016_pancreas_human_sample.tab.gz",
             "references": [
@@ -1059,8 +1059,8 @@
             ],
             "seealso": [],
             "taxid": "9606",
-            "num_of_genes": 26413,
-            "size": 24993590
+            "num_of_genes": 4647,
+            "size": 6046346
         }
     ]
 ]
