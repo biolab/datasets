@@ -7,7 +7,7 @@
     "variables": 17,
     "missing": false,
     "target": "categorical",
-    "size": 4837,
+    "size": 7133,
     "year": 1990,
     "version": "1.0",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/tmp/zoo.tab",
+    "url": "https://datasets.biolab.si/core/zoo.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2018/01/26/visualizing-multiple-variables-freeviz/'>Visualizing Multiple Variables with Freeviz</a>."
     ]

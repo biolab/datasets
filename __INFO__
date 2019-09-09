@@ -1743,7 +1743,7 @@
             "variables": 17,
             "missing": false,
             "target": "categorical",
-            "size": 4837,
+            "size": 7133,
             "year": 1990,
             "version": "1.0",
             "tags": [
