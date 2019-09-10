@@ -1,0 +1,21 @@
+{
+    "collection": "",
+    "description": "A small dataset with grades on seven courses (English, French, History, Algebra, Biology, Physics, Physical) that was handcrafted to introduce hierarchical clustering.",
+    "name": "grades",
+    "title": "Course Grades",
+    "instances": 16,
+    "variables": 7,
+    "missing": false,
+    "target": null,
+    "size": 587,
+    "year": null,
+    "version": "1.0",
+    "tags": [
+        "synthetic",
+        "education"
+    ],
+    "references": [],
+    "source": "",
+    "url": "http://file.biolab.si/tmp/grades.xlsx",
+    "seealso": []
+}
