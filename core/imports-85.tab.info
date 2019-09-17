@@ -15,6 +15,6 @@
         "economy"
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/automobile'>UCI ML Repository</a>",
-    "url": "http://file.biolab.si/datasets/imports-85.tab",
+    "url": "https://datasets.biolab.si/core/imports-85.tab",
     "seealso": []
 }
