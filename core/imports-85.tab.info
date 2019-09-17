@@ -1,22 +1,20 @@
 {
     "collection": "UCI",
-    "description": "This data set consists of three types of entities: (a) the specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. The second rating corresponds to the degree to which the auto is more risky than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuarians call this process 'symboling'. A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe. The third factor is the relative average loss payment per insured vehicle year. This value is normalized for all autos within a particular size classification (two-door small, station wagons, sports/speciality, etc...), and represents the average loss per car per year.",
+    "description": "This data set includes the specification of cars imported to the US in 1985. The class variable is set to the price of the car but can be changed to other target variables. The data includes three types of entities: (a) the specification of an auto in terms of various characteristics, (b) its assigned insurance risk rating, (c) its normalized losses in use as compared to other cars. The second rating corresponds to the degree to which the auto is riskier than its price indicates. Cars are initially assigned a risk factor symbol associated with its price. Then, if it is more risky (or less), this symbol is adjusted by moving it up (or down) the scale. Actuaries call this process symboling. A value of +3 indicates that the auto is risky, -3 that it is probably pretty safe. ",
     "name": "imports-85",
-    "title": "Automobile",
+    "title": "Imports 1985",
     "instances": 205,
-    "variables": 26,
+    "variables": 25,
     "missing": true,
     "target": "numeric",
     "size": 26300,
     "year": 1987,
     "version": "1.0",
     "tags": [
+        "insurance",
         "economy"
     ],
-    "references": [
-        "Kibler, D., Aha, D.W., & Albert,M. (1989). Instance-based prediction of real-valued attributes. Computational Intelligence, Vol 5, 51-57."
-    ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/automobile'>UCI ML Repository</a>",
-    "url": "https://datasets.biolab.si/core/imports-85.tab",
+    "url": "http://file.biolab.si/datasets/imports-85.tab",
     "seealso": []
 }
