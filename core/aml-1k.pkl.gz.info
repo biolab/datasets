@@ -10,7 +10,7 @@
     "size": 341970,
     "source": "<a href='https://support.10xgenomics.com/single-cell-gene-expression/datasets'>10x Genomics</a>",
     "tags": [
-        "biology",
+        "biology"
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML (sample)",
