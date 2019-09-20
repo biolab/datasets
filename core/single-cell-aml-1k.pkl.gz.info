@@ -14,7 +14,7 @@
     ],
     "target": "categorical",
     "title": "Bone marrow mononuclear cells with AML (sample)",
-    "url": "http://file.biolab.si/datasets/single-cell-aml-1k.pkl.gz",
+    "url": "https://datasets.biolab.si/core/single-cell-aml-1k.pkl.gz",
     "variables": 1004,
     "version": "1.0",
     "year": 2017
