@@ -1,0 +1,27 @@
+{
+    "name": "ji2019_cartilage_osteoarthritis.pkl.gz",
+    "description": "1464 chondrocytes obtained from the articular cartilage from 10 patients with osteoarthritis at different stages (S0-S4) undergoing knee arthroplasty surgery",
+    "title": "Human osteoarthritis chondrocytes",
+    "tags": [
+        "human",
+        "chondrocytes",
+        "osteoarthritis",
+        "cartilage"
+    ],
+    "target": null,
+    "version": "1.0",
+    "year": 2019,
+    "collection": "GEO",
+    "instances": 1551,
+    "variables": 24153,
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2807808'>GEO</a>",
+    "url": "http://file.biolab.si/scdata/ji2019_cartilage_osteoarthritis.pkl.gz",
+    "references": [
+"Ji Q., Zheng Y., Zhang G., Hu Y. et al. (2019). Single-cell RNA-seq analysis reveals the progression of human osteoarthritis. Annals of the Rheumatic Diseases, 78(1): 100-110."
+    ],
+    "seealso": [],
+    "taxid": "9606",
+    "num_of_genes": 24153,
+    "size": 6275273
+}
+
