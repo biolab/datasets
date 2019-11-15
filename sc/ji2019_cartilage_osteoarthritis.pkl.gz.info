@@ -15,13 +15,12 @@
     "instances": 1551,
     "variables": 24153,
     "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2807808'>GEO</a>",
-    "url": "http://file.biolab.si/scdata/ji2019_cartilage_osteoarthritis.pkl.gz",
+    "url": "https://datasets.biolab.si/sc/ji2019_cartilage_osteoarthritis.pkl.gz",
     "references": [
-"Ji Q., Zheng Y., Zhang G., Hu Y. et al. (2019). Single-cell RNA-seq analysis reveals the progression of human osteoarthritis. Annals of the Rheumatic Diseases, 78(1): 100-110."
+        "Ji Q., Zheng Y., Zhang G., Hu Y. et al. (2019). Single-cell RNA-seq analysis reveals the progression of human osteoarthritis. Annals of the Rheumatic Diseases, 78(1): 100-110."
     ],
     "seealso": [],
     "taxid": "9606",
     "num_of_genes": 24153,
     "size": 49077464
 }
-

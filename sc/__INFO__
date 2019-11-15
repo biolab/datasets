@@ -122,6 +122,36 @@
     ],
     [
         [
+            "baron2016_pancreas_human.pkl.gz"
+        ],
+        {
+            "name": "baron2016_pancreas_human",
+            "description": "Single-cell RNA sequencing of pancreatic islets from 4 human donors",
+            "title": "Pancreas cells in human",
+            "tags": [
+                "human",
+                "expression",
+                "pancreas"
+            ],
+            "target": "categorical",
+            "version": "3.0",
+            "year": 2016,
+            "collection": "GEO",
+            "instances": 8569,
+            "variables": 20125,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84133'>GEO</a>",
+            "url": "https://datasets.biolab.si/sc/baron2016_pancreas_human.pkl.gz",
+            "references": [
+                "Baron, M., Veres, A., Wolock, S. L., Faust, A. L., Gaujoux, R., Vetere, A., ... & Melton, D. A. (2016). A single-cell transcriptomic map of the human and mouse pancreas reveals inter-and intra-cell population structure. Cell systems, 3(4), 346-360."
+            ],
+            "seealso": [],
+            "taxid": "9606",
+            "num_of_genes": 8569,
+            "size": 1376129
+        }
+    ],
+    [
+        [
             "baron2016_pancreas_human_sample.tab.gz"
         ],
         {
@@ -737,6 +767,37 @@
             "taxid": "9606",
             "num_of_genes": 27699,
             "size": 10082836
+        }
+    ],
+    [
+        [
+            "ji2019_cartilage_osteoarthritis.pkl.gz"
+        ],
+        {
+            "name": "ji2019_cartilage_osteoarthritis.pkl.gz",
+            "description": "1464 chondrocytes obtained from the articular cartilage from 10 patients with osteoarthritis at different stages (S0-S4) undergoing knee arthroplasty surgery",
+            "title": "Human osteoarthritis chondrocytes",
+            "tags": [
+                "human",
+                "chondrocytes",
+                "osteoarthritis",
+                "cartilage"
+            ],
+            "target": null,
+            "version": "1.0",
+            "year": 2019,
+            "collection": "GEO",
+            "instances": 1551,
+            "variables": 24153,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM2807808'>GEO</a>",
+            "url": "https://datasets.biolab.si/sc/ji2019_cartilage_osteoarthritis.pkl.gz",
+            "references": [
+                "Ji Q., Zheng Y., Zhang G., Hu Y. et al. (2019). Single-cell RNA-seq analysis reveals the progression of human osteoarthritis. Annals of the Rheumatic Diseases, 78(1): 100-110."
+            ],
+            "seealso": [],
+            "taxid": "9606",
+            "num_of_genes": 24153,
+            "size": 49077464
         }
     ],
     [
