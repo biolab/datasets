@@ -595,9 +595,9 @@
             "variables": 0,
             "missing": true,
             "target": "categorical",
-            "size": 46639,
+            "size": 15904,
             "year": 2018,
-            "version": "1.0",
+            "version": "1.1",
             "tags": [
                 "image analytics",
                 "biology"
