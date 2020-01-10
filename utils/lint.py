@@ -3,6 +3,7 @@ from glob import glob
 import json
 from os.path import basename, splitext
 import re
+import ssl
 from sys import exit
 from urllib.request import urlopen, Request
 
@@ -11,6 +12,12 @@ MANDATORY = ('name', 'description', 'version',
              'instances', 'variables', 'target')
 RE_UNQUOTED_HREF = """<a href=[^'"]"""
 RE_HREF_URL = """<a href=(.*?)>"""
+
+# ssl context to ignore (self-signed) certificate errors
+ctx = ssl.create_default_context()
+ctx.check_hostname = False
+ctx.verify_mode = ssl.CERT_NONE
+
 
 ret = 0
 print('Testing:')
@@ -42,7 +49,7 @@ for infof in sorted(glob('**/*.info', recursive=True)):
                 except:
                     try:
                         req = Request(url, headers={'User-Agent': "Mozilla/5.0 Firefox"})
-                        con = urlopen(req)
+                        con = urlopen(req, context=ctx)
                     except:
                         print('\n X Inaccessible link:', link)
                         ret = 1
