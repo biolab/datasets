@@ -1,0 +1,21 @@
+{
+    "collection": "Archaeology Data Service",
+    "description": "An introductory resource for the study of Roman amphorae. There are many types of amphorae - we kept the most well-documented ones, Dressel, Gauloise, and Keay. Each subtype has the corresponding metadata.",
+    "name": "amphorae",
+    "title": "Roman Amphorae",
+    "instances": 164,
+    "variables": 16,
+    "missing": true,
+    "target": "categorical",
+    "size": 24289,
+    "year": 2005,
+    "version": "1.0",
+    "tags": [
+        "archaeology",
+        "image analytics"
+    ],
+    "references": [],
+    "source": "<a href='https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/index.cfm'>Archaeology Data Service</a>",
+    "url": "http://file.biolab.si/datasets/amphorae.tab",
+    "seealso": []
+}
