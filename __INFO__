@@ -185,7 +185,7 @@
             ],
             "references": [],
             "source": "<a href='https://archaeologydataservice.ac.uk/archives/view/amphora_ahrb_2005/index.cfm'>Archaeology Data Service</a>",
-            "url": "http://file.biolab.si/datasets/amphorae.tab",
+            "url": "https://datasets.biolab.si/core/amphorae.tab",
             "seealso": []
         }
     ],
