@@ -17,5 +17,6 @@
         "Sandt C, Borondics F. A new typology of human hair medullas based on lipid composition analysis by synchrotron FTIR microspectroscopy. Analyst. 2021."
     ],
     "source": "",
-    "url": "https://file.biolab.si/tmpmarko/hair.tab"
+    "url": "https://datasets.biolab.si/core/hair-spectroscopy.tab",
+    "size": 19122825
 }
