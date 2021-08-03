@@ -1,8 +1,8 @@
 {
     "collection": "spectral",
-    "description": "An FTIR hyperspectral dataset of hair sections measured on ZnSe IR transparent windows in transmission mode. This dataset is part of a study by Sandt et al. (2021) on the chemical composition of hair with special focus on the center part, which often presents a special compartment called the medulla. The data was collected and compiled by Dr. Christophe Sandt.",
+    "description": "An FTIR hyperspectral dataset of hair sections measured on ZnS IR transparent windows in transmission mode. This dataset is part of a study by Sandt et al. (2021) on the chemical composition of hair with special focus on the center part, which often presents a special compartment called the medulla. The data was collected and compiled by Dr. Christophe Sandt.",
     "name": "hair-spectroscopy",
-    "title": "Hair section (infrared spectroscopy)",
+    "title": "Hair section",
     "instances": 3250,
     "variables": 831,
     "missing": false,
@@ -14,7 +14,7 @@
         "hyperspectral"
     ],
     "references": [
-        "Sandt C, Borondics F. A new typology of human hair medullas based on lipid composition analysis by synchrotron FTIR microspectroscopy. Analyst. 2021."
+        "Sandt C, Borondics F. A new typology of human hair medullas based on lipid composition analysis by synchrotron FTIR microspectroscopy. Analyst, 2021, 146, 3942-3954"
     ],
     "source": "",
     "url": "https://datasets.biolab.si/core/hair-spectroscopy.tab",
