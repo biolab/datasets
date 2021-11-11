@@ -1,0 +1,19 @@
+{
+    "name": "gbsg2",
+    "title": "German Breast Cancer Study Group 2",
+    "description": "A dataset containing the observations from the German Breast Cancer Study Group.",
+    "collection": "CRAN",
+    "references": [
+        "W. Sauerbrei and P. Royston (1999). Building multivariable prognostic and diagnostic models: transformation of the predictors by using fractional polynomials. Journal of the Royal Statistics Society Series A, Volume 162(1), 71–94.",
+        "M. Schumacher, G. Basert, H. Bojar, K. Huebner, M. Olschewski, W. Sauerbrei, C. Schmoor, C. Beyerle, R.L.A. Neumann and H.F. Rauschecker for the German Breast Cancer Study Group (1994), Randomized 2\times2 trial evaluating hormonal treatment and the duration of chemotherapy in node-positive breast cancer patients. Journal of Clinical Oncology, 12, 2086–2093."
+    ],
+    "tags": ["survival analysis", "time-to-event", "censoring"],
+    "target": "",
+    "version": "1.0",
+    "year": 1994,
+    "instances": 686,
+    "missing": false,
+    "variables": 10,
+    "source": "<a href='https://rdrr.io/cran/TH.data/man/GBSG2.html>TH's Data Archive</a>",
+    "url": "https://www.dropbox.com/s/47q08i1ats7f1u7/gbsg2.tab?raw=1"
+}
