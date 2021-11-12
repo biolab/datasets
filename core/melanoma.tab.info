@@ -5,8 +5,12 @@
     "collection": "CRAN",
     "references": [
         "P. K. Andersen, O. Borgan, R. D. Gill and N. Keiding (1993) Statistical Models based on Counting Processes. Springer."
-        ],
-    "tags": ["survival analysis", "time-to-event", "censoring"],
+    ],
+    "tags": [
+        "survival analysis",
+        "time-to-event",
+        "censoring"
+    ],
     "target": "",
     "version": "1.0",
     "year": 1993,
@@ -14,5 +18,6 @@
     "missing": false,
     "variables": 7,
     "source": "<a href='https://rdrr.io/cran/MASS/man/Melanoma.html>Modern Applied Statistics with S (4th edition, 2002)</a>",
-    "url": "https://www.dropbox.com/s/31yhpvczka63o73/melanoma.tab?raw=1"
+    "url": "https://datasets.biolab.si/core/melanoma.tab",
+    "size": 6421
 }
