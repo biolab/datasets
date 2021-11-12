@@ -133,7 +133,7 @@
                 "Bu\u010dar, Jo\u017ee, 2017, Automatically sentiment annotated Slovenian news corpus AutoSentiNews 1.0, Slovenian language resource repository CLARIN.SI, http://hdl.handle.net/11356/1109."
             ],
             "source": "<a href='http://hdl.handle.net/11356/1109'>CLARIN Repository</a>",
-            "url": "http://file.biolab.si/files/delavnice/SentiNews-SI.tab",
+            "url": "https://datasets.biolab.si/core/SentiNews-SI.tab",
             "seealso": []
         }
     ],
