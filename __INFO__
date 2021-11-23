@@ -788,25 +788,23 @@
             "name": "gbsg2",
             "title": "German Breast Cancer Study Group 2",
             "description": "A dataset containing the observations from the German Breast Cancer Study Group.",
-            "collection": "CRAN",
             "references": [
                 "W. Sauerbrei and P. Royston (1999). Building multivariable prognostic and diagnostic models: transformation of the predictors by using fractional polynomials. Journal of the Royal Statistics Society Series A, Volume 162(1), 71\u201394.",
                 "M. Schumacher, G. Basert, H. Bojar, K. Huebner, M. Olschewski, W. Sauerbrei, C. Schmoor, C. Beyerle, R.L.A. Neumann and H.F. Rauschecker for the German Breast Cancer Study Group (1994), Randomized 2\times2 trial evaluating hormonal treatment and the duration of chemotherapy in node-positive breast cancer patients. Journal of Clinical Oncology, 12, 2086\u20132093."
             ],
             "tags": [
                 "survival analysis",
-                "time-to-event",
                 "censoring"
             ],
             "target": "",
-            "version": "1.0",
+            "version": "1.1",
             "year": 1994,
             "instances": 686,
             "missing": false,
             "variables": 10,
-            "source": "<a href='https://rdrr.io/cran/TH.data/man/GBSG2.html>TH's Data Archive</a>",
+            "source": "<a href='https://rdrr.io/cran/TH.data/man/GBSG2.html'>Torsten Hothorn Data Archive</a>",
             "url": "https://datasets.biolab.si/core/gbsg2.tab",
-            "size": 30845
+            "size": 29153
         }
     ],
     [
@@ -1267,24 +1265,22 @@
             "name": "melanoma",
             "title": "Survival from Malignant Melanoma",
             "description": "The Melanoma data frame has data on 205 patients in Denmark with malignant melanoma.",
-            "collection": "CRAN",
             "references": [
                 "P. K. Andersen, O. Borgan, R. D. Gill and N. Keiding (1993) Statistical Models based on Counting Processes. Springer."
             ],
             "tags": [
                 "survival analysis",
-                "time-to-event",
                 "censoring"
             ],
             "target": "",
-            "version": "1.0",
+            "version": "1.1",
             "year": 1993,
             "instances": 205,
             "missing": false,
             "variables": 7,
-            "source": "<a href='https://rdrr.io/cran/MASS/man/Melanoma.html>Modern Applied Statistics with S (4th edition, 2002)</a>",
+            "source": "<a href='https://rdrr.io/cran/MASS/man/Melanoma.html'>Modern Applied Statistics with S (4th edition, 2002).</a>",
             "url": "https://datasets.biolab.si/core/melanoma.tab",
-            "size": 6421
+            "size": 6433
         }
     ],
     [
@@ -1490,22 +1486,21 @@
             "title": "Classification of political regimes as democracy and dictatorship",
             "description": "Classification of political regimes as democracy and dictatorship. Classification of democracies as parliamentary, semi-presidential (mixed) and presidential. Classification of dictatorships as military, civilian and royal. Coverage: 202 countries, from 1946 or year of independence to 2008.",
             "references": [
-                "Cheibub, Jos\u00e9 Antonio, Jennifer Gandhi, and James Raymond Vreeland. 2010. \u201cDemocracy and Dictatorship Revisited.\u201d Public Choice, vol. 143, no. 2-1, pp. 67-101."
+                "Cheibub, Jos\u00e9 Antonio, Jennifer Gandhi, and James Raymond Vreeland. 2010. 'Democracy and Dictatorship Revisited.' Public Choice, vol. 143, no. 2-1, pp. 67-101."
             ],
             "tags": [
                 "survival analysis",
-                "time-to-event",
                 "censoring"
             ],
             "target": "",
-            "version": "1.0",
+            "version": "1.1",
             "year": 2010,
             "instances": 1808,
             "missing": false,
             "variables": 12,
             "source": "<a href='https://raw.githubusercontent.com/CamDavidsonPilon/lifelines/master/lifelines/datasets/dd.csv>lifelines</a>",
             "url": "https://datasets.biolab.si/core/political_regimes.tab",
-            "size": 281008
+            "size": 281044
         }
     ],
     [

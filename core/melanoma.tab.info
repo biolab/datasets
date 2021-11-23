@@ -16,6 +16,6 @@
     "missing": false,
     "variables": 7,
     "source": "<a href='https://rdrr.io/cran/MASS/man/Melanoma.html'>Modern Applied Statistics with S (4th edition, 2002).</a>",
-    "url": "https://www.dropbox.com/s/h6375ihduam5egz/melanoma.tab?raw=1",
-    "size": 6421
+    "url": "https://datasets.biolab.si/core/melanoma.tab",
+    "size": 6433
 }

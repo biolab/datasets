@@ -17,6 +17,6 @@
     "missing": false,
     "variables": 10,
     "source": "<a href='https://rdrr.io/cran/TH.data/man/GBSG2.html'>Torsten Hothorn Data Archive</a>",
-    "url": "https://www.dropbox.com/s/5nalxnh0k5hj290/gbsg2.tab?raw=1",
-    "size": 30845
+    "url": "https://datasets.biolab.si/core/gbsg2.tab",
+    "size": 29153
 }

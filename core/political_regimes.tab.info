@@ -3,7 +3,7 @@
     "title": "Classification of political regimes as democracy and dictatorship",
     "description": "Classification of political regimes as democracy and dictatorship. Classification of democracies as parliamentary, semi-presidential (mixed) and presidential. Classification of dictatorships as military, civilian and royal. Coverage: 202 countries, from 1946 or year of independence to 2008.",
     "references": [
-        "Cheibub, José Antonio, Jennifer Gandhi, and James Raymond Vreeland. 2010. 'Democracy and Dictatorship Revisited.' Public Choice, vol. 143, no. 2-1, pp. 67-101."
+        "Cheibub, Jos\u00e9 Antonio, Jennifer Gandhi, and James Raymond Vreeland. 2010. 'Democracy and Dictatorship Revisited.' Public Choice, vol. 143, no. 2-1, pp. 67-101."
     ],
     "tags": [
         "survival analysis",
@@ -16,6 +16,6 @@
     "missing": false,
     "variables": 12,
     "source": "<a href='https://raw.githubusercontent.com/CamDavidsonPilon/lifelines/master/lifelines/datasets/dd.csv>lifelines</a>",
-    "url": "https://www.dropbox.com/s/ydmdq2laxsmwtwk/political_regimes.tab?raw=1",
-    "size": 281008
+    "url": "https://datasets.biolab.si/core/political_regimes.tab",
+    "size": 281044
 }
