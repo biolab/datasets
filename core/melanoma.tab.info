@@ -2,22 +2,20 @@
     "name": "melanoma",
     "title": "Survival from Malignant Melanoma",
     "description": "The Melanoma data frame has data on 205 patients in Denmark with malignant melanoma.",
-    "collection": "CRAN",
     "references": [
         "P. K. Andersen, O. Borgan, R. D. Gill and N. Keiding (1993) Statistical Models based on Counting Processes. Springer."
     ],
     "tags": [
         "survival analysis",
-        "time-to-event",
         "censoring"
     ],
     "target": "",
-    "version": "1.0",
+    "version": "1.1",
     "year": 1993,
     "instances": 205,
     "missing": false,
     "variables": 7,
-    "source": "<a href='https://rdrr.io/cran/MASS/man/Melanoma.html>Modern Applied Statistics with S (4th edition, 2002)</a>",
-    "url": "https://datasets.biolab.si/core/melanoma.tab",
+    "source": "<a href='https://rdrr.io/cran/MASS/man/Melanoma.html'>Modern Applied Statistics with S (4th edition, 2002).</a>",
+    "url": "https://www.dropbox.com/s/h6375ihduam5egz/melanoma.tab?raw=1",
     "size": 6421
 }
