@@ -1498,7 +1498,7 @@
             "instances": 1808,
             "missing": false,
             "variables": 12,
-            "source": "<a href='https://raw.githubusercontent.com/CamDavidsonPilon/lifelines/master/lifelines/datasets/dd.csv>lifelines</a>",
+            "source": "<a href='https://raw.githubusercontent.com/CamDavidsonPilon/lifelines/master/lifelines/datasets/dd.csv'>lifelines</a>",
             "url": "https://datasets.biolab.si/core/political_regimes.tab",
             "size": 281044
         }
