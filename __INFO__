@@ -432,14 +432,14 @@
                 "censoring"
             ],
             "target": "",
-            "version": "1.0",
+            "version": "1.1",
             "year": 2021,
             "instances": 1904,
             "missing": true,
             "variables": 24403,
             "source": "<a href='https://www.cbioportal.org/study/summary?id=brca_metabric'>cBioPortal</a>",
             "url": "https://datasets.biolab.si/core/brca_metabric.pkl.gz",
-            "size": 55317
+            "size": 142899745
         }
     ],
     [
