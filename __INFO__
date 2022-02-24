@@ -415,6 +415,36 @@
     [
         [
             "core",
+            "brca_metabric.pkl.gz"
+        ],
+        {
+            "name": "brca_metabric",
+            "title": "Breast Cancer (METABRIC)",
+            "description": "Targeted sequencing of 2509 primary breast tumors with 548 matched normals. Log-transformed mRNA z-Scores compared to the expression distribution of all samples (Illumina Human v3 microarray)",
+            "references": [
+                "Curtis, Christina et al. \u201cThe genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups.\u201d Nature vol. 486,7403 346-52. 18 Apr. 2012, doi:10.1038/nature10983",
+                "Rueda, Oscar M et al. \u201cDynamics of breast-cancer relapse reveal late-recurring ER-positive genomic subgroups.\u201d Nature vol. 567,7748 (2019): 399-404. doi:10.1038/s41586-019-1007-8",
+                "Pereira, Bernard et al. \u201cThe somatic mutation profiles of 2,433 breast cancers refines their genomic and transcriptomic landscapes.\u201d Nature communications vol. 7 11479. 10 May. 2016, doi:10.1038/ncomms11479"
+            ],
+            "tags": [
+                "gene expression",
+                "survival analysis",
+                "censoring"
+            ],
+            "target": "",
+            "version": "1.0",
+            "year": 2021,
+            "instances": 1904,
+            "missing": true,
+            "variables": 24403,
+            "source": "<a href='https://www.cbioportal.org/study/summary?id=brca_metabric'>cBioPortal</a>",
+            "url": "https://datasets.biolab.si/core/brca_metabric.pkl.gz",
+            "size": 55317
+        }
+    ],
+    [
+        [
+            "core",
             "breast-cancer-wisconsin.tab"
         ],
         {
