@@ -4,19 +4,19 @@
     "name": "HDI",
     "title": "HDI",
     "instances": 188,
-    "variables": 66,
-    "missing": false,
-    "target": "numeric",
-    "size": 66650,
+    "variables": 52,
+    "missing": true,
+    "target": null,
+    "size": 82407,
     "year": 2016,
-    "version": "1.0",
+    "version": "2.0",
     "tags": [
         "economy",
         "geo"
     ],
     "references": [],
     "source": "<a href='http://hdr.undp.org/en/data'>Human Development Data (1990-2015)</a>",
-    "url": "https://datasets.biolab.si/core/HDI.tab",
+    "url": "http://file.biolab.si/datasets/hdi.xlsx",
     "seealso": [
         "<a href='https://blog.biolab.si/2018/07/17/data-mining-and-machine-learning-for-economists/'>Data Mining and Machine Learning for Economists</a>."
     ]
