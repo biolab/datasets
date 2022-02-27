@@ -90,12 +90,12 @@
             "name": "HDI",
             "title": "HDI",
             "instances": 188,
-            "variables": 66,
-            "missing": false,
-            "target": "numeric",
-            "size": 66650,
+            "variables": 52,
+            "missing": true,
+            "target": null,
+            "size": 82407,
             "year": 2016,
-            "version": "1.0",
+            "version": "2.0",
             "tags": [
                 "economy",
                 "geo"
