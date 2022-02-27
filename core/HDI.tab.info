@@ -16,7 +16,7 @@
     ],
     "references": [],
     "source": "<a href='http://hdr.undp.org/en/data'>Human Development Data (1990-2015)</a>",
-    "url": "http://file.biolab.si/datasets/hdi.xlsx",
+    "url": "http://file.biolab.si/datasets/hdi.tab",
     "seealso": [
         "<a href='https://blog.biolab.si/2018/07/17/data-mining-and-machine-learning-for-economists/'>Data Mining and Machine Learning for Economists</a>."
     ]
