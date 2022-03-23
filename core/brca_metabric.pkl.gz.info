@@ -1,7 +1,7 @@
 {
     "name": "brca_metabric",
     "title": "Breast Cancer (METABRIC)",
-    "description": "Targeted sequencing of 2509 primary breast tumors with 548 matched normals. Log-transformed mRNA z-Scores compared to the expression distribution of all samples (Illumina Human v3 microarray)",
+    "description": "Survival data for 1904 patients with primary breast tumors. Contains 35 clinical features and expression data for 24368 genes. Log-transformed mRNA z-Scores compared to the expression distribution of all samples (Illumina Human v3 microarray)",
     "references": [
         "Curtis, Christina et al. \u201cThe genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups.\u201d Nature vol. 486,7403 346-52. 18 Apr. 2012, doi:10.1038/nature10983",
         "Rueda, Oscar M et al. \u201cDynamics of breast-cancer relapse reveal late-recurring ER-positive genomic subgroups.\u201d Nature vol. 567,7748 (2019): 399-404. doi:10.1038/s41586-019-1007-8",
@@ -13,12 +13,11 @@
         "censoring"
     ],
     "target": "",
-    "version": "1.1",
+    "version": "1.2",
     "year": 2021,
     "instances": 1904,
     "missing": true,
     "variables": 24403,
     "source": "<a href='https://www.cbioportal.org/study/summary?id=brca_metabric'>cBioPortal</a>",
-    "url": "https://datasets.biolab.si/core/brca_metabric.pkl.gz",
-    "size": 142899745
+    "url": "https://file.biolab.si/tmp/brca_metabric.pkl.gz"
 }
