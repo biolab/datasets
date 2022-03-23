@@ -19,5 +19,6 @@
     "missing": true,
     "variables": 24403,
     "source": "<a href='https://www.cbioportal.org/study/summary?id=brca_metabric'>cBioPortal</a>",
-    "url": "https://file.biolab.si/tmp/brca_metabric.pkl.gz"
+    "url": "https://datasets.biolab.si/core/brca_metabric.pkl.gz",
+    "size": 142871615
 }
