@@ -10,7 +10,7 @@
         "Li, Hongjie, et al. Classifying Drosophila olfactory projection neuron subtypes by single-cell RNA sequencing. Cell 171.5 (2017): 1206-1220."
     ],
     "size": 24587348,
-    "source": "<a href='https://www.ebi.ac.uk/gxa/sc/experiments/E-GEOD-100058/Results'>EBI</a>",
+    "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE100058'>EBI</a>",
     "tags": [
         "drosophila-melanogaster",
         "expression",
