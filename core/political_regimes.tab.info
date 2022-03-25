@@ -1,7 +1,7 @@
 {
     "name": "political_regimes",
-    "title": "Classification of political regimes as democracy and dictatorship",
-    "description": "Classification of political regimes as democracy and dictatorship. Classification of democracies as parliamentary, semi-presidential (mixed) and presidential. Classification of dictatorships as military, civilian and royal. Coverage: 202 countries, from 1946 or year of independence to 2008.",
+    "title": "Democracy-Dictatorship: Classification of political regimes as democracy and dictatorship",
+    "description": "Classification of political regimes as democracy and dictatorship for 202 countries from 1946 or year of independence to 2008. Classification of democracies as parliamentary, semi-presidential (mixed) and presidential. Classification of dictatorships as military, civilian and royal. Includes 1808 instances with 12 features.",
     "references": [
         "Cheibub, Jos\u00e9 Antonio, Jennifer Gandhi, and James Raymond Vreeland. 2010. 'Democracy and Dictatorship Revisited.' Public Choice, vol. 143, no. 2-1, pp. 67-101."
     ],

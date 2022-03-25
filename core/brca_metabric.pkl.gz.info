@@ -1,6 +1,6 @@
 {
     "name": "brca_metabric",
-    "title": "Breast Cancer (METABRIC)",
+    "title": "METABRIC: Molecular Taxonomy of Breast Cancer International Consortium",
     "description": "Survival data for 1904 patients with primary breast tumors. Contains 35 clinical features and expression data for 24368 genes. Log-transformed mRNA z-Scores compared to the expression distribution of all samples (Illumina Human v3 microarray)",
     "references": [
         "Curtis, Christina et al. \u201cThe genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups.\u201d Nature vol. 486,7403 346-52. 18 Apr. 2012, doi:10.1038/nature10983",
@@ -19,6 +19,9 @@
     "missing": true,
     "variables": 24403,
     "source": "<a href='https://www.cbioportal.org/study/summary?id=brca_metabric'>cBioPortal</a>",
+    "seealso": [
+        "https://figshare.com/articles/journal_contribution/S1_File_-/13708393"
+    ],
     "url": "https://datasets.biolab.si/core/brca_metabric.pkl.gz",
     "size": 142871615
 }

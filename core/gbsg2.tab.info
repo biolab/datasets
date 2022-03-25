@@ -1,7 +1,7 @@
 {
     "name": "gbsg2",
-    "title": "German Breast Cancer Study Group 2",
-    "description": "Survival data for 686 female patients from the German Breast Cancer Study Group 2. Includes 10 features (Recurrence Free Survival Time, Recurrence Event, Menopausal Status, Age of the Patient, Tumor Grade, Hormonal Therapy, Tumor Size, Number of Positive Nodes, Progesterone Receptor, Estrogen Receptor).",
+    "title": "German BC2: German Breast Cancer Study Group 2",
+    "description": "Survival data for 686 female patients from the German Breast Cancer Study Group 2. Contains 10 features (Recurrence Free Survival Time, Recurrence Event, Menopausal Status, Age of the Patient, Tumor Grade, Hormonal Therapy, Tumor Size, Number of Positive Nodes, Progesterone Receptor, Estrogen Receptor).",
     "references": [
         "W. Sauerbrei and P. Royston (1999). Building multivariable prognostic and diagnostic models: transformation of the predictors by using fractional polynomials. Journal of the Royal Statistics Society Series A, Volume 162(1), 71\u201394.",
         "M. Schumacher, G. Basert, H. Bojar, K. Huebner, M. Olschewski, W. Sauerbrei, C. Schmoor, C. Beyerle, R.L.A. Neumann and H.F. Rauschecker for the German Breast Cancer Study Group (1994), Randomized 2\times2 trial evaluating hormonal treatment and the duration of chemotherapy in node-positive breast cancer patients. Journal of Clinical Oncology, 12, 2086\u20132093."
