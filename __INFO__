@@ -420,7 +420,7 @@
         {
             "name": "brca_metabric",
             "title": "Breast Cancer (METABRIC)",
-            "description": "Targeted sequencing of 2509 primary breast tumors with 548 matched normals. Log-transformed mRNA z-Scores compared to the expression distribution of all samples (Illumina Human v3 microarray)",
+            "description": "Survival data for 1904 patients with primary breast tumors. Contains 35 clinical features and expression data for 24368 genes. Log-transformed mRNA z-Scores compared to the expression distribution of all samples (Illumina Human v3 microarray)",
             "references": [
                 "Curtis, Christina et al. \u201cThe genomic and transcriptomic architecture of 2,000 breast tumours reveals novel subgroups.\u201d Nature vol. 486,7403 346-52. 18 Apr. 2012, doi:10.1038/nature10983",
                 "Rueda, Oscar M et al. \u201cDynamics of breast-cancer relapse reveal late-recurring ER-positive genomic subgroups.\u201d Nature vol. 567,7748 (2019): 399-404. doi:10.1038/s41586-019-1007-8",
@@ -432,14 +432,14 @@
                 "censoring"
             ],
             "target": "",
-            "version": "1.1",
+            "version": "1.2",
             "year": 2021,
             "instances": 1904,
             "missing": true,
             "variables": 24403,
             "source": "<a href='https://www.cbioportal.org/study/summary?id=brca_metabric'>cBioPortal</a>",
             "url": "https://datasets.biolab.si/core/brca_metabric.pkl.gz",
-            "size": 142899745
+            "size": 142871615
         }
     ],
     [
@@ -817,7 +817,7 @@
         {
             "name": "gbsg2",
             "title": "German Breast Cancer Study Group 2",
-            "description": "A dataset containing the observations from the German Breast Cancer Study Group.",
+            "description": "Survival data for 686 female patients from the German Breast Cancer Study Group 2. Includes 10 features (Recurrence Free Survival Time, Recurrence Event, Menopausal Status, Age of the Patient, Tumor Grade, Hormonal Therapy, Tumor Size, Number of Positive Nodes, Progesterone Receptor, Estrogen Receptor).",
             "references": [
                 "W. Sauerbrei and P. Royston (1999). Building multivariable prognostic and diagnostic models: transformation of the predictors by using fractional polynomials. Journal of the Royal Statistics Society Series A, Volume 162(1), 71\u201394.",
                 "M. Schumacher, G. Basert, H. Bojar, K. Huebner, M. Olschewski, W. Sauerbrei, C. Schmoor, C. Beyerle, R.L.A. Neumann and H.F. Rauschecker for the German Breast Cancer Study Group (1994), Randomized 2\times2 trial evaluating hormonal treatment and the duration of chemotherapy in node-positive breast cancer patients. Journal of Clinical Oncology, 12, 2086\u20132093."
@@ -827,14 +827,14 @@
                 "censoring"
             ],
             "target": "",
-            "version": "1.1",
+            "version": "1.2",
             "year": 1994,
             "instances": 686,
             "missing": false,
             "variables": 10,
             "source": "<a href='https://rdrr.io/cran/TH.data/man/GBSG2.html'>Torsten Hothorn Data Archive</a>",
             "url": "https://datasets.biolab.si/core/gbsg2.tab",
-            "size": 29153
+            "size": 30294
         }
     ],
     [
