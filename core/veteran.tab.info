@@ -16,5 +16,6 @@
     "missing": false,
     "variables": 8,
     "source": "<a href='https://rdrr.io/cran/survival/man/veteran.html'>A package for survival analysis in R</a>",
-    "url": "https://file.biolab.si/tmp/veteran.tab"
+    "url": "https://datasets.biolab.si/core/veteran.tab",
+    "size": 5067
 }
