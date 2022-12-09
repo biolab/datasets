@@ -10,3 +10,4 @@ sc/*.xlsx
 sc/*.basket
 sc/*.gz
 sc/*.pickle
+.DS_Store
