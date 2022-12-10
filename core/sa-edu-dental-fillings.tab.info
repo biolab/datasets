@@ -1,0 +1,19 @@
+{
+    "name": "sa-edu-dental-fillings",
+    "title": "SA: Dental Fillings Dataset",
+    "description": "Toy survival dataset containing data from 20 people regarding how long their dental fillings stayed in place over an observation window of 10 years. It includes four features: Time, Event (dental filling falls out = 1, censoring = 0), Type of material (composite, ceramic), Brushing time (time spent on dental hygiene daily).",
+    "references": [],
+    "tags": [
+        "survival analysis",
+        "censoring"
+    ],
+    "target": "",
+    "version": "1.2",
+    "year": 2022,
+    "instances": 20,
+    "missing": false,
+    "variables": 4,
+    "source": "",
+    "url": "https://www.dropbox.com/s/v14uaquh5fbzfv9/sa-lecture-1.2.tab?raw=1",
+    "size": 698
+}
