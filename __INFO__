@@ -56,32 +56,6 @@
     [
         [
             "core",
-            "GDS4182-small.tab"
-        ],
-        {
-            "collection": "GEO",
-            "description": "Gene expression data from analysis of bone marrow mononuclear cells from untreated patients with AML-MRC (AML with myelodysplasia-related changes) and from the combined group AML-NOS plus AML-MLD-sole on the basis of cytogenetics or a myelodysplastic syndrome (MDS) history. Only 1,000 randomly selected genes (features) were retained from original data set to reduce the data size.",
-            "name": "GDS4182-small",
-            "title": "Bone marrow mononuclear cells with AML",
-            "instances": 96,
-            "variables": 1000,
-            "missing": false,
-            "target": "categorical",
-            "size": 595921,
-            "year": 2011,
-            "version": "1.0",
-            "tags": [
-                "genomics"
-            ],
-            "references": [],
-            "source": "<a href='https://www.ncbi.nlm.nih.gov/sites/GDSbrowser?acc=GDS4182'>Gene Expression Omnibus GDS4182</a>",
-            "url": "https://datasets.biolab.si/core/GDS4182-small.tab",
-            "seealso": []
-        }
-    ],
-    [
-        [
-            "core",
             "HDI.tab"
         ],
         {
@@ -749,7 +723,7 @@
                 "ecology"
             ],
             "references": [],
-            "source": "<a href='http://register.ocistimo.si'>Dumpsite Registry of Slovenia</a>",
+            "source": "<a href='http://ocistimo.si/register-divjih-odlagalisc.html'>Dumpsite Registry of Slovenia</a>",
             "url": "https://datasets.biolab.si/core/ewba-slovenia-illegal-dumpsites.tab",
             "seealso": []
         }
@@ -1623,6 +1597,31 @@
             "seealso": [
                 "<a href='https://blog.biolab.si/2017/11/17/data-mining-business-public-administration/'>Data Mining for Business and Administration</a>."
             ]
+        }
+    ],
+    [
+        [
+            "core",
+            "sa-edu-dental-fillings.tab"
+        ],
+        {
+            "name": "sa-edu-dental-fillings",
+            "title": "SA: Dental Fillings Dataset",
+            "description": "Toy survival dataset containing data from 20 people regarding how long their dental fillings stayed in place over an observation window of 10 years. It includes four features: Time, Event (dental filling falls out = 1, censoring = 0), Type of material (composite, ceramic), Brushing time (time spent on dental hygiene daily).",
+            "references": [],
+            "tags": [
+                "survival analysis",
+                "censoring"
+            ],
+            "target": "",
+            "version": "1.2",
+            "year": 2022,
+            "instances": 20,
+            "missing": false,
+            "variables": 4,
+            "source": "",
+            "url": "https://datasets.biolab.si/core/sa-edu-dental-fillings.tab",
+            "size": 698
         }
     ],
     [
