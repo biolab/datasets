@@ -1614,14 +1614,14 @@
                 "censoring"
             ],
             "target": "",
-            "version": "1.3",
-            "year": 2022,
+            "version": "1.4",
+            "year": 2023,
             "instances": 20,
             "missing": false,
             "variables": 4,
             "source": "",
             "url": "https://datasets.biolab.si/core/sa-edu-dental-fillings.tab",
-            "size": 691
+            "size": 594
         }
     ],
     [
