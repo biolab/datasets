@@ -1,0 +1,20 @@
+{
+    "name": "sa-edu-TCGA-CESC",
+    "title": "SA: TCGA CESC",
+    "description": "Survival dataset from The  consisting of 306 samples from patients with cervival cancer. The dataset contains the survival time and event variable as well as expression values for 23368 genes.",
+    "references": [],
+    "tags": [
+        "survival analysis",
+        "gene expression",
+        "censoring"
+    ],
+    "target": "",
+    "version": "1.0",
+    "year": 2023,
+    "instances": 306,
+    "missing": false,
+    "variables": 23368,
+    "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62944",
+    "url": "https://www.dropbox.com/s/i9ti9ujaca7pjhr/sa-edu-TCGA-CESC.tab?raw=1",
+}
+
