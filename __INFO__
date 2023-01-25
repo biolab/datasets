@@ -1602,6 +1602,32 @@
     [
         [
             "core",
+            "sa-edu-TCGA-CESC.tab"
+        ],
+        {
+            "name": "sa-edu-TCGA-CESC",
+            "title": "SA: TCGA-CESC",
+            "description": "Survival dataset from The Cancer Genome Atlas Program (TCGA) consisting of 306 samples from patients with cervival cancer. Besides the survival time and event features it contains expression data for 23368 genes. Gene expression counts are stored as transcripts per million (TPM).",
+            "references": [],
+            "tags": [
+                "survival analysis",
+                "gene expression",
+                "censoring"
+            ],
+            "target": "",
+            "version": "1.0",
+            "year": 2023,
+            "instances": 306,
+            "missing": false,
+            "variables": 23368,
+            "source": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62944",
+            "url": "https://datasets.biolab.si/core/sa-edu-TCGA-CESC.tab",
+            "size": 108018572
+        }
+    ],
+    [
+        [
+            "core",
             "sa-edu-dental-fillings.tab"
         ],
         {
