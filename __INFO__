@@ -1602,6 +1602,32 @@
     [
         [
             "core",
+            "sa-edu-TCGA-BRCA.pkl"
+        ],
+        {
+            "name": "sa-edu-TCGA-BRCA",
+            "title": "SA: TCGA-BRCA",
+            "description": "Survival dataset from The Cancer Genome Atlas Program (TCGA) consisting of 1119 samples from patients with breast cancer. Besides the survival time and event features it contains expression data for 22826 genes. Gene expression counts are stored as transcripts per million (TPM).",
+            "references": [],
+            "tags": [
+                "survival analysis",
+                "gene expression",
+                "censoring"
+            ],
+            "target": "",
+            "version": "1.0",
+            "year": 2015,
+            "instances": 1119,
+            "missing": false,
+            "variables": 22829,
+            "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE62944'</a>",
+            "url": "https://datasets.biolab.si/core/sa-edu-TCGA-BRCA.pkl",
+            "size": 206502504
+        }
+    ],
+    [
+        [
+            "core",
             "sa-edu-TCGA-CESC.tab"
         ],
         {
