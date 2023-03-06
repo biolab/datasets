@@ -1,0 +1,21 @@
+{
+    "collection": "",
+    "description": "Anonimiziran (zašumljen) vzorec podatkov o lokacijah bivališč oseb z 200 najpogostejšimi slovenskimi priimki",
+    "name": "priimki-slovenija",
+    "title": "Priimki po Sloveniji",
+    "instances": 103530,
+    "variables": 4,
+    "missing": false,
+    "target": null,
+    "size": 5730017,
+    "year": 2023,
+    "version": "1.0",
+    "tags": [
+        "geo"
+    ],
+    "references": [],
+    "source": "",
+    "url": "https://drive.google.com/file/d/1hq1oenCMJpmKTO4xTdqMLlrKif65aI86/view?usp=sharing",
+    "seealso": [],
+    "language": "Slovenščina"
+}
