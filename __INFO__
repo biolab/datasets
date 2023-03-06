@@ -1540,6 +1540,33 @@
     [
         [
             "core",
+            "priimki-v-obcinah.tab"
+        ],
+        {
+            "collection": "",
+            "description": "Vzorec \u0161tevila prebivalcev z 200 najpogostej\u0161imi priimki po slovenskih ob\u010dinah",
+            "name": "priimki-v-obcinah",
+            "title": "Razpored najpogostej\u0161ih priimki v slovenskih ob\u010dinah",
+            "instances": 193,
+            "variables": 207,
+            "missing": false,
+            "target": null,
+            "size": 174887,
+            "year": 2023,
+            "version": "1.0",
+            "tags": [
+                "geo"
+            ],
+            "references": [],
+            "source": "",
+            "url": "https://datasets.biolab.si/core/priimki-v-obcinah.tab",
+            "seealso": [],
+            "language": "Sloven\u0161\u010dina"
+        }
+    ],
+    [
+        [
+            "core",
             "primary-tumor.tab"
         ],
         {
