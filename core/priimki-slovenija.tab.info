@@ -1,13 +1,13 @@
 {
     "collection": "",
-    "description": "Anonimiziran (zašumljen) vzorec podatkov o lokacijah bivališč oseb z 200 najpogostejšimi slovenskimi priimki",
+    "description": "Anonimiziran (za\u0161umljen) vzorec podatkov o lokacijah bivali\u0161\u010d oseb z 200 najpogostej\u0161imi slovenskimi priimki",
     "name": "priimki-slovenija",
     "title": "Priimki po Sloveniji",
     "instances": 103530,
     "variables": 4,
     "missing": false,
     "target": null,
-    "size": 5730017,
+    "size": 74394,
     "year": 2023,
     "version": "1.0",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "https://drive.google.com/file/d/1hq1oenCMJpmKTO4xTdqMLlrKif65aI86/view?usp=sharing",
+    "url": "https://datasets.biolab.si/core/priimki-slovenija.tab",
     "seealso": [],
-    "language": "Slovenščina"
+    "language": "Sloven\u0161\u010dina"
 }
