@@ -1,0 +1,21 @@
+{
+    "collection": "",
+    "description": "Vzorec števila prebivalcev z 200 najpogostejšimi priimki po slovenskih občinah",
+    "name": "priimki-v-obcinah",
+    "title": "Razpored najpogostejših priimki v slovenskih občinah",
+    "instances": 193,
+    "variables": 207,
+    "missing": false,
+    "target": null,
+    "size": 74394,
+    "year": 2023,
+    "version": "1.0",
+    "tags": [
+        "geo"
+    ],
+    "references": [],
+    "source": "",
+    "url": "https://drive.google.com/uc?export=download&id=1OG7-rnr_SU7IszzuFt-VmCC6dGCfVsQI",
+    "seealso": [],
+    "language": "Slovenščina"
+}
