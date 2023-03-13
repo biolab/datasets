@@ -7,7 +7,7 @@
     "variables": 207,
     "missing": false,
     "target": null,
-    "size": 174887,
+    "size": 837904,
     "year": 2023,
     "version": "1.1",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "https://www.dropbox.com/s/7dw9z4o61wfbyu8/priimki-v-obcinah.tab?dl=0",
+    "url": "https://datasets.biolab.si/core/priimki-v-obcinah.tab",
     "seealso": [],
     "language": "Sloven\u0161\u010dina"
 }
