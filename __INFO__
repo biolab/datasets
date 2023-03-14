@@ -1517,7 +1517,7 @@
         ],
         {
             "collection": "",
-            "description": "Anonimiziran (za\u0161umljen) vzorec podatkov o lokacijah bivali\u0161\u010d oseb z 200 najpogostej\u0161imi slovenskimi priimki",
+            "description": "Anonimiziran (za\u0161umljen) vzorec podatkov o lokacijah bivali\u0161\u010d oseb z 200 najpogostej\u0161imi slovenskimi priimki.",
             "name": "priimki-slovenija",
             "title": "Priimki po Sloveniji",
             "instances": 103530,
@@ -1544,16 +1544,16 @@
         ],
         {
             "collection": "",
-            "description": "Vzorec \u0161tevila prebivalcev z 200 najpogostej\u0161imi priimki po slovenskih ob\u010dinah",
+            "description": "Vzorec \u0161tevila prebivalcev z 200 najpogostej\u0161imi priimki po slovenskih ob\u010dinah.",
             "name": "priimki-v-obcinah",
             "title": "Pogostosti priimkov po ob\u010dinah",
             "instances": 193,
             "variables": 207,
             "missing": false,
             "target": null,
-            "size": 837904,
+            "size": 174035,
             "year": 2023,
-            "version": "1.1",
+            "version": "1.2",
             "tags": [
                 "geo"
             ],
