@@ -1,6 +1,6 @@
 {
     "collection": "",
-    "description": "Anonimiziran (za\u0161umljen) vzorec podatkov o lokacijah bivali\u0161\u010d oseb z 200 najpogostej\u0161imi slovenskimi priimki",
+    "description": "Anonimiziran (za\u0161umljen) vzorec podatkov o lokacijah bivali\u0161\u010d oseb z 200 najpogostej\u0161imi slovenskimi priimki.",
     "name": "priimki-slovenija",
     "title": "Priimki po Sloveniji",
     "instances": 103530,
