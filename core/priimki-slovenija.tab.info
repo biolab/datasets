@@ -7,7 +7,7 @@
     "variables": 4,
     "missing": false,
     "target": null,
-    "size": 5730071,
+    "size": 5733576,
     "year": 2023,
     "version": "1.1",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "https://file.biolab.si/tmp/priimki-slovenija.tab",
+    "url": "https://datasets.biolab.si/core/priimki-slovenija.tab",
     "seealso": [],
     "language": "Sloven\u0161\u010dina"
 }
