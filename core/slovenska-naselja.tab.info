@@ -1,13 +1,13 @@
 {
     "collection": "",
-    "description": "Zemljepisne koordinate, občina, pokrajina, površina, število prebivalcev in nadmorska višina za (skoraj) vsa naselja v Sloveniji",
+    "description": "Zemljepisne koordinate, ob\u010dina, pokrajina, povr\u0161ina, \u0161tevilo prebivalcev in nadmorska vi\u0161ina za (skoraj) vsa naselja v Sloveniji",
     "name": "slovenska-naselja",
     "title": "Slovenska naselja",
     "instances": 6002,
     "variables": 8,
     "missing": false,
     "target": null,
-    "size": 176133,
+    "size": 492354,
     "year": 2023,
     "version": "1.0",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "https://sl.wikipedia.org/wiki/Seznam_naselij_v_Sloveniji",
-    "url": "https://file.biolab.si/tmp/naselja.tab",
+    "url": "https://datasets.biolab.si/core/slovenska-naselja.tab",
     "seealso": [],
     "language": "Sloven\u0161\u010dina"
 }
