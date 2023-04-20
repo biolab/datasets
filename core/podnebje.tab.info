@@ -1,0 +1,21 @@
+{
+    "collection": "UCI",
+    "description": "Zbirka podatkov o mestih, njihovih podnebnih lastnosti in pripadajoče podnebje. Zbirka vsebuje 11 spremenljivk, ki opisujejo podnebne lastnosti mest: rekordno visoka temperatura [°C], povprečno visoka temperatura [°C], dnevno temperaturno povprečje [°C], povprečno nizka temperatura [°C], rekordno nizka temperatura [°C], povprečne padavine [mm], število deževnih dni, število sneženih dni, povprečna relativna vlaga (%), povprečne mesečne ure sonca, povprečni ultravijolični indeks. Za vsako mesto je nato zapisano, v katero podnebje ga uvrščamo. Vsako mesto ima zapisano tudi svojo zemljepisno dolžino in širino.",
+    "name": "podnebje",
+    "title": "Podnebje evropskih mest",
+    "instances": 41,
+    "variables": 16,
+    "missing": true,
+    "target": null,
+    "size": 0,
+    "year": 2015,
+    "version": "1.0",
+    "tags": [
+        "geografija"
+    ],
+    "references": [],
+    "source": "",
+    "url": "https://file.biolab.si/tmp/podnebje.tab",
+    "seealso": [],
+    "language": "Sloven\u0161\u010dina"
+}

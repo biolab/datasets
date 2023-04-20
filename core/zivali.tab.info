@@ -1,0 +1,21 @@
+{
+    "collection": "UCI",
+    "description": "Zbirka podatkov o živalih, njihovih lastnosti in pripadajoči vrsti. Zbirka vsebuje 17 spremenljivk, ki opisujejo lastnosti živali: ali ima dlako, perje, vali jajca, daje mleko, leti, je vodna, je plenilec, ima zobe, hrbtenico, diha, je strupena, ima plavuti, noge, rep, je domača, majhna. Za vsako žival pa je nato zapisano v katero vrsto spada.",
+    "name": "zivali",
+    "title": "Živali",
+    "instances": 100,
+    "variables": 18,
+    "missing": false,
+    "target": "categorical",
+    "size": 0,
+    "year": 1990,
+    "version": "1.0",
+    "tags": [
+        "biologija"
+    ],
+    "references": [],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
+    "url": "https://file.biolab.si/tmp/zivali.tab",
+    "seealso": [],
+    "language": "Sloven\u0161\u010dina"
+}
