@@ -1,13 +1,13 @@
 {
     "collection": "UNDP Human Development Reports",
-    "description": "Indeks človeškega razvoja (HDI) je skupno merilo povprečnih dosežkov na ključnih področjih človeškega razvoja: dolgo in zdravo življenje, znanje in dostojno življenje. Podatki vključujejo HDI, kot je bil sporočen leta 2015, in izbrane povezane socialno-ekonomske podatke za države po vsem svetu. Odstranili smo spremenljivke ekvivalentne indeksu HDI in države z manjkajočim rezultatom HDI.",
+    "description": "Indeks \u010dlove\u0161kega razvoja (HDI) je skupno merilo povpre\u010dnih dose\u017ekov na klju\u010dnih podro\u010djih \u010dlove\u0161kega razvoja: dolgo in zdravo \u017eivljenje, znanje in dostojno \u017eivljenje. Podatki vklju\u010dujejo HDI, kot je bil sporo\u010den leta 2015, in izbrane povezane socialno-ekonomske podatke za dr\u017eave po vsem svetu. Odstranili smo spremenljivke ekvivalentne indeksu HDI in dr\u017eave z manjkajo\u010dim rezultatom HDI.",
     "name": "hdi-slo",
-    "title": "Indeks človeškega razvoja (HDI)",
+    "title": "Indeks \u010dlove\u0161kega razvoja (HDI)",
     "instances": 188,
     "variables": 53,
     "missing": true,
     "target": null,
-    "size": 0,
+    "size": 55678,
     "year": 2015,
     "version": "1.0",
     "tags": [
@@ -16,7 +16,7 @@
     ],
     "references": [],
     "source": "<a href='https://www.kaggle.com/datasets/undp/human-development'>Human Development Data (1990-2015)</a>",
-    "url": "https://file.biolab.si/tmp/hdi-slo.tab",
+    "url": "https://datasets.biolab.si/core/hdi-slo.tab",
     "seealso": [],
     "language": "Sloven\u0161\u010dina"
 }

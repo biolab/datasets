@@ -1,13 +1,13 @@
 {
     "collection": "UCI",
-    "description": "Zbirka podatkov o mestih, njihovih podnebnih lastnosti in pripadajoče podnebje. Zbirka vsebuje 11 spremenljivk, ki opisujejo podnebne lastnosti mest: rekordno visoka temperatura [°C], povprečno visoka temperatura [°C], dnevno temperaturno povprečje [°C], povprečno nizka temperatura [°C], rekordno nizka temperatura [°C], povprečne padavine [mm], število deževnih dni, število sneženih dni, povprečna relativna vlaga (%), povprečne mesečne ure sonca, povprečni ultravijolični indeks. Za vsako mesto je nato zapisano, v katero podnebje ga uvrščamo. Vsako mesto ima zapisano tudi svojo zemljepisno dolžino in širino.",
+    "description": "Zbirka podatkov o mestih, njihovih podnebnih lastnosti in pripadajo\u010de podnebje. Zbirka vsebuje 11 spremenljivk, ki opisujejo podnebne lastnosti mest: rekordno visoka temperatura [\u00b0C], povpre\u010dno visoka temperatura [\u00b0C], dnevno temperaturno povpre\u010dje [\u00b0C], povpre\u010dno nizka temperatura [\u00b0C], rekordno nizka temperatura [\u00b0C], povpre\u010dne padavine [mm], \u0161tevilo de\u017eevnih dni, \u0161tevilo sne\u017eenih dni, povpre\u010dna relativna vlaga (%), povpre\u010dne mese\u010dne ure sonca, povpre\u010dni ultravijoli\u010dni indeks. Za vsako mesto je nato zapisano, v katero podnebje ga uvr\u0161\u010damo. Vsako mesto ima zapisano tudi svojo zemljepisno dol\u017eino in \u0161irino.",
     "name": "podnebje",
     "title": "Podnebje evropskih mest",
     "instances": 41,
     "variables": 16,
     "missing": true,
     "target": null,
-    "size": 0,
+    "size": 4578,
     "year": 2015,
     "version": "1.0",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "",
-    "url": "https://file.biolab.si/tmp/podnebje.tab",
+    "url": "https://datasets.biolab.si/core/podnebje.tab",
     "seealso": [],
     "language": "Sloven\u0161\u010dina"
 }

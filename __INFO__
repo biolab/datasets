@@ -64,12 +64,12 @@
             "name": "HDI",
             "title": "HDI",
             "instances": 188,
-            "variables": 52,
+            "variables": 53,
             "missing": true,
             "target": null,
             "size": 46317,
             "year": 2015,
-            "version": "3.0",
+            "version": "3.1",
             "tags": [
                 "economy",
                 "geo"
@@ -928,6 +928,34 @@
     [
         [
             "core",
+            "hdi-slo.tab"
+        ],
+        {
+            "collection": "UNDP Human Development Reports",
+            "description": "Indeks \u010dlove\u0161kega razvoja (HDI) je skupno merilo povpre\u010dnih dose\u017ekov na klju\u010dnih podro\u010djih \u010dlove\u0161kega razvoja: dolgo in zdravo \u017eivljenje, znanje in dostojno \u017eivljenje. Podatki vklju\u010dujejo HDI, kot je bil sporo\u010den leta 2015, in izbrane povezane socialno-ekonomske podatke za dr\u017eave po vsem svetu. Odstranili smo spremenljivke ekvivalentne indeksu HDI in dr\u017eave z manjkajo\u010dim rezultatom HDI.",
+            "name": "hdi-slo",
+            "title": "Indeks \u010dlove\u0161kega razvoja (HDI)",
+            "instances": 188,
+            "variables": 53,
+            "missing": true,
+            "target": null,
+            "size": 55678,
+            "year": 2015,
+            "version": "1.0",
+            "tags": [
+                "ekonomija",
+                "geografija"
+            ],
+            "references": [],
+            "source": "<a href='https://www.kaggle.com/datasets/undp/human-development'>Human Development Data (1990-2015)</a>",
+            "url": "https://datasets.biolab.si/core/hdi-slo.tab",
+            "seealso": [],
+            "language": "Sloven\u0161\u010dina"
+        }
+    ],
+    [
+        [
+            "core",
             "heart_disease.tab"
         ],
         {
@@ -1405,6 +1433,32 @@
     [
         [
             "core",
+            "nba.tab"
+        ],
+        {
+            "collection": "",
+            "description": "Database of basketball players and their characteristics. The database contains 16 variables describing the characteristics of each player: Position, Team, Age, Height, Weight, Hand, 3P%, 2P%, FT%, TRB, AST, STL, BLK, TOV, PF, PTS.",
+            "name": "nba",
+            "title": "NBA Players",
+            "instances": 248,
+            "variables": 17,
+            "missing": true,
+            "target": "categorical",
+            "size": 21748,
+            "year": 2023,
+            "version": "1.0",
+            "tags": [
+                "sport"
+            ],
+            "references": [],
+            "source": "<a href='https://www.basketball-reference.com/leagues/NBA_2023_totals.html'>Basketball References NBA 2023</a> (January 2023, mid season 2022/23)",
+            "url": "https://datasets.biolab.si/core/nba.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
             "oocyte-competence.xlsx"
         ],
         {
@@ -1455,6 +1509,33 @@
             "source": "",
             "url": "https://datasets.biolab.si/core/philadelphia-crime.csv.xz",
             "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "podnebje.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Zbirka podatkov o mestih, njihovih podnebnih lastnosti in pripadajo\u010de podnebje. Zbirka vsebuje 11 spremenljivk, ki opisujejo podnebne lastnosti mest: rekordno visoka temperatura [\u00b0C], povpre\u010dno visoka temperatura [\u00b0C], dnevno temperaturno povpre\u010dje [\u00b0C], povpre\u010dno nizka temperatura [\u00b0C], rekordno nizka temperatura [\u00b0C], povpre\u010dne padavine [mm], \u0161tevilo de\u017eevnih dni, \u0161tevilo sne\u017eenih dni, povpre\u010dna relativna vlaga (%), povpre\u010dne mese\u010dne ure sonca, povpre\u010dni ultravijoli\u010dni indeks. Za vsako mesto je nato zapisano, v katero podnebje ga uvr\u0161\u010damo. Vsako mesto ima zapisano tudi svojo zemljepisno dol\u017eino in \u0161irino.",
+            "name": "podnebje",
+            "title": "Podnebje evropskih mest",
+            "instances": 41,
+            "variables": 16,
+            "missing": true,
+            "target": null,
+            "size": 4578,
+            "year": 2015,
+            "version": "1.0",
+            "tags": [
+                "geografija"
+            ],
+            "references": [],
+            "source": "",
+            "url": "https://datasets.biolab.si/core/podnebje.tab",
+            "seealso": [],
+            "language": "Sloven\u0161\u010dina"
         }
     ],
     [
@@ -2169,6 +2250,33 @@
     [
         [
             "core",
+            "zivali.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Zbirka podatkov o \u017eivalih, njihovih lastnosti in pripadajo\u010di vrsti. Zbirka vsebuje 17 spremenljivk, ki opisujejo lastnosti \u017eivali: ali ima dlako, perje, vali jajca, daje mleko, leti, je vodna, je plenilec, ima zobe, hrbtenico, diha, je strupena, ima plavuti, noge, rep, je doma\u010da, majhna. Za vsako \u017eival pa je nato zapisano v katero vrsto spada.",
+            "name": "zivali",
+            "title": "\u017divali",
+            "instances": 100,
+            "variables": 18,
+            "missing": false,
+            "target": "categorical",
+            "size": 6713,
+            "year": 1990,
+            "version": "1.0",
+            "tags": [
+                "biologija"
+            ],
+            "references": [],
+            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
+            "url": "https://datasets.biolab.si/core/zivali.tab",
+            "seealso": [],
+            "language": "Sloven\u0161\u010dina"
+        }
+    ],
+    [
+        [
+            "core",
             "zoo.tab"
         ],
         {
@@ -2176,13 +2284,13 @@
             "description": "A dataset created by Richard Forsyth contains seventeen binary-valued attributes that describe animals. Features include information about presence of hair, feathers and teeth, report if animal is aquatic or airborn, and alike. Animals are named and are classified into seven categories: amphibian, bird, fish, insect, invertaebrate, mammal, and reptile.",
             "name": "zoo",
             "title": "Zoo",
-            "instances": 101,
-            "variables": 17,
+            "instances": 100,
+            "variables": 18,
             "missing": false,
             "target": "categorical",
             "size": 7133,
             "year": 1990,
-            "version": "1.0",
+            "version": "1.1",
             "tags": [
                 "biology"
             ],
