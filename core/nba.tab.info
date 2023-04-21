@@ -1,0 +1,20 @@
+{
+    "collection": "",
+    "description": "Database of basketball players and their characteristics. The database contains 16 variables describing the characteristics of each player: Position, Team, Age, Height, Weight, Hand, 3P%, 2P%, FT%, TRB, AST, STL, BLK, TOV, PF, PTS.",
+    "name": "nba",
+    "title": "NBA Players",
+    "instances": 248,
+    "variables": 17,
+    "missing": true,
+    "target": "categorical",
+    "size": 0,
+    "year": 2023,
+    "version": "1.0",
+    "tags": [
+        "sport"
+    ],
+    "references": [],
+    "source": "<a href='https://www.basketball-reference.com/leagues/NBA_2023_totals.html'>Basketball References NBA 2023</a> (January 2023, mid season 2022/23)",
+    "url": "https://file.biolab.si/tmp/nba.tab",
+    "seealso": []
+}
