@@ -1,0 +1,20 @@
+{
+    "collection": "UCI",
+    "description": "Database of European cities, their climatic characteristics and associated climate. The database contains 11 variables describing the climatic characteristics of cities: record high temperature [°C], average high temperature [°C], daily average temperature [°C], average low temperature [°C], record low temperature [°C], average precipitation [mm], number of rainy days, number of snowy days, average relative humidity (%), average monthly sunshine hours, average ultraviolet index. For each city, it is then noted in which climate it is classified. Each city is also given its geographical longitude and latitude.",
+    "name": "climate-europe",
+    "title": "Climate of European cities",
+    "instances": 41,
+    "variables": 16,
+    "missing": true,
+    "target": null,
+    "size": 0,
+    "year": 2015,
+    "version": "1.0",
+    "tags": [
+        "geography"
+    ],
+    "references": [],
+    "source": "",
+    "url": "https://file.biolab.si/tmp/climate-europe.tab",
+    "seealso": []
+}
