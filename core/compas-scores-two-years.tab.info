@@ -1,0 +1,24 @@
+{
+    "collection": "ProPublica",
+    "description": "With the COMPAS dataset, we can predict the likelihood of a defendant becoming a recidivist. The data contains various attributes: age, race, sex, priors count, charge degree, and more. The data was, in detail, analyzed by ProPublica, which identified racial disparities in its predictions. We have included all date/time features as meta attributes. When addressing fairness, \"race\" is often considered the protected attribute, with \"Caucasian\" being the privileged value. In some studies, \"sex\" is also treated as the protected attribute, designating \"female\" as the privileged value.",
+    "name": "compas-scores-two-years",
+    "title": "COMPAS Analysis",
+    "instances": 7214,
+    "variables": 52,
+    "missing": true,
+    "target": "categorical",
+    "size": 2786914,
+    "year": 2014,
+    "version": "1.0",
+    "tags": [
+        "criminal justice",
+        "fairness"
+    ],
+    "references": [
+        "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/",
+        "https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm/"
+    ],
+    "source": "<a href='https://github.com/propublica/compas-analysis'>ProPublica GitHub Repository</a>",
+    "url": "https://www.dropbox.com/scl/fi/9grj1t0mhzblhtp5z0rxf/compas-scores-two-years.tab?rlkey=axe6q07zcx98cesdwfzeli8a4&dl=1",
+    "seealso": []
+}
