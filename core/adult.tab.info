@@ -15,7 +15,7 @@
         "fairness"
     ],
     "references": [
-        "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. AProceedings of the Second International Conference on Knowledge Discovery and Data Mining."
+        "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. Proceedings of the Second International Conference on Knowledge Discovery and Data Mining."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
     "url": "https://www.dropbox.com/scl/fi/oyddsxe0pliwf4bw6ge97/adult.tab?rlkey=bkvuye7lpxepvsvrwx2f34jfz&dl=1",
