@@ -11,7 +11,7 @@ Each data set is described with a record that contains the following attributes:
 * references: any references to essential publications of the data set
 * tags: a list of tags
 * target: the type of target variable ("categorical", "numeric", or null)
-* version:  data set version
+* version:  data set version (used for caching in the Data Set widget)
 * year: year when the data set was first published
 * instances: number of data instances
 * missing: does data contain any missing values?
