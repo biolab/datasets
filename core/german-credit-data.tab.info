@@ -7,7 +7,7 @@
     "variables": 21,
     "missing": false,
     "target": "categorical",
-    "size": 182882,
+    "size": 181879,
     "year": 1994,
     "version": "1.0",
     "tags": [
@@ -18,6 +18,6 @@
         "Hofmann,Hans. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77."
     ],
     "source": "<a href='http://archive.ics.uci.edu/dataset/144/statlog+german+credit+data'>UCI ML Repository</a>",
-    "url": "https://www.dropbox.com/scl/fi/xavrluuxo3g0j9jm8679l/german-credit-data.tab?rlkey=plnegt8034f2gwkby8vpn5kys&dl=1",
+    "url": "https://datasets.biolab.si/core/german-credit-data.tab",
     "seealso": []
 }

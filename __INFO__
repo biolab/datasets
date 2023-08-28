@@ -171,21 +171,22 @@
         ],
         {
             "collection": "UCI",
-            "description": "Extraction was done by Barry Becker from the 1994 Census database. A set of reasonably clean records was extracted using the following conditions: ((AAGE>16) && (AGI>100) && (AFNLWGT>1)&& (HRSWK>0)). Prediction task is to determine whether a person makes over 50K a year.",
+            "description": "Data extracted by Barry Becker from the 1994 Census database so that ((AAGE>16) & (AGI>100) & (AFNLWGT>1) & (HRSWK>0)). The prediction task is determining whether a person makes over 50K yearly. Regarding fairness, \"sex\" is frequently considered the protected attribute, with \"male\" as the privileged value. Similarly, \"race\" and \"age\" can be treated as protected attributes. For \"race,\" \"white\" is the privileged value, and for \"age,\" the specified group is between 25 and 60 years.",
             "name": "adult",
             "title": "Adult",
             "instances": 32561,
             "variables": 15,
             "missing": true,
             "target": "categorical",
-            "size": 4301202,
+            "size": 4301256,
             "year": 1996,
             "version": "1.0",
             "tags": [
-                "economy"
+                "economy",
+                "fairness"
             ],
             "references": [
-                "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. AProceedings of the Second International Conference on Knowledge Discovery and Data Mining."
+                "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. Proceedings of the Second International Conference on Knowledge Discovery and Data Mining."
             ],
             "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
             "url": "https://datasets.biolab.si/core/adult.tab",
@@ -593,6 +594,62 @@
     [
         [
             "core",
+            "climate-europe.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "Database of European cities, their climatic characteristics and associated climate. The database contains 11 variables describing the climatic characteristics of cities: record high temperature [\u00b0C], average high temperature [\u00b0C], daily average temperature [\u00b0C], average low temperature [\u00b0C], record low temperature [\u00b0C], average precipitation [mm], number of rainy days, number of snowy days, average relative humidity (%), average monthly sunshine hours, average ultraviolet index. For each city, it is then noted in which climate it is classified. Each city is also given its geographical longitude and latitude.",
+            "name": "climate-europe",
+            "title": "Climate of European cities",
+            "instances": 41,
+            "variables": 16,
+            "missing": true,
+            "target": null,
+            "size": 4478,
+            "year": 2015,
+            "version": "1.0",
+            "tags": [
+                "geography"
+            ],
+            "references": [],
+            "source": "",
+            "url": "https://datasets.biolab.si/core/climate-europe.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
+            "compas-scores-two-years.tab"
+        ],
+        {
+            "collection": "ProPublica",
+            "description": "With the COMPAS dataset, we can predict the likelihood of a defendant becoming a recidivist. The data contains various attributes: age, race, sex, priors count, charge degree, and more. The data was, in detail, analyzed by ProPublica, which identified racial disparities in its predictions. We have included all date/time features as meta attributes. When addressing fairness, \"race\" is often considered the protected attribute, with \"Caucasian\" being the privileged value. In some studies, \"sex\" is also treated as the protected attribute, designating \"female\" as the privileged value.",
+            "name": "compas-scores-two-years",
+            "title": "COMPAS Analysis",
+            "instances": 7214,
+            "variables": 52,
+            "missing": true,
+            "target": "categorical",
+            "size": 2779697,
+            "year": 2014,
+            "version": "1.0",
+            "tags": [
+                "criminal justice",
+                "fairness"
+            ],
+            "references": [
+                "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/",
+                "https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm/"
+            ],
+            "source": "<a href='https://github.com/propublica/compas-analysis'>ProPublica GitHub Repository</a>",
+            "url": "https://datasets.biolab.si/core/compas-scores-two-years.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
             "conferences.tab"
         ],
         {
@@ -817,6 +874,35 @@
     [
         [
             "core",
+            "german-credit-data.tab"
+        ],
+        {
+            "collection": "UCI",
+            "description": "The data categorizes individuals, based on various attributes, into good or bad credit risks. Attributes contain categorical and numeric features such as age, job, credit history, and personal status. In classification, misclassifying a \"bad\" customer as \"good\" is more problematic than misclassifying a good customer as bad. Regarding fairness, \"sex\" is the protected attribute, with \"male\" as the privileged value. Additionally, we can regard age as a protected attribute after binarizing it into two groups: <=25 and >25 years old.",
+            "name": "german-credit-data",
+            "title": "German Credit Data",
+            "instances": 1000,
+            "variables": 21,
+            "missing": false,
+            "target": "categorical",
+            "size": 181879,
+            "year": 1994,
+            "version": "1.0",
+            "tags": [
+                "finance",
+                "fairness"
+            ],
+            "references": [
+                "Hofmann,Hans. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77."
+            ],
+            "source": "<a href='http://archive.ics.uci.edu/dataset/144/statlog+german+credit+data'>UCI ML Repository</a>",
+            "url": "https://datasets.biolab.si/core/german-credit-data.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
             "glass.tab"
         ],
         {
@@ -928,6 +1014,33 @@
     [
         [
             "core",
+            "hdi-edu.tab"
+        ],
+        {
+            "collection": "UNDP Human Development Reports",
+            "description": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, knowledge, and decent living. The data includes HDI as reported in 2015 and selected related socioeconomic from countries worldwide. We have removed HDI-related variables and countries with a missing HDI score. This dataset is used in the \"Socio-economic characteristics of countries\" activity on the pumice.si website.",
+            "name": "hdi-edu",
+            "title": "HDI-edu",
+            "instances": 188,
+            "variables": 53,
+            "missing": true,
+            "target": null,
+            "size": 55489,
+            "year": 2015,
+            "version": "1.0",
+            "tags": [
+                "economy",
+                "geography"
+            ],
+            "references": [],
+            "source": "<a href='https://www.kaggle.com/datasets/undp/human-development'>Human Development Data (1990-2015)</a>",
+            "url": "https://datasets.biolab.si/core/hdi-edu.tab",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
             "hdi-slo.tab"
         ],
         {
@@ -939,9 +1052,9 @@
             "variables": 53,
             "missing": true,
             "target": null,
-            "size": 55678,
+            "size": 50534,
             "year": 2015,
-            "version": "1.0",
+            "version": "1.1",
             "tags": [
                 "ekonomija",
                 "geografija"
@@ -1341,7 +1454,7 @@
             "references": [
                 "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
             ],
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
+            "source": "<a href='https://archive.ics.uci.edu/dataset/70/monk+s+problems'>UCI ML Repository</a>",
             "url": "https://datasets.biolab.si/core/monks-1.tab",
             "seealso": []
         }
@@ -1369,7 +1482,7 @@
             "references": [
                 "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
             ],
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
+            "source": "<a href='https://archive.ics.uci.edu/dataset/70/monk+s+problems'>UCI ML Repository</a>",
             "url": "https://datasets.biolab.si/core/monks-2.tab",
             "seealso": []
         }
@@ -1397,7 +1510,7 @@
             "references": [
                 "The MONK's Problems - A Performance Comparison of Different Learning Algorithms, by S.B. Thrun, J. Bala, E. Bloedorn, I. Bratko, B. Cestnik, J. Cheng, K. De Jong, S. Dzeroski, S.E. Fahlman, D. Fisher, R. Hamann, K. Kaufman, S. Keller, I. Kononenko, J. Kreuziger, R.S. Michalski, T. Mitchell, P. Pachowicz, Y. Reich H. Vafaie, W. Van de Welde, W. Wenzel, J. Wnek, and J. Zhang. Technical Report CS-CMU-91-197, Carnegie Mellon University, Dec. 1991."
             ],
-            "source": "<a href='https://archive.ics.uci.edu/ml/datasets/MONK%27s+Problems'>UCI ML Repository</a>",
+            "source": "<a href='https://archive.ics.uci.edu/dataset/70/monk+s+problems'>UCI ML Repository</a>",
             "url": "https://datasets.biolab.si/core/monks-3.tab",
             "seealso": []
         }
