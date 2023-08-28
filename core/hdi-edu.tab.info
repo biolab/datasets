@@ -1,6 +1,6 @@
 {
     "collection": "UNDP Human Development Reports",
-    "description": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, knowledge, and decent living. The data includes HDI as reported in 2015 and selected related socioeconomic from countries worldwide. We have removed HDI-related variables and countries with a missing HDI score. This dataset is used in the "Socio-economic characteristics of countries" activity on the pumice.si website.",
+    "description": "The Human Development Index (HDI) is a summary measure of average achievement in key dimensions of human development: a long and healthy life, knowledge, and decent living. The data includes HDI as reported in 2015 and selected related socioeconomic from countries worldwide. We have removed HDI-related variables and countries with a missing HDI score. This dataset is used in the \"Socio-economic characteristics of countries\" activity on the pumice.si website.",
     "name": "hdi-edu",
     "title": "HDI-edu",
     "instances": 188,
