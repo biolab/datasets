@@ -1,0 +1,23 @@
+{
+    "collection": "UCI",
+    "description": "The data categorizes individuals, based on various attributes, into good or bad credit risks. Attributes contain categorical and numeric features such as age, job, credit history, and personal status. In classification, misclassifying a \"bad\" customer as \"good\" is more problematic than misclassifying a good customer as bad. Regarding fairness, \"sex\" is the protected attribute, with \"male\" as the privileged value. Additionally, we can regard age as a protected attribute after binarizing it into two groups: <=25 and >25 years old.",
+    "name": "german-credit-data",
+    "title": "German Credit Data",
+    "instances": 1000,
+    "variables": 21,
+    "missing": false,
+    "target": "categorical",
+    "size": 182882,
+    "year": 1994,
+    "version": "1.0",
+    "tags": [
+        "finance",
+        "fairness"
+    ],
+    "references": [
+        "Hofmann,Hans. (1994). Statlog (German Credit Data). UCI Machine Learning Repository. https://doi.org/10.24432/C5NC77."
+    ],
+    "source": "<a href='http://archive.ics.uci.edu/dataset/144/statlog+german+credit+data'>UCI ML Repository</a>",
+    "url": "https://www.dropbox.com/scl/fi/xavrluuxo3g0j9jm8679l/german-credit-data.tab?rlkey=plnegt8034f2gwkby8vpn5kys&dl=1",
+    "seealso": []
+}
