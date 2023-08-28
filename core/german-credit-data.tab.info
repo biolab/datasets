@@ -1,7 +1,7 @@
 {
     "collection": "UCI",
     "description": "The data categorizes individuals, based on various attributes, into good or bad credit risks. Attributes contain categorical and numeric features such as age, job, credit history, and personal status. In classification, misclassifying a \"bad\" customer as \"good\" is more problematic than misclassifying a good customer as bad. Regarding fairness, \"sex\" is the protected attribute, with \"male\" as the privileged value. Additionally, we can regard age as a protected attribute after binarizing it into two groups: <=25 and >25 years old.",
-    "name": "statlog-german-credit-data",
+    "name": "german-credit-data",
     "title": "German Credit Data",
     "instances": 1000,
     "variables": 21,
