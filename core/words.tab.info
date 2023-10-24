@@ -1,0 +1,21 @@
+{
+    "collection": "",
+    "description": "ChatGPT-generated dataset of random English words, in the alphabetical order.",
+    "name": "words",
+    "title": "English Words",
+    "instances": 150,
+    "variables": 1,
+    "missing": false,
+    "target": "",
+    "size": 10854,
+    "year": 2023,
+    "version": "1.0",
+    "tags": [
+        "synthetic",
+        "text"
+    ],
+    "references": [],
+    "source": "",
+    "url": "http://file.biolab.si/files/datasets/words.xlsx",
+    "seealso": []
+}
