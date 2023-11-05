@@ -1,0 +1,20 @@
+{
+    "collection": "data.world",
+    "description": "Nutritional information for selected raw fruits, vegetables and seafood. The data is borrowed from data.world, where it was created by Adam Helsinger. Where values are given in both mass and percent of daily value, the former is retained and the latter is moved to the meta-attribute.",
+    "name": "food-nutrition-info",
+    "title": "Food Nutrition Information",
+    "instances": 61,
+    "variables": 15,
+    "missing": false,
+    "target": "categorical",
+    "size": 6684,
+    "year": 2017,
+    "version": "1.0",
+    "tags": [
+        "biology"
+    ],
+    "references": [],
+    "source": "<a href='https://data.world/adamhelsinger/food-nutrition-information'>Food Nutrition Information by Adam Helsinger</a>",
+    "url": "http://file.biolab.si/datasets/food-nutrition-info.tab",
+    "seealso": []
+}
