@@ -828,7 +828,7 @@
             "variables": 15,
             "missing": false,
             "target": "categorical",
-            "size": 17118,
+            "size": 6684,
             "year": 2017,
             "version": "1.0",
             "tags": [
