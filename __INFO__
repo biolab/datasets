@@ -817,7 +817,7 @@
     [
         [
             "core",
-            "food-nutrition-info"
+            "food-nutrition-info.tab"
         ],
         {
             "collection": "data.world",
@@ -836,7 +836,7 @@
             ],
             "references": [],
             "source": "<a href='https://data.world/adamhelsinger/food-nutrition-information'>Food Nutrition Information by Adam Helsinger</a>",
-            "url": "https://datasets.biolab.si/core/food-nutrition-info",
+            "url": "https://datasets.biolab.si/core/food-nutrition-info.tab",
             "seealso": []
         }
     ],
