@@ -7,7 +7,7 @@
     "variables": 15,
     "missing": false,
     "target": "categorical",
-    "size": 17118,
+    "size": 6684,
     "year": 2017,
     "version": "1.0",
     "tags": [
@@ -15,6 +15,6 @@
     ],
     "references": [],
     "source": "<a href='https://data.world/adamhelsinger/food-nutrition-information'>Food Nutrition Information by Adam Helsinger</a>",
-    "url": "http://file.biolab.si/datasets/food-nutrition-info.xlsx",
+    "url": "http://file.biolab.si/datasets/food-nutrition-info.tab",
     "seealso": []
 }
