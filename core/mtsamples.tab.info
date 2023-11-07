@@ -1,0 +1,20 @@
+{
+    "name": "mtsamples",
+    "title": "mtsamples",
+    "description": "A sample of 950 medical transcriptions from three categories (from the original 40) -- Cardiovascular/Pulmonary, Neurology, and Orthopedic. Each document is a transcription of a medical report. Each document is equipped with keywords for potential keyword analysis.",
+    "references": [],
+    "tags": [
+        "text",
+        "classification",
+        "medical"
+    ],
+    "target": "categorical",
+    "version": "1.0",
+    "year": 2023,
+    "instances": 950,
+    "missing": true,
+    "variables": 4,
+    "source": "https://mtsamples.com/",
+    "url": "http://file.biolab.si/files/datasets/mtsamples.tab",
+    "size": 3455067
+}
