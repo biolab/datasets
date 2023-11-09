@@ -15,6 +15,6 @@
     "missing": true,
     "variables": 4,
     "source": "https://mtsamples.com/",
-    "url": "http://file.biolab.si/files/datasets/mtsamples.tab",
+    "url": "https://datasets.biolab.si/core/mtsamples.tab",
     "size": 3455067
 }
