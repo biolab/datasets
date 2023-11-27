@@ -1,0 +1,24 @@
+{
+    "collection": "",
+    "description": "A subset of BBC news articles, containing categories business, entertainment, and sport from 2004-2005. These datasets are made available for non-commercial and research purposes only. All rights, including copyright, in the content of the original articles are owned by the BBC.",
+    "name": "BBC3",
+    "title": "BBC3",
+    "instances": 1407,
+    "variables": 2,
+    "missing": false,
+    "target": "categorical",
+    "size": 2757246,
+    "year": 2006,
+    "version": "1.0",
+    "tags": [
+        "text",
+        "classification",
+        "news"
+    ],
+    "references": [
+        "D. Greene and P. Cunningham. [Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering](http://mlg.ucd.ie/files/publications/greene06icml.pdf), Proc. ICML 2006."
+    ],
+    "source": "<a href='http://mlg.ucd.ie/datasets/bbc.html'>ML Resources</a>",
+    "url": "http://file.biolab.si/files/datasets/BBC3.tab",
+    "seealso": []
+}
