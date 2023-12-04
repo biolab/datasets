@@ -2314,7 +2314,7 @@
         ],
         {
             "name": "veteran",
-            "title": "Veteranc LC: Veterans Administration Lung Cancer Study",
+            "title": "Veterans Administration Lung Cancer Study",
             "description": "Randomized trial of two treatment regimens for lung cancer. This is a standard survival analysis data set. Includes 137 instances with 8 features (Survival Time, Survival Event, Cell Type, Time from Diagnosis, Treatment, Age, Karnofsky performance score, Prior Therapy).",
             "references": [
                 "D Kalbfleisch and RL Prentice (1980), The Statistical Analysis of Failure Time Data. Wiley, New York."
@@ -2324,14 +2324,14 @@
                 "censoring"
             ],
             "target": "",
-            "version": "1.1",
+            "version": "1.2",
             "year": 1980,
             "instances": 137,
             "missing": false,
             "variables": 8,
             "source": "<a href='https://rdrr.io/cran/survival/man/veteran.html'>A package for survival analysis in R</a>",
             "url": "https://datasets.biolab.si/core/veteran.tab",
-            "size": 5067
+            "size": 5490
         }
     ],
     [
