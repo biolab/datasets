@@ -6,7 +6,7 @@
     "instances": 9666,
     "variables": 4,
     "missing": false,
-    "target": "categorical",
+    "target": "",
     "size": 92660,
     "year": 2016,
     "version": "1.0",
