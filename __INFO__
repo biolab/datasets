@@ -13,9 +13,9 @@
             "variables": 3,
             "missing": false,
             "target": "categorical",
-            "size": 2754481,
+            "size": 2754486,
             "year": 2006,
-            "version": "2.0",
+            "version": "2.1",
             "tags": [
                 "text",
                 "classification",

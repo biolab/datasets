@@ -19,6 +19,6 @@
         "D. Greene and P. Cunningham. [Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering](http://mlg.ucd.ie/files/publications/greene06icml.pdf), Proc. ICML 2006."
     ],
     "source": "<a href='http://mlg.ucd.ie/datasets/bbc.html'>ML Resources</a>",
-    "url": "http://file.biolab.si/files/datasets/bbc3.tab",
+    "url": "https://datasets.biolab.si/core/BBC3.tab",
     "seealso": []
 }
