@@ -8,7 +8,7 @@
     ],
     "seealso": [],
     "size": 353229,
-    "source": "<a href='https://www.10xgenomics.com/resources/datasets?menu%5Bproducts.name%5D=Single+Cell+Gene+Expression'>10x Genomics</a>",
+    "source": "<a href='https://www.10xgenomics.com/datasets?menu%5Bproducts.name%5D=Single%20Cell%20Gene%20Expression&query=&page=1&configure%5BhitsPerPage%5D=50&configure%5BmaxValuesPerFacet%5D=1000'>10x Genomics</a>",
     "tags": [
         "aml",
         "expression",
