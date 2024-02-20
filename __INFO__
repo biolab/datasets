@@ -1738,36 +1738,6 @@
     [
         [
             "core",
-            "pima-indians-diabetes.xlsx"
-        ],
-        {
-            "collection": "UCI",
-            "description": "The goal of the dataset is to assess if we can predict whether or not a patient has diabetes based on diagnostic measures that include the number of pregnancies the person has had, their body mass index, insulin levels, and age. Several restrictions were placed on the selection of subjects for this study. Specifically, all patients are women at least 21 years of age of Pima Indian descent.",
-            "name": "pima-indians-diabetes",
-            "title": "Pima Indians Diabetes",
-            "instances": 768,
-            "variables": 9,
-            "missing": true,
-            "target": "categorical",
-            "size": 93607,
-            "year": 1988,
-            "version": "1.3",
-            "tags": [
-                "medicine"
-            ],
-            "references": [
-                "Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proc. of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press."
-            ],
-            "source": "<a href='https://archive.ics.uci.edu/ml/machine-learning-databases/00000/UCI%20Machine%20Learning%20Repository%20Diabetes%20Data%20Set.htm'>UCI ML Repository</a>",
-            "seealso": [
-                "<a href='https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download'>Pima Indians Diabetes Database on KAGGLE</a>."
-            ],
-            "url": "https://datasets.biolab.si/core/pima-indians-diabetes.xlsx"
-        }
-    ],
-    [
-        [
-            "core",
             "podnebje.tab"
         ],
         {
