@@ -7,7 +7,7 @@
     "variables": 9,
     "missing": true,
     "target": "categorical",
-    "size": 93607,
+    "size": 43830,
     "year": 1988,
     "version": "1.3",
     "tags": [
@@ -20,5 +20,5 @@
     "seealso": [
         "<a href='https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database?resource=download'>Pima Indians Diabetes Database on KAGGLE</a>."
     ],
-    "url": "http://file.biolab.si/datasets/pima-diabetes.xlsx"
+    "url": "https://datasets.biolab.si/core/pima-diabetes.xlsx"
 }
