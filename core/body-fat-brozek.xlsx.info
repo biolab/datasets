@@ -1,0 +1,18 @@
+{
+    "collection": "kaggle",
+    "description": "Lists estimates of the percentage of body fat determined by underwater and includes various body circumference measurements for 252 men. Use the data to determine if body fat can be estimated from body measurements. The data were generously provided by Dr. A. Garth Fisher, Human Performance Research Center, Brigham Young University, Provo, Utah 84602, who granted permission for the data to be freely distributed and used for non-commercial purposes.",
+    "name": "body-fat-brozek",
+    "title": "Body Fat Prediction",
+    "target": "numeric",
+    "year": 1985,
+    "version": "1.0",
+    "instances": 252,
+    "missing": false,
+    "variables": 16,
+    "tags": [
+        "health",
+    ],
+    "source": "<a href='https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset'>Body Fat Prediction Dataset on kaggle</a>",
+    "url": "http://file.biolab.si/datasets/body-fat-brozek.xlsx",
+    "size": 66394
+}
