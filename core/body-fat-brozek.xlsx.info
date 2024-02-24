@@ -8,7 +8,7 @@
     "version": "1.0",
     "instances": 252,
     "missing": false,
-    "variables": 16,
+    "variables": 14,
     "tags": [
         "health",
     ],
