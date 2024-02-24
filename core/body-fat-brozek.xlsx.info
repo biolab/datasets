@@ -13,6 +13,6 @@
         "health"
     ],
     "source": "<a href='https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset'>Body Fat Prediction Dataset on kaggle</a>",
-    "url": "http://file.biolab.si/datasets/body-fat-brozek.xlsx",
+    "url": "https://datasets.biolab.si/core/body-fat-brozek.xlsx",
     "size": 66394
 }
