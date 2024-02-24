@@ -13,6 +13,6 @@
         "economy"
     ],
     "source": "<a href='https://www.kaggle.com/datasets/marcopale/housing'>Ames Iowa Housing Data on kaggle</a>",
-    "url": "http://file.biolab.si/datasets/ames-iowa-housing.xlsx",
+    "url": "https://datasets.biolab.si/core/ames-iowa-housing.xlsx",
     "size": 851185
 }

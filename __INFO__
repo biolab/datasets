@@ -255,6 +255,30 @@
     [
         [
             "core",
+            "ames-iowa-housing.xlsx"
+        ],
+        {
+            "collection": "kaggle",
+            "description": "The Ames Housing dataset contains 79 explanatory variables describing (almost) every aspect of housing in Ames, Iowa, with the goal of predicting sales prices. This dataset is a great alternative to the popular but older Boston Housing dataset. The data was compiled by Dean De Cock in 2011 for use in data science education.",
+            "name": "ames-iowa-housing",
+            "title": "Ames Iowa Housing",
+            "target": "numeric",
+            "year": 2011,
+            "version": "1.0",
+            "instances": 2930,
+            "missing": true,
+            "variables": 81,
+            "tags": [
+                "economy"
+            ],
+            "source": "<a href='https://www.kaggle.com/datasets/marcopale/housing'>Ames Iowa Housing Data on kaggle</a>",
+            "url": "https://datasets.biolab.si/core/ames-iowa-housing.xlsx",
+            "size": 851185
+        }
+    ],
+    [
+        [
+            "core",
             "amphorae.tab"
         ],
         {
