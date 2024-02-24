@@ -8,9 +8,9 @@
     "version": "1.0",
     "instances": 252,
     "missing": false,
-    "variables": 16,
+    "variables": 14,
     "tags": [
-        "health",
+        "health"
     ],
     "source": "<a href='https://www.kaggle.com/datasets/fedesoriano/body-fat-prediction-dataset'>Body Fat Prediction Dataset on kaggle</a>",
     "url": "http://file.biolab.si/datasets/body-fat-brozek.xlsx",
