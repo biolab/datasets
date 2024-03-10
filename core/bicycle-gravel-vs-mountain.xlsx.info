@@ -1,7 +1,7 @@
 {
     "collection": "",
     "description": "Donated by Janez Demšar, this dataset records his bike rides in the year 2023. Each ride is characterized by five different features and labeled with the type of bike Janez used.",
-    "name": "bicycle-time-distance",
+    "name": "bicycle-gravel-vs-mountain",
     "title": "Gravel vs Mountain Bike Rides: Data from Strava",
     "instances": 98,
     "variables": 6,
