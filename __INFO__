@@ -450,9 +450,9 @@
         ],
         {
             "collection": "",
-            "description": "",
+            "description": "Donated by Janez Dem\u0161ar, this dataset records his bike rides in 2024, and includes the total time of the ride, the distance traveled, and the type of bike used.",
             "name": "bicycle-time-distance",
-            "title": "Donated by Janez Dem\u0161ar, this dataset records his bike rides in 2024, and includes the total time of the ride, the distance traveled, and the type of bike used.",
+            "title": "Gravel vs Mountain Bike Rides: Distance and Time",
             "instances": 98,
             "variables": 3,
             "missing": false,
