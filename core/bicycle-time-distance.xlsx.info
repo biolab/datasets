@@ -2,7 +2,7 @@
     "collection": "",
     "description": "",
     "name": "bicycle-time-distance",
-    "title": "Donated by Janez Demšar, this dataset records his bike rides in 2024, and includes the total time of the ride, the distance traveled, and the type of bike used.",
+    "title": "Donated by Janez Dem\u0161ar, this dataset records his bike rides in 2024, and includes the total time of the ride, the distance traveled, and the type of bike used.",
     "instances": 98,
     "variables": 3,
     "missing": false,
@@ -15,6 +15,6 @@
     ],
     "references": [],
     "source": "",
-    "url": "http://file.biolab.si/datasets/bicycle-time-distance.xlsx",
+    "url": "https://datasets.biolab.si/core/bicycle-time-distance.xlsx",
     "seealso": []
 }
