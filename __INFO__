@@ -446,11 +446,37 @@
     [
         [
             "core",
+            "bicycle-gravel-vs-mountain.xlsx"
+        ],
+        {
+            "collection": "",
+            "description": "Donated by Janez Dem\u0161ar, this dataset records his bike rides in the year 2023. Each ride is characterized by five different features and labeled with the type of bike Janez used.",
+            "name": "bicycle-gravel-vs-mountain",
+            "title": "Gravel vs Mountain Bike Rides: Data from Strava",
+            "instances": 98,
+            "variables": 6,
+            "missing": false,
+            "target": "categorical",
+            "size": 15621,
+            "year": 2024,
+            "version": "1.0",
+            "tags": [
+                "sport"
+            ],
+            "references": [],
+            "source": "",
+            "url": "https://datasets.biolab.si/core/bicycle-gravel-vs-mountain.xlsx",
+            "seealso": []
+        }
+    ],
+    [
+        [
+            "core",
             "bicycle-time-distance.xlsx"
         ],
         {
             "collection": "",
-            "description": "Donated by Janez Dem\u0161ar, this dataset records his bike rides in 2024, and includes the total time of the ride, the distance traveled, and the type of bike used.",
+            "description": "Donated by Janez Dem\u0161ar, this dataset records his bike rides in 2023, and includes the total time of the ride, the distance traveled, and the type of bike used.",
             "name": "bicycle-time-distance",
             "title": "Gravel vs Mountain Bike Rides: Distance and Time",
             "instances": 98,
