@@ -1,0 +1,20 @@
+{
+    "collection": "",
+    "description": "",
+    "name": "bicycle-time-distance",
+    "title": "Donated by Janez Demšar, this dataset records his bike rides in 2024, and includes the total time of the ride, the distance traveled, and the type of bike used.",
+    "instances": 98,
+    "variables": 3,
+    "missing": false,
+    "target": "categorical",
+    "size": 10859,
+    "year": 2024,
+    "version": "1.0",
+    "tags": [
+        "sport"
+    ],
+    "references": [],
+    "source": "",
+    "url": "http://file.biolab.si/datasets/bicycle-time-distance.xlsx",
+    "seealso": []
+}
