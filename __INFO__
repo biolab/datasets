@@ -457,7 +457,7 @@
             "variables": 6,
             "missing": false,
             "target": "categorical",
-            "size": 15621,
+            "size": 13691,
             "year": 2024,
             "version": "1.0",
             "tags": [
@@ -2350,7 +2350,7 @@
                 "churn",
                 "telecom"
             ],
-            "source": "<a href='https://www.kaggle.com/blastchar/telco-customer-churn'>Telco Customer Churn</a>",
+            "source": "<a href='https://www.kaggle.com/datasets/blastchar/telco-customer-churn'>Telco Customer Churn</a>",
             "url": "https://datasets.biolab.si/core/telecom-customer-churn.xlsx",
             "size": 722015
         }
