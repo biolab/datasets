@@ -15,8 +15,8 @@
         "fairness"
     ],
     "references": [
-        "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/",
-        "https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm/"
+        "Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). <a href='https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/'>Machine Bias.</a> ProPublica.",
+        "Larson, J., Mattu, S., Kirchner, L., & Angwin, J. (2016). <a href='https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm/'>How We Analyzed the COMPAS Recidivism Algorithm.</a> ProPublica."
     ],
     "source": "<a href='https://github.com/propublica/compas-analysis'>ProPublica GitHub Repository</a>",
     "url": "https://datasets.biolab.si/core/compas-scores-two-years.tab",
