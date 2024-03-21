@@ -230,16 +230,16 @@
         ],
         {
             "collection": "UCI",
-            "description": "Data extracted by Barry Becker from the 1994 Census database so that ((AAGE>16) & (AGI>100) & (AFNLWGT>1) & (HRSWK>0)). The prediction task is determining whether a person makes over 50K yearly. Regarding fairness, \"sex\" is frequently considered the protected attribute, with \"male\" as the privileged value. Similarly, \"race\" and \"age\" can be treated as protected attributes. For \"race,\" \"white\" is the privileged value, and for \"age,\" the specified group is between 25 and 60 years.",
+            "description": "Data extracted by Barry Becker from the 1994 Census database so that ((AAGE>16) & (AGI>100) & (AFNLWGT>1) & (HRSWK>0)). The prediction task is determining whether a person makes over 50K yearly. Regarding fairness, \"gender\" is frequently considered the protected attribute, with \"Male\" as the privileged value. Similarly, \"race\" and \"age\" can be treated as protected attributes. For \"race,\" \"Caucasian\" is the privileged value, and for \"age,\" the specified group is between 25 and 60 years.",
             "name": "adult",
-            "title": "Adult",
-            "instances": 32561,
+            "title": "Adult Census Income",
+            "instances": 48842,
             "variables": 15,
             "missing": true,
             "target": "categorical",
-            "size": 4301256,
+            "size": 5860112,
             "year": 1996,
-            "version": "1.1",
+            "version": "1.2",
             "tags": [
                 "economy",
                 "fairness"
@@ -798,8 +798,8 @@
                 "fairness"
             ],
             "references": [
-                "https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/",
-                "https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm/"
+                "Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). <a href='https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing/'>Machine Bias.</a> ProPublica.",
+                "Larson, J., Mattu, S., Kirchner, L., & Angwin, J. (2016). <a href='https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm/'>How We Analyzed the COMPAS Recidivism Algorithm.</a> ProPublica."
             ],
             "source": "<a href='https://github.com/propublica/compas-analysis'>ProPublica GitHub Repository</a>",
             "url": "https://datasets.biolab.si/core/compas-scores-two-years.tab",

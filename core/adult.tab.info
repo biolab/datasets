@@ -18,6 +18,6 @@
         "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. Proceedings of the Second International Conference on Knowledge Discovery and Data Mining."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
-    "url": "https://www.dropbox.com/scl/fi/r41ysj8umr52fwsl2qvb2/adult.tab?rlkey=wb2tt99zq9b84z8nxbx6yhg2b&dl=1",
+    "url": "https://datasets.biolab.si/core/adult.tab",
     "seealso": []
 }
