@@ -1,0 +1,21 @@
+{
+    "collection": "",
+    "description": "English words for fruit, vegetables and dairy products.",
+    "name": "words-food",
+    "title": "Food Words",
+    "instances": 108,
+    "variables": 2,
+    "missing": false,
+    "target": "1",
+    "size": 10820,
+    "year": 2024,
+    "version": "1.0",
+    "tags": [
+        "synthetic",
+        "text"
+    ],
+    "references": [],
+    "source": "",
+    "url": "http://file.biolab.si/files/words-food.xlsx",
+    "seealso": []
+}
