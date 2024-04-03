@@ -7,7 +7,7 @@
     "variables": 2,
     "missing": false,
     "target": "1",
-    "size": 10820,
+    "size": 10739,
     "year": 2024,
     "version": "1.0",
     "tags": [
@@ -16,6 +16,6 @@
     ],
     "references": [],
     "source": "",
-    "url": "http://file.biolab.si/files/words-food.xlsx",
+    "url": "https://datasets.biolab.si/core/words-food.xlsx",
     "seealso": []
 }
