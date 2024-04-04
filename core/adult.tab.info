@@ -7,9 +7,9 @@
     "variables": 15,
     "missing": true,
     "target": "categorical",
-    "size": 5860112,
+    "size": 5583320,
     "year": 1996,
-    "version": "1.2",
+    "version": "1.3",
     "tags": [
         "economy",
         "fairness"
@@ -18,6 +18,6 @@
         "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. Proceedings of the Second International Conference on Knowledge Discovery and Data Mining."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
-    "url": "https://datasets.biolab.si/core/adult.tab",
+    "url": "https://www.dropbox.com/scl/fi/9fcowlpzxympj43ufqjzr/adult_new.tab?rlkey=0l0gkglmckufvzaa6szq0sh1f&dl=1",
     "seealso": []
 }
