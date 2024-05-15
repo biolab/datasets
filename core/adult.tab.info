@@ -1,15 +1,15 @@
 {
     "collection": "UCI",
-    "description": "Data extracted by Barry Becker from the 1994 Census database so that ((AAGE>16) & (AGI>100) & (AFNLWGT>1) & (HRSWK>0)). The prediction task is determining whether a person makes over 50K yearly. Regarding fairness, \"gender\" is frequently considered the protected attribute, with \"Male\" as the privileged value. Similarly, \"race\" and \"age\" can be treated as protected attributes. For \"race,\" \"Caucasian\" is the privileged value, and for \"age,\" the specified group is between 25 and 60 years.",
+    "description": "Data extracted by Barry Becker from the 1994 Census database so that ((AAGE>16) & (AGI>100) & (AFNLWGT>1) & (HRSWK>0)). The prediction task is determining whether a person makes over 50K yearly. Regarding fairness, \"sex\" is frequently considered the protected attribute, with \"Male\" as the privileged value. Similarly, \"race\" and \"age\" can be treated as protected attributes. For \"race,\" \"Caucasian\" is the privileged value, and for \"age,\" the specified group is between 25 and 60 years.",
     "name": "adult",
     "title": "Adult Census Income",
     "instances": 48842,
     "variables": 15,
     "missing": true,
     "target": "categorical",
-    "size": 5583320,
+    "size": 5583317,
     "year": 1996,
-    "version": "1.3",
+    "version": "1.4",
     "tags": [
         "economy",
         "fairness"
@@ -18,6 +18,6 @@
         "Ron Kohavi (1996) Scaling Up the Accuracy of Naive-Bayes Classifiers: a Decision-Tree Hybrid. Proceedings of the Second International Conference on Knowledge Discovery and Data Mining."
     ],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/adult'>UCI ML Repository</a>",
-    "url": "https://datasets.biolab.si/core/adult.tab",
+    "url": "https://www.dropbox.com/scl/fi/87rksv3726htmzyc0dci8/adult_new.tab?rlkey=cri4llm77ujpvo6114qzhaonz&st=6ocpr7se&dl=1",
     "seealso": []
 }
