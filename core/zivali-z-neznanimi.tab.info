@@ -1,13 +1,13 @@
 {
     "collection": "UCI",
-    "description": "Zbirka podatkov o \u017eivalih, njihovih lastnosti in pripadajo\u010di vrsti. Zbirka vsebuje 17 spremenljivk, ki opisujejo lastnosti \u017eivali: ali ima dlako, perje, vali jajca, daje mleko, leti, je vodna, je plenilec, ima zobe, hrbtenico, diha, je strupena, ima plavuti, noge, rep, je doma\u010da, majhna. Za vsako \u017eival pa je nato zapisano v katero vrsto spada. Za 13 živali vrsta ni podana.",
+    "description": "Zbirka podatkov o \u017eivalih, njihovih lastnosti in pripadajo\u010di vrsti. Zbirka vsebuje 17 spremenljivk, ki opisujejo lastnosti \u017eivali: ali ima dlako, perje, vali jajca, daje mleko, leti, je vodna, je plenilec, ima zobe, hrbtenico, diha, je strupena, ima plavuti, noge, rep, je doma\u010da, majhna. Za vsako \u017eival pa je nato zapisano v katero vrsto spada. Za 13 \u017eivali vrsta ni podana.",
     "name": "zivali",
     "title": "\u017divali",
     "instances": 100,
     "variables": 18,
     "missing": false,
     "target": "categorical",
-    "size": 6713,
+    "size": 6917,
     "year": 1990,
     "version": "1.0",
     "tags": [
@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
-    "url": "https://file.biolab.si/datasets/zivali-neznane.tab",
+    "url": "https://datasets.biolab.si/core/zivali-z-neznanimi.tab",
     "seealso": [],
     "language": "Sloven\u0161\u010dina"
 }
