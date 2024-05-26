@@ -1,0 +1,21 @@
+{
+    "collection": "UCI",
+    "description": "Zbirka podatkov o \u017eivalih, njihovih lastnosti in pripadajo\u010di vrsti - v finščini. Uporabljamo jo lahko, da predstavimo, kako je videti analiza podatkov 'na slepo', kot jo mora izvajati računalnik, na primer pri sestavljanju klasifikacijskih dreves.",
+    "name": "zivali",
+    "title": "\u017divali",
+    "instances": 100,
+    "variables": 18,
+    "missing": false,
+    "target": "categorical",
+    "size": 6713,
+    "year": 1990,
+    "version": "1.0",
+    "tags": [
+        "biologija"
+    ],
+    "references": [],
+    "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
+    "url": "https://file.biolab.si/datasets/zivali-finske.tab",
+    "seealso": [],
+    "language": "Sloven\u0161\u010dina"
+}
