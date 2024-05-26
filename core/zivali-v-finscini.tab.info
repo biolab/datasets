@@ -2,7 +2,7 @@
     "collection": "UCI",
     "description": "Zbirka podatkov o \u017eivalih, njihovih lastnosti in pripadajo\u010di vrsti - v fin\u0161\u010dini. Uporabljamo jo lahko, da predstavimo, kako je videti analiza podatkov 'na slepo', kot jo mora izvajati ra\u010dunalnik, na primer pri sestavljanju klasifikacijskih dreves.",
     "name": "zivali",
-    "title": "\u017divali",
+    "title": "\u017divali v finščini",
     "instances": 100,
     "variables": 18,
     "missing": false,
