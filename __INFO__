@@ -2696,7 +2696,7 @@
             "variables": 18,
             "missing": false,
             "target": "categorical",
-            "size": 6917,
+            "size": 6531,
             "year": 1990,
             "version": "1.0",
             "tags": [
