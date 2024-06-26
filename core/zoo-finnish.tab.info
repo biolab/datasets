@@ -15,7 +15,7 @@
     ],
     "references": [],
     "source": "<a href='https://archive.ics.uci.edu/ml/datasets/Zoo'>UCI ML Repository</a>",
-    "url": "https://datasets.biolab.si/core/zivali-v-finscini.tab",
+    "url": "https://datasets.biolab.si/core/zoo-finnish.tab",
     "seealso": [],
     "language": "English"
 }
