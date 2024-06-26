@@ -2669,9 +2669,9 @@
             "variables": 18,
             "missing": false,
             "target": "categorical",
-            "size": 6917,
+            "size": 9415,
             "year": 1990,
-            "version": "1.0",
+            "version": "1.1",
             "tags": [
                 "biologija"
             ],
