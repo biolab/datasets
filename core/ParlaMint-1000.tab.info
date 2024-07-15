@@ -3,7 +3,7 @@
     "title": "ParlaMint",
     "description": "A sample of 1000 parliamentary debates from the ParlaMint-GB 2.1 corpus. ParlaMint-GB features speeches from both houses of the parliament for years 2019 and 2020. It comes with rich metadata, such as speaker name, party affiliation, and speaker role. A column with GPT-generated summaries is added.",
     "references": [
-        "Tomaž Erjavec et al. The ParlaMint corpora of parliamentary proceedings. Language Resources and Evaluation, 2022. https://doi.org/10.1007/s10579-021-09574-0"
+        "Toma\u017e Erjavec et al. The ParlaMint corpora of parliamentary proceedings. Language Resources and Evaluation, 2022. https://doi.org/10.1007/s10579-021-09574-0"
     ],
     "tags": [
         "text",
@@ -18,6 +18,6 @@
     "missing": true,
     "variables": 18,
     "source": "https://github.com/clarin-eric/ParlaMint/blob/main/Samples/ParlaMint-GB/ParlaMint-GB.ana.xml",
-    "url": "http://file.biolab.si/datasets/ParlaMint-1000.tab",
+    "url": "https://datasets.biolab.si/core/ParlaMint-1000.tab",
     "size": 1795759
 }
