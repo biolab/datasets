@@ -1,6 +1,6 @@
 {
     "collection": "CLARIN",
-    "description": "A subset of 2000 documents from AutoSentiNews data set. The original corpus contains 256,567 documents from the Slovenian news portals 24ur, Dnevnik, Finance, Rtvslo, and \u017durnal24, which contain political, business, economic and financial content. The subset covers only Dnevnik and 24ur. The news articles are annotated as positive, negative or neutral at the document level.",
+    "description": "A subset of 2000 documents from AutoSentiNews data set. The original corpus contains 256,567 documents from the Slovenian news portals 24ur, Dnevnik, Finance, RTVSLO, and Žurnal24, which contain political, business, economic and financial content. The subset covers only Dnevnik and 24ur. The news articles are annotated as positive, negative or neutral at the document level.",
     "name": "SentiNews-SI",
     "title": "SentiNews",
     "instances": 2000,
@@ -15,7 +15,7 @@
         "sentiment"
     ],
     "references": [
-        "Bu\u010dar, Jo\u017ee, 2017, Automatically sentiment annotated Slovenian news corpus AutoSentiNews 1.0, Slovenian language resource repository CLARIN.SI, http://hdl.handle.net/11356/1109."
+        "Bučar, Jože, 2017, Automatically sentiment annotated Slovenian news corpus AutoSentiNews 1.0, Slovenian language resource repository CLARIN.SI, http://hdl.handle.net/11356/1109."
     ],
     "source": "<a href='http://hdl.handle.net/11356/1109'>CLARIN Repository</a>",
     "url": "https://datasets.biolab.si/core/SentiNews-SI.tab",
